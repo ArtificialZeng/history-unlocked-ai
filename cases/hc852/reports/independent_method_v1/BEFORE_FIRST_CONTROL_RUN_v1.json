@@ -1,0 +1,11 @@
+{
+  "registered_before_first_run_at_utc": "2026-10-05T21:23:19.327692+00:00",
+  "command": [
+    "python3",
+    "scripts/independent_method_controls_v1.py"
+  ],
+  "script_sha256": "8fadf644ae1a21a288ddbad0fd8152980058a0340aaa33ce031eac0d0a7447cb",
+  "registration_sha256": "92cb99cb9b8e2fef2453a69ce1389816bc8da1b792443c859680d78493f8da6c",
+  "target_source_access": false,
+  "prior_broad_selftest_run": false
+}

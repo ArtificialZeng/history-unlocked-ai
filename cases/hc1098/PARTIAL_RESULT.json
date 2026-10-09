@@ -1,0 +1,17 @@
+{
+  "case_id": "hcportal:1098",
+  "evidence_level": "audited_partial_only",
+  "scope": "264 crisp fields of312bodyfields;48 stay erasures.707raw events;20,800registered attempts,52canonical keys,2traversals;role/punctuation/authorialorder held. No complete reading.",
+  "facts": {
+    "Body fields": "312; 264 crisp fields and 48 erasures",
+    "Recorded events": "707 raw source events",
+    "Saved experiment": "20,800 registered attempts; 52 canonical keys; two traversals",
+    "Whole reading": "Not established; ordering and role assumptions remain conditional"
+  },
+  "complete_solution": false,
+  "expert_confirmation": false,
+  "new_target_operations": 0,
+  "source_url": "https://api.hcportal.eu/api/cryptograms/1098",
+  "public_derivative": "Image-free original explanatory note; not the old evidence-package manifest",
+  "source_pixels_redistributed": false
+}

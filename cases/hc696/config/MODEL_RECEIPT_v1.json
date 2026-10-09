@@ -1,0 +1,9 @@
+{
+  "training_sha256": "922e2a12ccb43a4c9544c260b2166c6ad2097aeb5957faeee113f173bb857cd0",
+  "source_alpha_letters": 431462,
+  "quadgram_windows": 431459,
+  "unique_quadgrams": 36756,
+  "alpha": 0.01,
+  "format": "26^4 littleendian float32,naturallogs",
+  "sha256": "a24b990c5223ac711dada379f35e17050073ffcd8cec0772c8198a432466dbf8"
+}

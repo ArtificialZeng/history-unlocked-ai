@@ -1,0 +1,136 @@
+{
+  "frozen_at_utc": "2026-10-05T17:39:40.168492+00:00",
+  "target_candidate_generated": false,
+  "scope": "Rootindependentpixelobservations frombothoriginals/nativerow/keycrops; suppliedauthorhandarraypreferredwitness, rawtypedcancelledslotseparate",
+  "primary_typed_rows_raw": [
+    "DNEIR ENESA NSICI CHHGC RWHIT GEFEG",
+    "EETRF ENNID GNUIL NDEAL EGOES HONAN",
+    "FDESE RBDNO TARUT IXHAT RUPID SFECN",
+    "TESHR TNGAA ESWER NDWEE TRLHN KLHOE",
+    "EUBGN TEOFD MEBST MEO?PB NAIB"
+  ],
+  "raw_typed_positions_including_question_cancelled_slot": 145,
+  "source_marked_slot": {
+    "position_raw": 139,
+    "preferred_character": null,
+    "visible_description": "Printedvertical/diagonalform under two dark nearvertical editorialstrokes; exactearlierletterheld",
+    "cipher_role": "Apparentcancelledslot; retainrawslotandmark, not silentlydelete",
+    "handarray_has_no_corresponding_symbol": true
+  },
+  "current_visible_overlay": {
+    "position_raw": 28,
+    "visible_letter": "F",
+    "earlier_violet_underlay_identity": null,
+    "do_not_reconstruct_oldlayer": true
+  },
+  "supplied_hand_arrays": [
+    [
+      "DNEIRE",
+      "NESANS",
+      "ICICHH",
+      "GCRWHI",
+      "TGEFEG",
+      "EETRFE"
+    ],
+    [
+      "NNIDGN",
+      "UILNDE",
+      "ALEGOE",
+      "SHONAN",
+      "FDESER",
+      "BDNOTA"
+    ],
+    [
+      "RUTIXH",
+      "ATRUPI",
+      "DSFECN",
+      "TESHRT",
+      "NGAAES",
+      "WERNDW"
+    ],
+    [
+      "EETRLH",
+      "NKLHOE",
+      "EUBGNT",
+      "EOFDME",
+      "BSTMEO",
+      "PBNAIB"
+    ]
+  ],
+  "supplied_hand_stream": "DNEIRENESANSICICHHGCRWHITGEFEGEETRFENNIDGNUILNDEALEGOESHONANFDESERBDNOTARUTIXHATRUPIDSFECNTESHRTNGAAESWERNDWEETRLHNKLHOEEUBGNTEOFDMEBSTMEOPBNAIB",
+  "supplied_hand_count": 144,
+  "handcase_normalization": "UppercaseA-Z only; handwrittenu/i normalizedcaseexplicit, notlinguisticlettermerge",
+  "comparison_before_target_plaintext": {
+    "typed_except_explicit_marked_slot_vs_hand_match": true,
+    "all_remaining_typedletters_match": true
+  },
+  "physical_key": {
+    "side": 6,
+    "holes_zeroindexed": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        3
+      ]
+    ],
+    "native_grid_outer_approx_xyxy": [
+      2083,
+      775,
+      2963,
+      1656
+    ],
+    "cell_centers_from_key_native_crop_approx": {
+      "x": [
+        2160,
+        2300,
+        2447,
+        2594,
+        2739,
+        2886
+      ],
+      "y": [
+        857,
+        999,
+        1145,
+        1288,
+        1435,
+        1579
+      ]
+    },
+    "geometric_support": "Nine actualopen/cut-awaycells distinguishgraybackgroundfrombrownmask; papergrid6x6seenonphysicalkey andauthorfour6x6arrays; fourrotationscoverageverifiedbeforeplaintext",
+    "edge_labels_source": "I top; II left; III bottom; IV right",
+    "orientation_rule": "PlacecurrentedgeRomanlabelontop forsuccessiveI,II,III,IV: clockwisequarterturns; rootliteralgeometricinterpretation, coldobserverpending"
+  },
+  "exact_source_claim_limit": "Completeprovided144letterauthorhandwitness; primaryraw145includescancelledunreadableearlierletter. No originaluncorrected145letterplaintextclaim."
+}

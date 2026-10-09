@@ -1,0 +1,59 @@
+{
+  "first_file_read_utc": "2026-10-05T20:08:50.237851+00:00",
+  "receipts": [
+    {
+      "path": "sources/SOURCE_ONLY_SCOPE_v1.md",
+      "read_utc": "2026-10-05T20:08:50.237851+00:00",
+      "bytes": 820,
+      "sha256": "222676894c15b73f54186e038347c21c59ea500baf13e9a2072af5d9ffed6bfb"
+    },
+    {
+      "path": "data/cold_source_v1/typed_current_v1.json",
+      "read_utc": "2026-10-05T20:08:50.238176+00:00",
+      "bytes": 63936,
+      "sha256": "b2165d3bd4dbe8824703306767be14716e975f9cd9948e434fd8a67d92da82e9"
+    },
+    {
+      "path": "data/cold_source_v1/physical_key_v1.json",
+      "read_utc": "2026-10-05T20:08:50.238611+00:00",
+      "bytes": 72807,
+      "sha256": "b605c9f494a3d70e5505d259775e4a119f6cfb1279b2cd6dea959cab306ed1a3"
+    },
+    {
+      "path": "data/cold_source_v1/annotations_and_extent_v1.json",
+      "read_utc": "2026-10-05T20:08:50.239022+00:00",
+      "bytes": 13507,
+      "sha256": "257ef4fcee6536fded8c49c81181e29d0001655a9d17f6939bf2931ae6f7f11c"
+    },
+    {
+      "path": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "read_utc": "2026-10-05T20:08:50.239359+00:00",
+      "bytes": 68222,
+      "sha256": "b41a1f59b7ab5f624f339abc80cfa1608fa2044515ca52e3eabff4133779c818"
+    },
+    {
+      "path": "reports/cold_source_v1/SOURCE_FREEZE_SEAL_v1.json",
+      "read_utc": "2026-10-05T20:08:50.239712+00:00",
+      "bytes": 709,
+      "sha256": "9dcef3e0b73525d4aca4796ce29191850b9c8173347e133f57cea0c37ea83cda"
+    },
+    {
+      "path": "reports/cold_source_v1/EXPOSURE_CHRONOLOGY_v1.json",
+      "read_utc": "2026-10-05T20:08:50.239858+00:00",
+      "bytes": 1096,
+      "sha256": "aaf052e48744f71dd0c2f991b33470c6e137ebc6ebd839a01e9bf4a13b63de66"
+    },
+    {
+      "path": "reports/cold_source_v1/SOURCE_FREEZE_REPORT_v1.md",
+      "read_utc": "2026-10-05T20:08:50.239934+00:00",
+      "bytes": 6539,
+      "sha256": "db48bf8a3066cfc68cd3c08881ab3a88f5563795bcdd72d1099966f1592422a2"
+    },
+    {
+      "path": "config/TARGET_METHOD_REGISTRATION_v1.json",
+      "read_utc": "2026-10-05T20:08:50.240004+00:00",
+      "bytes": 5944,
+      "sha256": "d93f81dffb37be73c181aeebce988aa79aab47fb2d4e3af7301de635cde90f63"
+    }
+  ]
+}

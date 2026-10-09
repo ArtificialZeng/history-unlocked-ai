@@ -1,0 +1,21 @@
+{
+  "written_utc": "2026-10-05T20:01:47.798561+00:00",
+  "project_files_read_before_control_seal": [
+    "AGENTS.md",
+    "DECIPHERMENT_PROTOCOL_v1.md",
+    "reports/independent_method_v1/REGISTRATION_v1.json",
+    "reports/independent_method_v1/KNOWN_VECTORS_v1.json",
+    "scripts/independent_grille_v1.py",
+    "own newly generated method-control reports only"
+  ],
+  "target_sources_read": false,
+  "target_data_read": false,
+  "root_code_or_controls_read": false,
+  "root_configuration_or_output_read": false,
+  "old_case_target_values_imported": false,
+  "previous_generic_code_imported": false,
+  "network_calls_this_task": [],
+  "source_reference_basis": "Primary ACA worked-example vector explicitly supplied by parent, and personally verified in prior generic method task. No current PDF download, fresh web capture or current pixel inspection claimed. No old target file opened.",
+  "failed_attempt_retained": "First control attempt failed on oracle coordinate-list hashability; failed code capture and cause/repair report preserved.",
+  "future_access_condition": "Separate parent instruction after independent code/control seal and source freeze/registration; this task has performed no target decode."
+}

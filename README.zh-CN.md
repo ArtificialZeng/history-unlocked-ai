@@ -1,11 +1,64 @@
-# History Unlocked AI
+# History Unlocked AI：AI 解锁历史密文
 
-UCSI University 的 Zijian Zeng 主导的 AI 辅助历史密码研究项目。
+## 隐藏的文字，公开的代码，可以复核的结果。
 
-[English](README.md) · [Čeština](README.cs.md) · [日本語](README.ja.md)
+**AI 读出冷战档案密文——现在，你也能用代码验证。**
 
-公开仓库正在整理，只包含可复现代码、必要研究数据、方法说明和案例文档。媒体投稿稿与私人通信单独保存，不纳入公开仓库。
+由 **UCSI University 的 Zijian Zeng** 主持的历史密码研究项目，公开从原始符号到读解结果的技术过程。研究覆盖捷克语单表替换密码、PORTAX、旋转栅格，以及附带明确条件的密钥迁移读解。
 
-[HC615官方公开记录](https://api.hcportal.eu/api/cryptograms/615)已标为Solved，并署名Zijian Zeng。其他题目的读解结果正在由其他专家核验。
+[English](README.md) · [中文](README.zh-CN.md) · [Čeština](README.cs.md) · [日本語](README.ja.md)
 
-欢迎Star关注后续已核验进展，Fork代码复算与改进。
+**HC Portal #615 已被官方目录标记为 Solved，并署名 Zijian Zeng。其他题目的读解结果正在由其他专家核验，核验结论将陆续公布。**
+
+[官方条目](https://crypto.hcportal.eu/dashboard/cryptograms/615) · [公开状态记录](docs/HC615_PUBLIC_CATALOGUE_STATUS.json) · [HC615 明文与方法](cases/hc615/docs/SOLUTION.md)
+
+### 一条命令复核
+
+```sh
+git clone https://github.com/ArtificialZeng/history-unlocked-ai.git
+cd history-unlocked-ai
+python3 -B scripts/verify_portfolio.py --replay
+```
+
+需要 Python 3.10 或更新版本。离线复核只使用标准库，校验科学输入的 SHA-256，执行 **7 个可运行案例、8 条验证命令**，包括回加密和适用的篡改检查。验证过程无需调用 AI、联网或登录；Private 仓库的克隆需要访问权限。
+
+### 成果总览
+
+| 题目 | 方法 | 当前成果 | 代码或说明 |
+|---|---|---|---|
+| HC615 | 单表替换 | 官方已标记解决；220 个观察符号全部复现 | [复核](cases/hc615/) |
+| HC696 | PORTAX | 180 个最终可见字母精确回加密；保留旧层疑点 | [复核](cases/hc696/) |
+| HC849 | 旋转栅格 | 使用公开给定密钥，复现 64 个有效字母 | [复核](cases/hc849/) |
+| HC851 | 旋转栅格 | 使用公开给定密钥，复现 144 个有效字母 | [复核](cases/hc851/) |
+| HC852 | 旋转栅格 | 使用公开给定密钥，复现 64 个有效字母；保留异读 | [复核](cases/hc852/) |
+| HC1615 | 供体密钥／附加笔画规则 | 条件性提案；规则与来源证书可检查 | [复核](cases/hc1615/) |
+| HC1619 | 密钥迁移 | 条件性首选 80/80；保守版 79/80，保留一个未知 | [复核](cases/hc1619/) |
+| HC1760 | 卡片比较分析 | 条件性提案；本版本没有独立求解器 | [条目说明](cases/hc1760/) |
+| HC1446 | 符号与顺序分析 | 部分成果；四个标记仍未解释 | [部分成果](cases/hc1446/) |
+| HC1098 | 符号与顺序分析 | 部分成果；48 个来源位置仍为空缺 | [部分成果](cases/hc1098/) |
+
+共收录 10 个研究条目，并明确记录确认、局部精确读解、给定密钥复现与部分成果。HC1619 比较材料只计一次。[机器可读索引](data/CASE_INDEX.json)。
+
+### 为什么值得关注
+
+历史档案的障碍往往同时涉及符号转录、语言判断、编码规则和来源核查。AI 能协助组织这些工作、编写专用程序；可复现证据让任何有兴趣的人检查读出了什么、使用了哪些假设、还有什么不能确定。
+
+HC615 在目录中约定年为 1952 年，属于捷克斯洛伐克密码分析课程材料。读出的捷克语内容涉及工人赴俄斯特拉发参加一年期劳动队。同一套固定映射解释全部观察符号，让历史文字的恢复有了逐字符可检查的依据。
+
+### 证据怎样组成
+
+- 保留准确条目编号、公开来源链接和转录记录。
+- 明确标出不确定笔画、覆盖旧层和编辑恢复。
+- 固定密钥、模型与候选，再复核来源证书。
+- 从候选明文回加密，对照每个观察单元。
+- 按案例执行对照与篡改检查，并单独记录外部核验结论。
+
+[复现指南](docs/REPRODUCIBILITY.md) · [原样保留的科学输入哈希](docs/CORE_PROVENANCE.json) · [当前版本清单](CODE_CORE_MANIFEST.json)
+
+### 一起解锁更多历史
+
+**Star** 关注进展，**Fork** 运行验证器。欢迎提交独立来源辨读、捷克语或德语审阅、原始答案页及可追溯的修正。[参与指南](CONTRIBUTING.md)。
+
+**研究负责人：** Zijian Zeng · UCSI University，马来西亚吉隆坡。
+
+仓库提供可复现代码、必要研究数据、方法说明与简短项目介绍。各案例保留各自的许可和来源权利。[许可范围](LICENSE_SCOPE.md)。

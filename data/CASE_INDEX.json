@@ -1,0 +1,116 @@
+{
+  "version": "code-core-v1",
+  "cases": [
+    {
+      "case_id": "hcportal:615",
+      "source": "https://api.hcportal.eu/api/cryptograms/615",
+      "cipher_family": "Monoalphabetic substitution",
+      "evidence_status": "Complete observed-message reading; officially catalogued as solved",
+      "scope": "220 observed symbols, 32 source segments, 8 lines; fixed 22-symbol observed mapping",
+      "runnable": true,
+      "complete_expert_confirmed_observed_message": true,
+      "entry": "cases/hc615/README.md",
+      "checker": "scripts/verify_solution.py"
+    },
+    {
+      "case_id": "hcportal:696",
+      "source": "https://api.hcportal.eu/api/cryptograms/696",
+      "cipher_family": "PORTAX",
+      "evidence_status": "Complete local reading of final visible layer",
+      "scope": "180 letters; 5 overwritten underlayer positions remain held; original key spelling not unique",
+      "runnable": true,
+      "complete_expert_confirmed_observed_message": false,
+      "entry": "cases/hc696/README.md",
+      "checker": "scripts/verify_solution_v1.py"
+    },
+    {
+      "case_id": "hcportal:849",
+      "source": "https://api.hcportal.eu/api/cryptograms/849",
+      "cipher_family": "Turning grille",
+      "evidence_status": "Source-assisted, supplied-public-key reproduction",
+      "scope": "64 active letters; earlier layers and literal ambiguities retained",
+      "runnable": true,
+      "complete_expert_confirmed_observed_message": false,
+      "entry": "cases/hc849/README.md",
+      "checker": "scripts/check_hc849_release_v1.py --integrity-tests"
+    },
+    {
+      "case_id": "hcportal:851",
+      "source": "https://api.hcportal.eu/api/cryptograms/851",
+      "cipher_family": "Turning grille",
+      "evidence_status": "Source-assisted, supplied-public-key reproduction",
+      "scope": "144 active letters; cancelled raw placement 139 remains explicit unknown",
+      "runnable": true,
+      "complete_expert_confirmed_observed_message": false,
+      "entry": "cases/hc851/README.md",
+      "checker": "scripts/check_hc851_v1.py --integrity-tests"
+    },
+    {
+      "case_id": "hcportal:852",
+      "source": "https://api.hcportal.eu/api/cryptograms/852",
+      "cipher_family": "Turning grille",
+      "evidence_status": "Source-assisted, supplied-public-key reproduction",
+      "scope": "64 active letters; preferred A41=W vs primary U remains explicit",
+      "runnable": true,
+      "complete_expert_confirmed_observed_message": false,
+      "entry": "cases/hc852/README.md",
+      "checker": "scripts/check_hc852_release_v1.py --integrity-tests"
+    },
+    {
+      "case_id": "hcportal:1615",
+      "source": "https://api.hcportal.eu/api/cryptograms/1615",
+      "cipher_family": "Fixed donor-key / mark-carry projection",
+      "evidence_status": "Conditional proposed reading",
+      "scope": "77 source units; literal spellings and explicit rule assumptions retained",
+      "runnable": true,
+      "complete_expert_confirmed_observed_message": false,
+      "entry": "cases/hc1615/README.md",
+      "checker": "verify.py --root . --donor-key data/key/DONOR_FIXED_OBSERVED_KEY_v2.json --tamper"
+    },
+    {
+      "case_id": "hcportal:1619",
+      "source": "https://api.hcportal.eu/api/cryptograms/1619",
+      "cipher_family": "Fixed key transfer",
+      "evidence_status": "Conditional preferred reading / conservative partial",
+      "scope": "Preferred 80/80; conservative 79/80 keeps O0080 unknown",
+      "runnable": true,
+      "complete_expert_confirmed_observed_message": false,
+      "entry": "cases/hc1619/README.md",
+      "checker": "checker.py --output-dir /tmp/hc1619_fresh_replay"
+    },
+    {
+      "case_id": "hcportal:1760",
+      "source": "https://api.hcportal.eu/api/cryptograms/1760",
+      "cipher_family": "Three-card comparative analysis",
+      "evidence_status": "Conditional proposal; index entry only",
+      "scope": "No standalone solver is distributed for this entry; HC1619 comparator is already counted above",
+      "runnable": false,
+      "complete_expert_confirmed_observed_message": false,
+      "entry": "cases/hc1760/README.md",
+      "checker": null
+    },
+    {
+      "case_id": "hcportal:1446",
+      "source": "https://api.hcportal.eu/api/cryptograms/1446",
+      "cipher_family": "Symbol / ordering analysis",
+      "evidence_status": "Audited partial result; note only",
+      "scope": "64 base sites + 4 unassigned marks; no complete reading",
+      "runnable": false,
+      "complete_expert_confirmed_observed_message": false,
+      "entry": "cases/hc1446/README.md",
+      "checker": null
+    },
+    {
+      "case_id": "hcportal:1098",
+      "source": "https://api.hcportal.eu/api/cryptograms/1098",
+      "cipher_family": "Symbol / ordering analysis",
+      "evidence_status": "Audited partial result; note only",
+      "scope": "264 crisp of 312 body fields; 48 erasures; no complete reading",
+      "runnable": false,
+      "complete_expert_confirmed_observed_message": false,
+      "entry": "cases/hc1098/README.md",
+      "checker": null
+    }
+  ],
+  "other_problem_results_under_expert_verification": "User-reported ongoing review; no additional external verdict asserted."
+}

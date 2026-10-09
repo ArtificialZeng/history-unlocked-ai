@@ -1,0 +1,13 @@
+{
+  "id": "a0_d-1_hrow-major_ccolumn-major",
+  "settings": {
+    "start": 0,
+    "direction": -1,
+    "hole_scan": "row-major",
+    "cipher_order": "column-major"
+  },
+  "plaintext_literal": "DIEKOMUNISTISCHEPARTEIIMWESTDEUTSCHLANDISTIMLETZTEMZEITSEHRSTARK",
+  "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+  "exact_source_positions": 64,
+  "is_registered_preferred": true
+}

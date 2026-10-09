@@ -1,0 +1,227 @@
+{
+  "utc": "2026-10-06T04:29:50.479472+00:00",
+  "scope": "Masked source schema types/cardinalities only; no label/value/format string revealed or projected",
+  "schema_inputs": {
+    "data/source_v1/SOURCE_UNITS_v1.json": {
+      "sha256": "5ba6e38987a59adcd95c090c283c24b8621cf53323231d6568544d4797bc91d1",
+      "top_schema": {
+        "units": {
+          "type": "list",
+          "length": 77,
+          "first_item_schema": {
+            "unit_id": "str",
+            "occurrence_id": "str",
+            "global_preferred_unit_ordinal": "int",
+            "row_id": "str",
+            "physical_row": "int",
+            "group_id": "str",
+            "physical_gap_group": "int",
+            "local_unit_ordinal": "int",
+            "raw_base_label": "str",
+            "raw_label": "str",
+            "preferred_raw_unit_label": "str",
+            "primitive_component_ids": {
+              "type": "list",
+              "length": 1,
+              "first_item_schema": "str"
+            },
+            "primitive_span": {
+              "start_component_id": "str",
+              "end_component_id": "str"
+            },
+            "mark_attributes": {
+              "type": "list",
+              "length": 0,
+              "first_item_schema": null
+            },
+            "visual_alternatives": {
+              "type": "list",
+              "length": 0,
+              "first_item_schema": null
+            },
+            "confidence": "str",
+            "current_layer": "str",
+            "earlier_layer": "NoneType",
+            "earlier_layer_status": "str",
+            "source_RAW_SHA256": "str",
+            "source_native_row_box_xyxy": {
+              "type": "list",
+              "length": 4,
+              "first_item_schema": "int"
+            },
+            "aligned_row_box_xyxy": {
+              "type": "list",
+              "length": 4,
+              "first_item_schema": "int"
+            },
+            "native_row_crop": "str",
+            "row_PNG_SHA256": "str",
+            "row_RGB_SHA256": "str",
+            "provenance_precision": "str"
+          }
+        },
+        "preferred_unit_count": "int",
+        "row_unit_counts": {
+          "type": "list",
+          "length": 7,
+          "first_item_schema": "int"
+        },
+        "preferred_unitgrammar": "str",
+        "unique_historical_unit_count": "NoneType",
+        "semantic_values_seen": "bool"
+      },
+      "first_group_cardinality": null
+    },
+    "data/source_v1/SOURCE_PRIMITIVES_v1.json": {
+      "sha256": "42dcb9af453a0f87ff3add9a85d5407d830057e5da940675272dffcd9f515380",
+      "top_schema": {
+        "primitive_components": {
+          "type": "list",
+          "length": 81,
+          "first_item_schema": {
+            "component_id": "str",
+            "unit_id": "str",
+            "row_id": "str",
+            "group_id": "str",
+            "local_base_ordinal": "int",
+            "raw_graphic_component": "str",
+            "role": "str",
+            "native_row_crop": "str",
+            "source_native_row_box_xyxy": {
+              "type": "list",
+              "length": 4,
+              "first_item_schema": "int"
+            },
+            "row_RGB_SHA256": "str"
+          }
+        },
+        "base_primitives": "int",
+        "detached_mark_stroke_primitives": "int",
+        "totalpreferred_components": "int"
+      },
+      "first_group_cardinality": null
+    },
+    "data/source_v1/SOURCE_GROUPS_v1.json": {
+      "sha256": "f7c8ea68bd3a4ba420ac3271f7c8cc2bfd955dd41dde610dd43f4a23444e498e",
+      "top_schema": {
+        "groups": {
+          "type": "list",
+          "length": 18,
+          "first_item_schema": {
+            "group_id": "str",
+            "physical_row": "int",
+            "physical_gap_group": "int",
+            "raw_preferred_display": "str",
+            "unit_ids": {
+              "type": "list",
+              "length": 2,
+              "first_item_schema": "str"
+            },
+            "preferred_unit_count": "int",
+            "join_or_composite_holds": {
+              "type": "list",
+              "length": 0,
+              "first_item_schema": null
+            },
+            "native_row_crop": "str",
+            "source_native_row_box_xyxy": {
+              "type": "list",
+              "length": 4,
+              "first_item_schema": "int"
+            },
+            "row_RGB_SHA256": "str",
+            "boundary_basis": "str"
+          }
+        },
+        "group_count": "int"
+      },
+      "first_group_cardinality": 2
+    },
+    "data/source_v1/SOURCE_ROWS_v1.json": {
+      "sha256": "13702387965484a9e27f34f0cd1c9698618d55a36a6c74dbfae1e4fd9af61003",
+      "top_schema": {
+        "rows": {
+          "type": "list",
+          "length": 7,
+          "first_item_schema": {
+            "row_id": "str",
+            "physical_row": "int",
+            "integer90CCW_bbox": {
+              "type": "list",
+              "length": 4,
+              "first_item_schema": "int"
+            },
+            "source_native_row_box_xyxy": {
+              "type": "list",
+              "length": 4,
+              "first_item_schema": "int"
+            },
+            "path": "str",
+            "dimensions": {
+              "type": "list",
+              "length": 2,
+              "first_item_schema": "int"
+            },
+            "PNG_SHA256": "str",
+            "RGB_SHA256": "str",
+            "scope": "str",
+            "preferred_raw_format": "str",
+            "row_order": "int",
+            "reading_direction": "str",
+            "unit_ids": {
+              "type": "list",
+              "length": 11,
+              "first_item_schema": "str"
+            },
+            "preferred_row_unit_count": "int"
+          }
+        },
+        "row_count": "int",
+        "ordinaryprintedgreeting_date_address_excluded": "bool"
+      },
+      "first_group_cardinality": null
+    },
+    "data/source_v1/SOURCE_EVENTS_v1.json": {
+      "sha256": "c8b39aca77e8ad48b69c34076739b5a85a2f7c1b0bdefff6fcfbfaaa47c3cc06",
+      "top_schema": {
+        "events": {
+          "type": "list",
+          "length": 4,
+          "first_item_schema": {
+            "event_id": "str",
+            "row_id": "str",
+            "group_id": "str",
+            "associated_unit_id": "str",
+            "raw_shape": "str",
+            "primitive_component_ids": {
+              "type": "list",
+              "length": 2,
+              "first_item_schema": "str"
+            },
+            "preferred_role": "str",
+            "semantic_role": "NoneType",
+            "source_native_row_box_xyxy": {
+              "type": "list",
+              "length": 4,
+              "first_item_schema": "int"
+            },
+            "native_row_crop": "str",
+            "row_RGB_SHA256": "str"
+          }
+        },
+        "raw_format_rows": {
+          "type": "list",
+          "length": 7,
+          "first_item_schema": "str"
+        },
+        "allgaps_physicalrows_markprimitives_comma_period_preserved": "bool"
+      },
+      "first_group_cardinality": null
+    }
+  },
+  "candidate_opened": false,
+  "donor_key_opened": false,
+  "native_pixels_opened": false,
+  "logical_source_values_used": false,
+  "release_not_yet_received": true
+}

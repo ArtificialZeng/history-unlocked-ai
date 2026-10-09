@@ -1,0 +1,18 @@
+{
+  "case": "HC849",
+  "sealed_utc": "2026-10-05T19:56:43.654810+00:00",
+  "scope": "source-only cold witness before observer target exposure",
+  "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+  "manifest_sha256": "b41a1f59b7ab5f624f339abc80cfa1608fa2044515ca52e3eabff4133779c818",
+  "payload_file_count": 358,
+  "typed_current_source_count": 64,
+  "notebook_grid_count": 64,
+  "grouped_recopy_count": 64,
+  "physical_grid_count": 64,
+  "physical_cut_count": 16,
+  "physical_solid_count": 48,
+  "source_key_publicly_supplied": true,
+  "no_decoder_or_route_or_coverage_test_run": true,
+  "target_inputs_outputs_unread": true,
+  "source_mark_and_notebook_alternatives_remain_held": true
+}

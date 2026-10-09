@@ -1,0 +1,25 @@
+{
+  "case": "HC849",
+  "registered_utc": "2026-10-05T19:42:00.143749+00:00",
+  "observer": "independent second source agent",
+  "scope": "Cold source-only typed current/raw correction layers, separate notebook witnesses, complete coarse stencil geometry and annotations. No route, coverage, language fit, decoding, or target models.",
+  "permitted_reading": [
+    "AGENTS.md",
+    "sources/SOURCE_ONLY_SCOPE_v1.md",
+    "DECIPHERMENT_PROTOCOL_v1.md",
+    "sources/raw/HC849_original_1.jpg",
+    "sources/raw/HC849_original_2.jpg",
+    "sources/raw/HC849_original_3.jpg",
+    "sources/NETWORK_RECEIPTS_v1.json"
+  ],
+  "output_namespaces": [
+    "data/cold_source_v1",
+    "reports/cold_source_v1",
+    "sources/inspection/cold_source_v1"
+  ],
+  "prior_exposure": "Before this observation, root supplied only rough source summaries: three typed rows reportedly 30/30/4, a handwritten 8x8 array, supplied physical grille, and a suggested short note reading. No root structured letter/key ledgers, code, target outputs or plaintext read. This is author-independent source verification, not total blindness to rough counts.",
+  "other_case_values_imported": false,
+  "source_key_status": "Physical key publicly supplied, inspected as source; unknown-key recovery not claimed.",
+  "must_freeze_before_target_exposure": true,
+  "no_network_Git_state_PDF_or_contacts": true
+}

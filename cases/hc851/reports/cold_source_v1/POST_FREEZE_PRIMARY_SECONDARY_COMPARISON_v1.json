@@ -1,0 +1,81 @@
+{
+  "created_utc": "2026-10-05T17:35:41.299728+00:00",
+  "comparison_after_both_seals": true,
+  "primary_seal_sha256": "2c05613fa80d7143305386ae3692563f68ad5ca8b34b8f8a96d4fe2d2e6639a0",
+  "secondary_seal_sha256": "a26e1f3cdb65de30e98e023d58d4902628c9acf0e4979a51bbf4ba4ec8b7dae4",
+  "lengths": [
+    144,
+    144
+  ],
+  "literal_mismatches": [
+    {
+      "index": 74,
+      "typed": "U",
+      "hand_observed": "W",
+      "array": 3,
+      "row": 1,
+      "column": 2,
+      "hand_alternatives": [
+        "W",
+        "U"
+      ],
+      "typed_is_within_frozen_hand_alternatives": true
+    }
+  ],
+  "secondary_shape_holds": [
+    {
+      "index": 43,
+      "typed": "U",
+      "hand_observed": "U",
+      "array": 2,
+      "row": 2,
+      "column": 1,
+      "frozen_hand_alternatives": [
+        "U",
+        "W"
+      ],
+      "typed_is_within_frozen_hand_alternatives": true
+    },
+    {
+      "index": 74,
+      "typed": "U",
+      "hand_observed": "W",
+      "array": 3,
+      "row": 1,
+      "column": 2,
+      "frozen_hand_alternatives": [
+        "W",
+        "U"
+      ],
+      "typed_is_within_frozen_hand_alternatives": true
+    },
+    {
+      "index": 82,
+      "typed": "U",
+      "hand_observed": "U",
+      "array": 3,
+      "row": 2,
+      "column": 4,
+      "frozen_hand_alternatives": [
+        "U",
+        "W"
+      ],
+      "typed_is_within_frozen_hand_alternatives": true
+    },
+    {
+      "index": 122,
+      "typed": "U",
+      "hand_observed": "U",
+      "array": 4,
+      "row": 3,
+      "column": 2,
+      "frozen_hand_alternatives": [
+        "U",
+        "W"
+      ],
+      "typed_is_within_frozen_hand_alternatives": true
+    }
+  ],
+  "counts_all_literal_equal": false,
+  "policy": "Comparison does not rewrite either frozen source. Source arrays are a secondary witness, not evidence that any German plaintext/key is correct."
+}

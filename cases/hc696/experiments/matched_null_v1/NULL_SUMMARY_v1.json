@@ -1,0 +1,147 @@
+{
+  "status": "COMPLETE_REGISTERED_MATCHED_NULL_REFERENCE",
+  "null_count": 19,
+  "exceed_target": 0,
+  "finite_empirical_tail_with_plus_one": 0.05,
+  "target_penalised_score": -1862.20197966,
+  "max_null_penalised_score": -2592.88736176,
+  "gap_to_best_null": 730.6853821000002,
+  "null_results": [
+    {
+      "case_id": "SHUFFLE_01",
+      "max_penalised_score": -2666.31408665,
+      "best_penalised_period": 14,
+      "max_raw_score": -2626.91106272,
+      "results_sha256": "67efea1d80b7ca822d20b847bf21863f2b3f0febc80e14449fb681b6bfdc76f7"
+    },
+    {
+      "case_id": "SHUFFLE_02",
+      "max_penalised_score": -2688.20534539,
+      "best_penalised_period": 20,
+      "max_raw_score": -2636.90635824,
+      "results_sha256": "d71e33ac04301b52076a10eb2518f3439600894681da0e20eabdad0ade0db841"
+    },
+    {
+      "case_id": "SHUFFLE_03",
+      "max_penalised_score": -2673.18032174,
+      "best_penalised_period": 12,
+      "max_raw_score": -2626.05050468,
+      "results_sha256": "b7766e10ca5836b0081e9f75f442c6d2ed21ff81b66e13f586bb3413e3331115"
+    },
+    {
+      "case_id": "SHUFFLE_04",
+      "max_penalised_score": -2669.93582002,
+      "best_penalised_period": 19,
+      "max_raw_score": -2621.20178223,
+      "results_sha256": "3688285824984fe30e2c785384a0c705f4800a7a4f168e79ac189e7f4be48fb2"
+    },
+    {
+      "case_id": "SHUFFLE_05",
+      "max_penalised_score": -2610.93274537,
+      "best_penalised_period": 19,
+      "max_raw_score": -2562.19870758,
+      "results_sha256": "4739dd46dec5b85122897d14ee6a98b27eb78f8f2ec6ac4087bd181ace1a1982"
+    },
+    {
+      "case_id": "SHUFFLE_06",
+      "max_penalised_score": -2592.88736176,
+      "best_penalised_period": 20,
+      "max_raw_score": -2541.58837461,
+      "results_sha256": "f5a5a67cc9451891ed3edd4686cda3cf0cfe8a5652fb32fc7a55370103626230"
+    },
+    {
+      "case_id": "SHUFFLE_07",
+      "max_penalised_score": -2652.84171605,
+      "best_penalised_period": 20,
+      "max_raw_score": -2601.5427289,
+      "results_sha256": "a81b19203ba71fe42eed6b582cea3bff6a988b2667673136cbd40126dcb2bec8"
+    },
+    {
+      "case_id": "SHUFFLE_08",
+      "max_penalised_score": -2704.52187164,
+      "best_penalised_period": 18,
+      "max_raw_score": -2658.3527832,
+      "results_sha256": "23cfde107ce96cacc5f61a203089138dba10539c07687fb52bd8d5bd5093a896"
+    },
+    {
+      "case_id": "SHUFFLE_09",
+      "max_penalised_score": -2686.39756846,
+      "best_penalised_period": 20,
+      "max_raw_score": -2635.09858131,
+      "results_sha256": "f6549b03218a21b7b9f113f3c1a044924759508a64312141e4e585799fced6b9"
+    },
+    {
+      "case_id": "SHUFFLE_10",
+      "max_penalised_score": -2669.04510521,
+      "best_penalised_period": 17,
+      "max_raw_score": -2625.44096613,
+      "results_sha256": "e882ccf8ce9072fcdf87e06a49c14a5e2c2f9b252afd7db424853f24f0b6284e"
+    },
+    {
+      "case_id": "SHUFFLE_11",
+      "max_penalised_score": -2657.30767702,
+      "best_penalised_period": 17,
+      "max_raw_score": -2613.70353794,
+      "results_sha256": "0fde77feb61bbad5d3561c6a29bb46aa3dd84d5c28cc36f030632c1ed49015cb"
+    },
+    {
+      "case_id": "SHUFFLE_12",
+      "max_penalised_score": -2675.54563975,
+      "best_penalised_period": 20,
+      "max_raw_score": -2624.2466526,
+      "results_sha256": "16a8524b6775efe88765cc534a0d11dc0a6fe9810619e9c1b5af2824b072143e"
+    },
+    {
+      "case_id": "SHUFFLE_13",
+      "max_penalised_score": -2668.76077753,
+      "best_penalised_period": 15,
+      "max_raw_score": -2630.28653717,
+      "results_sha256": "540fa8a9d490d55d2e3fd3276d09798d417f9e03cf949bf078851ffdf76ab33d"
+    },
+    {
+      "case_id": "SHUFFLE_14",
+      "max_penalised_score": -2677.00118961,
+      "best_penalised_period": 16,
+      "max_raw_score": -2635.96199989,
+      "results_sha256": "c76523a3bb3bd4bcf40770c21921a2b1a181eccefef6f21a8ec7076d2ee2b72f"
+    },
+    {
+      "case_id": "SHUFFLE_15",
+      "max_penalised_score": -2712.21313991,
+      "best_penalised_period": 16,
+      "max_raw_score": -2667.02466345,
+      "results_sha256": "f2de469a088fa619112cedd39623d94293c128c295e380fb2bccbe35fcfcca68"
+    },
+    {
+      "case_id": "SHUFFLE_16",
+      "max_penalised_score": -2637.91916934,
+      "best_penalised_period": 19,
+      "max_raw_score": -2589.18513155,
+      "results_sha256": "de600d6d0f5f1fea68e6435941413f961e0342ee15d0840a8c8e43e2f4b60b94"
+    },
+    {
+      "case_id": "SHUFFLE_17",
+      "max_penalised_score": -2612.66350961,
+      "best_penalised_period": 20,
+      "max_raw_score": -2561.36452246,
+      "results_sha256": "b07f4a017a43397153606da2d5987b1137fa4052097e17237008753c129c1045"
+    },
+    {
+      "case_id": "SHUFFLE_18",
+      "max_penalised_score": -2674.92239911,
+      "best_penalised_period": 18,
+      "max_raw_score": -2628.75331068,
+      "results_sha256": "db36b870c5ed0808814285389d94545da5250af507ddb7f637894e40308d3b38"
+    },
+    {
+      "case_id": "SHUFFLE_19",
+      "max_penalised_score": -2636.40775688,
+      "best_penalised_period": 18,
+      "max_raw_score": -2590.23866844,
+      "results_sha256": "5d6d9562c189af6793957d756a87791ef103dd8a77edb1d0f73c0236103608a0"
+    }
+  ],
+  "interpretation": "RankingstatisticforregisteredPORTAXperiodpanel/optimizer; overlappingquadgramsnotlikelihoodandnotprobabilityoriginalplaintext/historicaltruth. No globalmodel/keyuniquenessclaim.",
+  "same_search_budget_each": true,
+  "same_model_binary_seed_each": true
+}

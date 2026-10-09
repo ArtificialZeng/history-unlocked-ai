@@ -1,0 +1,31 @@
+{
+  "written_utc": "2026-10-05T20:01:47.798561+00:00",
+  "module_absolute_path": "/Users/zeng/Documents/解谜/hcportal849_1952_grille_decipherment/scripts/independent_grille_v1.py",
+  "indices": "zero-based (row,column); row zero at top, column zero at left",
+  "start_definition": "Clockwise quarter-turn count from supplied mask; direction applies to subsequent turns",
+  "signature": "encrypt(payload, *, side, holes, start_quarters=0, direction=\"clockwise\", hole_scan=\"row-major\", cipher_serialization=\"row-major\") -> str; decrypt(ciphertext, same keyword arguments) -> str",
+  "other_public_methods": [
+    "validate_key(side, holes) -> immutable sorted tuple of holes",
+    "settings_route(*, same keyword arguments) -> tuple of payload-visit coordinates"
+  ],
+  "side": "even integer at least two; bool excluded",
+  "holes": "one exact hole per four-cell orbit; all four orientations cover all cells once",
+  "direction_values": [
+    "clockwise",
+    "counterclockwise"
+  ],
+  "order_values": [
+    "row-major",
+    "column-major"
+  ],
+  "start_values": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "literal_extent": "nonempty str with len(str) a positive exact multiple of side squared; Unicode codepoints are never normalized, stripped, filtered or padded",
+  "fixtures": "KNOWN_VECTORS_v1.json and SYNTHETIC_REPRESENTATIVE_VECTORS_v1.json contain literal generic data only",
+  "controls_cli": "PYTHONDONTWRITEBYTECODE=1 python3 scripts/independent_grille_v1.py --self-test --report-dir reports/independent_method_v1",
+  "controls_write_policy": "Outputs are write-exclusive; retain registration/vectors and use a fresh directory for a rerun. No target auto-discovery or target file reading."
+}

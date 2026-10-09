@@ -1,0 +1,181 @@
+{
+  "status": "PASS_PUBLICLY_SUPPLIED_KEY_GEOMETRY_AND_ROTATION_COVERAGE",
+  "side": 6,
+  "holes_1indexed": [
+    1,
+    4,
+    8,
+    12,
+    14,
+    17,
+    22,
+    32,
+    34
+  ],
+  "source_holes_zeroindexed": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      3,
+      3
+    ],
+    [
+      5,
+      1
+    ],
+    [
+      5,
+      3
+    ]
+  ],
+  "coarse_mask_rows": [
+    "100100",
+    "010001",
+    "010010",
+    "000100",
+    "000000",
+    "010100"
+  ],
+  "cut_cells": 9,
+  "solid_cells": 27,
+  "rotation_orbits_1indexed": [
+    [
+      1,
+      6,
+      36,
+      31
+    ],
+    [
+      2,
+      12,
+      35,
+      25
+    ],
+    [
+      3,
+      18,
+      34,
+      19
+    ],
+    [
+      4,
+      24,
+      33,
+      13
+    ],
+    [
+      5,
+      30,
+      32,
+      7
+    ],
+    [
+      8,
+      11,
+      29,
+      26
+    ],
+    [
+      9,
+      17,
+      28,
+      20
+    ],
+    [
+      10,
+      23,
+      27,
+      14
+    ],
+    [
+      15,
+      16,
+      22,
+      21
+    ]
+  ],
+  "one_hole_per_orbit": true,
+  "four_turn_permutation_unique_cells": 36,
+  "source_file": "sources/raw/HC851_public_grille_original.jpg",
+  "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+  "physical_geometry_record": "data/cold_source_v1/PHYSICAL_PUBLIC_GRILLE_GEOMETRY_v1.json",
+  "physical_geometry_record_sha256": "87de8f96b8ccd3dfe2dd9b7203d0cf672a752a02dac8c12f42aa2e3307fab40f",
+  "all36native_cell_memberships_visually_checked": true,
+  "nine_cut_cells_eight_physical_notch_window_regions": true,
+  "finer_paper_ruling_not_silently_equal_to_coarse_cut_cells": true,
+  "orientation_marks_literal": [
+    {
+      "literal": "I",
+      "location": "Top, coarse cell R1C3 with lower underline reaching R2C3",
+      "native_box_xyxy": [
+        2410,
+        780,
+        2505,
+        960
+      ],
+      "view": "sources/inspection/cold_source_v1/grille_top_I_native.png",
+      "reading_transform": 0
+    },
+    {
+      "literal": "II",
+      "location": "Left side, across R4C1/R5C1/R5C2",
+      "native_box_xyxy": [
+        2070,
+        1290,
+        2300,
+        1480
+      ],
+      "view": "sources/inspection/cold_source_v1/grille_left_II_ROT90CW.png",
+      "reading_transform_counterclockwise": -90
+    },
+    {
+      "literal": "III",
+      "location": "Bottom, mainly coarse cell R6C5",
+      "native_box_xyxy": [
+        2730,
+        1510,
+        2900,
+        1645
+      ],
+      "view": "sources/inspection/cold_source_v1/grille_bottom_III_ROT180.png",
+      "reading_transform_counterclockwise": 180
+    },
+    {
+      "literal": "IV",
+      "location": "Right, mainly coarse cell R4C6",
+      "native_box_xyxy": [
+        2795,
+        1180,
+        2970,
+        1360
+      ],
+      "view": "sources/inspection/cold_source_v1/grille_right_IV_ROT90CCW.png",
+      "reading_transform_counterclockwise": 90
+    }
+  ],
+  "procedure_scope": "I initially top; moving II,III,IV to top is clockwise by geometry. Hole scanning/write-read mechanism uses precontrolled ACA-style registered row-major family, not decoded language.",
+  "boundary_uncertainty_pixels": 10,
+  "public_key_was_supplied_not_recovered": true
+}

@@ -1,0 +1,6 @@
+{
+  "manifest": "reports/independent_candidate_audit_v1/INDEPENDENT_CANDIDATE_AUDIT_SHA256_v1.json",
+  "sha256": "d71456f9a18edc996b4085bb680fb948c383bc6484067fd107277fc4401f3a84",
+  "checked_files": 12,
+  "failures": []
+}

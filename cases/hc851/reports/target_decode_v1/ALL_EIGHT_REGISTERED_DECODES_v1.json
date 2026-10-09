@@ -1,0 +1,162 @@
+{
+  "generated_utc": "2026-10-05T17:41:36.713799+00:00",
+  "cipher_sha256": "aa3f0df5556b6bbea831c6fc395114bd953d22f550d0c985c5898614f7f73202",
+  "provided_source_key": {
+    "side": 6,
+    "holes_zeroindexed": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        5,
+        3
+      ]
+    ],
+    "native_grid_outer_approx_xyxy": [
+      2083,
+      775,
+      2963,
+      1656
+    ],
+    "cell_centers_from_key_native_crop_approx": {
+      "x": [
+        2160,
+        2300,
+        2447,
+        2594,
+        2739,
+        2886
+      ],
+      "y": [
+        857,
+        999,
+        1145,
+        1288,
+        1435,
+        1579
+      ]
+    },
+    "geometric_support": "Nine actualopen/cut-awaycells distinguishgraybackgroundfrombrownmask; papergrid6x6seenonphysicalkey andauthorfour6x6arrays; fourrotationscoverageverifiedbeforeplaintext",
+    "edge_labels_source": "I top; II left; III bottom; IV right",
+    "orientation_rule": "PlacecurrentedgeRomanlabelontop forsuccessiveI,II,III,IV: clockwisequarterturns; rootliteralgeometricinterpretation, coldobserverpending"
+  },
+  "results": [
+    {
+      "start": 0,
+      "direction": 1,
+      "plaintext_literal": "DIESCHWERENANGRIFFERICHTETENSICHGEGENDIELONDONUNDSONSTIGEHAFENANLAGEDERBRITISCHENHAUPTSTADTXFERNERWURDENGASWERKEUNDBAHNHOEFEMITLBOMBENBELEGTSTOP",
+      "forward_ciphertext": "DNEIRENESANSICICHHGCRWHITGEFEGEETRFENNIDGNUILNDEALEGOESHONANFDESERBDNOTARUTIXHATRUPIDSFECNTESHRTNGAAESWERNDWEETRLHNKLHOEEUBGNTEOFDMEBSTMEOPBNAIB",
+      "matches_active_letters": 144,
+      "length": 144,
+      "matches_raw_cancelled_slot": null,
+      "source_assisted": true,
+      "claim_scope": "Mechanicaldecode ofcurrent144activelettersunderprovidedkey; nofulloriginal145orhistoricalpriorityclaim"
+    },
+    {
+      "start": 0,
+      "direction": -1,
+      "plaintext_literal": "DIESCHWERNSICHGEGEERICHTETEENANGRIFFNDIELONDONLAGEDERBIGEHAFENANUNDSONSTRITISCHENURDENGASWTXFERNERWHAUPTSTADERKEUNDBAELEGTSTOPTLBOMBENBHNHOEFEMI",
+      "forward_ciphertext": "DNEIRENESANSICICHHGCRWHITGEFEGEETRFENNIDGNUILNDEALEGOESHONANFDESERBDNOTARUTIXHATRUPIDSFECNTESHRTNGAAESWERNDWEETRLHNKLHOEEUBGNTEOFDMEBSTMEOPBNAIB",
+      "matches_active_letters": 144,
+      "length": 144,
+      "matches_raw_cancelled_slot": null,
+      "source_assisted": true,
+      "claim_scope": "Mechanicaldecode ofcurrent144activelettersunderprovidedkey; nofulloriginal145orhistoricalpriorityclaim"
+    },
+    {
+      "start": 1,
+      "direction": 1,
+      "plaintext_literal": "ENANGRIFFERICHTETENSICHGEGEDIESCHWERNUNDSONSTIGEHAFENANLAGEDERBNDIELONDOHAUPTSTADTXFERNERWURDENGASWRITISCHENHNHOEFEMITLBOMBENBELEGTSTOPERKEUNDBA",
+      "forward_ciphertext": "DNEIRENESANSICICHHGCRWHITGEFEGEETRFENNIDGNUILNDEALEGOESHONANFDESERBDNOTARUTIXHATRUPIDSFECNTESHRTNGAAESWERNDWEETRLHNKLHOEEUBGNTEOFDMEBSTMEOPBNAIB",
+      "matches_active_letters": 144,
+      "length": 144,
+      "matches_raw_cancelled_slot": null,
+      "source_assisted": true,
+      "claim_scope": "Mechanicaldecode ofcurrent144activelettersunderprovidedkey; nofulloriginal145orhistoricalpriorityclaim"
+    },
+    {
+      "start": 1,
+      "direction": -1,
+      "plaintext_literal": "ENANGRIFFDIESCHWERNSICHGEGEERICHTETENUNDSONSTNDIELONDONLAGEDERBIGEHAFENAHAUPTSTADRITISCHENURDENGASWTXFERNERWHNHOEFEMIERKEUNDBAELEGTSTOPTLBOMBENB",
+      "forward_ciphertext": "DNEIRENESANSICICHHGCRWHITGEFEGEETRFENNIDGNUILNDEALEGOESHONANFDESERBDNOTARUTIXHATRUPIDSFECNTESHRTNGAAESWERNDWEETRLHNKLHOEEUBGNTEOFDMEBSTMEOPBNAIB",
+      "matches_active_letters": 144,
+      "length": 144,
+      "matches_raw_cancelled_slot": null,
+      "source_assisted": true,
+      "claim_scope": "Mechanicaldecode ofcurrent144activelettersunderprovidedkey; nofulloriginal145orhistoricalpriorityclaim"
+    },
+    {
+      "start": 2,
+      "direction": 1,
+      "plaintext_literal": "ERICHTETENSICHGEGEDIESCHWERENANGRIFFIGEHAFENANLAGEDERBNDIELONDONUNDSONSTTXFERNERWURDENGASWRITISCHENHAUPTSTADTLBOMBENBELEGTSTOPERKEUNDBAHNHOEFEMI",
+      "forward_ciphertext": "DNEIRENESANSICICHHGCRWHITGEFEGEETRFENNIDGNUILNDEALEGOESHONANFDESERBDNOTARUTIXHATRUPIDSFECNTESHRTNGAAESWERNDWEETRLHNKLHOEEUBGNTEOFDMEBSTMEOPBNAIB",
+      "matches_active_letters": 144,
+      "length": 144,
+      "matches_raw_cancelled_slot": null,
+      "source_assisted": true,
+      "claim_scope": "Mechanicaldecode ofcurrent144activelettersunderprovidedkey; nofulloriginal145orhistoricalpriorityclaim"
+    },
+    {
+      "start": 2,
+      "direction": -1,
+      "plaintext_literal": "ERICHTETEENANGRIFFDIESCHWERNSICHGEGEIGEHAFENANUNDSONSTNDIELONDONLAGEDERBTXFERNERWHAUPTSTADRITISCHENURDENGASWTLBOMBENBHNHOEFEMIERKEUNDBAELEGTSTOP",
+      "forward_ciphertext": "DNEIRENESANSICICHHGCRWHITGEFEGEETRFENNIDGNUILNDEALEGOESHONANFDESERBDNOTARUTIXHATRUPIDSFECNTESHRTNGAAESWERNDWEETRLHNKLHOEEUBGNTEOFDMEBSTMEOPBNAIB",
+      "matches_active_letters": 144,
+      "length": 144,
+      "matches_raw_cancelled_slot": null,
+      "source_assisted": true,
+      "claim_scope": "Mechanicaldecode ofcurrent144activelettersunderprovidedkey; nofulloriginal145orhistoricalpriorityclaim"
+    },
+    {
+      "start": 3,
+      "direction": 1,
+      "plaintext_literal": "NSICHGEGEDIESCHWERENANGRIFFERICHTETENLAGEDERBNDIELONDONUNDSONSTIGEHAFENAURDENGASWRITISCHENHAUPTSTADTXFERNERWELEGTSTOPERKEUNDBAHNHOEFEMITLBOMBENB",
+      "forward_ciphertext": "DNEIRENESANSICICHHGCRWHITGEFEGEETRFENNIDGNUILNDEALEGOESHONANFDESERBDNOTARUTIXHATRUPIDSFECNTESHRTNGAAESWERNDWEETRLHNKLHOEEUBGNTEOFDMEBSTMEOPBNAIB",
+      "matches_active_letters": 144,
+      "length": 144,
+      "matches_raw_cancelled_slot": null,
+      "source_assisted": true,
+      "claim_scope": "Mechanicaldecode ofcurrent144activelettersunderprovidedkey; nofulloriginal145orhistoricalpriorityclaim"
+    },
+    {
+      "start": 3,
+      "direction": -1,
+      "plaintext_literal": "NSICHGEGEERICHTETEENANGRIFFDIESCHWERNLAGEDERBIGEHAFENANUNDSONSTNDIELONDOURDENGASWTXFERNERWHAUPTSTADRITISCHENELEGTSTOPTLBOMBENBHNHOEFEMIERKEUNDBA",
+      "forward_ciphertext": "DNEIRENESANSICICHHGCRWHITGEFEGEETRFENNIDGNUILNDEALEGOESHONANFDESERBDNOTARUTIXHATRUPIDSFECNTESHRTNGAAESWERNDWEETRLHNKLHOEEUBGNTEOFDMEBSTMEOPBNAIB",
+      "matches_active_letters": 144,
+      "length": 144,
+      "matches_raw_cancelled_slot": null,
+      "source_assisted": true,
+      "claim_scope": "Mechanicaldecode ofcurrent144activelettersunderprovidedkey; nofulloriginal145orhistoricalpriorityclaim"
+    }
+  ]
+}

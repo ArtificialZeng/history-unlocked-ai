@@ -1,0 +1,17 @@
+{
+  "literal": "DIEKOMUNISTISCHEPARTEIIMWESTDEUTSCHLANDISTIMLETZTEMZEITSEHRSTARK",
+  "strict_spaces_only_gloss": "DIE KOMUNISTISCHE PARTEI IM WESTDEUTSCHLAND IST IM LETZTEM ZEIT SEHR STARK",
+  "only_inserted_ASCII_spaces": true,
+  "literal_length": 64,
+  "literal_anomalies_preserved": [
+    "KOMUNISTISCHE has oneM; do not insert an M",
+    "IM WESTDEUTSCHLAND unchanged",
+    "IM LETZTEM ZEIT unchanged"
+  ],
+  "rough_editorial_sense": "The text appears to say that the communist party in West Germany has recently been very strong. This is an approximate semantic gloss of an archival course text, not a verified political statement.",
+  "punctuation_accents_normalization": "Not added to the literal or strict spaces-only gloss",
+  "known_given_key_assisted_current_component_only": true,
+  "no_unknown_key_recovery_or_historical_dispatch_claim": true,
+  "no_null_padding_or_removal_needed_for_present64": true,
+  "other_offframe_messages_or_prior_text_absence": "Unknown; no global absence claim"
+}

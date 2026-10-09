@@ -1,0 +1,89 @@
+{
+  "stage": "post-comparison source-only addendum; not part of independent first-freeze inventory",
+  "change_to_180_letter_string": false,
+  "crossing_event": {
+    "position": "R03G04P02",
+    "primary_id": "C077",
+    "primary_event": "E03",
+    "final_visible": "W",
+    "bbox_original_px": [
+      1660,
+      1160,
+      1770,
+      1290
+    ],
+    "observed_from_own_new_raw_crop": "An oblique dark/violet stroke crosses the upper-left/interior portion of the typed W; original two-trough W outline remains clear.",
+    "status": "Ink irregularity or extraneous crossing; no second letter identity or replacement history inferred.",
+    "independence_limit": "Own pre-comparison image crops contained this site, but first-freeze event inventory did not flag it. The primary crop filename and later ledger drew attention to it.",
+    "own_crop": "crops/postfreeze_r3g4p2_crossing_4x.png"
+  },
+  "extra_intrablock_spacing": {
+    "row": 3,
+    "group": 6,
+    "visual": "LNA JT",
+    "after_site": 3,
+    "source_evidence": "Own new original crop shows approximately 80 px pitch L-N-A, about 120 px A-J, about 80 px J-T.",
+    "own_crop": "crops/postfreeze_r3g6_spacing_2x.png",
+    "independence_limit": "Not explicitly preserved by the first own freeze or its pre-comparison addendum; identified from primary layout note then checked against original source."
+  },
+  "bbox_refinements": [
+    {
+      "position": "R03G06P01",
+      "bbox_original_px": [
+        2527,
+        1150,
+        2603,
+        1250
+      ],
+      "reason": "Original crop has centers near stated x; enlarged A-J gap shifted original first-pass approximate centers."
+    },
+    {
+      "position": "R03G06P02",
+      "bbox_original_px": [
+        2607,
+        1150,
+        2683,
+        1250
+      ],
+      "reason": "Original crop has centers near stated x; enlarged A-J gap shifted original first-pass approximate centers."
+    },
+    {
+      "position": "R03G06P03",
+      "bbox_original_px": [
+        2687,
+        1150,
+        2763,
+        1250
+      ],
+      "reason": "Original crop has centers near stated x; enlarged A-J gap shifted original first-pass approximate centers."
+    },
+    {
+      "position": "R03G06P04",
+      "bbox_original_px": [
+        2807,
+        1150,
+        2883,
+        1250
+      ],
+      "reason": "Original crop has centers near stated x; enlarged A-J gap shifted original first-pass approximate centers."
+    },
+    {
+      "position": "R03G06P05",
+      "bbox_original_px": [
+        2887,
+        1150,
+        2963,
+        1250
+      ],
+      "reason": "Original crop has centers near stated x; enlarged A-J gap shifted original first-pass approximate centers."
+    }
+  ],
+  "earlier_layer_holds": [
+    23,
+    66,
+    80,
+    132,
+    172
+  ],
+  "letter_discrepancies": []
+}

@@ -1,0 +1,44 @@
+{
+  "case_id": "hcportal:1619",
+  "MIT_whole_file": [
+    "checker.py"
+  ],
+  "MIT_notice": "LICENSE-MIT.txt",
+  "CC_BY_4_0_notice": "LICENSE-CC-BY-4.0.txt",
+  "preserved_parent_scope_notice": [
+    "LICENCE_SCOPE.json",
+    "LICENCE_SCOPE.md"
+  ],
+  "own_analytical_annotation_arrangement_components_only_in_scientific_JSON": [
+    "frozen/reports/independent_source_review_v1/FROZEN_SOURCE.json",
+    "frozen/reports/independent_source_review_v1/GLYPH_OCCURRENCES.json",
+    "frozen/config/FROZEN_TRANSFER_KEY_v1.json",
+    "frozen/config/TWO_PACKET_APPLICATION_REGISTRATION_v1.json",
+    "frozen/config/PRE_APPLICATION_BRIDGE_PACKET_v1.json",
+    "frozen/config/PRE_APPLICATION_BRIDGE_PACKET_v1p1.json",
+    "frozen/experiments/fixed_transfer_v1/CONSERVATIVE_FIRST_OUTPUT.json",
+    "frozen/experiments/fixed_transfer_v1/PREFERRED_FIRST_OUTPUT.json",
+    "frozen/reports/independent_transfer_review_v1/REPLAY_CONSERVATIVE.json",
+    "frozen/reports/independent_transfer_review_v1/REPLAY_PREFERRED.json"
+  ],
+  "new_owner_authored_packaging_documents": [
+    "README.md",
+    "CORE_PROVENANCE.json",
+    "CORE_LICENCE_SCOPE.json",
+    "MANIFEST_DELTA.json",
+    "frozen_inputs_manifest.json",
+    "PACKAGE_SHA256.json"
+  ],
+  "copyright_scope": "Own expression, annotations, organisation and compilation only. No exclusive ownership or blanket licence over historical wording/transcriptions, mapping facts, underlying source-image rights, external metadata or third-party quotations is asserted. The original component boundaries remain effective.",
+  "font_notice": "fonts/LICENSE_DEJAVU retained unchanged; no font binaries or PDF are bundled in this certificate-only core.",
+  "attribution": "ATTRIBUTION.md",
+  "omitted_programs": [
+    "frozen/reports/independent_source_review_v1/build_source_ledger.py",
+    "frozen/reports/independent_transfer_review_v1/independent_replay.py",
+    "frozen/scripts/apply_frozen_transfer_v1.py"
+  ],
+  "archival_pixels_bundled": false,
+  "font_binaries_bundled": false,
+  "full_dictionary_pages_bundled": false,
+  "no_external_endorsement_implied": true
+}

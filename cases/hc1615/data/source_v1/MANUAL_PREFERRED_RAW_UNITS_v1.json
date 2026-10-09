@@ -1,0 +1,82 @@
+{
+  "utc": "2026-10-06T04:28:10.578242+00:00",
+  "scope": "CurrentpreferrednativeRAWunitchoices beforekey/lookup andbeforepeerpreferences; no donorsemanticvalues.",
+  "rows": [
+    {
+      "row_id": "R01",
+      "groups": [
+        "t3",
+        "d{H_MARK_UNASSIGNED}5d4s5",
+        "d4"
+      ]
+    },
+    {
+      "row_id": "R02",
+      "groups": [
+        "bh575",
+        "6",
+        "f",
+        "t2{R_MARK}2"
+      ]
+    },
+    {
+      "row_id": "R03",
+      "groups": [
+        "m6",
+        "c86tg6",
+        "2cd6"
+      ]
+    },
+    {
+      "row_id": "R04",
+      "groups": [
+        "df375",
+        "fh5832,"
+      ]
+    },
+    {
+      "row_id": "R05",
+      "groups": [
+        "t832r32",
+        "b2c2"
+      ]
+    },
+    {
+      "row_id": "R06",
+      "groups": [
+        "d4cgm5",
+        "f5sm5"
+      ]
+    },
+    {
+      "row_id": "R07",
+      "groups": [
+        "df27",
+        "b5b32c."
+      ]
+    }
+  ],
+  "marked_source_preferences": {
+    "R01G02U02": {
+      "preferred_wholegraph_label": "H_MARK_UNASSIGNED",
+      "base_graphic": "h-like tallloopedascender/rightarch",
+      "uppermark": "clearlydetachedtwo-strokechevron",
+      "alternative": "R_MARK ifindependentwholefontvariantcorrespondence supported; not forced fromkey/word",
+      "proto_contrast": "Currentrow2bareh/donorrawh tallloop vs donorrawmarkedr lowcore."
+    },
+    "R02G04U03": {
+      "preferred_wholegraph_label": "R_MARK",
+      "base_graphic": "r-like lowstem/shoulder",
+      "uppermark": "clearlydetachedtwo-strokechevron",
+      "graphical_correspondence": "donorrawr+CARON_LIKE wholecomposition, meaning withheld",
+      "alternative": "newmarkedclass iffontidentity unsupported"
+    }
+  },
+  "source_patch_rules": [
+    "CurlyH/R markedtokens onepreferredglyphunit with base+two upperstrokeprimitives, not3cipherletters",
+    "y-shaped fork mnemonic7 fromrawgallery, not plaintext",
+    "physicalgaps/rows preserved, comma andperiod separateevents",
+    "No61or70–85or80forcedunitcount; count comesfrom manuallyobservedpreferredtokenlists",
+    "No26alphabetforcing; H-markdistinctunknownwholeclass retained"
+  ]
+}

@@ -1,0 +1,1883 @@
+{
+  "case": "HC849",
+  "source": "sources/raw/HC849_original_2.jpg",
+  "source_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+  "rows_grouped": [
+    "RAOOK PDTTE ORAAN",
+    "XFONZ DDXDS NKPJO",
+    "ELVNZ SLLIX DRURE",
+    "OAEEC IOAES ARCHE",
+    "VRNA"
+  ],
+  "row_counts": [
+    15,
+    15,
+    15,
+    15,
+    4
+  ],
+  "current_count": 64,
+  "positions": [
+    {
+      "position": 1,
+      "row": 1,
+      "row_position": 1,
+      "group": 1,
+      "position_in_group": 1,
+      "current": "R",
+      "alternatives": [
+        "R"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p01.png",
+      "crop_sha256": "ea7457acd5963fedfcaa150eba5179d90597c62472888a009cff17cc002d004a",
+      "native_xyxy": [
+        1616,
+        1455,
+        1685,
+        1585
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 2,
+      "row": 1,
+      "row_position": 2,
+      "group": 1,
+      "position_in_group": 2,
+      "current": "A",
+      "alternatives": [
+        "A"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p02.png",
+      "crop_sha256": "94cb308377112f9db77c1188f16a88ad26957e1d1b924e8e9f57efb1a1b39b8b",
+      "native_xyxy": [
+        1686,
+        1455,
+        1755,
+        1585
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 3,
+      "row": 1,
+      "row_position": 3,
+      "group": 1,
+      "position_in_group": 3,
+      "current": "O",
+      "alternatives": [
+        "O"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p03.png",
+      "crop_sha256": "0caf25855aa2e39fdd39fa590050a245c6332028fff5199a14f4e748906fcd90",
+      "native_xyxy": [
+        1751,
+        1455,
+        1820,
+        1585
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 4,
+      "row": 1,
+      "row_position": 4,
+      "group": 1,
+      "position_in_group": 4,
+      "current": "O",
+      "alternatives": [
+        "O"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p04.png",
+      "crop_sha256": "7b864bca75c49e893de5ff41745500333bdb37bbff24da3b6c1e7838e64f5225",
+      "native_xyxy": [
+        1826,
+        1455,
+        1895,
+        1585
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 5,
+      "row": 1,
+      "row_position": 5,
+      "group": 1,
+      "position_in_group": 5,
+      "current": "K",
+      "alternatives": [
+        "K"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p05.png",
+      "crop_sha256": "42de452ae91aa476427fbd52dcbf0afc030467c3bfda89d6c52c1e4dd614115a",
+      "native_xyxy": [
+        1906,
+        1455,
+        1975,
+        1585
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 6,
+      "row": 1,
+      "row_position": 6,
+      "group": 2,
+      "position_in_group": 1,
+      "current": "P",
+      "alternatives": [
+        "P"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p06.png",
+      "crop_sha256": "c639be321b69c3fe3370bf255e499bc5bfed9e3f089e976a09dd4237f48e18a0",
+      "native_xyxy": [
+        2046,
+        1455,
+        2115,
+        1585
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 7,
+      "row": 1,
+      "row_position": 7,
+      "group": 2,
+      "position_in_group": 2,
+      "current": "D",
+      "alternatives": [
+        "D"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "red retrace over dark handwritten glyph",
+      "unknown_earlier_layer": true,
+      "earlier_value": null,
+      "modifiers": [
+        "red retrace/overmark"
+      ],
+      "crop": "sources/inspection/cold_source_v1/grouped_p07.png",
+      "crop_sha256": "47177ad0496f28bbadb70fd9f3d74180ca3c49a0ad7c887312da75469397126f",
+      "native_xyxy": [
+        2116,
+        1455,
+        2185,
+        1585
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 8,
+      "row": 1,
+      "row_position": 8,
+      "group": 2,
+      "position_in_group": 3,
+      "current": "T",
+      "alternatives": [
+        "T"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p08.png",
+      "crop_sha256": "5aa5d259bd547ad08a8c167cb58e85cde7765d64f2f3a16db8397553dbc8f87c",
+      "native_xyxy": [
+        2186,
+        1455,
+        2255,
+        1585
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 9,
+      "row": 1,
+      "row_position": 9,
+      "group": 2,
+      "position_in_group": 4,
+      "current": "T",
+      "alternatives": [
+        "T"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p09.png",
+      "crop_sha256": "8677e045cdb8df569fb285526fddc38e26c1434d4ad3847cce24f3ed11f6e507",
+      "native_xyxy": [
+        2261,
+        1455,
+        2330,
+        1585
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 10,
+      "row": 1,
+      "row_position": 10,
+      "group": 2,
+      "position_in_group": 5,
+      "current": "E",
+      "alternatives": [
+        "E"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p10.png",
+      "crop_sha256": "c1b8fb970ddeec4ce90977ec0f0fa1ec36ce4205307b2c93fae81a27c82962b5",
+      "native_xyxy": [
+        2346,
+        1455,
+        2415,
+        1585
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 11,
+      "row": 1,
+      "row_position": 11,
+      "group": 3,
+      "position_in_group": 1,
+      "current": "O",
+      "alternatives": [
+        "O"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p11.png",
+      "crop_sha256": "57aef4853cd2020424b5fea47e34a9f36b391119772f2ffabc08bb522b3aaeaa",
+      "native_xyxy": [
+        2494,
+        1455,
+        2563,
+        1585
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 12,
+      "row": 1,
+      "row_position": 12,
+      "group": 3,
+      "position_in_group": 2,
+      "current": "R",
+      "alternatives": [
+        "R"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p12.png",
+      "crop_sha256": "8bb847339232a15b0dd670f2dd08f887382224d66d50b363d4fe7a2a1fc382c5",
+      "native_xyxy": [
+        2571,
+        1455,
+        2640,
+        1585
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 13,
+      "row": 1,
+      "row_position": 13,
+      "group": 3,
+      "position_in_group": 3,
+      "current": "A",
+      "alternatives": [
+        "A"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p13.png",
+      "crop_sha256": "556e93a55c95b2c0b1a5208b14205551449afa4a2f1f2720bdc0f4d8986b2691",
+      "native_xyxy": [
+        2646,
+        1455,
+        2715,
+        1585
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 14,
+      "row": 1,
+      "row_position": 14,
+      "group": 3,
+      "position_in_group": 4,
+      "current": "A",
+      "alternatives": [
+        "A"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p14.png",
+      "crop_sha256": "4eb847d0e4907206b70a9b9a48eff466215b8b7c6f633633aa36280ef0a4f5b4",
+      "native_xyxy": [
+        2716,
+        1455,
+        2785,
+        1585
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 15,
+      "row": 1,
+      "row_position": 15,
+      "group": 3,
+      "position_in_group": 5,
+      "current": "N",
+      "alternatives": [
+        "N"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p15.png",
+      "crop_sha256": "747c43d6b0d4ba4656175569df4f44b4fcd3b588ad196c2a422cc8056234cd20",
+      "native_xyxy": [
+        2781,
+        1455,
+        2850,
+        1585
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 16,
+      "row": 2,
+      "row_position": 1,
+      "group": 1,
+      "position_in_group": 1,
+      "current": "X",
+      "alternatives": [
+        "X"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p16.png",
+      "crop_sha256": "1fb847a0ef9a63bc8d6feb783b50683efd3b7aff59091264caf52454fb94da58",
+      "native_xyxy": [
+        1616,
+        1605,
+        1685,
+        1720
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 17,
+      "row": 2,
+      "row_position": 2,
+      "group": 1,
+      "position_in_group": 2,
+      "current": "F",
+      "alternatives": [
+        "F"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p17.png",
+      "crop_sha256": "92a75244ac24fe4a869d386a42fc21e0ed5a400ace295f02d49c3830debd4417",
+      "native_xyxy": [
+        1686,
+        1605,
+        1755,
+        1720
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 18,
+      "row": 2,
+      "row_position": 3,
+      "group": 1,
+      "position_in_group": 3,
+      "current": "O",
+      "alternatives": [
+        "O"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p18.png",
+      "crop_sha256": "c11de814c52de24383c51cdbf1033e2a30827c5a2f7a270868a1fac53e7179b1",
+      "native_xyxy": [
+        1751,
+        1605,
+        1820,
+        1720
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 19,
+      "row": 2,
+      "row_position": 4,
+      "group": 1,
+      "position_in_group": 4,
+      "current": "N",
+      "alternatives": [
+        "N"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p19.png",
+      "crop_sha256": "e7c5834629b9c9c4b72467f252d534e87b8474fd7934ac7c729dc0fa71a0e87e",
+      "native_xyxy": [
+        1826,
+        1605,
+        1895,
+        1720
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 20,
+      "row": 2,
+      "row_position": 5,
+      "group": 1,
+      "position_in_group": 5,
+      "current": "Z",
+      "alternatives": [
+        "Z"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p20.png",
+      "crop_sha256": "0143c33e47a50742acf5361bef1c7982817deaf515decacae677e4a22b81d756",
+      "native_xyxy": [
+        1906,
+        1605,
+        1975,
+        1720
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 21,
+      "row": 2,
+      "row_position": 6,
+      "group": 2,
+      "position_in_group": 1,
+      "current": "D",
+      "alternatives": [
+        "D"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p21.png",
+      "crop_sha256": "3eda88f56ec953d959425a0bd8a1c05d251c52061dde8e19a868f1f3f0ce3806",
+      "native_xyxy": [
+        2051,
+        1605,
+        2120,
+        1720
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 22,
+      "row": 2,
+      "row_position": 7,
+      "group": 2,
+      "position_in_group": 2,
+      "current": "D",
+      "alternatives": [
+        "D"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p22.png",
+      "crop_sha256": "8d1fa89701091ecc6dcc970e2f66f2de3c0c887d8baaceb65252a4d29a11a4a2",
+      "native_xyxy": [
+        2121,
+        1605,
+        2190,
+        1720
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 23,
+      "row": 2,
+      "row_position": 8,
+      "group": 2,
+      "position_in_group": 3,
+      "current": "X",
+      "alternatives": [
+        "X"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p23.png",
+      "crop_sha256": "e5f9b3e69beffbaedfc9b37fbb1f40476809cf903ddf59c39f1aefb05113d5ed",
+      "native_xyxy": [
+        2196,
+        1605,
+        2265,
+        1720
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 24,
+      "row": 2,
+      "row_position": 9,
+      "group": 2,
+      "position_in_group": 4,
+      "current": "D",
+      "alternatives": [
+        "D"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p24.png",
+      "crop_sha256": "28ed6868d9abf06a9bb46337ef2a87dcfae446b6cfbf1d95306118a9c1c0f694",
+      "native_xyxy": [
+        2266,
+        1605,
+        2335,
+        1720
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 25,
+      "row": 2,
+      "row_position": 10,
+      "group": 2,
+      "position_in_group": 5,
+      "current": "S",
+      "alternatives": [
+        "S"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p25.png",
+      "crop_sha256": "994405a35986230b9a2c0c56e6dfd702c79fa6cbd086b051b3f444007aea57af",
+      "native_xyxy": [
+        2356,
+        1605,
+        2425,
+        1720
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 26,
+      "row": 2,
+      "row_position": 11,
+      "group": 3,
+      "position_in_group": 1,
+      "current": "N",
+      "alternatives": [
+        "N"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p26.png",
+      "crop_sha256": "5109680229efe872d9f5b00a2848dd74f45c8f5b57c26d601a5d9f5591f89903",
+      "native_xyxy": [
+        2496,
+        1605,
+        2565,
+        1720
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 27,
+      "row": 2,
+      "row_position": 12,
+      "group": 3,
+      "position_in_group": 2,
+      "current": "K",
+      "alternatives": [
+        "K"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p27.png",
+      "crop_sha256": "ac0e47d15c601210e320fa68efde93872f4d3d46877716a36be97d786c8b184c",
+      "native_xyxy": [
+        2576,
+        1605,
+        2645,
+        1720
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 28,
+      "row": 2,
+      "row_position": 13,
+      "group": 3,
+      "position_in_group": 3,
+      "current": "P",
+      "alternatives": [
+        "P"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p28.png",
+      "crop_sha256": "e85b470ecfd5614311cf08158802601056c4d65ed9c3ba09af49f4814e65f94e",
+      "native_xyxy": [
+        2651,
+        1605,
+        2720,
+        1720
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 29,
+      "row": 2,
+      "row_position": 14,
+      "group": 3,
+      "position_in_group": 4,
+      "current": "J",
+      "alternatives": [
+        "J"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p29.png",
+      "crop_sha256": "b71d6ee4b7d26d4cf5bfde635eec2332fba7d002b6687d8ee2ad9ce538646f5b",
+      "native_xyxy": [
+        2726,
+        1605,
+        2795,
+        1720
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 30,
+      "row": 2,
+      "row_position": 15,
+      "group": 3,
+      "position_in_group": 5,
+      "current": "O",
+      "alternatives": [
+        "O"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p30.png",
+      "crop_sha256": "8e6eb61e5b746a283636db9a871814a66233a7e61cf3ecfbf9bd9707cdc51d5a",
+      "native_xyxy": [
+        2786,
+        1605,
+        2855,
+        1720
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 31,
+      "row": 3,
+      "row_position": 1,
+      "group": 1,
+      "position_in_group": 1,
+      "current": "E",
+      "alternatives": [
+        "E"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p31.png",
+      "crop_sha256": "67c7fa93765c3a0b2432a88450ba870bb956897e5056484c0d8abc525d35a048",
+      "native_xyxy": [
+        1616,
+        1755,
+        1685,
+        1855
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 32,
+      "row": 3,
+      "row_position": 2,
+      "group": 1,
+      "position_in_group": 2,
+      "current": "L",
+      "alternatives": [
+        "L"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p32.png",
+      "crop_sha256": "8d41bcb24e5596456157ad08a6913af61cc4d5d824d58547a2abefcda054b724",
+      "native_xyxy": [
+        1676,
+        1755,
+        1745,
+        1855
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 33,
+      "row": 3,
+      "row_position": 3,
+      "group": 1,
+      "position_in_group": 3,
+      "current": "V",
+      "alternatives": [
+        "V"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p33.png",
+      "crop_sha256": "38f16b360613e53a0e1dcec7adde691c9bf90ee74246701731725e07600cb31d",
+      "native_xyxy": [
+        1746,
+        1755,
+        1815,
+        1855
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 34,
+      "row": 3,
+      "row_position": 4,
+      "group": 1,
+      "position_in_group": 4,
+      "current": "N",
+      "alternatives": [
+        "N"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p34.png",
+      "crop_sha256": "66354928678e44242734b898cf4da2a80ef260fda8324a1716f73326562340a6",
+      "native_xyxy": [
+        1826,
+        1755,
+        1895,
+        1855
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 35,
+      "row": 3,
+      "row_position": 5,
+      "group": 1,
+      "position_in_group": 5,
+      "current": "Z",
+      "alternatives": [
+        "Z"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p35.png",
+      "crop_sha256": "7b906560eb75836cc1ca4567b70b6e2c53211bf82d1864134bdc981e31abc384",
+      "native_xyxy": [
+        1896,
+        1755,
+        1965,
+        1855
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 36,
+      "row": 3,
+      "row_position": 6,
+      "group": 2,
+      "position_in_group": 1,
+      "current": "S",
+      "alternatives": [
+        "S"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p36.png",
+      "crop_sha256": "2456cea9e1be3da876d20bc0779cf1e45422c9e3322ec1b32edffeb4290d52c2",
+      "native_xyxy": [
+        2041,
+        1755,
+        2110,
+        1855
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 37,
+      "row": 3,
+      "row_position": 7,
+      "group": 2,
+      "position_in_group": 2,
+      "current": "L",
+      "alternatives": [
+        "L"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p37.png",
+      "crop_sha256": "ee7c3d171b598224a2624a90482b82f1a5133e24f5913671f82339c2dd2b30c1",
+      "native_xyxy": [
+        2114,
+        1755,
+        2183,
+        1855
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 38,
+      "row": 3,
+      "row_position": 8,
+      "group": 2,
+      "position_in_group": 3,
+      "current": "L",
+      "alternatives": [
+        "L"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p38.png",
+      "crop_sha256": "91dbbcca2162a401fff6a7eb3eebcc0c3a17e74b77fae353d3f2a414fb27589b",
+      "native_xyxy": [
+        2186,
+        1755,
+        2255,
+        1855
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 39,
+      "row": 3,
+      "row_position": 9,
+      "group": 2,
+      "position_in_group": 4,
+      "current": "I",
+      "alternatives": [
+        "I"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p39.png",
+      "crop_sha256": "d675a9ea4da1a8be4ae6b1de64241203c2d2631d80ea42de95aa632902bc58af",
+      "native_xyxy": [
+        2256,
+        1755,
+        2325,
+        1855
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 40,
+      "row": 3,
+      "row_position": 10,
+      "group": 2,
+      "position_in_group": 5,
+      "current": "X",
+      "alternatives": [
+        "X"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p40.png",
+      "crop_sha256": "a95cbabbfbd6277c7e31b2407ccfbe645f48168728e100e0056d5d2ead1b9f5d",
+      "native_xyxy": [
+        2344,
+        1755,
+        2413,
+        1855
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 41,
+      "row": 3,
+      "row_position": 11,
+      "group": 3,
+      "position_in_group": 1,
+      "current": "D",
+      "alternatives": [
+        "D"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p41.png",
+      "crop_sha256": "2d3a18c20a0d3732c4ed5fe752247bb675525fda4b4bdf4d2bb5508c9d72229f",
+      "native_xyxy": [
+        2498,
+        1755,
+        2567,
+        1855
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 42,
+      "row": 3,
+      "row_position": 12,
+      "group": 3,
+      "position_in_group": 2,
+      "current": "R",
+      "alternatives": [
+        "R"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p42.png",
+      "crop_sha256": "944b969cc73a55132dabcf3930cf260f855f5720dd330729840a177e2e7acbc2",
+      "native_xyxy": [
+        2573,
+        1755,
+        2642,
+        1855
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 43,
+      "row": 3,
+      "row_position": 13,
+      "group": 3,
+      "position_in_group": 3,
+      "current": "U",
+      "alternatives": [
+        "U"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p43.png",
+      "crop_sha256": "3dcb5c6a8eecc2956fe8815aeb8eca84a880c63d3930d29b3d6b2ff44f6d8815",
+      "native_xyxy": [
+        2646,
+        1755,
+        2715,
+        1855
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 44,
+      "row": 3,
+      "row_position": 14,
+      "group": 3,
+      "position_in_group": 4,
+      "current": "R",
+      "alternatives": [
+        "R"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p44.png",
+      "crop_sha256": "a39f8583b639ee432cebc01cb9c9e6e5e5bbdc32fda37ee0a91975de43fd550f",
+      "native_xyxy": [
+        2716,
+        1755,
+        2785,
+        1855
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 45,
+      "row": 3,
+      "row_position": 15,
+      "group": 3,
+      "position_in_group": 5,
+      "current": "E",
+      "alternatives": [
+        "E"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p45.png",
+      "crop_sha256": "0eff18da293552306fe48f0e084dd5488d26ee7d4e0f50ba7cab443e80a554fc",
+      "native_xyxy": [
+        2786,
+        1755,
+        2855,
+        1855
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 46,
+      "row": 4,
+      "row_position": 1,
+      "group": 1,
+      "position_in_group": 1,
+      "current": "O",
+      "alternatives": [
+        "O"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p46.png",
+      "crop_sha256": "c8f17140833c326d34e48b041ca31ba397ef85cd95070ce1ca749d7583ea9e7b",
+      "native_xyxy": [
+        1616,
+        1915,
+        1685,
+        2015
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 47,
+      "row": 4,
+      "row_position": 2,
+      "group": 1,
+      "position_in_group": 2,
+      "current": "A",
+      "alternatives": [
+        "A"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p47.png",
+      "crop_sha256": "573e443361e6b964dffb017fef106e1e500139f5b103dd56d327f59a5a6ca74b",
+      "native_xyxy": [
+        1691,
+        1915,
+        1760,
+        2015
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 48,
+      "row": 4,
+      "row_position": 3,
+      "group": 1,
+      "position_in_group": 3,
+      "current": "E",
+      "alternatives": [
+        "E"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p48.png",
+      "crop_sha256": "804ee1ffe9b7c9342c485dbbc7d844d4f742a0e2f9a21a6334eb3ac4100f3ca4",
+      "native_xyxy": [
+        1761,
+        1915,
+        1830,
+        2015
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 49,
+      "row": 4,
+      "row_position": 4,
+      "group": 1,
+      "position_in_group": 4,
+      "current": "E",
+      "alternatives": [
+        "E"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [
+        "short detached stroke below E"
+      ],
+      "crop": "sources/inspection/cold_source_v1/grouped_p49.png",
+      "crop_sha256": "fff3ea7876d377129f1b6122268042f8988795e33fd518c29326298b36b00610",
+      "native_xyxy": [
+        1826,
+        1915,
+        1895,
+        2015
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 50,
+      "row": 4,
+      "row_position": 5,
+      "group": 1,
+      "position_in_group": 5,
+      "current": "C",
+      "alternatives": [
+        "C"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p50.png",
+      "crop_sha256": "84d820fe9477f3ba8c3e8e82375b1914a2bfe7fdd2ea9f8fb72bed3459235a87",
+      "native_xyxy": [
+        1896,
+        1915,
+        1965,
+        2015
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 51,
+      "row": 4,
+      "row_position": 6,
+      "group": 2,
+      "position_in_group": 1,
+      "current": "I",
+      "alternatives": [
+        "I"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p51.png",
+      "crop_sha256": "12a3c12aabe9df4452a228643ab929e47655eeca6436341bb28e060d851dd585",
+      "native_xyxy": [
+        2041,
+        1915,
+        2110,
+        2015
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 52,
+      "row": 4,
+      "row_position": 7,
+      "group": 2,
+      "position_in_group": 2,
+      "current": "O",
+      "alternatives": [
+        "O"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p52.png",
+      "crop_sha256": "715788485ead7bc44bea272fbfb4e5aec301cea5a7a61286003aa57ec04ac4b3",
+      "native_xyxy": [
+        2116,
+        1915,
+        2185,
+        2015
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 53,
+      "row": 4,
+      "row_position": 8,
+      "group": 2,
+      "position_in_group": 3,
+      "current": "A",
+      "alternatives": [
+        "A"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p53.png",
+      "crop_sha256": "7b8c9682c49b14e4a8f45f9174da410cc36592d93bae85b22a9b89f737d5eb9f",
+      "native_xyxy": [
+        2186,
+        1915,
+        2255,
+        2015
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 54,
+      "row": 4,
+      "row_position": 9,
+      "group": 2,
+      "position_in_group": 4,
+      "current": "E",
+      "alternatives": [
+        "E"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p54.png",
+      "crop_sha256": "6c48ef5d3f4b8dbb81105eb8b152acabe32758671d907bff149ee4bc11dc3297",
+      "native_xyxy": [
+        2266,
+        1915,
+        2335,
+        2015
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 55,
+      "row": 4,
+      "row_position": 10,
+      "group": 2,
+      "position_in_group": 5,
+      "current": "S",
+      "alternatives": [
+        "S"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p55.png",
+      "crop_sha256": "7371aceec9e913967dd917945d0c4969e09699459df4fde6539ad8db55fea83e",
+      "native_xyxy": [
+        2336,
+        1915,
+        2405,
+        2015
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 56,
+      "row": 4,
+      "row_position": 11,
+      "group": 3,
+      "position_in_group": 1,
+      "current": "A",
+      "alternatives": [
+        "A"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p56.png",
+      "crop_sha256": "2b908071a846ad1481e771ec688b35abcb725fb20a5506a6b75ffc475390f40b",
+      "native_xyxy": [
+        2486,
+        1915,
+        2555,
+        2015
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 57,
+      "row": 4,
+      "row_position": 12,
+      "group": 3,
+      "position_in_group": 2,
+      "current": "R",
+      "alternatives": [
+        "R"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p57.png",
+      "crop_sha256": "cc01fdbb05b8ef3f81e5d7bbad1818a20ac3488e0d3ef4770149a05bd5bbfcf5",
+      "native_xyxy": [
+        2566,
+        1915,
+        2635,
+        2015
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 58,
+      "row": 4,
+      "row_position": 13,
+      "group": 3,
+      "position_in_group": 3,
+      "current": "C",
+      "alternatives": [
+        "C"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p58.png",
+      "crop_sha256": "2931e25edd9ffe74650e1d9232e904f9227449ce7f82083bcc036e8e289f33be",
+      "native_xyxy": [
+        2636,
+        1915,
+        2705,
+        2015
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 59,
+      "row": 4,
+      "row_position": 14,
+      "group": 3,
+      "position_in_group": 4,
+      "current": "H",
+      "alternatives": [
+        "H"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p59.png",
+      "crop_sha256": "bd57835699550b7e38ad66ddb65764f5bd21788c213632f3e28895a5e0ab3f7a",
+      "native_xyxy": [
+        2711,
+        1915,
+        2780,
+        2015
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 60,
+      "row": 4,
+      "row_position": 15,
+      "group": 3,
+      "position_in_group": 5,
+      "current": "E",
+      "alternatives": [
+        "E"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p60.png",
+      "crop_sha256": "123ee37ff152c7554995baeac5c08dff54d69b457663819277f32f59c9658115",
+      "native_xyxy": [
+        2786,
+        1915,
+        2855,
+        2015
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 61,
+      "row": 5,
+      "row_position": 1,
+      "group": 1,
+      "position_in_group": 1,
+      "current": "V",
+      "alternatives": [
+        "V"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p61.png",
+      "crop_sha256": "ad8886af4e70089ae5aee88f8a9b3fe6c171fcaca1fde390d6d1b77a33dc3833",
+      "native_xyxy": [
+        1616,
+        2060,
+        1685,
+        2155
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 62,
+      "row": 5,
+      "row_position": 2,
+      "group": 1,
+      "position_in_group": 2,
+      "current": "R",
+      "alternatives": [
+        "R"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p62.png",
+      "crop_sha256": "2042f0487e5307fcb588ed001be2318b3b396ea04472328f4fe28d8ee3b944cc",
+      "native_xyxy": [
+        1691,
+        2060,
+        1760,
+        2155
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 63,
+      "row": 5,
+      "row_position": 3,
+      "group": 1,
+      "position_in_group": 3,
+      "current": "N",
+      "alternatives": [
+        "N"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p63.png",
+      "crop_sha256": "2a1cc786fc754fe0065fb39d9992daa04648bf457d5071a1d104c2e523ca245b",
+      "native_xyxy": [
+        1751,
+        2060,
+        1820,
+        2155
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 64,
+      "row": 5,
+      "row_position": 4,
+      "group": 1,
+      "position_in_group": 4,
+      "current": "A",
+      "alternatives": [
+        "A"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [],
+      "crop": "sources/inspection/cold_source_v1/grouped_p64.png",
+      "crop_sha256": "fa0f8787c48edf0e2bbc37beebf4d06668663859d233c29dd69a304253a6ee7e",
+      "native_xyxy": [
+        1841,
+        2060,
+        1910,
+        2155
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    }
+  ],
+  "earlier_red_retrace_layer": "No wholly hidden earlier value reconstructed at location 7."
+}

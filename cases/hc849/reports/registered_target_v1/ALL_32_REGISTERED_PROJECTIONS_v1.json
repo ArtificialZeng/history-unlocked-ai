@@ -1,0 +1,429 @@
+{
+  "started_utc": "2026-10-05T20:06:35.382366+00:00",
+  "completed_utc": "2026-10-05T20:06:35.391368+00:00",
+  "registered_settings": 32,
+  "all_forward_exact": true,
+  "source_letters_or_key_changes": 0,
+  "candidate_selection_using_language": false,
+  "whole_previous_source_layer_claim": false,
+  "unknown_key_recovery": false,
+  "registered_config_sha256": "d93f81dffb37be73c181aeebce988aa79aab47fb2d4e3af7301de635cde90f63",
+  "records": [
+    {
+      "id": "a0_d-1_hrow-major_crow-major",
+      "settings": {
+        "start": 0,
+        "direction": -1,
+        "hole_scan": "row-major",
+        "cipher_order": "row-major"
+      },
+      "plaintext_literal": "OTTRNODKJVIXEEHNRKEAXNXPONDREICVAPOZSNLSLUACAARRODAFDDEZLROEOSEA",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a0_d-1_hrow-major_ccolumn-major",
+      "settings": {
+        "start": 0,
+        "direction": -1,
+        "hole_scan": "row-major",
+        "cipher_order": "column-major"
+      },
+      "plaintext_literal": "FRANCOUZSKAVLADARVENCNIPRAPORXXXTDOKOREJEDENINTESEROZHODLAODESLA",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a0_d-1_hcolumn-major_crow-major",
+      "settings": {
+        "start": 0,
+        "direction": -1,
+        "hole_scan": "column-major",
+        "cipher_order": "row-major"
+      },
+      "plaintext_literal": "TVOOKHRJEDENINTXRDENCNIPRKAVOXXESRANCOUZSAPLRALAFERZOOEDLAODESDA",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a0_d-1_hcolumn-major_ccolumn-major",
+      "settings": {
+        "start": 0,
+        "direction": -1,
+        "hole_scan": "column-major",
+        "cipher_order": "column-major"
+      },
+      "plaintext_literal": "AKOFZDNSLUACAARVRPEAXNXPOVNXRICROTTRNODKJIDEEEENODADSELZLROEOSHA",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a0_d1_hrow-major_crow-major",
+      "settings": {
+        "start": 0,
+        "direction": 1,
+        "hole_scan": "row-major",
+        "cipher_order": "row-major"
+      },
+      "plaintext_literal": "OTTRNODKJVIXEEHNODAFDDEZLROEOSEAAPOZSNLSLUACAARRRKEAXNXPONDREICV",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a0_d1_hrow-major_ccolumn-major",
+      "settings": {
+        "start": 0,
+        "direction": 1,
+        "hole_scan": "row-major",
+        "cipher_order": "column-major"
+      },
+      "plaintext_literal": "FRANCOUZSKAVLADASEROZHODLAODESLATDOKOREJEDENINTERVENCNIPRAPORXXX",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": true
+    },
+    {
+      "id": "a0_d1_hcolumn-major_crow-major",
+      "settings": {
+        "start": 0,
+        "direction": 1,
+        "hole_scan": "column-major",
+        "cipher_order": "row-major"
+      },
+      "plaintext_literal": "TVOOKHRJEDENINTXFERZOOEDLAODESDASRANCOUZSAPLRALARDENCNIPRKAVOXXE",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a0_d1_hcolumn-major_ccolumn-major",
+      "settings": {
+        "start": 0,
+        "direction": 1,
+        "hole_scan": "column-major",
+        "cipher_order": "column-major"
+      },
+      "plaintext_literal": "AKOFZDNSLUACAARVODADSELZLROEOSHAOTTRNODKJIDEEEENRPEAXNXPOVNXRICR",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a1_d-1_hrow-major_crow-major",
+      "settings": {
+        "start": 1,
+        "direction": -1,
+        "hole_scan": "row-major",
+        "cipher_order": "row-major"
+      },
+      "plaintext_literal": "ODAFDDEZLROEOSEAOTTRNODKJVIXEEHNRKEAXNXPONDREICVAPOZSNLSLUACAARR",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a1_d-1_hrow-major_ccolumn-major",
+      "settings": {
+        "start": 1,
+        "direction": -1,
+        "hole_scan": "row-major",
+        "cipher_order": "column-major"
+      },
+      "plaintext_literal": "SEROZHODLAODESLAFRANCOUZSKAVLADARVENCNIPRAPORXXXTDOKOREJEDENINTE",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a1_d-1_hcolumn-major_crow-major",
+      "settings": {
+        "start": 1,
+        "direction": -1,
+        "hole_scan": "column-major",
+        "cipher_order": "row-major"
+      },
+      "plaintext_literal": "FERZOOEDLAODESDATVOOKHRJEDENINTXRDENCNIPRKAVOXXESRANCOUZSAPLRALA",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a1_d-1_hcolumn-major_ccolumn-major",
+      "settings": {
+        "start": 1,
+        "direction": -1,
+        "hole_scan": "column-major",
+        "cipher_order": "column-major"
+      },
+      "plaintext_literal": "ODADSELZLROEOSHAAKOFZDNSLUACAARVRPEAXNXPOVNXRICROTTRNODKJIDEEEEN",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a1_d1_hrow-major_crow-major",
+      "settings": {
+        "start": 1,
+        "direction": 1,
+        "hole_scan": "row-major",
+        "cipher_order": "row-major"
+      },
+      "plaintext_literal": "ODAFDDEZLROEOSEAAPOZSNLSLUACAARRRKEAXNXPONDREICVOTTRNODKJVIXEEHN",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a1_d1_hrow-major_ccolumn-major",
+      "settings": {
+        "start": 1,
+        "direction": 1,
+        "hole_scan": "row-major",
+        "cipher_order": "column-major"
+      },
+      "plaintext_literal": "SEROZHODLAODESLATDOKOREJEDENINTERVENCNIPRAPORXXXFRANCOUZSKAVLADA",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a1_d1_hcolumn-major_crow-major",
+      "settings": {
+        "start": 1,
+        "direction": 1,
+        "hole_scan": "column-major",
+        "cipher_order": "row-major"
+      },
+      "plaintext_literal": "FERZOOEDLAODESDASRANCOUZSAPLRALARDENCNIPRKAVOXXETVOOKHRJEDENINTX",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a1_d1_hcolumn-major_ccolumn-major",
+      "settings": {
+        "start": 1,
+        "direction": 1,
+        "hole_scan": "column-major",
+        "cipher_order": "column-major"
+      },
+      "plaintext_literal": "ODADSELZLROEOSHAOTTRNODKJIDEEEENRPEAXNXPOVNXRICRAKOFZDNSLUACAARV",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a2_d-1_hrow-major_crow-major",
+      "settings": {
+        "start": 2,
+        "direction": -1,
+        "hole_scan": "row-major",
+        "cipher_order": "row-major"
+      },
+      "plaintext_literal": "APOZSNLSLUACAARRODAFDDEZLROEOSEAOTTRNODKJVIXEEHNRKEAXNXPONDREICV",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a2_d-1_hrow-major_ccolumn-major",
+      "settings": {
+        "start": 2,
+        "direction": -1,
+        "hole_scan": "row-major",
+        "cipher_order": "column-major"
+      },
+      "plaintext_literal": "TDOKOREJEDENINTESEROZHODLAODESLAFRANCOUZSKAVLADARVENCNIPRAPORXXX",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a2_d-1_hcolumn-major_crow-major",
+      "settings": {
+        "start": 2,
+        "direction": -1,
+        "hole_scan": "column-major",
+        "cipher_order": "row-major"
+      },
+      "plaintext_literal": "SRANCOUZSAPLRALAFERZOOEDLAODESDATVOOKHRJEDENINTXRDENCNIPRKAVOXXE",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a2_d-1_hcolumn-major_ccolumn-major",
+      "settings": {
+        "start": 2,
+        "direction": -1,
+        "hole_scan": "column-major",
+        "cipher_order": "column-major"
+      },
+      "plaintext_literal": "OTTRNODKJIDEEEENODADSELZLROEOSHAAKOFZDNSLUACAARVRPEAXNXPOVNXRICR",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a2_d1_hrow-major_crow-major",
+      "settings": {
+        "start": 2,
+        "direction": 1,
+        "hole_scan": "row-major",
+        "cipher_order": "row-major"
+      },
+      "plaintext_literal": "APOZSNLSLUACAARRRKEAXNXPONDREICVOTTRNODKJVIXEEHNODAFDDEZLROEOSEA",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a2_d1_hrow-major_ccolumn-major",
+      "settings": {
+        "start": 2,
+        "direction": 1,
+        "hole_scan": "row-major",
+        "cipher_order": "column-major"
+      },
+      "plaintext_literal": "TDOKOREJEDENINTERVENCNIPRAPORXXXFRANCOUZSKAVLADASEROZHODLAODESLA",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a2_d1_hcolumn-major_crow-major",
+      "settings": {
+        "start": 2,
+        "direction": 1,
+        "hole_scan": "column-major",
+        "cipher_order": "row-major"
+      },
+      "plaintext_literal": "SRANCOUZSAPLRALARDENCNIPRKAVOXXETVOOKHRJEDENINTXFERZOOEDLAODESDA",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a2_d1_hcolumn-major_ccolumn-major",
+      "settings": {
+        "start": 2,
+        "direction": 1,
+        "hole_scan": "column-major",
+        "cipher_order": "column-major"
+      },
+      "plaintext_literal": "OTTRNODKJIDEEEENRPEAXNXPOVNXRICRAKOFZDNSLUACAARVODADSELZLROEOSHA",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a3_d-1_hrow-major_crow-major",
+      "settings": {
+        "start": 3,
+        "direction": -1,
+        "hole_scan": "row-major",
+        "cipher_order": "row-major"
+      },
+      "plaintext_literal": "RKEAXNXPONDREICVAPOZSNLSLUACAARRODAFDDEZLROEOSEAOTTRNODKJVIXEEHN",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a3_d-1_hrow-major_ccolumn-major",
+      "settings": {
+        "start": 3,
+        "direction": -1,
+        "hole_scan": "row-major",
+        "cipher_order": "column-major"
+      },
+      "plaintext_literal": "RVENCNIPRAPORXXXTDOKOREJEDENINTESEROZHODLAODESLAFRANCOUZSKAVLADA",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a3_d-1_hcolumn-major_crow-major",
+      "settings": {
+        "start": 3,
+        "direction": -1,
+        "hole_scan": "column-major",
+        "cipher_order": "row-major"
+      },
+      "plaintext_literal": "RDENCNIPRKAVOXXESRANCOUZSAPLRALAFERZOOEDLAODESDATVOOKHRJEDENINTX",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a3_d-1_hcolumn-major_ccolumn-major",
+      "settings": {
+        "start": 3,
+        "direction": -1,
+        "hole_scan": "column-major",
+        "cipher_order": "column-major"
+      },
+      "plaintext_literal": "RPEAXNXPOVNXRICROTTRNODKJIDEEEENODADSELZLROEOSHAAKOFZDNSLUACAARV",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a3_d1_hrow-major_crow-major",
+      "settings": {
+        "start": 3,
+        "direction": 1,
+        "hole_scan": "row-major",
+        "cipher_order": "row-major"
+      },
+      "plaintext_literal": "RKEAXNXPONDREICVOTTRNODKJVIXEEHNODAFDDEZLROEOSEAAPOZSNLSLUACAARR",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a3_d1_hrow-major_ccolumn-major",
+      "settings": {
+        "start": 3,
+        "direction": 1,
+        "hole_scan": "row-major",
+        "cipher_order": "column-major"
+      },
+      "plaintext_literal": "RVENCNIPRAPORXXXFRANCOUZSKAVLADASEROZHODLAODESLATDOKOREJEDENINTE",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a3_d1_hcolumn-major_crow-major",
+      "settings": {
+        "start": 3,
+        "direction": 1,
+        "hole_scan": "column-major",
+        "cipher_order": "row-major"
+      },
+      "plaintext_literal": "RDENCNIPRKAVOXXETVOOKHRJEDENINTXFERZOOEDLAODESDASRANCOUZSAPLRALA",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    },
+    {
+      "id": "a3_d1_hcolumn-major_ccolumn-major",
+      "settings": {
+        "start": 3,
+        "direction": 1,
+        "hole_scan": "column-major",
+        "cipher_order": "column-major"
+      },
+      "plaintext_literal": "RPEAXNXPOVNXRICRAKOFZDNSLUACAARVODADSELZLROEOSHAOTTRNODKJIDEEEEN",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false
+    }
+  ]
+}

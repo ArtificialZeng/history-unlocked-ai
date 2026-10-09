@@ -1,0 +1,12 @@
+{
+  "created_utc": "2026-10-05T17:41:16.239682+00:00",
+  "after_primary_array_seals": true,
+  "mismatches": [
+    {
+      "index": 100,
+      "typed": "A",
+      "additional_grouped": "H"
+    }
+  ],
+  "source_rewrites": false
+}

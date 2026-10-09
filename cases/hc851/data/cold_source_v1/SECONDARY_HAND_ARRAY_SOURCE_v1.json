@@ -1,0 +1,90 @@
+{
+  "frozen_utc": "2026-10-05T17:35:41.298825+00:00",
+  "source": "sources/raw/HC851_public_grille_original.jpg",
+  "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+  "basis": "Four native handwritten-array crops visually transcribed independently; no computation/selection from primary stream performed before this seal. Same observer had viewed both originals, so no blinded-independent-observer claim.",
+  "arrays": [
+    [
+      "DNEIRE",
+      "NESANS",
+      "ICICHH",
+      "GCRWHI",
+      "TGEFEG",
+      "EETRFE"
+    ],
+    [
+      "NNIDGN",
+      "UILNDE",
+      "ALEGOE",
+      "SHONAN",
+      "FDESER",
+      "BDNOTA"
+    ],
+    [
+      "RWTIXH",
+      "ATRUPI",
+      "DSFECN",
+      "TESHRT",
+      "NGAAES",
+      "WERNDW"
+    ],
+    [
+      "EETRLH",
+      "NKLHOE",
+      "EUBGNT",
+      "EOFDME",
+      "BSTMEO",
+      "PBNAIB"
+    ]
+  ],
+  "number_of_arrays": 4,
+  "geometry_each": [
+    6,
+    6
+  ],
+  "ASCII_observation_stream": "DNEIRENESANSICICHHGCRWHITGEFEGEETRFENNIDGNUILNDEALEGOESHONANFDESERBDNOTARWTIXHATRUPIDSFECNTESHRTNGAAESWERNDWEETRLHNKLHOEEUBGNTEOFDMEBSTMEOPBNAIB",
+  "letter_occurrences": 144,
+  "reading_order": "Arrays numbered 1,2,3,4 as visibly labelled; each has rows top to bottom and columns left to right. This is a source coordinate convention, not a decode mechanism.",
+  "U_W_source_holds": [
+    {
+      "array": 2,
+      "row": 2,
+      "column": 1,
+      "alternatives": [
+        "U",
+        "W"
+      ]
+    },
+    {
+      "array": 3,
+      "row": 1,
+      "column": 2,
+      "alternatives": [
+        "W",
+        "U"
+      ]
+    },
+    {
+      "array": 3,
+      "row": 2,
+      "column": 4,
+      "alternatives": [
+        "U",
+        "W"
+      ]
+    },
+    {
+      "array": 4,
+      "row": 3,
+      "column": 2,
+      "alternatives": [
+        "U",
+        "W"
+      ]
+    }
+  ],
+  "dotted_i_case_policy": "Dotted i-like handwriting transcribed ASCII I, case folding explicitly recorded; dots retained in original/crops.",
+  "annotations_retained": 18,
+  "no_plaintext_inference": true,
+  "freeze_status": "SECONDARY_ARRAY_SOURCE_FROZEN_WITH_FOUR_U_W_SHAPE_HOLDS"
+}

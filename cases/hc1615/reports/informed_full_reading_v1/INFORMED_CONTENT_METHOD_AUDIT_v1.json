@@ -1,0 +1,44 @@
+{
+  "frozen_utc": "2026-10-06T04:57:58.607660+00:00",
+  "mode": "INFORMED_CONDITIONAL_PROPOSED_READING_AUDIT",
+  "first_targetP_read": "2026-10-06T04:51:04.454143+00:00",
+  "prior_key_already_known": true,
+  "coldsource_kept_immutable": true,
+  "wholecontent": "Coherent complete proposedCzechreading with printedNewYeargreeting asordinarycontext; no added/deleted/replacedcipherletters, reordering or grammarrepair needed. Editorial accents/case separate.",
+  "literal_rows": [
+    "do třetice ti",
+    "preje a v duchu",
+    "na sladka usta",
+    "tvoje vrelou,",
+    "dlouhou pusu",
+    "tiskne vecne",
+    "tvuj pepous."
+  ],
+  "editorial_display": "Do třetice ti přeje a v duchu na sladká ústa tvoje vřelou, dlouhou pusu tiskne věčně tvůj Pepouš.",
+  "ordinary_printed_header": "Šťastný nový rok!",
+  "header_role": "Ordinaryobservedprint contextualobject of wishes, not extra cipherletters. Root sawheaderaftersecondprojection; sourceobservershadordinarycontextexposure earlier; thisobserver aftercandidate.",
+  "physical_source": "Bothcomplete1785x1175faces/body/all7fullnativecodedrows actuallyviewed; lightbodycrossedbywatermark yetpreferredinkvisible; addressfaceordinarypostaltext. Fullrowauthority plusordinal, no exclusiveglyphmasks.",
+  "method": "Registeredonefallback compositionoperator, not arbitrarynewletterlookup: fixedknownwhole22table first; onlyunmapped wholeunit withknownsingleletterbase andonefrozen2-strokeCARON_LIKEmark gets NFC(basevalue+030C). ExistingR_MARK->ch takesprecedence.",
+  "actualcase_fallback": "Oneh-markedunit: h mapsr andcaron givesř. 76baselinevalues unchanged; no sourceedit/keyrefit/perpositionexception.",
+  "method_limit": "Proposedafterfirstpartialoutput; root knewprioralphabet/couldrecognizefirstrow. Sourcecaronshape doesnotestablishsemanticdiacriticrole. One newapplicationdoesnotverify universalcaronsemantics or authorkey.",
+  "counts": {
+    "preferredunits": 77,
+    "tableunits": 76,
+    "fallbackunits": 1,
+    "primaryprimitive_components": 81,
+    "common83_graphicatoms_includingpunctuation": 83,
+    "semantic_letter_codepoints": 78,
+    "group_count": 18,
+    "row_count": 7,
+    "mark_and_punctuation_events": 4
+  },
+  "holds": [
+    "R06G02U03 s primary/4 independent, unresolvedbeforesemanticlookup",
+    "H-markh/r corealternative andmarkindependent/composite role",
+    "R_MARK type/fontmatching alternatives andmarkownership",
+    "Bare-r intrinsicupperentry versusmarkrolehold"
+  ],
+  "recommendation": "PASS for informedcontent/method eligibility of clearlylabelledLOCAL CONDITIONAL PROPOSED_READING notePDF/sourceZIP; completeindependentcanonicalforward/profile certificate and finalpackage/render/tamper audits still required. Not historicaluniqueness/officialSolved/priority/expertconfirmation.",
+  "source_forward_accounting": "All77 rulevalues independentlyrecomputed; all11modelsourcepins unchanged; all7nativerows rawRGB replay;81primitiveIDs coveredonce;18groups/7rowliteral/eventcarry match. Separateindependentmarkmodel audit supplies finalfullcanonicalprofile/forward-inverse certificate; do not claim that gate alreadyfinishedhere.",
+  "no_source_state_log_git_editor_contact_publication_changes": true
+}

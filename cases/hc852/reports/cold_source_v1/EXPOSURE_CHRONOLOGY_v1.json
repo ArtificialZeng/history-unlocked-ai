@@ -1,0 +1,18 @@
+{
+  "registered_utc": "2026-10-05T21:21:13.089195+00:00",
+  "native_observation_review_completed_utc": "2026-10-05T21:40:09.202758+00:00",
+  "timing_resolution": "Tool interaction order retained; individual first fullface/crop timestamps were not separately instrumented. No exact event times invented.",
+  "required_context_read_before_registration": [
+    "AGENTS.md",
+    "README.md",
+    "DECIPHERMENT_PROTOCOL_v1.md",
+    "PROJECT_STATE.json",
+    "sources/SOURCE_ONLY_SCOPE_v1.md"
+  ],
+  "prior_disclosed_source_summary": "Rootrough30/30/4 and8×8 disclosed before this observer looked.",
+  "root_pre_freeze_exposure": "Parent reports one tentative mental partial projection before own source freeze. Content remains hidden and unread by this observer. Root is not fully blind.",
+  "observer_candidate_exposure": "None. Root pre-freeze exposure file/provisional inputs/code/target outputs were never read; no route/coverage/plaintext calculation performed.",
+  "native_views": "All3 fullfaces viewed withdetailoriginal; provider still resized to2048×659/1368×1824/1747×1440. All primary64typed+64physicalcells then inspected in native1:1 strips; notebook64array+64preferredcurrentcopy+5cancelledunits and context/annotations likewise native.",
+  "independence_scope": "Independent manual source author; parentroughcounts already disclosed. No claim of fully blind discovery or unknown-key recovery.",
+  "source_key_status": "Publicly supplied physical stencil, not modern public-key cryptography."
+}

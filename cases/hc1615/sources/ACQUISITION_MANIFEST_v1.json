@@ -1,0 +1,44 @@
+{
+  "created_utc": "2026-10-06T04:21:15.498474+00:00",
+  "copies": [
+    {
+      "from": "/Users/zeng/Documents/解谜/historical_cipher_scout/reports/nearest_1901_anna_clear_glyph_gate_2026-10-06_v1/raw/HC1615_detail.response",
+      "path": "sources/raw/HC1615_API_detail.response",
+      "bytes": 2044,
+      "sha256": "c87a8613ae217a800003f065c37b90a3bd63d7d4949a75ab7ca634e9e63a7ef2"
+    },
+    {
+      "from": "/Users/zeng/Documents/解谜/historical_cipher_scout/reports/nearest_1901_anna_clear_glyph_gate_2026-10-06_v1/raw/HC1615_original_1.jpg",
+      "path": "sources/raw/HC1615_picture_original.jpg",
+      "bytes": 1053373,
+      "sha256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3"
+    },
+    {
+      "from": "/Users/zeng/Documents/解谜/historical_cipher_scout/reports/nearest_1901_anna_clear_glyph_gate_2026-10-06_v1/raw/HC1615_original_2.jpg",
+      "path": "sources/raw/HC1615_address_original.jpg",
+      "bytes": 1053796,
+      "sha256": "f1f50546c921d524f58780c5013547419038c1e120bf4022baf7cad6167bb1be"
+    },
+    {
+      "from": "/Users/zeng/Documents/解谜/historical_cipher_scout/reports/nearest_1901_anna_clear_glyph_gate_2026-10-06_v1/HC1615_detail.response.receipt.json",
+      "path": "sources/provenance/HC1615_API.receipt.json",
+      "bytes": 962,
+      "sha256": "84afd147f85392b80ce591ffc94d1a36849a2e6730ed150fe1302e252f85fab7"
+    },
+    {
+      "from": "/Users/zeng/Documents/解谜/historical_cipher_scout/reports/nearest_1901_anna_clear_glyph_gate_2026-10-06_v1/HC1615_original_1.jpg.receipt.json",
+      "path": "sources/provenance/HC1615_picture.receipt.json",
+      "bytes": 960,
+      "sha256": "9195f4b021c4af9a92d1cc9c490300566996f3e022ad7ba81f0a2d4e92e9090f"
+    },
+    {
+      "from": "/Users/zeng/Documents/解谜/historical_cipher_scout/reports/nearest_1901_anna_clear_glyph_gate_2026-10-06_v1/HC1615_original_2.jpg.receipt.json",
+      "path": "sources/provenance/HC1615_address.receipt.json",
+      "bytes": 960,
+      "sha256": "9521bb42474ad860c9735ba58d7c6075f28f257b89153f0aadc3cffe7e08b033"
+    }
+  ],
+  "new_GETs": 0,
+  "target_only_raw_inputs": true,
+  "source_palette_scope": "Limited raw graphic prototypes; post-donor-inference/edge/broadbox qualifications retained. No complete old ciphertext/plaintext/models copied."
+}

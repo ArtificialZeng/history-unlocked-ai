@@ -1,0 +1,21 @@
+{
+  "recorded_utc": "2026-10-05T20:48:03.135201+00:00",
+  "script": {
+    "path": "scripts/check_hc849_release_v1.py",
+    "bytes": 22942,
+    "sha256": "18214dce4b8a5a4bb744d0ed50a9510801b662c161ce01eef98b1945b2995541"
+  },
+  "config": {
+    "path": "reports/independent_release_checker_v1/CHECKER_EXPECTATIONS_v1.json",
+    "bytes": 5813,
+    "sha256": "a9cc65a3a12067c80d6b9c5dc4e2acab6583c9373c4612714948614efdd52039"
+  },
+  "own_codec_sha256": "5c2d8c3bbf1f54ecf8c43583e0f7e8f875a167050ab12d7e4a393f230f095e16",
+  "required_frozen_artifacts_count": 24,
+  "default_status": "PASS SCOPED CURRENT-BODY READ-ONLY CHECK",
+  "integrity_status": "PASS SCOPED CURRENT-BODY READ-ONLY CHECK",
+  "portability_status": "PASS SCOPED CURRENT-BODY READ-ONLY CHECK",
+  "all_five_counterfactuals_rejected": true,
+  "portable_file_census_unchanged": true,
+  "package_not_yet_created": true
+}

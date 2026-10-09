@@ -1,0 +1,44 @@
+{
+  "case": 852,
+  "row": {
+    "case": 852,
+    "API_HTTP_status": 200,
+    "API_success": true,
+    "access_utc": "2026-10-05T21:06:10.701111+00:00",
+    "raw_response_sha256": "fe56e2c5160446162059fa4a8456acb4b9cf7f7aac5aa635162afd84cf610036",
+    "official_URL": "https://api.hcportal.eu/api/cryptograms/852",
+    "name": "Cryptogram n. 5b in 13 149",
+    "language": {
+      "id": 8,
+      "name": "German"
+    },
+    "date_around": "1952",
+    "archive": {
+      "id": 22,
+      "name": "box BF388a, 27-19/6-099",
+      "fond_id": 14,
+      "fond": {
+        "id": 14,
+        "name": "ZSGS",
+        "archive_id": 5,
+        "archive": {
+          "id": 5,
+          "name": "Archiv bezpečnostních složek"
+        }
+      }
+    },
+    "solution_field_scope": "Catalogue status selector (not decoded answer) if id/name only",
+    "catalogue_solution_status": {
+      "id": 1,
+      "name": "Not solved"
+    },
+    "current_status_verified_from_specific_official_JSON": true,
+    "cipher_key_id_is_null": true,
+    "note_empty": true,
+    "full_answer_text_not_extracted": true,
+    "world_solvedness": "unknown beyond this catalogue selector"
+  },
+  "parent_manifest_sha256": "cfee84cdd73c11df9f3a85645ef6002272915c1b1da5f72b003e33ad67baf44f",
+  "parent_API_sha256": "fe56e2c5160446162059fa4a8456acb4b9cf7f7aac5aa635162afd84cf610036",
+  "copied_raw_source_only": true
+}

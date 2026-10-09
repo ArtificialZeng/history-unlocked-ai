@@ -1,0 +1,1701 @@
+{
+  "case": "HC849",
+  "source": "sources/raw/HC849_original_2.jpg",
+  "source_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+  "row_count": 8,
+  "column_count": 8,
+  "placements_count": 64,
+  "preferred_rows_ascii": [
+    "RTFSVDER",
+    "AEONNRCC",
+    "OONKZUIH",
+    "ORZPSROE",
+    "KADJLEAV",
+    "PADOLOER",
+    "DNXEIASN",
+    "TXDLXEAA"
+  ],
+  "ordering": "row/column location inventory only. No plaintext or route calculated.",
+  "normalization": "Capital ASCII preferences explicitly transcribe graphic shapes. Block forms/cursive forms/modifiers remain explicit alternatives; preferences are not imposed source repairs.",
+  "placements": [
+    {
+      "placement_id": "A11",
+      "row": 1,
+      "column": 1,
+      "observer_preferred_ascii": "R",
+      "raw_graphic": "R",
+      "alternatives": [
+        "R"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r1_c1.png",
+      "crop_sha256": "5bdf02550fb36b0d3e15b343304588264fb05ac0497d8f9deab8f9df23d79eaf",
+      "native_xyxy": [
+        200,
+        1115,
+        340,
+        1272
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A12",
+      "row": 1,
+      "column": 2,
+      "observer_preferred_ascii": "T",
+      "raw_graphic": "T",
+      "alternatives": [
+        "T"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r1_c2.png",
+      "crop_sha256": "a6d2fbef57dcd0afa69d783601fe5920fc4257ab5ca2c52d1a5154cead01da0d",
+      "native_xyxy": [
+        360,
+        1115,
+        495,
+        1272
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A13",
+      "row": 1,
+      "column": 3,
+      "observer_preferred_ascii": "F",
+      "raw_graphic": "F",
+      "alternatives": [
+        "F"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r1_c3.png",
+      "crop_sha256": "9b270b47b36119e72084747f36a6891c8715b908bf1947fb2308b28f8a6090f6",
+      "native_xyxy": [
+        505,
+        1115,
+        640,
+        1272
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A14",
+      "row": 1,
+      "column": 4,
+      "observer_preferred_ascii": "S",
+      "raw_graphic": "S",
+      "alternatives": [
+        "S"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r1_c4.png",
+      "crop_sha256": "3833a68ff1a5bdb3b21378db272c6e9fa7ff0a05ffb5e7cb5c55bfc2a6cc454e",
+      "native_xyxy": [
+        650,
+        1115,
+        790,
+        1272
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A15",
+      "row": 1,
+      "column": 5,
+      "observer_preferred_ascii": "V",
+      "raw_graphic": "V",
+      "alternatives": [
+        "V"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r1_c5.png",
+      "crop_sha256": "01b1c2d65b2ca5edbfa6073010408ac8329a9541fe15a2290b046d23ba5545b0",
+      "native_xyxy": [
+        795,
+        1115,
+        935,
+        1272
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A16",
+      "row": 1,
+      "column": 6,
+      "observer_preferred_ascii": "D",
+      "raw_graphic": "D",
+      "alternatives": [
+        "D"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r1_c6.png",
+      "crop_sha256": "024b85ff6f67b702470d45b1b61f5e5805f20a71fb911be8b773c64b8bd232dc",
+      "native_xyxy": [
+        945,
+        1115,
+        1090,
+        1272
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A17",
+      "row": 1,
+      "column": 7,
+      "observer_preferred_ascii": "E",
+      "raw_graphic": "E",
+      "alternatives": [
+        "E"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r1_c7.png",
+      "crop_sha256": "346be669b3c94e9573c4fcb09a6f2bd1feeb98471ad5b0613dd9bdb452bac4b8",
+      "native_xyxy": [
+        1100,
+        1115,
+        1238,
+        1272
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A18",
+      "row": 1,
+      "column": 8,
+      "observer_preferred_ascii": "R",
+      "raw_graphic": "R",
+      "alternatives": [
+        "R"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r1_c8.png",
+      "crop_sha256": "76e16462c91af075b5f04a89e9156e7992956776f4949154d963e803d564d3f5",
+      "native_xyxy": [
+        1250,
+        1115,
+        1395,
+        1272
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A21",
+      "row": 2,
+      "column": 1,
+      "observer_preferred_ascii": "A",
+      "raw_graphic": "closed-top block form with mid crossbar",
+      "alternatives": [
+        "A",
+        "H"
+      ],
+      "certainty": "preferred A, alternative H held",
+      "modifiers": [],
+      "notes": "Closed top supports the observer preferred A; unusual H form not silently excluded. No word or source-fit adjudication.",
+      "crop": "sources/inspection/cold_source_v1/array_r2_c1.png",
+      "crop_sha256": "4a39983ee433ff42337ec1eb6947d52cdbfd0451de99f7dadd3531a7c5195869",
+      "native_xyxy": [
+        200,
+        1280,
+        340,
+        1412
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A22",
+      "row": 2,
+      "column": 2,
+      "observer_preferred_ascii": "E",
+      "raw_graphic": "E",
+      "alternatives": [
+        "E"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r2_c2.png",
+      "crop_sha256": "6cd6f0b93750df6b815bcd6941b456b03f6e1d899a190b424a58c2b53b80c4fc",
+      "native_xyxy": [
+        360,
+        1280,
+        495,
+        1412
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A23",
+      "row": 2,
+      "column": 3,
+      "observer_preferred_ascii": "O",
+      "raw_graphic": "O",
+      "alternatives": [
+        "O"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r2_c3.png",
+      "crop_sha256": "a9f36561c23595bced85a05e8e733c3d696866442a5117c7a8de6e9b57af81e6",
+      "native_xyxy": [
+        505,
+        1280,
+        640,
+        1412
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A24",
+      "row": 2,
+      "column": 4,
+      "observer_preferred_ascii": "N",
+      "raw_graphic": "N",
+      "alternatives": [
+        "N"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r2_c4.png",
+      "crop_sha256": "6d9bb9397bb657e3baeb0576c94388503ecbc98e6a0d478af9620029f8da64b2",
+      "native_xyxy": [
+        650,
+        1280,
+        790,
+        1412
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A25",
+      "row": 2,
+      "column": 5,
+      "observer_preferred_ascii": "N",
+      "raw_graphic": "N",
+      "alternatives": [
+        "N"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r2_c5.png",
+      "crop_sha256": "28ffa69f5af98e1745820cd7d3d27ca94a9c83e92efdcc917e7f6b390d757913",
+      "native_xyxy": [
+        795,
+        1280,
+        935,
+        1412
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A26",
+      "row": 2,
+      "column": 6,
+      "observer_preferred_ascii": "R",
+      "raw_graphic": "R",
+      "alternatives": [
+        "R"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r2_c6.png",
+      "crop_sha256": "00883db521e34b11a67a3de174a7a76801e742f678e5e38e73fc3e9998e53da8",
+      "native_xyxy": [
+        945,
+        1280,
+        1090,
+        1412
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A27",
+      "row": 2,
+      "column": 7,
+      "observer_preferred_ascii": "C",
+      "raw_graphic": "C",
+      "alternatives": [
+        "C"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r2_c7.png",
+      "crop_sha256": "2ac16ec01446755522f91353439ebecc050a0f8c9bf2e3b99279a344dee65df6",
+      "native_xyxy": [
+        1100,
+        1280,
+        1238,
+        1412
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A28",
+      "row": 2,
+      "column": 8,
+      "observer_preferred_ascii": "C",
+      "raw_graphic": "C",
+      "alternatives": [
+        "C"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r2_c8.png",
+      "crop_sha256": "0a95d4c851d3c421982658de174fb77bc7361335bf33a07145529b85cab9a694",
+      "native_xyxy": [
+        1250,
+        1280,
+        1395,
+        1412
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A31",
+      "row": 3,
+      "column": 1,
+      "observer_preferred_ascii": "O",
+      "raw_graphic": "O",
+      "alternatives": [
+        "O"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r3_c1.png",
+      "crop_sha256": "fd5249e3317adb18ec68cc941a7738bc4855470bcc85fee88eb8a84775440573",
+      "native_xyxy": [
+        200,
+        1425,
+        340,
+        1568
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A32",
+      "row": 3,
+      "column": 2,
+      "observer_preferred_ascii": "O",
+      "raw_graphic": "O",
+      "alternatives": [
+        "O"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r3_c2.png",
+      "crop_sha256": "00954e88bdda28b75a08ad870c3b08d4997f85d5d6a883785aec54ddd6c75530",
+      "native_xyxy": [
+        360,
+        1425,
+        495,
+        1568
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A33",
+      "row": 3,
+      "column": 3,
+      "observer_preferred_ascii": "N",
+      "raw_graphic": "N",
+      "alternatives": [
+        "N"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r3_c3.png",
+      "crop_sha256": "e12ae253941192ef755d2987dbf11395738f41e7ea1e070a2d2655f227b924b6",
+      "native_xyxy": [
+        505,
+        1425,
+        640,
+        1568
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A34",
+      "row": 3,
+      "column": 4,
+      "observer_preferred_ascii": "K",
+      "raw_graphic": "K",
+      "alternatives": [
+        "K"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r3_c4.png",
+      "crop_sha256": "8711e281b78095e9cf022febd6705687928c49731e6be389fd67f389afad3624",
+      "native_xyxy": [
+        650,
+        1425,
+        790,
+        1568
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A35",
+      "row": 3,
+      "column": 5,
+      "observer_preferred_ascii": "Z",
+      "raw_graphic": "looped/cursive z-like form with crossing stroke",
+      "alternatives": [
+        "Z"
+      ],
+      "certainty": "high",
+      "modifiers": [
+        "crossing/upper loop retained"
+      ],
+      "notes": "Observer base reading Z; upper loop is not silently treated as an added language-specific diacritic.",
+      "crop": "sources/inspection/cold_source_v1/array_r3_c5.png",
+      "crop_sha256": "8bdb4de09ccb93c8005d30963670439793c001ea601960e6319908e262fb9be5",
+      "native_xyxy": [
+        795,
+        1425,
+        935,
+        1568
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A36",
+      "row": 3,
+      "column": 6,
+      "observer_preferred_ascii": "U",
+      "raw_graphic": "cursive u-like form with detached short overbar",
+      "alternatives": [
+        "U",
+        "W"
+      ],
+      "certainty": "preferred U, W held",
+      "modifiers": [
+        "detached horizontal overbar"
+      ],
+      "notes": "Macron-like mark retained as visible modifier, semantic role unassigned; ASCII base preferred U is explicit.",
+      "crop": "sources/inspection/cold_source_v1/array_r3_c6.png",
+      "crop_sha256": "61641e7f799604b7932ab41cbddedd25b4129d26c11fe7df707ff605b5836152",
+      "native_xyxy": [
+        945,
+        1425,
+        1090,
+        1568
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A37",
+      "row": 3,
+      "column": 7,
+      "observer_preferred_ascii": "I",
+      "raw_graphic": "I",
+      "alternatives": [
+        "I"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r3_c7.png",
+      "crop_sha256": "d3275c9277c1a691951e30307adcf7bb3072141319504f1d632c9fc70755b28a",
+      "native_xyxy": [
+        1100,
+        1425,
+        1238,
+        1568
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A38",
+      "row": 3,
+      "column": 8,
+      "observer_preferred_ascii": "H",
+      "raw_graphic": "H",
+      "alternatives": [
+        "H"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r3_c8.png",
+      "crop_sha256": "e5f04ee05913cc3718a14f366537798cd6d75249ed8c6e4314b60b77676f7131",
+      "native_xyxy": [
+        1250,
+        1425,
+        1395,
+        1568
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A41",
+      "row": 4,
+      "column": 1,
+      "observer_preferred_ascii": "O",
+      "raw_graphic": "O",
+      "alternatives": [
+        "O"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r4_c1.png",
+      "crop_sha256": "7ebce4a4b6273442c20feab529937f08c51e8de4f30185459bc3c4310cda4476",
+      "native_xyxy": [
+        200,
+        1580,
+        340,
+        1715
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A42",
+      "row": 4,
+      "column": 2,
+      "observer_preferred_ascii": "R",
+      "raw_graphic": "R",
+      "alternatives": [
+        "R"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r4_c2.png",
+      "crop_sha256": "c46a9de53433be4eb10737de2c3be4fb40e52311ed8d6c92520186b0d94b6337",
+      "native_xyxy": [
+        360,
+        1580,
+        495,
+        1715
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A43",
+      "row": 4,
+      "column": 3,
+      "observer_preferred_ascii": "Z",
+      "raw_graphic": "looped/cursive z-like form with crossing stroke",
+      "alternatives": [
+        "Z"
+      ],
+      "certainty": "high",
+      "modifiers": [
+        "crossing/upper loop retained"
+      ],
+      "notes": "Observer base reading Z; upper loop is not silently treated as an added language-specific diacritic.",
+      "crop": "sources/inspection/cold_source_v1/array_r4_c3.png",
+      "crop_sha256": "1d02575d7f3abe4cd05f5fd25e4fe66202e2ba272b02a7fe35147267f4919383",
+      "native_xyxy": [
+        505,
+        1580,
+        640,
+        1715
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A44",
+      "row": 4,
+      "column": 4,
+      "observer_preferred_ascii": "P",
+      "raw_graphic": "P",
+      "alternatives": [
+        "P"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r4_c4.png",
+      "crop_sha256": "a1f448fd4013481279b716475f14263896415a3cb4822f9af82542c524980a22",
+      "native_xyxy": [
+        650,
+        1580,
+        790,
+        1715
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A45",
+      "row": 4,
+      "column": 5,
+      "observer_preferred_ascii": "S",
+      "raw_graphic": "S",
+      "alternatives": [
+        "S"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r4_c5.png",
+      "crop_sha256": "3f33d47d8457075efed8f2be3ba90a507d4156721a367e24e0042078e2c5e869",
+      "native_xyxy": [
+        795,
+        1580,
+        935,
+        1715
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A46",
+      "row": 4,
+      "column": 6,
+      "observer_preferred_ascii": "R",
+      "raw_graphic": "R",
+      "alternatives": [
+        "R"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r4_c6.png",
+      "crop_sha256": "d1fb71894aa2f0f4c32ef86f57dce3234154f8990037315257467aac5d04ef4c",
+      "native_xyxy": [
+        945,
+        1580,
+        1090,
+        1715
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A47",
+      "row": 4,
+      "column": 7,
+      "observer_preferred_ascii": "O",
+      "raw_graphic": "O",
+      "alternatives": [
+        "O"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r4_c7.png",
+      "crop_sha256": "15d5092346babdbcb09ed308490e9a0e9300d71737111a90c003234e2dc03e51",
+      "native_xyxy": [
+        1100,
+        1580,
+        1238,
+        1715
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A48",
+      "row": 4,
+      "column": 8,
+      "observer_preferred_ascii": "E",
+      "raw_graphic": "E",
+      "alternatives": [
+        "E"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r4_c8.png",
+      "crop_sha256": "207ffd58db3d903164a8298bc6fdb73aa65491054597a6228b4876b01254e0de",
+      "native_xyxy": [
+        1250,
+        1580,
+        1395,
+        1715
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A51",
+      "row": 5,
+      "column": 1,
+      "observer_preferred_ascii": "K",
+      "raw_graphic": "K",
+      "alternatives": [
+        "K"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r5_c1.png",
+      "crop_sha256": "dac56b63038e143e5e7b82c109fab5cd1b5e171299cc66cf3b2e0e0c98f99fa4",
+      "native_xyxy": [
+        200,
+        1730,
+        340,
+        1868
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A52",
+      "row": 5,
+      "column": 2,
+      "observer_preferred_ascii": "A",
+      "raw_graphic": "closed-top block form with mid crossbar",
+      "alternatives": [
+        "A",
+        "H"
+      ],
+      "certainty": "preferred A, alternative H held",
+      "modifiers": [],
+      "notes": "Closed top supports the observer preferred A; unusual H form not silently excluded. No word or source-fit adjudication.",
+      "crop": "sources/inspection/cold_source_v1/array_r5_c2.png",
+      "crop_sha256": "a0153a52af0f5708e30d64b283058ee201aad6a0cb0bf295f7567c6cc1a341b9",
+      "native_xyxy": [
+        360,
+        1730,
+        495,
+        1868
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A53",
+      "row": 5,
+      "column": 3,
+      "observer_preferred_ascii": "D",
+      "raw_graphic": "D",
+      "alternatives": [
+        "D"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r5_c3.png",
+      "crop_sha256": "2b21718e7f43cfe6733a006a760084859facdff7ced20a3dda75425396cfc348",
+      "native_xyxy": [
+        505,
+        1730,
+        640,
+        1868
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A54",
+      "row": 5,
+      "column": 4,
+      "observer_preferred_ascii": "J",
+      "raw_graphic": "J",
+      "alternatives": [
+        "J"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r5_c4.png",
+      "crop_sha256": "489121e95da37a53448b1a5baf66fa0d4a4d5c92a6c06e81967a0c23803c9d7d",
+      "native_xyxy": [
+        650,
+        1730,
+        790,
+        1868
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A55",
+      "row": 5,
+      "column": 5,
+      "observer_preferred_ascii": "L",
+      "raw_graphic": "L",
+      "alternatives": [
+        "L"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r5_c5.png",
+      "crop_sha256": "2a0075f0c022e239b4c436e6fe710a6f02011bee4cfd0490237d43f7c33da499",
+      "native_xyxy": [
+        795,
+        1730,
+        935,
+        1868
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A56",
+      "row": 5,
+      "column": 6,
+      "observer_preferred_ascii": "E",
+      "raw_graphic": "E",
+      "alternatives": [
+        "E"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r5_c6.png",
+      "crop_sha256": "f0fcf7b89ba8236c1921126b1ac98514cf7bf9528403e6386114a88ea23fd1e5",
+      "native_xyxy": [
+        945,
+        1730,
+        1090,
+        1868
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A57",
+      "row": 5,
+      "column": 7,
+      "observer_preferred_ascii": "A",
+      "raw_graphic": "closed-top block form with mid crossbar",
+      "alternatives": [
+        "A",
+        "H"
+      ],
+      "certainty": "preferred A, alternative H held",
+      "modifiers": [],
+      "notes": "Closed top supports the observer preferred A; unusual H form not silently excluded. No word or source-fit adjudication.",
+      "crop": "sources/inspection/cold_source_v1/array_r5_c7.png",
+      "crop_sha256": "dd625f9f44c01f41f44cd512ba56b8ea5f1c4df1f6192b901e5145fd247fe3b5",
+      "native_xyxy": [
+        1100,
+        1730,
+        1238,
+        1868
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A58",
+      "row": 5,
+      "column": 8,
+      "observer_preferred_ascii": "V",
+      "raw_graphic": "V",
+      "alternatives": [
+        "V"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r5_c8.png",
+      "crop_sha256": "0f1f843e160fc0f0c3814e34d12d673a00a7f1c2042f239152a3c61f5df80735",
+      "native_xyxy": [
+        1250,
+        1730,
+        1395,
+        1868
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A61",
+      "row": 6,
+      "column": 1,
+      "observer_preferred_ascii": "P",
+      "raw_graphic": "P",
+      "alternatives": [
+        "P"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r6_c1.png",
+      "crop_sha256": "6b5fd1a71c0a64b1e4fc5d5987c6c9e36413793761dea0e75e63fe91201cf0c7",
+      "native_xyxy": [
+        200,
+        1875,
+        340,
+        2013
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A62",
+      "row": 6,
+      "column": 2,
+      "observer_preferred_ascii": "A",
+      "raw_graphic": "closed-top block form with mid crossbar",
+      "alternatives": [
+        "A",
+        "H"
+      ],
+      "certainty": "preferred A, alternative H held",
+      "modifiers": [],
+      "notes": "Closed top supports the observer preferred A; unusual H form not silently excluded. No word or source-fit adjudication.",
+      "crop": "sources/inspection/cold_source_v1/array_r6_c2.png",
+      "crop_sha256": "f3ee4e1bd657bbff59ff4c3581b7fd6df09a6a6434db6d72212b0642837b83b0",
+      "native_xyxy": [
+        360,
+        1875,
+        495,
+        2013
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A63",
+      "row": 6,
+      "column": 3,
+      "observer_preferred_ascii": "D",
+      "raw_graphic": "D",
+      "alternatives": [
+        "D"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r6_c3.png",
+      "crop_sha256": "56bf72b6c66dafb9354bc3822cdbaf2ae1aeb5057d503b5c916ca532b67fa12e",
+      "native_xyxy": [
+        505,
+        1875,
+        640,
+        2013
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A64",
+      "row": 6,
+      "column": 4,
+      "observer_preferred_ascii": "O",
+      "raw_graphic": "O",
+      "alternatives": [
+        "O"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r6_c4.png",
+      "crop_sha256": "7da339490ffbe77ece1116344bdb4b0158e47b095f0b966303cd6e30dbe2d8f5",
+      "native_xyxy": [
+        650,
+        1875,
+        790,
+        2013
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A65",
+      "row": 6,
+      "column": 5,
+      "observer_preferred_ascii": "L",
+      "raw_graphic": "L",
+      "alternatives": [
+        "L"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r6_c5.png",
+      "crop_sha256": "f80798b67bb819dc5271c95e735ba25ba0c45f4c3b09288231f797517b95f7f5",
+      "native_xyxy": [
+        795,
+        1875,
+        935,
+        2013
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A66",
+      "row": 6,
+      "column": 6,
+      "observer_preferred_ascii": "O",
+      "raw_graphic": "O",
+      "alternatives": [
+        "O"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r6_c6.png",
+      "crop_sha256": "d6c7e3807d97255a707b63208a34c6ccb55b5db2ece8b09c7ea7d886a1ba50ed",
+      "native_xyxy": [
+        945,
+        1875,
+        1090,
+        2013
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A67",
+      "row": 6,
+      "column": 7,
+      "observer_preferred_ascii": "E",
+      "raw_graphic": "E",
+      "alternatives": [
+        "E"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r6_c7.png",
+      "crop_sha256": "bbf7391b8cdedd4e53510f652486671e08c1cec47601a97c3dc6f6c6d358fabc",
+      "native_xyxy": [
+        1100,
+        1875,
+        1238,
+        2013
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A68",
+      "row": 6,
+      "column": 8,
+      "observer_preferred_ascii": "R",
+      "raw_graphic": "R",
+      "alternatives": [
+        "R"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r6_c8.png",
+      "crop_sha256": "82f427f84f11b86651b528e848cc0b4a0167852c2f682316af00b7025a88dc23",
+      "native_xyxy": [
+        1250,
+        1875,
+        1395,
+        2013
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A71",
+      "row": 7,
+      "column": 1,
+      "observer_preferred_ascii": "D",
+      "raw_graphic": "D",
+      "alternatives": [
+        "D"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r7_c1.png",
+      "crop_sha256": "5aa2dbbe35f217159fabcd69b634afc3d617fa2ddb19b01ae0ea19075423dfe7",
+      "native_xyxy": [
+        200,
+        2020,
+        340,
+        2165
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A72",
+      "row": 7,
+      "column": 2,
+      "observer_preferred_ascii": "N",
+      "raw_graphic": "N",
+      "alternatives": [
+        "N"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r7_c2.png",
+      "crop_sha256": "3b4ac9a5e1c2772129f649b22097b62155476779ef1df7bb49a9ea21f6d4f092",
+      "native_xyxy": [
+        360,
+        2020,
+        495,
+        2165
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A73",
+      "row": 7,
+      "column": 3,
+      "observer_preferred_ascii": "X",
+      "raw_graphic": "X",
+      "alternatives": [
+        "X"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r7_c3.png",
+      "crop_sha256": "70d94bf008124fa339d5bd4f86ad6c5def72922149e3aaf308085e92e6bf32cd",
+      "native_xyxy": [
+        505,
+        2020,
+        640,
+        2165
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A74",
+      "row": 7,
+      "column": 4,
+      "observer_preferred_ascii": "E",
+      "raw_graphic": "E",
+      "alternatives": [
+        "E"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r7_c4.png",
+      "crop_sha256": "fb56947a10bf1cc9ff996bbd80b072e6a6c35dfb6fcae97d3a8a3daf1b43c522",
+      "native_xyxy": [
+        650,
+        2020,
+        790,
+        2165
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A75",
+      "row": 7,
+      "column": 5,
+      "observer_preferred_ascii": "I",
+      "raw_graphic": "I",
+      "alternatives": [
+        "I"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r7_c5.png",
+      "crop_sha256": "daeb4dd0b9c8063734a9cee5093a6a54795297013e2f3d910f2ad2300160cd67",
+      "native_xyxy": [
+        795,
+        2020,
+        935,
+        2165
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A76",
+      "row": 7,
+      "column": 6,
+      "observer_preferred_ascii": "A",
+      "raw_graphic": "closed-top block form with mid crossbar",
+      "alternatives": [
+        "A",
+        "H"
+      ],
+      "certainty": "preferred A, alternative H held",
+      "modifiers": [],
+      "notes": "Closed top supports the observer preferred A; unusual H form not silently excluded. No word or source-fit adjudication.",
+      "crop": "sources/inspection/cold_source_v1/array_r7_c6.png",
+      "crop_sha256": "11de60aa8ac4c831644b1f21447edf7364a2257ee376b8fc163976e62524bac2",
+      "native_xyxy": [
+        945,
+        2020,
+        1090,
+        2165
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A77",
+      "row": 7,
+      "column": 7,
+      "observer_preferred_ascii": "S",
+      "raw_graphic": "S",
+      "alternatives": [
+        "S"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r7_c7.png",
+      "crop_sha256": "6a930d6e4c1107a1d2f2f9b94032434a4b9973cad885fda426a4bad4b025cb46",
+      "native_xyxy": [
+        1100,
+        2020,
+        1238,
+        2165
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A78",
+      "row": 7,
+      "column": 8,
+      "observer_preferred_ascii": "N",
+      "raw_graphic": "N",
+      "alternatives": [
+        "N"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r7_c8.png",
+      "crop_sha256": "51fd6454c8c5f6765edfd460689b470448a09ceed63063607602309f8d049f60",
+      "native_xyxy": [
+        1250,
+        2020,
+        1395,
+        2165
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A81",
+      "row": 8,
+      "column": 1,
+      "observer_preferred_ascii": "T",
+      "raw_graphic": "T",
+      "alternatives": [
+        "T"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r8_c1.png",
+      "crop_sha256": "c74894ea76edeee431f4efebdb8a776b90b0bdfe63368ba4024b1a72fe24ba0c",
+      "native_xyxy": [
+        200,
+        2170,
+        340,
+        2315
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A82",
+      "row": 8,
+      "column": 2,
+      "observer_preferred_ascii": "X",
+      "raw_graphic": "X",
+      "alternatives": [
+        "X"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r8_c2.png",
+      "crop_sha256": "cba1334ecb31b2ebfb626f1a0da912014d59d402c03c3413d75cad6601e8cf34",
+      "native_xyxy": [
+        360,
+        2170,
+        495,
+        2315
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A83",
+      "row": 8,
+      "column": 3,
+      "observer_preferred_ascii": "D",
+      "raw_graphic": "D",
+      "alternatives": [
+        "D"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r8_c3.png",
+      "crop_sha256": "4fb62299d16f17cd8e21e955d4f9d80de1d75b4c059e3af5a29bc5aa760ab3ed",
+      "native_xyxy": [
+        505,
+        2170,
+        640,
+        2315
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A84",
+      "row": 8,
+      "column": 4,
+      "observer_preferred_ascii": "L",
+      "raw_graphic": "L",
+      "alternatives": [
+        "L"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r8_c4.png",
+      "crop_sha256": "74500c0829fdfe6beb68622ca264f08ad55544fd99685ee2a637ecd15b423ce9",
+      "native_xyxy": [
+        650,
+        2170,
+        790,
+        2315
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A85",
+      "row": 8,
+      "column": 5,
+      "observer_preferred_ascii": "X",
+      "raw_graphic": "crossed upper strokes with long lower stroke",
+      "alternatives": [
+        "X",
+        "Y"
+      ],
+      "certainty": "preferred X, Y held",
+      "modifiers": [],
+      "notes": "Extended lower stroke makes Y a retained paleographic alternative; no stream fitting.",
+      "crop": "sources/inspection/cold_source_v1/array_r8_c5.png",
+      "crop_sha256": "34d008671671149c454d4ad839bd3426552804e8f68d7dd5ee5df69a01f35f3a",
+      "native_xyxy": [
+        795,
+        2170,
+        935,
+        2315
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A86",
+      "row": 8,
+      "column": 6,
+      "observer_preferred_ascii": "E",
+      "raw_graphic": "E",
+      "alternatives": [
+        "E"
+      ],
+      "certainty": "high",
+      "modifiers": [],
+      "notes": "Direct letter shape; no target inference.",
+      "crop": "sources/inspection/cold_source_v1/array_r8_c6.png",
+      "crop_sha256": "3ce49427baef0ed8869b81465a02ae1f4ddb957425ddc906418b8fe08ed10988",
+      "native_xyxy": [
+        945,
+        2170,
+        1090,
+        2315
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A87",
+      "row": 8,
+      "column": 7,
+      "observer_preferred_ascii": "A",
+      "raw_graphic": "closed-top block form with mid crossbar",
+      "alternatives": [
+        "A",
+        "H"
+      ],
+      "certainty": "preferred A, alternative H held",
+      "modifiers": [],
+      "notes": "Closed top supports the observer preferred A; unusual H form not silently excluded. No word or source-fit adjudication.",
+      "crop": "sources/inspection/cold_source_v1/array_r8_c7.png",
+      "crop_sha256": "a637424dafce6d79126e55eb8215f0a0f3720819855615688e48f85d7440c908",
+      "native_xyxy": [
+        1100,
+        2170,
+        1238,
+        2315
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A88",
+      "row": 8,
+      "column": 8,
+      "observer_preferred_ascii": "A",
+      "raw_graphic": "closed-top block form with mid crossbar",
+      "alternatives": [
+        "A",
+        "H"
+      ],
+      "certainty": "preferred A, alternative H held",
+      "modifiers": [],
+      "notes": "Closed top supports the observer preferred A; unusual H form not silently excluded. No word or source-fit adjudication.",
+      "crop": "sources/inspection/cold_source_v1/array_r8_c8.png",
+      "crop_sha256": "de9e58512b6d7a19af7c4b0464565c62b0bbb4d5353e7e421d9ab0cbdab6e690",
+      "native_xyxy": [
+        1250,
+        2170,
+        1395,
+        2315
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "PASS SCOPED CURRENT-BODY READ-ONLY CHECK",
+  "checked_utc": "2026-10-05T20:45:52.951202+00:00",
+  "required_frozen_artifacts_verified": 24,
+  "counts": {
+    "current_letters": 64,
+    "physical_cells": 64,
+    "physical_cuts": 16,
+    "conventions": 32,
+    "own_source_certificates": 2048,
+    "root_source_certificates": 2048,
+    "bounded_fixed_literal_controls": 79,
+    "root_synthetic_fixtures": 3200,
+    "root_fixture_distinct_keys": 100,
+    "root_fixture_block_counts": [
+      3
+    ]
+  },
+  "integrity_tests": [],
+  "read_only_frozen_hashes_unchanged": true,
+  "historical_present_reference_checks": 395,
+  "historical_omissions": [
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "reports/cold_source_v1/build_cold_source_records_v1.py",
+      "reason": "historical code reference outside checker scope; no code read/import"
+    },
+    {
+      "manifest": "reports/independent_method_v1/SEAL_MANIFEST_v1.json",
+      "path": "reports/independent_method_v1/FAILED_RUN_CODE_CAPTURE_v1.py",
+      "reason": "historical code reference outside checker scope; no code read/import"
+    },
+    {
+      "manifest": "reports/independent_candidate_audit_v1/SEAL_MANIFEST_v1.json",
+      "path": "scripts/independent_candidate_check_v1.py",
+      "reason": "historical code reference outside checker scope; no code read/import"
+    },
+    {
+      "manifest": "reports/registered_target_v1/TARGET_RESULT_SEAL_v1.json",
+      "path": "scripts/run_registered_target_v1.py",
+      "reason": "historical code reference outside checker scope; no code read/import"
+    }
+  ],
+  "omitted_archival_image_count": 0,
+  "pixels_required_for_portable_pass": false,
+  "new_pixel_inspection": false,
+  "original_source_references": [
+    {
+      "kind": "original1",
+      "url": "https://api.hcportal.eu/media/2503/59451685309807.jpg",
+      "sha256": "0b06c69eb1db23fd216aac4f389c5119eb5e2d64669f07b1b403d374a690c061",
+      "bytes": 704837
+    },
+    {
+      "kind": "original2",
+      "url": "https://api.hcportal.eu/media/2504/89001685309807.jpg",
+      "sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "bytes": 3149977
+    },
+    {
+      "kind": "original3",
+      "url": "https://api.hcportal.eu/media/2505/93691685309807.jpg",
+      "sha256": "c3751e509ee34ab5a934d19912adfd22c24daee46fad6e8ee921a6dd127032bb",
+      "bytes": 673572
+    }
+  ],
+  "limits": [
+    "Stored native coordinates/URL/SHA do not substitute for omitted original pixels; independent native audit receipts remain historical evidence.",
+    "Current 64-body given-public-grille mechanical scope only; older layers30/60 and all secondary/nonbody/source-order holds persist.",
+    "DO KORE and terminal XXX remain literal and unassigned where noted; no JE insertion.",
+    "79 finite fixed-literal controls do not prove global4^16 uniqueness or historical operation.",
+    "No current catalogue/world solvedness, priority, unknown-key recovery or original war-dispatch claim.",
+    "This expectation snapshot is not an actual RELEASE_MANIFEST or a PDF/publication audit."
+  ],
+  "network_requests": 0,
+  "files_written": 0,
+  "root_implementation_imported_or_read": false
+}

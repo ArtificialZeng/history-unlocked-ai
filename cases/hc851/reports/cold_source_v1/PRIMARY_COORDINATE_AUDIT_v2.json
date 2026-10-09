@@ -1,0 +1,10 @@
+{
+  "created_utc": "2026-10-05T17:41:16.238833+00:00",
+  "supersedes_coordinate_bounds_only": "PRIMARY_TYPED_OCCURRENCES_v1.csv",
+  "canonical_coordinate_occurrence_file": "PRIMARY_TYPED_OCCURRENCES_COORDINATE_AUDIT_v2.csv",
+  "reason": "Initial approximate compact serif boxes could omit small ascenders due line slope; broaden to full actually viewed native row bands. No glyph/value/order/correction or frozen stream changed.",
+  "source_letter_count_unchanged": 144,
+  "native_box_role": "Context boxes with per-letter x anchors, not machine segmentation; adjacent boxes may overlap.",
+  "v1_preserved": true,
+  "sha256": "ce7b7169437e2762f0c811164467b2feac09d18b904e5bd1bfda3d6e7b5e2cb6"
+}

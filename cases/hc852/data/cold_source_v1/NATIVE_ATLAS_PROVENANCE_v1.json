@@ -1,0 +1,4414 @@
+{
+  "strip_count": 33,
+  "strips": [
+    {
+      "path": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_01.png",
+      "sha256": "03734be9f09b7beaebab6f7c0d8b7ae0a8b8f093eaae2b77d35d7c49d15f8444",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "T01",
+          "source_native_xyxy": [
+            299,
+            300,
+            364,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            65,
+            193
+          ],
+          "unit_pixel_sha256": "944a8cc844b2f8f063ddfdac262d7ee3ff620af91e27a147e43ad8fee1996a31"
+        },
+        {
+          "id": "T02",
+          "source_native_xyxy": [
+            379,
+            300,
+            444,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            65,
+            28,
+            130,
+            193
+          ],
+          "unit_pixel_sha256": "0b66000fa24942fcf3e00b8a1371f81f66209d4962b3c85d990666e51758de20"
+        },
+        {
+          "id": "T03",
+          "source_native_xyxy": [
+            454,
+            300,
+            519,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            130,
+            28,
+            195,
+            193
+          ],
+          "unit_pixel_sha256": "5baf6aec9e8daffb1e667b82b4fc6c373ac09b6fb6692606573787b1e7f91e45"
+        },
+        {
+          "id": "T04",
+          "source_native_xyxy": [
+            524,
+            300,
+            589,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            195,
+            28,
+            260,
+            193
+          ],
+          "unit_pixel_sha256": "53bca1fef83d50af075022594df5ad59f04f0daca2a28ca3cdaa734193621c3d"
+        },
+        {
+          "id": "T05",
+          "source_native_xyxy": [
+            601,
+            300,
+            666,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            260,
+            28,
+            325,
+            193
+          ],
+          "unit_pixel_sha256": "9fb4b3f5b4ad7ff6dffdd52707889c3717a17392e36c65912953f9a56c1f5c4e"
+        },
+        {
+          "id": "T06",
+          "source_native_xyxy": [
+            741,
+            300,
+            806,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            325,
+            28,
+            390,
+            193
+          ],
+          "unit_pixel_sha256": "a97a962fcc6cb743881cfc7fc7bcd8027d7da93d85c9ae8082c4a1082dbf3b90"
+        },
+        {
+          "id": "T07",
+          "source_native_xyxy": [
+            812,
+            300,
+            877,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            390,
+            28,
+            455,
+            193
+          ],
+          "unit_pixel_sha256": "5321d84628020aab6ea7749f5a51dd20656a57b679b3b54b9f39abcf9389fe23"
+        },
+        {
+          "id": "T08",
+          "source_native_xyxy": [
+            888,
+            300,
+            953,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            455,
+            28,
+            520,
+            193
+          ],
+          "unit_pixel_sha256": "0f018d212a422c1f8929e8c28a849449a2f2608f9afe6d4a032be4df99085fbf"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_02.png",
+      "sha256": "cdabe7c76f00963bbaa461b2206530a1640aac0df97d39ac18f2354aa866e21a",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "T09",
+          "source_native_xyxy": [
+            958,
+            300,
+            1023,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            65,
+            193
+          ],
+          "unit_pixel_sha256": "32ad5d0036452b970f954f0f4cf61818f9ae5857b8d329021603ccb9a095d8ee"
+        },
+        {
+          "id": "T10",
+          "source_native_xyxy": [
+            1033,
+            300,
+            1098,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            65,
+            28,
+            130,
+            193
+          ],
+          "unit_pixel_sha256": "337f64d73708fb26f3a56a5181a47173fc96260578d6d41abb0738d93d81faaf"
+        },
+        {
+          "id": "T11",
+          "source_native_xyxy": [
+            1178,
+            300,
+            1243,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            130,
+            28,
+            195,
+            193
+          ],
+          "unit_pixel_sha256": "be9cb690b6abc72447951e56210ca068959c550ecbcd578db885274eee42f8d6"
+        },
+        {
+          "id": "T12",
+          "source_native_xyxy": [
+            1247,
+            300,
+            1312,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            195,
+            28,
+            260,
+            193
+          ],
+          "unit_pixel_sha256": "97eb4b0bd0636da1b8159718951d299414c9e68393eeb2ac8550d295b4c99ebe"
+        },
+        {
+          "id": "T13",
+          "source_native_xyxy": [
+            1318,
+            300,
+            1383,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            260,
+            28,
+            325,
+            193
+          ],
+          "unit_pixel_sha256": "7d4cdd7e22fd02834f86b8e6f154aef2d2df5aec0bf907cbb4bc5f2401f3568d"
+        },
+        {
+          "id": "T14",
+          "source_native_xyxy": [
+            1396,
+            300,
+            1461,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            325,
+            28,
+            390,
+            193
+          ],
+          "unit_pixel_sha256": "0916bf259bd482faaac5701683c00682ccf380c04a4841923a50fe65ffa5b53f"
+        },
+        {
+          "id": "T15",
+          "source_native_xyxy": [
+            1468,
+            300,
+            1533,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            390,
+            28,
+            455,
+            193
+          ],
+          "unit_pixel_sha256": "c058efd6a66920b998e031bef2bfd70ed5c5ba9fca8d35b578b07d50e63cebbd"
+        },
+        {
+          "id": "T16",
+          "source_native_xyxy": [
+            1604,
+            300,
+            1669,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            455,
+            28,
+            520,
+            193
+          ],
+          "unit_pixel_sha256": "c234421cedfdb91faf1eb5347287f0d2c04c49daec4ac23e3c0cb46e2a719f2d"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_03.png",
+      "sha256": "154cb1f73f5204d9028a43950fec9708746cc40c5049dde0f55490749d67505c",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "T17",
+          "source_native_xyxy": [
+            1676,
+            300,
+            1741,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            65,
+            193
+          ],
+          "unit_pixel_sha256": "eddb5e3afa925f5bd8b071cd973912bb8d7b3ff342a9b71efd55522d0f8465c8"
+        },
+        {
+          "id": "T18",
+          "source_native_xyxy": [
+            1748,
+            300,
+            1813,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            65,
+            28,
+            130,
+            193
+          ],
+          "unit_pixel_sha256": "6a8d0586986146ef001e53002d7bfbdfbd4ef9c776912fa995aa4d5ef2a92700"
+        },
+        {
+          "id": "T19",
+          "source_native_xyxy": [
+            1816,
+            300,
+            1881,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            130,
+            28,
+            195,
+            193
+          ],
+          "unit_pixel_sha256": "a4c5a0ec72e0c51488aaa58210038678e0c18768c32645c48ff5fd83032abb91"
+        },
+        {
+          "id": "T20",
+          "source_native_xyxy": [
+            1888,
+            300,
+            1953,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            195,
+            28,
+            260,
+            193
+          ],
+          "unit_pixel_sha256": "4ae9c005cf3e8657a7d4e6857e82dd0923ca4ae1d4987f2f72fa8e1b4a4f8668"
+        },
+        {
+          "id": "T21",
+          "source_native_xyxy": [
+            2040,
+            300,
+            2085,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            260,
+            28,
+            305,
+            193
+          ],
+          "unit_pixel_sha256": "0e4b702b8d50a016f951feeecd06bf00e25d3b2e90efb4436158b0c4023a2d5d"
+        },
+        {
+          "id": "T22",
+          "source_native_xyxy": [
+            2077,
+            300,
+            2139,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            305,
+            28,
+            367,
+            193
+          ],
+          "unit_pixel_sha256": "1d1b5f5c542a65693cde51ec5f4de86f73f169e603e621d15b3a3b8497ade824"
+        },
+        {
+          "id": "T23",
+          "source_native_xyxy": [
+            2143,
+            300,
+            2208,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            367,
+            28,
+            432,
+            193
+          ],
+          "unit_pixel_sha256": "b22b0014a45b93fc49c8df18bb2f79f02252b48c35157efd58825fd3261ee3d5"
+        },
+        {
+          "id": "T24",
+          "source_native_xyxy": [
+            2218,
+            300,
+            2283,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            432,
+            28,
+            497,
+            193
+          ],
+          "unit_pixel_sha256": "f452b07744544686af776d33f22381369acf9bea41e5b759c770e71df4638324"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_04.png",
+      "sha256": "a5621323583a91693b314d7ce39a76be2189c684356914d3e32c5552a361d86c",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "T25",
+          "source_native_xyxy": [
+            2291,
+            300,
+            2356,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            65,
+            193
+          ],
+          "unit_pixel_sha256": "635b5d38d64f6dde4df15ad1096926cd470eb59160f5556430379c4ec8eb36ba"
+        },
+        {
+          "id": "T26",
+          "source_native_xyxy": [
+            2439,
+            300,
+            2504,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            65,
+            28,
+            130,
+            193
+          ],
+          "unit_pixel_sha256": "652c13fef4f59e4e744e16c1438a8d9d122d4b621abaad7632addce86d50f8c1"
+        },
+        {
+          "id": "T27",
+          "source_native_xyxy": [
+            2514,
+            300,
+            2579,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            130,
+            28,
+            195,
+            193
+          ],
+          "unit_pixel_sha256": "7f535106e0d5431663156e580fab54899cd7c4b8600288b077430f3e77486273"
+        },
+        {
+          "id": "T28",
+          "source_native_xyxy": [
+            2586,
+            300,
+            2651,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            195,
+            28,
+            260,
+            193
+          ],
+          "unit_pixel_sha256": "9fac654c1a80f81f3b56784bc0e61b6c93f91be113729ec1fe98ba252937c356"
+        },
+        {
+          "id": "T29",
+          "source_native_xyxy": [
+            2658,
+            300,
+            2723,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            260,
+            28,
+            325,
+            193
+          ],
+          "unit_pixel_sha256": "79acf1ea74d3badae52b578df17908386c654a4b4b327fed3c1df7c7c461be4f"
+        },
+        {
+          "id": "T30",
+          "source_native_xyxy": [
+            2729,
+            300,
+            2794,
+            465
+          ],
+          "atlas_tile_xyxy": [
+            325,
+            28,
+            390,
+            193
+          ],
+          "unit_pixel_sha256": "9c075ca2b5e98e5f610e26698e689afd949a0bb3b559b2f278f26c04d1a2f46d"
+        },
+        {
+          "id": "T31",
+          "source_native_xyxy": [
+            301,
+            485,
+            366,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            390,
+            28,
+            455,
+            190
+          ],
+          "unit_pixel_sha256": "1a37d26f741349268016aa8130a45345252c1a1a184b6203372a3b4ac20b1542"
+        },
+        {
+          "id": "T32",
+          "source_native_xyxy": [
+            381,
+            485,
+            446,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            455,
+            28,
+            520,
+            190
+          ],
+          "unit_pixel_sha256": "6c259a32521778f0e860687e989a5494791e0322072c292d88c368d9c8dd448a"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_05.png",
+      "sha256": "448f614fb470680049e5c74b4bd2a0fcde6495a22e6539fc5f409fbf1d47c0ef",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "T33",
+          "source_native_xyxy": [
+            454,
+            485,
+            519,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            65,
+            190
+          ],
+          "unit_pixel_sha256": "167bbf669a383619f5b728ebdcb357144afab086c8e6a89d194b5c6afa8c02b7"
+        },
+        {
+          "id": "T34",
+          "source_native_xyxy": [
+            525,
+            485,
+            590,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            65,
+            28,
+            130,
+            190
+          ],
+          "unit_pixel_sha256": "b42bd422cdbe8e92969bc54bd07023043aeeeea1fc12de5b763af53f39a59eaf"
+        },
+        {
+          "id": "T35",
+          "source_native_xyxy": [
+            603,
+            485,
+            668,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            130,
+            28,
+            195,
+            190
+          ],
+          "unit_pixel_sha256": "426fd6db8fd1f78671d5a86fffc08899683b15a69d2f708f395a88629ca3338d"
+        },
+        {
+          "id": "T36",
+          "source_native_xyxy": [
+            748,
+            485,
+            813,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            195,
+            28,
+            260,
+            190
+          ],
+          "unit_pixel_sha256": "056eabba67c973989a290663e027d35722f2fac174a252f378827e0397b44229"
+        },
+        {
+          "id": "T37",
+          "source_native_xyxy": [
+            819,
+            485,
+            884,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            260,
+            28,
+            325,
+            190
+          ],
+          "unit_pixel_sha256": "c4f2d08fbec83a45a8f97bc58d0bbcdf411c6206a0fe617638b2d0a677f11180"
+        },
+        {
+          "id": "T38",
+          "source_native_xyxy": [
+            895,
+            485,
+            960,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            325,
+            28,
+            390,
+            190
+          ],
+          "unit_pixel_sha256": "a1bfb8bdaa5ca2f57ff50241317f5bf7f6b17a9cd3f3edd2f61361b76f3955c6"
+        },
+        {
+          "id": "T39",
+          "source_native_xyxy": [
+            967,
+            485,
+            1032,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            390,
+            28,
+            455,
+            190
+          ],
+          "unit_pixel_sha256": "a3afe9a5ffa1c50cbf88715ddc552670b760e81ba8cc81625f2f8eef758b69b2"
+        },
+        {
+          "id": "T40",
+          "source_native_xyxy": [
+            1040,
+            485,
+            1105,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            455,
+            28,
+            520,
+            190
+          ],
+          "unit_pixel_sha256": "3b89725c0e7cab2dc752438020ee5bf5a708cca3c784c7f85413d4ceda9b7890"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_06.png",
+      "sha256": "923eb8581dfcb8b1a8cc87ce9aa21d79311aeaab1e0382ccc436148b421851f5",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "T41",
+          "source_native_xyxy": [
+            1183,
+            485,
+            1248,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            65,
+            190
+          ],
+          "unit_pixel_sha256": "10c11d2e9156f5b0deeab189de8933848a317eeb5d82c43619708b381a589d5e"
+        },
+        {
+          "id": "T42",
+          "source_native_xyxy": [
+            1254,
+            485,
+            1319,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            65,
+            28,
+            130,
+            190
+          ],
+          "unit_pixel_sha256": "c9c2b713ef28132ed0a1cbe070a5a8004c5e9cdeee04c3be77203bbf98b408c8"
+        },
+        {
+          "id": "T43",
+          "source_native_xyxy": [
+            1331,
+            485,
+            1396,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            130,
+            28,
+            195,
+            190
+          ],
+          "unit_pixel_sha256": "84cf0a93776994f5a943abc2b1f03ab4673e9ae07653bc39cc47d2ac2c946ded"
+        },
+        {
+          "id": "T44",
+          "source_native_xyxy": [
+            1403,
+            485,
+            1468,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            195,
+            28,
+            260,
+            190
+          ],
+          "unit_pixel_sha256": "20a65285de6b5c572ef0abcf3b8550e3d5f29ab6b4dd4f456d2b43c1f26126c2"
+        },
+        {
+          "id": "T45",
+          "source_native_xyxy": [
+            1476,
+            485,
+            1541,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            260,
+            28,
+            325,
+            190
+          ],
+          "unit_pixel_sha256": "40e1a728f31663b4b040d532cc48ddf7a0679529c4d3c98bf35fd0c66939756d"
+        },
+        {
+          "id": "T46",
+          "source_native_xyxy": [
+            1608,
+            485,
+            1673,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            325,
+            28,
+            390,
+            190
+          ],
+          "unit_pixel_sha256": "c22e78387d864c0ac7e9a96d00777704405589092c803986fa394ecb4561e5f9"
+        },
+        {
+          "id": "T47",
+          "source_native_xyxy": [
+            1685,
+            485,
+            1750,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            390,
+            28,
+            455,
+            190
+          ],
+          "unit_pixel_sha256": "8431ec51aa0ec4db0b7d1beaa673d953d3418236cf034937ba8698f7d709855f"
+        },
+        {
+          "id": "T48",
+          "source_native_xyxy": [
+            1753,
+            485,
+            1818,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            455,
+            28,
+            520,
+            190
+          ],
+          "unit_pixel_sha256": "566a8fcd9b8ff2b9b02a598a46cfa9569fb5be564a647533be53bfe24dbbc84a"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_07.png",
+      "sha256": "804107da30dcba181c0a056589a40f674418db9f751ef521a07acf7eb8496942",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "T49",
+          "source_native_xyxy": [
+            1828,
+            485,
+            1893,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            65,
+            190
+          ],
+          "unit_pixel_sha256": "2a4ceef19b1751a62d679642d7ab8e0faf53de1a71046133d368fa17239d03a9"
+        },
+        {
+          "id": "T50",
+          "source_native_xyxy": [
+            1898,
+            485,
+            1963,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            65,
+            28,
+            130,
+            190
+          ],
+          "unit_pixel_sha256": "4c4f33c7a0dd4641243437a8c72d2a2e60f85cd5497eb122cbbae6c0e2e7c16e"
+        },
+        {
+          "id": "T51",
+          "source_native_xyxy": [
+            2036,
+            485,
+            2101,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            130,
+            28,
+            195,
+            190
+          ],
+          "unit_pixel_sha256": "c6727794e9c015529864707eefea07f0051a5e97f9fd6d2f4cfba1e3c32a8289"
+        },
+        {
+          "id": "T52",
+          "source_native_xyxy": [
+            2113,
+            485,
+            2178,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            195,
+            28,
+            260,
+            190
+          ],
+          "unit_pixel_sha256": "df2d1a6e42208311ff830ac95be763cd2935b01908789645c1d3cfc5ec3746f9"
+        },
+        {
+          "id": "T53",
+          "source_native_xyxy": [
+            2185,
+            485,
+            2250,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            260,
+            28,
+            325,
+            190
+          ],
+          "unit_pixel_sha256": "9fbbedc17333dbbbe7652004e23ab91af0fcee219a72b654302963f508aacfd5"
+        },
+        {
+          "id": "T54",
+          "source_native_xyxy": [
+            2258,
+            485,
+            2323,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            325,
+            28,
+            390,
+            190
+          ],
+          "unit_pixel_sha256": "a672f6f3aaf82a5a0ed035913c473f3cf7ef70daa63e31a1d0f881deb087e6cd"
+        },
+        {
+          "id": "T55",
+          "source_native_xyxy": [
+            2331,
+            485,
+            2396,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            390,
+            28,
+            455,
+            190
+          ],
+          "unit_pixel_sha256": "869ff7adcbd78ae295da975ef8ef0cf61e03f27f2ef458faebbc4ed004fe3ee7"
+        },
+        {
+          "id": "T56",
+          "source_native_xyxy": [
+            2479,
+            485,
+            2544,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            455,
+            28,
+            520,
+            190
+          ],
+          "unit_pixel_sha256": "82cfcf86214783ed62f7c09cf4ac8612d35b8811f3e2eb3299f32db8aec523d8"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_08.png",
+      "sha256": "99538a98c34c03075eb0916e910fc4d594bc80b9260f98d89b7b4ba2d5b50bc4",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "T57",
+          "source_native_xyxy": [
+            2553,
+            485,
+            2618,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            65,
+            190
+          ],
+          "unit_pixel_sha256": "af4d82d76d497cf19da96e3ecec9d3368671898cbe6b6ce4312dbaad68f9eb22"
+        },
+        {
+          "id": "T58",
+          "source_native_xyxy": [
+            2622,
+            485,
+            2687,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            65,
+            28,
+            130,
+            190
+          ],
+          "unit_pixel_sha256": "0cea044cf566518673328bd85cc14a1616d4e62860730f5eeebc3da6c9dbeca3"
+        },
+        {
+          "id": "T59",
+          "source_native_xyxy": [
+            2696,
+            485,
+            2761,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            130,
+            28,
+            195,
+            190
+          ],
+          "unit_pixel_sha256": "528899883dee4ce6ed68f9f926a17c3f4f8055f1903f41578a6cbbbb2a13781c"
+        },
+        {
+          "id": "T60",
+          "source_native_xyxy": [
+            2768,
+            485,
+            2833,
+            647
+          ],
+          "atlas_tile_xyxy": [
+            195,
+            28,
+            260,
+            190
+          ],
+          "unit_pixel_sha256": "8af3c8aebb36282035a3f8312fba436568bf32c60bf89dea7914c72ee8151531"
+        },
+        {
+          "id": "T61",
+          "source_native_xyxy": [
+            306,
+            675,
+            371,
+            812
+          ],
+          "atlas_tile_xyxy": [
+            260,
+            28,
+            325,
+            165
+          ],
+          "unit_pixel_sha256": "067fa8232d966099e8aceec20d0f225cc3f3a87c9e67d1abd8c298738ffab0bc"
+        },
+        {
+          "id": "T62",
+          "source_native_xyxy": [
+            378,
+            675,
+            443,
+            812
+          ],
+          "atlas_tile_xyxy": [
+            325,
+            28,
+            390,
+            165
+          ],
+          "unit_pixel_sha256": "f766666ac5edf56e9a1f99048e6e2bf3a1ca07c2bf1e73fc5c99bf8275d5af59"
+        },
+        {
+          "id": "T63",
+          "source_native_xyxy": [
+            455,
+            675,
+            520,
+            812
+          ],
+          "atlas_tile_xyxy": [
+            390,
+            28,
+            455,
+            165
+          ],
+          "unit_pixel_sha256": "9afdce0a9a33db22046baa56ef57813b8f2cb789dec785b4c86f9aa2c161eab3"
+        },
+        {
+          "id": "T64",
+          "source_native_xyxy": [
+            527,
+            675,
+            592,
+            812
+          ],
+          "atlas_tile_xyxy": [
+            455,
+            28,
+            520,
+            165
+          ],
+          "unit_pixel_sha256": "4df59117b5566255dba09ec9b97a2fd7c5373023d5052d8f1e0822c691f9f5ea"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_01.png",
+      "sha256": "12b12542378fb5e799afb05b812912c83c225e86fb1d2029cd2dbc6ee38b0d89",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "A11",
+          "source_native_xyxy": [
+            112,
+            708,
+            251,
+            893
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            139,
+            213
+          ],
+          "unit_pixel_sha256": "40ebd05f0ed006156d74dc01f65c40ed9731f61979ef62f2997f8c2fb3fd7a29"
+        },
+        {
+          "id": "A12",
+          "source_native_xyxy": [
+            268,
+            708,
+            407,
+            893
+          ],
+          "atlas_tile_xyxy": [
+            139,
+            28,
+            278,
+            213
+          ],
+          "unit_pixel_sha256": "8b9549eaf032af8d6a00f45e3bfaf9a9219c9ab9cfa1ab1198e6689971d71241"
+        },
+        {
+          "id": "A13",
+          "source_native_xyxy": [
+            425,
+            708,
+            558,
+            893
+          ],
+          "atlas_tile_xyxy": [
+            278,
+            28,
+            411,
+            213
+          ],
+          "unit_pixel_sha256": "d031f6664205e8fd31c965f1dab21799dfd3b708b491f088c0e61f718b3221a0"
+        },
+        {
+          "id": "A14",
+          "source_native_xyxy": [
+            574,
+            708,
+            714,
+            893
+          ],
+          "atlas_tile_xyxy": [
+            411,
+            28,
+            551,
+            213
+          ],
+          "unit_pixel_sha256": "77ed8be64aa992f1f11161e2f6a2070011213eca0f7bc8d7303e6035b2563de8"
+        },
+        {
+          "id": "A15",
+          "source_native_xyxy": [
+            726,
+            708,
+            864,
+            893
+          ],
+          "atlas_tile_xyxy": [
+            551,
+            28,
+            689,
+            213
+          ],
+          "unit_pixel_sha256": "4c7a55e8b65cd3d926e11c134181dbca063da8f6cb00ef277c397ff968d8a67a"
+        },
+        {
+          "id": "A16",
+          "source_native_xyxy": [
+            883,
+            708,
+            1008,
+            893
+          ],
+          "atlas_tile_xyxy": [
+            689,
+            28,
+            814,
+            213
+          ],
+          "unit_pixel_sha256": "649d96eb5a46e59e3133cfa69b250a4ab0867465c7f7b8766ee924aeb43607d1"
+        },
+        {
+          "id": "A17",
+          "source_native_xyxy": [
+            1020,
+            708,
+            1160,
+            893
+          ],
+          "atlas_tile_xyxy": [
+            814,
+            28,
+            954,
+            213
+          ],
+          "unit_pixel_sha256": "e3fe991106b4929becc3c62d49a23ec8e63200732a3988ca7376ca8a29d54f36"
+        },
+        {
+          "id": "A18",
+          "source_native_xyxy": [
+            1178,
+            708,
+            1355,
+            893
+          ],
+          "atlas_tile_xyxy": [
+            954,
+            28,
+            1131,
+            213
+          ],
+          "unit_pixel_sha256": "eba5a8da9080a9cc58aa28ba68f48d09abfa726e280fd0b0b9dead48833fc934"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_02.png",
+      "sha256": "34b8af1cd218c54cc003665606e9aa24af17970f88c0fea09b9180adec627665",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "A21",
+          "source_native_xyxy": [
+            112,
+            849,
+            251,
+            1041
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            139,
+            220
+          ],
+          "unit_pixel_sha256": "eb828e77954f6ee7e83dbfd640567ef3ec0ab14e4a80f137654c98054ee72fb8"
+        },
+        {
+          "id": "A22",
+          "source_native_xyxy": [
+            268,
+            849,
+            407,
+            1041
+          ],
+          "atlas_tile_xyxy": [
+            139,
+            28,
+            278,
+            220
+          ],
+          "unit_pixel_sha256": "3c29ff198e8ea20458680a7336f9fc28f8136dbb19818e6754acc73e71cdef74"
+        },
+        {
+          "id": "A23",
+          "source_native_xyxy": [
+            425,
+            849,
+            558,
+            1041
+          ],
+          "atlas_tile_xyxy": [
+            278,
+            28,
+            411,
+            220
+          ],
+          "unit_pixel_sha256": "1d838f50c69cf5e0f77e6ee60ff0d8887703cac4d96443221c70887c8bf42d86"
+        },
+        {
+          "id": "A24",
+          "source_native_xyxy": [
+            574,
+            849,
+            714,
+            1041
+          ],
+          "atlas_tile_xyxy": [
+            411,
+            28,
+            551,
+            220
+          ],
+          "unit_pixel_sha256": "4af14bac9322eda342be8cb4b4b43a43d5c6106865dd72c251cbf3deb7cb1d9e"
+        },
+        {
+          "id": "A25",
+          "source_native_xyxy": [
+            726,
+            849,
+            864,
+            1041
+          ],
+          "atlas_tile_xyxy": [
+            551,
+            28,
+            689,
+            220
+          ],
+          "unit_pixel_sha256": "64d5dfa1cfefc01f3df2c09036474b815918a604f4ecdc8634299c54c5f93891"
+        },
+        {
+          "id": "A26",
+          "source_native_xyxy": [
+            883,
+            849,
+            1008,
+            1041
+          ],
+          "atlas_tile_xyxy": [
+            689,
+            28,
+            814,
+            220
+          ],
+          "unit_pixel_sha256": "a9bfb36b82e06e9cbbc1fa25ece690b2bdbead144ac79d50ab88d139f317b542"
+        },
+        {
+          "id": "A27",
+          "source_native_xyxy": [
+            1020,
+            849,
+            1160,
+            1041
+          ],
+          "atlas_tile_xyxy": [
+            814,
+            28,
+            954,
+            220
+          ],
+          "unit_pixel_sha256": "ee1e3be394b3b26b425e0ffc57ddde5ab0f79164528de19fb757b856e5ad0d01"
+        },
+        {
+          "id": "A28",
+          "source_native_xyxy": [
+            1178,
+            849,
+            1355,
+            1041
+          ],
+          "atlas_tile_xyxy": [
+            954,
+            28,
+            1131,
+            220
+          ],
+          "unit_pixel_sha256": "fec0e1d4eef1bac63a702279fd41323d21610d82fd02005da97d11f4a30f00e2"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_03.png",
+      "sha256": "c147c9064bf442f55af3e24c6d717987d831821a018adc1ecbec4632b8a284db",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "A31",
+          "source_native_xyxy": [
+            112,
+            1000,
+            251,
+            1196
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            139,
+            224
+          ],
+          "unit_pixel_sha256": "081b1c97fb67c896f4fb87a6400e1504ba608094b88e64235a74f34bf7d3f640"
+        },
+        {
+          "id": "A32",
+          "source_native_xyxy": [
+            268,
+            1000,
+            407,
+            1196
+          ],
+          "atlas_tile_xyxy": [
+            139,
+            28,
+            278,
+            224
+          ],
+          "unit_pixel_sha256": "979e979fa9e8794da646ebcb8349c4ffce3d86faab58f26b7074fca3a0d0089c"
+        },
+        {
+          "id": "A33",
+          "source_native_xyxy": [
+            425,
+            1000,
+            558,
+            1196
+          ],
+          "atlas_tile_xyxy": [
+            278,
+            28,
+            411,
+            224
+          ],
+          "unit_pixel_sha256": "6eed7f72573d5e502df90a06fd059cb0bf7b00f6a4cd1088489a05e0a255cbdd"
+        },
+        {
+          "id": "A34",
+          "source_native_xyxy": [
+            574,
+            1000,
+            714,
+            1196
+          ],
+          "atlas_tile_xyxy": [
+            411,
+            28,
+            551,
+            224
+          ],
+          "unit_pixel_sha256": "0549ffbfd67a132c62f8c9f8dd537472b96803e7cf6712054cf4557b7e561819"
+        },
+        {
+          "id": "A35",
+          "source_native_xyxy": [
+            726,
+            1000,
+            864,
+            1196
+          ],
+          "atlas_tile_xyxy": [
+            551,
+            28,
+            689,
+            224
+          ],
+          "unit_pixel_sha256": "32f4e81cfe7d32dc9b76f34731a23a9f3e44338b63d70eb2f57f8e3e41871c29"
+        },
+        {
+          "id": "A36",
+          "source_native_xyxy": [
+            883,
+            1000,
+            1008,
+            1196
+          ],
+          "atlas_tile_xyxy": [
+            689,
+            28,
+            814,
+            224
+          ],
+          "unit_pixel_sha256": "85ee3bf7e0e1072bf6029539b18ce4cb2050985e9ec56b0365589cf67a1cee24"
+        },
+        {
+          "id": "A37",
+          "source_native_xyxy": [
+            1020,
+            1000,
+            1160,
+            1196
+          ],
+          "atlas_tile_xyxy": [
+            814,
+            28,
+            954,
+            224
+          ],
+          "unit_pixel_sha256": "83ef70a1cf53e835ceb5ea5a242be08439aae0ed8aa9366ca9933913942068d1"
+        },
+        {
+          "id": "A38",
+          "source_native_xyxy": [
+            1178,
+            1000,
+            1355,
+            1196
+          ],
+          "atlas_tile_xyxy": [
+            954,
+            28,
+            1131,
+            224
+          ],
+          "unit_pixel_sha256": "b93ab0616922b325f9a3debaa016f6168d91b648003b7eda789cd760b8ebee45"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_04.png",
+      "sha256": "266c4adf561ed40cf50dfb027f08e020c9200f7e17ff25799b4b0eb353ae0189",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "A41",
+          "source_native_xyxy": [
+            112,
+            1154,
+            251,
+            1353
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            139,
+            227
+          ],
+          "unit_pixel_sha256": "78dabd365aa9595ae13074ed449e86bd1bf0e8261e94fcded8db3c3d3273b0d5"
+        },
+        {
+          "id": "A42",
+          "source_native_xyxy": [
+            268,
+            1154,
+            407,
+            1353
+          ],
+          "atlas_tile_xyxy": [
+            139,
+            28,
+            278,
+            227
+          ],
+          "unit_pixel_sha256": "129091f1dc52e98419498e00994fe7f25623ca4bd515596b7d162a91ddcc77f9"
+        },
+        {
+          "id": "A43",
+          "source_native_xyxy": [
+            425,
+            1154,
+            558,
+            1353
+          ],
+          "atlas_tile_xyxy": [
+            278,
+            28,
+            411,
+            227
+          ],
+          "unit_pixel_sha256": "4a56f601cb742afbf2c651d4d2f77f1447eaf693578ce3dfdf94d63050b9a187"
+        },
+        {
+          "id": "A44",
+          "source_native_xyxy": [
+            574,
+            1154,
+            714,
+            1353
+          ],
+          "atlas_tile_xyxy": [
+            411,
+            28,
+            551,
+            227
+          ],
+          "unit_pixel_sha256": "fbcdfb6cd2cff14c9ba85a35b8426705769940d3904ce1b57336f5626aa12e28"
+        },
+        {
+          "id": "A45",
+          "source_native_xyxy": [
+            726,
+            1154,
+            864,
+            1353
+          ],
+          "atlas_tile_xyxy": [
+            551,
+            28,
+            689,
+            227
+          ],
+          "unit_pixel_sha256": "6df4502e041d28c4813dcce191bd809256908bef4939e5e55471b3b2089e4ac0"
+        },
+        {
+          "id": "A46",
+          "source_native_xyxy": [
+            883,
+            1154,
+            1008,
+            1353
+          ],
+          "atlas_tile_xyxy": [
+            689,
+            28,
+            814,
+            227
+          ],
+          "unit_pixel_sha256": "fdb24eb25a39431b2ee29e67de0cee8f73225d9d9802783d9117dc87426915d0"
+        },
+        {
+          "id": "A47",
+          "source_native_xyxy": [
+            1020,
+            1154,
+            1160,
+            1353
+          ],
+          "atlas_tile_xyxy": [
+            814,
+            28,
+            954,
+            227
+          ],
+          "unit_pixel_sha256": "7566298ec38572d9585778bfdd5d67adef9914d96ac814873dfc0f8fdddfe086"
+        },
+        {
+          "id": "A48",
+          "source_native_xyxy": [
+            1178,
+            1154,
+            1355,
+            1353
+          ],
+          "atlas_tile_xyxy": [
+            954,
+            28,
+            1131,
+            227
+          ],
+          "unit_pixel_sha256": "65a5cd5b654d83b0c13a64ec854315b075d0580faed30bfee7b3b035d34909c7"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_05.png",
+      "sha256": "f7cfa26949b21121f526feb191339c9ceb408e509c5433b11073dc1e6026056c",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "A51",
+          "source_native_xyxy": [
+            112,
+            1305,
+            251,
+            1508
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            139,
+            231
+          ],
+          "unit_pixel_sha256": "d3ad869a1e1711b3650cafcaf2e163a1f1659089817d07de520dc6a22d501887"
+        },
+        {
+          "id": "A52",
+          "source_native_xyxy": [
+            268,
+            1305,
+            407,
+            1508
+          ],
+          "atlas_tile_xyxy": [
+            139,
+            28,
+            278,
+            231
+          ],
+          "unit_pixel_sha256": "f30515495d2701713543d67af266589d88d813767e27dd56db259844df527a67"
+        },
+        {
+          "id": "A53",
+          "source_native_xyxy": [
+            425,
+            1305,
+            558,
+            1508
+          ],
+          "atlas_tile_xyxy": [
+            278,
+            28,
+            411,
+            231
+          ],
+          "unit_pixel_sha256": "16497c600041e79c245859799e7b254b6d88ecb00ef1bfe473c9fc0b9a3a7119"
+        },
+        {
+          "id": "A54",
+          "source_native_xyxy": [
+            574,
+            1305,
+            714,
+            1508
+          ],
+          "atlas_tile_xyxy": [
+            411,
+            28,
+            551,
+            231
+          ],
+          "unit_pixel_sha256": "7bb6f8300d06e4b9e5ed06a1239ea32652f0e5b51c6b45b0700b587f9fba2698"
+        },
+        {
+          "id": "A55",
+          "source_native_xyxy": [
+            726,
+            1305,
+            864,
+            1508
+          ],
+          "atlas_tile_xyxy": [
+            551,
+            28,
+            689,
+            231
+          ],
+          "unit_pixel_sha256": "ddffd1cdb79f97cebb2d0f2471d89a8a018e82a382d7f7b0268480920ce6910d"
+        },
+        {
+          "id": "A56",
+          "source_native_xyxy": [
+            883,
+            1305,
+            1008,
+            1508
+          ],
+          "atlas_tile_xyxy": [
+            689,
+            28,
+            814,
+            231
+          ],
+          "unit_pixel_sha256": "5c617fae79bfa449d10bf79407ebd0ce1448c26e657420cea8903c6dd343780d"
+        },
+        {
+          "id": "A57",
+          "source_native_xyxy": [
+            1020,
+            1305,
+            1160,
+            1508
+          ],
+          "atlas_tile_xyxy": [
+            814,
+            28,
+            954,
+            231
+          ],
+          "unit_pixel_sha256": "927f87747d08022015728da91ebc8720c4f46e8ccffc6ba80e4889f4282f0600"
+        },
+        {
+          "id": "A58",
+          "source_native_xyxy": [
+            1178,
+            1305,
+            1355,
+            1508
+          ],
+          "atlas_tile_xyxy": [
+            954,
+            28,
+            1131,
+            231
+          ],
+          "unit_pixel_sha256": "6ba7758f0e8e937ac7d58ab7d7768dcdc45433d38d18c4fd405d27839a23d3db"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_06.png",
+      "sha256": "47ee5fdad284a1682488c677683a0257d529c824e5ba11db1123c8232f02eba2",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "A61",
+          "source_native_xyxy": [
+            112,
+            1462,
+            251,
+            1656
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            139,
+            222
+          ],
+          "unit_pixel_sha256": "da2ab1f498feb5bce1de45762f258f363b81301924a1fc2d117d97d569c059e5"
+        },
+        {
+          "id": "A62",
+          "source_native_xyxy": [
+            268,
+            1462,
+            407,
+            1656
+          ],
+          "atlas_tile_xyxy": [
+            139,
+            28,
+            278,
+            222
+          ],
+          "unit_pixel_sha256": "e26706df45515c8944783bb62e5b5aff2ecb87812af2f6ac97da100d4021af75"
+        },
+        {
+          "id": "A63",
+          "source_native_xyxy": [
+            425,
+            1462,
+            558,
+            1656
+          ],
+          "atlas_tile_xyxy": [
+            278,
+            28,
+            411,
+            222
+          ],
+          "unit_pixel_sha256": "66b9b22d32bafbd3ef5d09270283977bc91ae81a4093c1441e2d4c064806890c"
+        },
+        {
+          "id": "A64",
+          "source_native_xyxy": [
+            574,
+            1462,
+            714,
+            1656
+          ],
+          "atlas_tile_xyxy": [
+            411,
+            28,
+            551,
+            222
+          ],
+          "unit_pixel_sha256": "0861587ef8a433534d42e775540a4bb17ce8fee04230c24f8f64595c91768596"
+        },
+        {
+          "id": "A65",
+          "source_native_xyxy": [
+            726,
+            1462,
+            864,
+            1656
+          ],
+          "atlas_tile_xyxy": [
+            551,
+            28,
+            689,
+            222
+          ],
+          "unit_pixel_sha256": "ad8d4f6974d193ec9f38540f017c2c3a984ce646ad273ee32b8667e6b502c612"
+        },
+        {
+          "id": "A66",
+          "source_native_xyxy": [
+            883,
+            1462,
+            1008,
+            1656
+          ],
+          "atlas_tile_xyxy": [
+            689,
+            28,
+            814,
+            222
+          ],
+          "unit_pixel_sha256": "f0d6f0896c7fb9a28640c0fc1a783d6eff97dc275ec74dbfdd2fe67cc2b166f5"
+        },
+        {
+          "id": "A67",
+          "source_native_xyxy": [
+            1020,
+            1462,
+            1160,
+            1656
+          ],
+          "atlas_tile_xyxy": [
+            814,
+            28,
+            954,
+            222
+          ],
+          "unit_pixel_sha256": "a8e24080be30bcc6c81a28e06a7d346648aa830469a7122eed6c6455e9ad8932"
+        },
+        {
+          "id": "A68",
+          "source_native_xyxy": [
+            1178,
+            1462,
+            1355,
+            1656
+          ],
+          "atlas_tile_xyxy": [
+            954,
+            28,
+            1131,
+            222
+          ],
+          "unit_pixel_sha256": "fc303a5726dbc685858d8fab8e0e3cc77da67e547599da18523cea7129f77c74"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_07.png",
+      "sha256": "3eb614396213a383615b58aa0ea59efdaf45bc96c1499cc628df6a3a738164bd",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "A71",
+          "source_native_xyxy": [
+            112,
+            1610,
+            251,
+            1812
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            139,
+            230
+          ],
+          "unit_pixel_sha256": "5adc8bad93c8803f167c4aa14c0b30cb33d7be8e4a46c32281477b34751ab625"
+        },
+        {
+          "id": "A72",
+          "source_native_xyxy": [
+            268,
+            1610,
+            407,
+            1812
+          ],
+          "atlas_tile_xyxy": [
+            139,
+            28,
+            278,
+            230
+          ],
+          "unit_pixel_sha256": "68660fc246e3ad8bee770a6b78102f6cde56283b1f9fdeea81a90da92f2a5191"
+        },
+        {
+          "id": "A73",
+          "source_native_xyxy": [
+            425,
+            1610,
+            558,
+            1812
+          ],
+          "atlas_tile_xyxy": [
+            278,
+            28,
+            411,
+            230
+          ],
+          "unit_pixel_sha256": "59aa63872e42427c1c03cc4e15869a8d1db9ec6e80d3b499e20cb9d6c5b1f947"
+        },
+        {
+          "id": "A74",
+          "source_native_xyxy": [
+            574,
+            1610,
+            714,
+            1812
+          ],
+          "atlas_tile_xyxy": [
+            411,
+            28,
+            551,
+            230
+          ],
+          "unit_pixel_sha256": "ea998897946166ffa4ac98dc332a71df2a7faff2e156ae33a3c995074440cacd"
+        },
+        {
+          "id": "A75",
+          "source_native_xyxy": [
+            726,
+            1610,
+            864,
+            1812
+          ],
+          "atlas_tile_xyxy": [
+            551,
+            28,
+            689,
+            230
+          ],
+          "unit_pixel_sha256": "fab6f1cd6cc59d262b532a92b1f7c91a2418a0a13524c4b19759b6156e236cf1"
+        },
+        {
+          "id": "A76",
+          "source_native_xyxy": [
+            883,
+            1610,
+            1008,
+            1812
+          ],
+          "atlas_tile_xyxy": [
+            689,
+            28,
+            814,
+            230
+          ],
+          "unit_pixel_sha256": "6915742fa9da308b0981338f4e0bb9250846edda8ff803b47dcf147bc6490c2b"
+        },
+        {
+          "id": "A77",
+          "source_native_xyxy": [
+            1020,
+            1610,
+            1160,
+            1812
+          ],
+          "atlas_tile_xyxy": [
+            814,
+            28,
+            954,
+            230
+          ],
+          "unit_pixel_sha256": "85f9e8900f84fae346e75b46f61b30b4fe0b88319a122dd77fc87183f313c318"
+        },
+        {
+          "id": "A78",
+          "source_native_xyxy": [
+            1178,
+            1610,
+            1355,
+            1812
+          ],
+          "atlas_tile_xyxy": [
+            954,
+            28,
+            1131,
+            230
+          ],
+          "unit_pixel_sha256": "8b7e31bfa00f348b3d48e977c29518bb6dc61d93e1da89a8a79f9d99c975aca7"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_08.png",
+      "sha256": "a96f5bdf167ccfa36f9e2f7954fa075f1191175ec7a0a27c77bcd69826ab5c07",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "A81",
+          "source_native_xyxy": [
+            112,
+            1761,
+            251,
+            1955
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            139,
+            222
+          ],
+          "unit_pixel_sha256": "77db641ed535850a791ae6398da9bc59270bdc2cebb91a7360c40f37376e0871"
+        },
+        {
+          "id": "A82",
+          "source_native_xyxy": [
+            268,
+            1761,
+            407,
+            1955
+          ],
+          "atlas_tile_xyxy": [
+            139,
+            28,
+            278,
+            222
+          ],
+          "unit_pixel_sha256": "50d08cdddf3edd8490f8150e33343f19707995f3eb23511a28ca1cf11e11473d"
+        },
+        {
+          "id": "A83",
+          "source_native_xyxy": [
+            425,
+            1761,
+            558,
+            1955
+          ],
+          "atlas_tile_xyxy": [
+            278,
+            28,
+            411,
+            222
+          ],
+          "unit_pixel_sha256": "173352d238e797609aa153c9fd7abf05ca3dab8ef7698314e81f75e364e80cb7"
+        },
+        {
+          "id": "A84",
+          "source_native_xyxy": [
+            574,
+            1761,
+            714,
+            1955
+          ],
+          "atlas_tile_xyxy": [
+            411,
+            28,
+            551,
+            222
+          ],
+          "unit_pixel_sha256": "fadccb8babcfa90b36e9b0a36ba1da8a0e0d8e327014b0cd09da138b9fc309c6"
+        },
+        {
+          "id": "A85",
+          "source_native_xyxy": [
+            726,
+            1761,
+            864,
+            1955
+          ],
+          "atlas_tile_xyxy": [
+            551,
+            28,
+            689,
+            222
+          ],
+          "unit_pixel_sha256": "fe9e0cd105bf9c58790c5b5cc44a21b892cc9430fe1134831e9cd8feb67ccfe5"
+        },
+        {
+          "id": "A86",
+          "source_native_xyxy": [
+            883,
+            1761,
+            1008,
+            1955
+          ],
+          "atlas_tile_xyxy": [
+            689,
+            28,
+            814,
+            222
+          ],
+          "unit_pixel_sha256": "72520414c06125d79f77ed76c7f7e6427b42267af12391e898d970936e67c0d7"
+        },
+        {
+          "id": "A87",
+          "source_native_xyxy": [
+            1020,
+            1761,
+            1160,
+            1955
+          ],
+          "atlas_tile_xyxy": [
+            814,
+            28,
+            954,
+            222
+          ],
+          "unit_pixel_sha256": "0d5a6fb9e66227afa84f0f1c348de7717000f24fe5eb3ced4cca1e2b6c0004b7"
+        },
+        {
+          "id": "A88",
+          "source_native_xyxy": [
+            1178,
+            1761,
+            1355,
+            1955
+          ],
+          "atlas_tile_xyxy": [
+            954,
+            28,
+            1131,
+            222
+          ],
+          "unit_pixel_sha256": "c4b1e5186052f25e2af1e2fb65921bf77ed027e676dc5f873c6d24ef3c5463c7"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_01.png",
+      "sha256": "83ad12e2c657cdd63fca4ac28dee795afc1c71fcae8f5f62ced4277e61d4d346",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "C01",
+          "source_native_xyxy": [
+            1444,
+            1080,
+            1518,
+            1193
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            74,
+            141
+          ],
+          "unit_pixel_sha256": "f54d7a6238cebd6159724e94db5b31b46271f43a538297c35fd890ae05a1a2d0"
+        },
+        {
+          "id": "C02",
+          "source_native_xyxy": [
+            1524,
+            1080,
+            1598,
+            1193
+          ],
+          "atlas_tile_xyxy": [
+            74,
+            28,
+            148,
+            141
+          ],
+          "unit_pixel_sha256": "1eb9d48ec73a197ff85a688078217445d97a980024845f973b0980319b512990"
+        },
+        {
+          "id": "C03",
+          "source_native_xyxy": [
+            1604,
+            1080,
+            1678,
+            1193
+          ],
+          "atlas_tile_xyxy": [
+            148,
+            28,
+            222,
+            141
+          ],
+          "unit_pixel_sha256": "2beca8aa89f71442e7d786a0a2f1ec9a33d52a281042e9b22443ed35fae96ff6"
+        },
+        {
+          "id": "C04",
+          "source_native_xyxy": [
+            1674,
+            1080,
+            1748,
+            1193
+          ],
+          "atlas_tile_xyxy": [
+            222,
+            28,
+            296,
+            141
+          ],
+          "unit_pixel_sha256": "e47d40946b75f5542fd26777953dc7c20962b790b188d989de56f8329992a272"
+        },
+        {
+          "id": "C05",
+          "source_native_xyxy": [
+            1754,
+            1080,
+            1828,
+            1193
+          ],
+          "atlas_tile_xyxy": [
+            296,
+            28,
+            370,
+            141
+          ],
+          "unit_pixel_sha256": "0b2dc2ee8e3166a33311afbbe86510ef45cebeb820a730806f07e08c2fa054d8"
+        },
+        {
+          "id": "C06",
+          "source_native_xyxy": [
+            1894,
+            1080,
+            1968,
+            1193
+          ],
+          "atlas_tile_xyxy": [
+            370,
+            28,
+            444,
+            141
+          ],
+          "unit_pixel_sha256": "73700ba9aa045267ec9d106bbe737628e7d71d49407d6c8a910ccfe36e0e4b4b"
+        },
+        {
+          "id": "C07",
+          "source_native_xyxy": [
+            1974,
+            1080,
+            2048,
+            1193
+          ],
+          "atlas_tile_xyxy": [
+            444,
+            28,
+            518,
+            141
+          ],
+          "unit_pixel_sha256": "24d19cac0a49865de5d29f33ccff8a642b8425720ef02b9d61e8af1cc69c65bc"
+        },
+        {
+          "id": "C08",
+          "source_native_xyxy": [
+            2044,
+            1080,
+            2118,
+            1193
+          ],
+          "atlas_tile_xyxy": [
+            518,
+            28,
+            592,
+            141
+          ],
+          "unit_pixel_sha256": "f47c52712e6788bddb4d785a246d01664e1db11c90a75f24503ca691cb55389c"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_02.png",
+      "sha256": "430b5b83e81543bb36adab7cb08f6e516342845193e78402f4b6d6700bcf5022",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "C09",
+          "source_native_xyxy": [
+            2114,
+            1080,
+            2188,
+            1193
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            74,
+            141
+          ],
+          "unit_pixel_sha256": "5dae55632ba208832dafbdcb147cc8757decd71455357ea1fd816b9952c11ac9"
+        },
+        {
+          "id": "C10",
+          "source_native_xyxy": [
+            2184,
+            1080,
+            2258,
+            1193
+          ],
+          "atlas_tile_xyxy": [
+            74,
+            28,
+            148,
+            141
+          ],
+          "unit_pixel_sha256": "d3883d05497458255dc84f2eebbe6516f9f992dba7b1b066bb3991648b9fd95a"
+        },
+        {
+          "id": "C11",
+          "source_native_xyxy": [
+            2304,
+            1080,
+            2378,
+            1193
+          ],
+          "atlas_tile_xyxy": [
+            148,
+            28,
+            222,
+            141
+          ],
+          "unit_pixel_sha256": "0f48b137992f3c89b0397a9a4c468545cbee204f5d62f6f3d1f4b827092cca86"
+        },
+        {
+          "id": "C12",
+          "source_native_xyxy": [
+            2394,
+            1080,
+            2468,
+            1193
+          ],
+          "atlas_tile_xyxy": [
+            222,
+            28,
+            296,
+            141
+          ],
+          "unit_pixel_sha256": "a5b913e9ec4944bc424f04f5404224813fd0aded18cbc1e7d07a1bdca026f76b"
+        },
+        {
+          "id": "C13",
+          "source_native_xyxy": [
+            2474,
+            1080,
+            2548,
+            1193
+          ],
+          "atlas_tile_xyxy": [
+            296,
+            28,
+            370,
+            141
+          ],
+          "unit_pixel_sha256": "555d3f23cd716e39f5ba31d9265588ffbad68969aebc6a2c3229fb8f21977e59"
+        },
+        {
+          "id": "C14",
+          "source_native_xyxy": [
+            2539,
+            1080,
+            2613,
+            1193
+          ],
+          "atlas_tile_xyxy": [
+            370,
+            28,
+            444,
+            141
+          ],
+          "unit_pixel_sha256": "13182e3742893e4af83f0e63a2574d5cc3da268fe329f3679a79f0cf2ed290a4"
+        },
+        {
+          "id": "C15",
+          "source_native_xyxy": [
+            2609,
+            1080,
+            2683,
+            1193
+          ],
+          "atlas_tile_xyxy": [
+            444,
+            28,
+            518,
+            141
+          ],
+          "unit_pixel_sha256": "9972e51303910353dfb207d562f5e5c54df09343ba60ccf4e0a25852aa9b771a"
+        },
+        {
+          "id": "C16",
+          "source_native_xyxy": [
+            1464,
+            1165,
+            1539,
+            1250
+          ],
+          "atlas_tile_xyxy": [
+            518,
+            28,
+            593,
+            113
+          ],
+          "unit_pixel_sha256": "7b4f6cc80f24c0953143448f4020830d71ef10c995290075e57c742d8e087b3b"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_03.png",
+      "sha256": "d104dc21da3f3839d183fc476666bc4f37ee8b9a5d774b7c663518084b5678c7",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "C17",
+          "source_native_xyxy": [
+            1670,
+            1165,
+            1745,
+            1250
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            75,
+            113
+          ],
+          "unit_pixel_sha256": "7708e92f70e71e845ef91dfc3e7f3f8dd4646b850e16bbff26fa830281ea4cca"
+        },
+        {
+          "id": "C18",
+          "source_native_xyxy": [
+            1750,
+            1165,
+            1825,
+            1250
+          ],
+          "atlas_tile_xyxy": [
+            75,
+            28,
+            150,
+            113
+          ],
+          "unit_pixel_sha256": "bc8e167154e49376b4883cd28c54b34059cfec473c1d029995076d97526c0b21"
+        },
+        {
+          "id": "C19",
+          "source_native_xyxy": [
+            1899,
+            1240,
+            1973,
+            1370
+          ],
+          "atlas_tile_xyxy": [
+            150,
+            28,
+            224,
+            158
+          ],
+          "unit_pixel_sha256": "515d47467cf5ff2f9793bd25a1a25c424a41cdb57c32d0d5c9f182b7b393e17c"
+        },
+        {
+          "id": "C20",
+          "source_native_xyxy": [
+            1958,
+            1240,
+            2032,
+            1370
+          ],
+          "atlas_tile_xyxy": [
+            224,
+            28,
+            298,
+            158
+          ],
+          "unit_pixel_sha256": "9bd4933f369d28df4ff4f19eed016780bb8b9dffc9b47524afb56caafea13067"
+        },
+        {
+          "id": "C21",
+          "source_native_xyxy": [
+            2028,
+            1240,
+            2102,
+            1370
+          ],
+          "atlas_tile_xyxy": [
+            298,
+            28,
+            372,
+            158
+          ],
+          "unit_pixel_sha256": "2cbc1601993cd3c4e0f49e62969614000dda55ffc900482297fb15832b6a70ec"
+        },
+        {
+          "id": "C22",
+          "source_native_xyxy": [
+            2099,
+            1240,
+            2173,
+            1370
+          ],
+          "atlas_tile_xyxy": [
+            372,
+            28,
+            446,
+            158
+          ],
+          "unit_pixel_sha256": "b33bdda95428f128037e770984df566e6d6086367f6f6b729b76a4eb07885903"
+        },
+        {
+          "id": "C23",
+          "source_native_xyxy": [
+            2170,
+            1240,
+            2244,
+            1370
+          ],
+          "atlas_tile_xyxy": [
+            446,
+            28,
+            520,
+            158
+          ],
+          "unit_pixel_sha256": "18dfed383b3bb1796e866304ed3b98c7090236c549824bb8dc4611d1ab56b63a"
+        },
+        {
+          "id": "C24",
+          "source_native_xyxy": [
+            2319,
+            1240,
+            2393,
+            1370
+          ],
+          "atlas_tile_xyxy": [
+            520,
+            28,
+            594,
+            158
+          ],
+          "unit_pixel_sha256": "274b6587a21bbac8b9d0b8b4e0bf24faa7592bb677d2cd89ff21fcad90a006db"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_04.png",
+      "sha256": "829ece97b5854ae06c6ce8c03785d5787127b06d693504674b65ece5f3bf02f2",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "C25",
+          "source_native_xyxy": [
+            2389,
+            1240,
+            2463,
+            1370
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            74,
+            158
+          ],
+          "unit_pixel_sha256": "74c6d0d3f23fec1936cb37dedcca8b90f940a068251197982cd7401cd694a9a0"
+        },
+        {
+          "id": "C26",
+          "source_native_xyxy": [
+            2464,
+            1240,
+            2538,
+            1370
+          ],
+          "atlas_tile_xyxy": [
+            74,
+            28,
+            148,
+            158
+          ],
+          "unit_pixel_sha256": "f23564e42804a8d02e52524c9f8249effb540d94a2aff005c185977429f98dcf"
+        },
+        {
+          "id": "C27",
+          "source_native_xyxy": [
+            2540,
+            1240,
+            2614,
+            1370
+          ],
+          "atlas_tile_xyxy": [
+            148,
+            28,
+            222,
+            158
+          ],
+          "unit_pixel_sha256": "ddf19f0534e2688a5fd18b94a266cfe2a422016e425f967e68af78074f1d3214"
+        },
+        {
+          "id": "C28",
+          "source_native_xyxy": [
+            2610,
+            1240,
+            2684,
+            1370
+          ],
+          "atlas_tile_xyxy": [
+            222,
+            28,
+            296,
+            158
+          ],
+          "unit_pixel_sha256": "0c495cdd9bd6af7ccf5333a56d81f43e109f5cd9b4cb94f1d8ff239a7ecef4e2"
+        },
+        {
+          "id": "C29",
+          "source_native_xyxy": [
+            1459,
+            1360,
+            1533,
+            1496
+          ],
+          "atlas_tile_xyxy": [
+            296,
+            28,
+            370,
+            164
+          ],
+          "unit_pixel_sha256": "2bfeba644aa39b77637cd74b9cc09e63acc2e3d444d8d1d964892cdaa6d8c678"
+        },
+        {
+          "id": "C30",
+          "source_native_xyxy": [
+            1529,
+            1360,
+            1603,
+            1496
+          ],
+          "atlas_tile_xyxy": [
+            370,
+            28,
+            444,
+            164
+          ],
+          "unit_pixel_sha256": "2a540059465ea78ef48295952ae4ea5bef64f998a62d076f3542d1f8dce5d7c9"
+        },
+        {
+          "id": "C31",
+          "source_native_xyxy": [
+            1604,
+            1360,
+            1678,
+            1496
+          ],
+          "atlas_tile_xyxy": [
+            444,
+            28,
+            518,
+            164
+          ],
+          "unit_pixel_sha256": "bc4ead234b6906c8753e166aec628fd548ae05f3f806e6820bff60dd3c0bb306"
+        },
+        {
+          "id": "C32",
+          "source_native_xyxy": [
+            1670,
+            1360,
+            1744,
+            1496
+          ],
+          "atlas_tile_xyxy": [
+            518,
+            28,
+            592,
+            164
+          ],
+          "unit_pixel_sha256": "78a77bcc88fe52f2d2d944bf868272b1f57ce77aab4a1849ff57ef619ac1f3f0"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_05.png",
+      "sha256": "767c92998e091137d6b90cd8c0a6e2633b97df908190ea3aa5aa0dec5bde9901",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "C33",
+          "source_native_xyxy": [
+            1742,
+            1360,
+            1816,
+            1496
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            74,
+            164
+          ],
+          "unit_pixel_sha256": "09b42f819e18f5cff0afc8680754c838858afc9945d99b1279e4e7858e983839"
+        },
+        {
+          "id": "C34",
+          "source_native_xyxy": [
+            1899,
+            1360,
+            1973,
+            1496
+          ],
+          "atlas_tile_xyxy": [
+            74,
+            28,
+            148,
+            164
+          ],
+          "unit_pixel_sha256": "0f84c9751c6ad1a0c7270fbe8bd066c795df840d22fbac4dc7c2f2cebab616ef"
+        },
+        {
+          "id": "C35",
+          "source_native_xyxy": [
+            1961,
+            1360,
+            2035,
+            1496
+          ],
+          "atlas_tile_xyxy": [
+            148,
+            28,
+            222,
+            164
+          ],
+          "unit_pixel_sha256": "fb18f34ca30cbc3339c33f584bcb91a725bf200b54ab8a2d3176aff31d09b7f3"
+        },
+        {
+          "id": "C36",
+          "source_native_xyxy": [
+            2034,
+            1360,
+            2108,
+            1496
+          ],
+          "atlas_tile_xyxy": [
+            222,
+            28,
+            296,
+            164
+          ],
+          "unit_pixel_sha256": "20bac809c1564098d86850418919b4d25999d0125fd76963b3daa6d48fa98724"
+        },
+        {
+          "id": "C37",
+          "source_native_xyxy": [
+            2104,
+            1360,
+            2178,
+            1496
+          ],
+          "atlas_tile_xyxy": [
+            296,
+            28,
+            370,
+            164
+          ],
+          "unit_pixel_sha256": "36e575fd6ce1f47e6638a2737a577ba9c032e2c608ec67c5992a0569334bed6a"
+        },
+        {
+          "id": "C38",
+          "source_native_xyxy": [
+            2179,
+            1360,
+            2253,
+            1496
+          ],
+          "atlas_tile_xyxy": [
+            370,
+            28,
+            444,
+            164
+          ],
+          "unit_pixel_sha256": "a83c89f745c0276ed121131068b983786ec107259f6a8d0efc148f8875925c8b"
+        },
+        {
+          "id": "C39",
+          "source_native_xyxy": [
+            2324,
+            1360,
+            2398,
+            1496
+          ],
+          "atlas_tile_xyxy": [
+            444,
+            28,
+            518,
+            164
+          ],
+          "unit_pixel_sha256": "29d1e6c63a5c523903cc3ac6e5c09c4476da359e507300d25b27a05de08f952a"
+        },
+        {
+          "id": "C40",
+          "source_native_xyxy": [
+            2384,
+            1360,
+            2458,
+            1496
+          ],
+          "atlas_tile_xyxy": [
+            518,
+            28,
+            592,
+            164
+          ],
+          "unit_pixel_sha256": "8d9d160d33e4230ebaf584327f15da4c507875964bb04a5a4b81724e8e6f8892"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_06.png",
+      "sha256": "1b1f50fe53c28d156e1f3583327795896f19160a6b4b604570be79b622c29e8e",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "C41",
+          "source_native_xyxy": [
+            2444,
+            1360,
+            2518,
+            1496
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            74,
+            164
+          ],
+          "unit_pixel_sha256": "8be36b8c7113bc19504d3dc800a346a44c13ce1b0edeeda7ad1a3706942e8eb4"
+        },
+        {
+          "id": "C42",
+          "source_native_xyxy": [
+            2544,
+            1360,
+            2618,
+            1496
+          ],
+          "atlas_tile_xyxy": [
+            74,
+            28,
+            148,
+            164
+          ],
+          "unit_pixel_sha256": "cd2dc7f45fceb044320a1f4990ea0233667321593b50ee43818c5b2663c1c9e4"
+        },
+        {
+          "id": "C43",
+          "source_native_xyxy": [
+            2604,
+            1360,
+            2678,
+            1496
+          ],
+          "atlas_tile_xyxy": [
+            148,
+            28,
+            222,
+            164
+          ],
+          "unit_pixel_sha256": "566245de09df59bc05955138e6fe5065f69c5617070bfd9cfb4c1d42ad60c002"
+        },
+        {
+          "id": "C44",
+          "source_native_xyxy": [
+            1454,
+            1510,
+            1528,
+            1648
+          ],
+          "atlas_tile_xyxy": [
+            222,
+            28,
+            296,
+            166
+          ],
+          "unit_pixel_sha256": "2642812a391518cebead00802327fd4aefac3f39582e74cb63f1f3345d822bc8"
+        },
+        {
+          "id": "C45",
+          "source_native_xyxy": [
+            1534,
+            1510,
+            1608,
+            1648
+          ],
+          "atlas_tile_xyxy": [
+            296,
+            28,
+            370,
+            166
+          ],
+          "unit_pixel_sha256": "810ccc50b39383a027ecfbdf367bd706fe8590a73dbde739fe937760f6766a80"
+        },
+        {
+          "id": "C46",
+          "source_native_xyxy": [
+            1604,
+            1510,
+            1678,
+            1648
+          ],
+          "atlas_tile_xyxy": [
+            370,
+            28,
+            444,
+            166
+          ],
+          "unit_pixel_sha256": "633db39d233fb7c8fe38094b3aab366ab523e65f21725dfed1f2cd04b39e9d49"
+        },
+        {
+          "id": "C47",
+          "source_native_xyxy": [
+            1674,
+            1510,
+            1748,
+            1648
+          ],
+          "atlas_tile_xyxy": [
+            444,
+            28,
+            518,
+            166
+          ],
+          "unit_pixel_sha256": "71b1b550d16333f15e752235bf0a2ce1089abcdff8ab4dec7ff6beeb327d7936"
+        },
+        {
+          "id": "C48",
+          "source_native_xyxy": [
+            1754,
+            1510,
+            1828,
+            1648
+          ],
+          "atlas_tile_xyxy": [
+            518,
+            28,
+            592,
+            166
+          ],
+          "unit_pixel_sha256": "7c6939dc4b0a2e741dd735ac4d6a39b47c05351aa14d0e10a775e92d3efe0d7a"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_07.png",
+      "sha256": "a96b8f859a835054439f429ee853b1ef7b922e4050001e8d19190d9c0bcf5707",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "C49",
+          "source_native_xyxy": [
+            1894,
+            1510,
+            1968,
+            1648
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            74,
+            166
+          ],
+          "unit_pixel_sha256": "bd8a2f90ba91c171ff7fadfe80fde1dcdacf657dba01047ab4e31449577b8193"
+        },
+        {
+          "id": "C50",
+          "source_native_xyxy": [
+            1969,
+            1510,
+            2043,
+            1648
+          ],
+          "atlas_tile_xyxy": [
+            74,
+            28,
+            148,
+            166
+          ],
+          "unit_pixel_sha256": "95e84755616613a2128a8d9cb24f4aae55122e3151c2c957bcb98598bdf18b47"
+        },
+        {
+          "id": "C51",
+          "source_native_xyxy": [
+            2039,
+            1510,
+            2113,
+            1648
+          ],
+          "atlas_tile_xyxy": [
+            148,
+            28,
+            222,
+            166
+          ],
+          "unit_pixel_sha256": "9a8ab637e1e4d2b29a92801954379263173cb9a426d0394fa7392788070dd029"
+        },
+        {
+          "id": "C52",
+          "source_native_xyxy": [
+            2109,
+            1510,
+            2183,
+            1648
+          ],
+          "atlas_tile_xyxy": [
+            222,
+            28,
+            296,
+            166
+          ],
+          "unit_pixel_sha256": "70658d56a32b9de51a506b7c9900e590e37717f177077cd2ee3777024bd6900e"
+        },
+        {
+          "id": "C53",
+          "source_native_xyxy": [
+            2184,
+            1510,
+            2258,
+            1648
+          ],
+          "atlas_tile_xyxy": [
+            296,
+            28,
+            370,
+            166
+          ],
+          "unit_pixel_sha256": "be4cb45b595cee810e2fca3e4b26ffc1fcb59d98ca819bf19d51ae113b53b164"
+        },
+        {
+          "id": "C54",
+          "source_native_xyxy": [
+            2314,
+            1510,
+            2388,
+            1648
+          ],
+          "atlas_tile_xyxy": [
+            370,
+            28,
+            444,
+            166
+          ],
+          "unit_pixel_sha256": "ecfb7d079cb5854a3e06562dd209dbca9a79be3a3934ad83b7e81ba8c91e960c"
+        },
+        {
+          "id": "C55",
+          "source_native_xyxy": [
+            2394,
+            1510,
+            2468,
+            1648
+          ],
+          "atlas_tile_xyxy": [
+            444,
+            28,
+            518,
+            166
+          ],
+          "unit_pixel_sha256": "5b8b343ffbb8c1e7c50e24dae5a7be5c5509499e8aeb32bc52bac60a0e7e9b13"
+        },
+        {
+          "id": "C56",
+          "source_native_xyxy": [
+            2474,
+            1510,
+            2548,
+            1648
+          ],
+          "atlas_tile_xyxy": [
+            518,
+            28,
+            592,
+            166
+          ],
+          "unit_pixel_sha256": "5192e30b020fffdd0f0f40f096edd7e68abd16152293f05b3f0cefb9dc3f9f2f"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_08.png",
+      "sha256": "13a791f458873a1fd58ecce001189f10ced55579b0da941c1d97658b716f475b",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "C57",
+          "source_native_xyxy": [
+            2544,
+            1510,
+            2618,
+            1648
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            74,
+            166
+          ],
+          "unit_pixel_sha256": "94ccacbfc688a594fa4070ec8fe0b07a95b354dc7766bd6f5d811c966bde6905"
+        },
+        {
+          "id": "C58",
+          "source_native_xyxy": [
+            2614,
+            1510,
+            2688,
+            1648
+          ],
+          "atlas_tile_xyxy": [
+            74,
+            28,
+            148,
+            166
+          ],
+          "unit_pixel_sha256": "4245f96e6adc3e6dce1bf181947a21c3eee8b8ca7d71322b1b507206cfe49f6e"
+        },
+        {
+          "id": "C59",
+          "source_native_xyxy": [
+            1454,
+            1660,
+            1528,
+            1795
+          ],
+          "atlas_tile_xyxy": [
+            148,
+            28,
+            222,
+            163
+          ],
+          "unit_pixel_sha256": "fd263bd5cad85c268ec4fc8731055aec5712739e6d746c334cf1f6181ea9b180"
+        },
+        {
+          "id": "C60",
+          "source_native_xyxy": [
+            1544,
+            1660,
+            1618,
+            1795
+          ],
+          "atlas_tile_xyxy": [
+            222,
+            28,
+            296,
+            163
+          ],
+          "unit_pixel_sha256": "68c174c16350876007c5f42079848a33b92acd8c045207e4e9dc71b81cc0196c"
+        },
+        {
+          "id": "C61",
+          "source_native_xyxy": [
+            1624,
+            1660,
+            1698,
+            1795
+          ],
+          "atlas_tile_xyxy": [
+            296,
+            28,
+            370,
+            163
+          ],
+          "unit_pixel_sha256": "a2f9e3650d2bfa730eb439208668fbceda560930b02e72f52ef2eb33b4c9e375"
+        },
+        {
+          "id": "C62",
+          "source_native_xyxy": [
+            1694,
+            1660,
+            1768,
+            1795
+          ],
+          "atlas_tile_xyxy": [
+            370,
+            28,
+            444,
+            163
+          ],
+          "unit_pixel_sha256": "2064d185ee7d23618601a1454c4f366ae2df1308bf494da823c78a37a26f244f"
+        },
+        {
+          "id": "C63",
+          "source_native_xyxy": [
+            1764,
+            1660,
+            1838,
+            1795
+          ],
+          "atlas_tile_xyxy": [
+            444,
+            28,
+            518,
+            163
+          ],
+          "unit_pixel_sha256": "e092ee719455c26989ac0cd4034f586c2ca32b0bdfd9c067ce69c626b83012a9"
+        },
+        {
+          "id": "C64",
+          "source_native_xyxy": [
+            1904,
+            1660,
+            1978,
+            1795
+          ],
+          "atlas_tile_xyxy": [
+            518,
+            28,
+            592,
+            163
+          ],
+          "unit_pixel_sha256": "c7380fba8ec867f45c8d64573d49c64f1787098fc612c37db8df116cc528c0fa"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/GROUPED_CANCELLED_NATIVE_ATLAS_01.png",
+      "sha256": "200632945ae7db36ccd4d63cc809446190b7c44a21eff6a55938954396b4c8c6",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "X1",
+          "source_native_xyxy": [
+            1445,
+            1240,
+            1520,
+            1370
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            75,
+            158
+          ],
+          "unit_pixel_sha256": "16a57ac93ad7abf47d42f69603b3857df792670c9d3df9872d8256a95bf1ac71"
+        },
+        {
+          "id": "X2",
+          "source_native_xyxy": [
+            1529,
+            1240,
+            1604,
+            1370
+          ],
+          "atlas_tile_xyxy": [
+            75,
+            28,
+            150,
+            158
+          ],
+          "unit_pixel_sha256": "1e0253ce3c4876c0b9465ce16c51b735e01c7706ffe84f4c97a4009402847e0e"
+        },
+        {
+          "id": "X3",
+          "source_native_xyxy": [
+            1599,
+            1240,
+            1674,
+            1370
+          ],
+          "atlas_tile_xyxy": [
+            150,
+            28,
+            225,
+            158
+          ],
+          "unit_pixel_sha256": "24b1bcd4bddbba7a97521b108c3ca2469d1480c0c624a702a7f059f0df83f422"
+        },
+        {
+          "id": "X4",
+          "source_native_xyxy": [
+            1669,
+            1240,
+            1744,
+            1370
+          ],
+          "atlas_tile_xyxy": [
+            225,
+            28,
+            300,
+            158
+          ],
+          "unit_pixel_sha256": "15f7a86d70107dec30cc9fb796d59bcaa51ee57712ce59e41c8745f947ef0413"
+        },
+        {
+          "id": "X5",
+          "source_native_xyxy": [
+            1751,
+            1240,
+            1826,
+            1370
+          ],
+          "atlas_tile_xyxy": [
+            300,
+            28,
+            375,
+            158
+          ],
+          "unit_pixel_sha256": "62657aacbb86a574c740b10e83a45d6c5dcf8b9d3f63cb6bb2f4395d7a0559d1"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_01.png",
+      "sha256": "da85ed61067b91eb115625af54e9da4b667d6cbe95fc1b46b6d34b0fd1e63365",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "K11",
+          "source_native_xyxy": [
+            289,
+            107,
+            435,
+            251
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            146,
+            172
+          ],
+          "unit_pixel_sha256": "b431886e2de11b2b6fa97045d5d506e0c310b5392603d5c5dfd1586e15f54200"
+        },
+        {
+          "id": "K12",
+          "source_native_xyxy": [
+            435,
+            107,
+            578,
+            251
+          ],
+          "atlas_tile_xyxy": [
+            146,
+            28,
+            289,
+            172
+          ],
+          "unit_pixel_sha256": "a4b6ee40cab1406e630480b26885766912f09243beceda78629effea0dcc3404"
+        },
+        {
+          "id": "K13",
+          "source_native_xyxy": [
+            578,
+            107,
+            720,
+            251
+          ],
+          "atlas_tile_xyxy": [
+            289,
+            28,
+            431,
+            172
+          ],
+          "unit_pixel_sha256": "27468cea666470ec5c147158f90b11cab7022b305d7e79cdb97835414ba8ff6c"
+        },
+        {
+          "id": "K14",
+          "source_native_xyxy": [
+            720,
+            107,
+            863,
+            251
+          ],
+          "atlas_tile_xyxy": [
+            431,
+            28,
+            574,
+            172
+          ],
+          "unit_pixel_sha256": "f9dac420c7b2b475fdda92ea6102860a2f6f2d3f600c9389eeaee635dde9dbb1"
+        },
+        {
+          "id": "K15",
+          "source_native_xyxy": [
+            863,
+            107,
+            1007,
+            251
+          ],
+          "atlas_tile_xyxy": [
+            574,
+            28,
+            718,
+            172
+          ],
+          "unit_pixel_sha256": "68879d658d3578eddc8092c94621d761cadc93d88c72dc1955751aac83dff289"
+        },
+        {
+          "id": "K16",
+          "source_native_xyxy": [
+            1007,
+            107,
+            1150,
+            251
+          ],
+          "atlas_tile_xyxy": [
+            718,
+            28,
+            861,
+            172
+          ],
+          "unit_pixel_sha256": "0eec7fd889747f47e120d4f57f721f537fb35bb18a6725b5629a91691187d510"
+        },
+        {
+          "id": "K17",
+          "source_native_xyxy": [
+            1150,
+            107,
+            1293,
+            251
+          ],
+          "atlas_tile_xyxy": [
+            861,
+            28,
+            1004,
+            172
+          ],
+          "unit_pixel_sha256": "a5f2bcd2ed2a7fee43b7d6ec1790da6fa04e88f3bbbf75ed7e5dd68f4b15967a"
+        },
+        {
+          "id": "K18",
+          "source_native_xyxy": [
+            1293,
+            107,
+            1435,
+            251
+          ],
+          "atlas_tile_xyxy": [
+            1004,
+            28,
+            1146,
+            172
+          ],
+          "unit_pixel_sha256": "5d3a2f48ebb2b18ce5f995a1bf4d64b8db6f3e613e862804062d230360f74681"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_02.png",
+      "sha256": "676f9aabf2f6dcc644cd6f5e5f2b77f61b2861d3573b4adc8bde415e6adc7281",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "K21",
+          "source_native_xyxy": [
+            289,
+            251,
+            435,
+            393
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            146,
+            170
+          ],
+          "unit_pixel_sha256": "14fbe919b84f058ec80966dc18635b0ef92faa95346da564e070c4184e705d2d"
+        },
+        {
+          "id": "K22",
+          "source_native_xyxy": [
+            435,
+            251,
+            578,
+            393
+          ],
+          "atlas_tile_xyxy": [
+            146,
+            28,
+            289,
+            170
+          ],
+          "unit_pixel_sha256": "380bf7f7d18190edd2f947aa8e70908ec6e2533c3ccd29fc9499fc9cc064d635"
+        },
+        {
+          "id": "K23",
+          "source_native_xyxy": [
+            578,
+            251,
+            720,
+            393
+          ],
+          "atlas_tile_xyxy": [
+            289,
+            28,
+            431,
+            170
+          ],
+          "unit_pixel_sha256": "596e2c580196aba7fd3ff73147cdf66555e59d8b6d5ce8bb9f129fb2d68e82e1"
+        },
+        {
+          "id": "K24",
+          "source_native_xyxy": [
+            720,
+            251,
+            863,
+            393
+          ],
+          "atlas_tile_xyxy": [
+            431,
+            28,
+            574,
+            170
+          ],
+          "unit_pixel_sha256": "3d6ddf581c4b8392bec7f159bec75ca86b81072ef53c4221c5118b909d6aa509"
+        },
+        {
+          "id": "K25",
+          "source_native_xyxy": [
+            863,
+            251,
+            1007,
+            393
+          ],
+          "atlas_tile_xyxy": [
+            574,
+            28,
+            718,
+            170
+          ],
+          "unit_pixel_sha256": "0125610cff3363d48e7c498e1b4b97c2fc2e971c64342ffd9e1c0b857e4eb824"
+        },
+        {
+          "id": "K26",
+          "source_native_xyxy": [
+            1007,
+            251,
+            1150,
+            393
+          ],
+          "atlas_tile_xyxy": [
+            718,
+            28,
+            861,
+            170
+          ],
+          "unit_pixel_sha256": "5a0fd5d9a749080344817f2c8458b9894bb9acba702b832245bb68e66947e012"
+        },
+        {
+          "id": "K27",
+          "source_native_xyxy": [
+            1150,
+            251,
+            1293,
+            393
+          ],
+          "atlas_tile_xyxy": [
+            861,
+            28,
+            1004,
+            170
+          ],
+          "unit_pixel_sha256": "5541b88a9979be3a718e4da7f4ea170e025000d2efa53bbec8cc56ab5cdb543b"
+        },
+        {
+          "id": "K28",
+          "source_native_xyxy": [
+            1293,
+            251,
+            1435,
+            393
+          ],
+          "atlas_tile_xyxy": [
+            1004,
+            28,
+            1146,
+            170
+          ],
+          "unit_pixel_sha256": "3ce6ae2a364cd8f203e736fcc58cd6b2e7f351e2f715e392e17fac63de5b9227"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_03.png",
+      "sha256": "4c3c3151bd6b263837c2c2eaa0be24cee561407c5a325f752e6e06dae49ef00d",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "K31",
+          "source_native_xyxy": [
+            289,
+            393,
+            435,
+            535
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            146,
+            170
+          ],
+          "unit_pixel_sha256": "0d8f2188f9ea966acd46ac6a3fd6333dcb32476aee69db6d312ef0e8039f9d46"
+        },
+        {
+          "id": "K32",
+          "source_native_xyxy": [
+            435,
+            393,
+            578,
+            535
+          ],
+          "atlas_tile_xyxy": [
+            146,
+            28,
+            289,
+            170
+          ],
+          "unit_pixel_sha256": "1548778b1f1d7c1976586f0fe0723947afff963f4c8fee740a6a3635e48e611d"
+        },
+        {
+          "id": "K33",
+          "source_native_xyxy": [
+            578,
+            393,
+            720,
+            535
+          ],
+          "atlas_tile_xyxy": [
+            289,
+            28,
+            431,
+            170
+          ],
+          "unit_pixel_sha256": "8a1eebcb9772db16ac27f8e4f94c11de6f4362cad67d681e5d76868399b0610e"
+        },
+        {
+          "id": "K34",
+          "source_native_xyxy": [
+            720,
+            393,
+            863,
+            535
+          ],
+          "atlas_tile_xyxy": [
+            431,
+            28,
+            574,
+            170
+          ],
+          "unit_pixel_sha256": "398aef7281b196302b5f5f5b858eb4155e4a8323b732144cb2e94afbe5710a29"
+        },
+        {
+          "id": "K35",
+          "source_native_xyxy": [
+            863,
+            393,
+            1007,
+            535
+          ],
+          "atlas_tile_xyxy": [
+            574,
+            28,
+            718,
+            170
+          ],
+          "unit_pixel_sha256": "4caf4859165b31198d3b086e38d9c5425d69598b5eed72c820c27258613c8271"
+        },
+        {
+          "id": "K36",
+          "source_native_xyxy": [
+            1007,
+            393,
+            1150,
+            535
+          ],
+          "atlas_tile_xyxy": [
+            718,
+            28,
+            861,
+            170
+          ],
+          "unit_pixel_sha256": "a824e4d2925742b4da5e8b69b58a71c4a20f657dd49e9e3111863375a6d748cd"
+        },
+        {
+          "id": "K37",
+          "source_native_xyxy": [
+            1150,
+            393,
+            1293,
+            535
+          ],
+          "atlas_tile_xyxy": [
+            861,
+            28,
+            1004,
+            170
+          ],
+          "unit_pixel_sha256": "b32e937ab6dfdd96800fcbae6dd10a46aaf5dd00be11980f1d16442aefefe800"
+        },
+        {
+          "id": "K38",
+          "source_native_xyxy": [
+            1293,
+            393,
+            1435,
+            535
+          ],
+          "atlas_tile_xyxy": [
+            1004,
+            28,
+            1146,
+            170
+          ],
+          "unit_pixel_sha256": "9e9f21e5df167fb99b3c4eeb6c51bca121105de4558ac2e84c9b2d09f81cef26"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_04.png",
+      "sha256": "5bfe0cc64c2dca1b84fb0bfac530856ca973aaaad7f78ecb5a979f5014b3c3f0",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "K41",
+          "source_native_xyxy": [
+            289,
+            535,
+            435,
+            677
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            146,
+            170
+          ],
+          "unit_pixel_sha256": "19b17e61207df34fe521bd53f3570b569331ec0d03282cbabb70f41d23996b9a"
+        },
+        {
+          "id": "K42",
+          "source_native_xyxy": [
+            435,
+            535,
+            578,
+            677
+          ],
+          "atlas_tile_xyxy": [
+            146,
+            28,
+            289,
+            170
+          ],
+          "unit_pixel_sha256": "e3fdf29cecf401f4b3d6e7ee9087d9aaaab09b706ad6431693921bd6c0edf1a2"
+        },
+        {
+          "id": "K43",
+          "source_native_xyxy": [
+            578,
+            535,
+            720,
+            677
+          ],
+          "atlas_tile_xyxy": [
+            289,
+            28,
+            431,
+            170
+          ],
+          "unit_pixel_sha256": "14af6c95fcab9ab1ba08e3c56e7fab6030ae9f113b01d57553a83ef6383d4d5d"
+        },
+        {
+          "id": "K44",
+          "source_native_xyxy": [
+            720,
+            535,
+            863,
+            677
+          ],
+          "atlas_tile_xyxy": [
+            431,
+            28,
+            574,
+            170
+          ],
+          "unit_pixel_sha256": "2a0762b9e89bb98c8ea96feab23c711ece9581f34b8ef548a8a135dea23102e0"
+        },
+        {
+          "id": "K45",
+          "source_native_xyxy": [
+            863,
+            535,
+            1007,
+            677
+          ],
+          "atlas_tile_xyxy": [
+            574,
+            28,
+            718,
+            170
+          ],
+          "unit_pixel_sha256": "5694153940d30ed4abb5b990ecf0002163691c5027c6d1f20dded2bb06b7a30c"
+        },
+        {
+          "id": "K46",
+          "source_native_xyxy": [
+            1007,
+            535,
+            1150,
+            677
+          ],
+          "atlas_tile_xyxy": [
+            718,
+            28,
+            861,
+            170
+          ],
+          "unit_pixel_sha256": "4fe64cfa67513579d33651f72dc48e952e1203f4f96c21581bb0b0e1a9ea654b"
+        },
+        {
+          "id": "K47",
+          "source_native_xyxy": [
+            1150,
+            535,
+            1293,
+            677
+          ],
+          "atlas_tile_xyxy": [
+            861,
+            28,
+            1004,
+            170
+          ],
+          "unit_pixel_sha256": "270b963ffc2188b8562b87a79b2d1ebf453d2179c555f452c7ecada6b9fd63b3"
+        },
+        {
+          "id": "K48",
+          "source_native_xyxy": [
+            1293,
+            535,
+            1435,
+            677
+          ],
+          "atlas_tile_xyxy": [
+            1004,
+            28,
+            1146,
+            170
+          ],
+          "unit_pixel_sha256": "7a46ff732d4b7645819ff9e2224bd234b37e89463207736e4e6bce07a78629a4"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_05.png",
+      "sha256": "8fde6b8ff526e676ec34c1681f0f71b93272acf7fde4c4877d1b5c4da24200a5",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "K51",
+          "source_native_xyxy": [
+            289,
+            677,
+            435,
+            818
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            146,
+            169
+          ],
+          "unit_pixel_sha256": "9172b95543512fbbfc20ccbb448b1aa94ec91e9ed235517d9d45f2f3e826e7bf"
+        },
+        {
+          "id": "K52",
+          "source_native_xyxy": [
+            435,
+            677,
+            578,
+            818
+          ],
+          "atlas_tile_xyxy": [
+            146,
+            28,
+            289,
+            169
+          ],
+          "unit_pixel_sha256": "505f2dfdf6678cd7a4798c9fe5c1c3af21c9ca579416921cd26bbfc508f078ee"
+        },
+        {
+          "id": "K53",
+          "source_native_xyxy": [
+            578,
+            677,
+            720,
+            818
+          ],
+          "atlas_tile_xyxy": [
+            289,
+            28,
+            431,
+            169
+          ],
+          "unit_pixel_sha256": "4d40e29625a0815e1d872bbe5013fb8cc4dec2aa67482c263de618dfb57e0852"
+        },
+        {
+          "id": "K54",
+          "source_native_xyxy": [
+            720,
+            677,
+            863,
+            818
+          ],
+          "atlas_tile_xyxy": [
+            431,
+            28,
+            574,
+            169
+          ],
+          "unit_pixel_sha256": "8495fafb907a2c75e87048a824f149fcde8b0dc4bdb78ef59f7a1a48af34f54b"
+        },
+        {
+          "id": "K55",
+          "source_native_xyxy": [
+            863,
+            677,
+            1007,
+            818
+          ],
+          "atlas_tile_xyxy": [
+            574,
+            28,
+            718,
+            169
+          ],
+          "unit_pixel_sha256": "ea70af76963348f47759dc2b1125c40dc6d2c4178a6b3752b714dde66c049633"
+        },
+        {
+          "id": "K56",
+          "source_native_xyxy": [
+            1007,
+            677,
+            1150,
+            818
+          ],
+          "atlas_tile_xyxy": [
+            718,
+            28,
+            861,
+            169
+          ],
+          "unit_pixel_sha256": "6603ada82e35ba24ac280bebc505328c91ecfd61446e7feed22e8abbabadc39b"
+        },
+        {
+          "id": "K57",
+          "source_native_xyxy": [
+            1150,
+            677,
+            1293,
+            818
+          ],
+          "atlas_tile_xyxy": [
+            861,
+            28,
+            1004,
+            169
+          ],
+          "unit_pixel_sha256": "24d1700f0b2fe4c8fb1b195528728cff772a106603121c871d59c2e29a055403"
+        },
+        {
+          "id": "K58",
+          "source_native_xyxy": [
+            1293,
+            677,
+            1435,
+            818
+          ],
+          "atlas_tile_xyxy": [
+            1004,
+            28,
+            1146,
+            169
+          ],
+          "unit_pixel_sha256": "014ede63d67369ead467825d2ea12f906b7dea046733986f1e2846222bb282ef"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_06.png",
+      "sha256": "94c798d67dc957af0deb918a92bbb2eacc04c68042665820cc5ec0e486164338",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "K61",
+          "source_native_xyxy": [
+            289,
+            818,
+            435,
+            960
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            146,
+            170
+          ],
+          "unit_pixel_sha256": "4b6896dc7b8a0db1f17c49d6eb5ac6dce21a3311ccf9630a7000d746c31e9bbd"
+        },
+        {
+          "id": "K62",
+          "source_native_xyxy": [
+            435,
+            818,
+            578,
+            960
+          ],
+          "atlas_tile_xyxy": [
+            146,
+            28,
+            289,
+            170
+          ],
+          "unit_pixel_sha256": "8df44b46b68d937d51050858f79471ee6ac4a15392fcea2507e0a742cb9d5a41"
+        },
+        {
+          "id": "K63",
+          "source_native_xyxy": [
+            578,
+            818,
+            720,
+            960
+          ],
+          "atlas_tile_xyxy": [
+            289,
+            28,
+            431,
+            170
+          ],
+          "unit_pixel_sha256": "7cc3d20595e26854f6939a3851454398885cca1a5f3e3217149b4be4f2f813a7"
+        },
+        {
+          "id": "K64",
+          "source_native_xyxy": [
+            720,
+            818,
+            863,
+            960
+          ],
+          "atlas_tile_xyxy": [
+            431,
+            28,
+            574,
+            170
+          ],
+          "unit_pixel_sha256": "81471f5c7422437ffe1602b8ae866aeaa14a4f2f6afeb67e53de1b36b0af322b"
+        },
+        {
+          "id": "K65",
+          "source_native_xyxy": [
+            863,
+            818,
+            1007,
+            960
+          ],
+          "atlas_tile_xyxy": [
+            574,
+            28,
+            718,
+            170
+          ],
+          "unit_pixel_sha256": "a11979a6dc6befecda71a22549d1b22c82c869ef90e60d83ab7d77ef27bdca6c"
+        },
+        {
+          "id": "K66",
+          "source_native_xyxy": [
+            1007,
+            818,
+            1150,
+            960
+          ],
+          "atlas_tile_xyxy": [
+            718,
+            28,
+            861,
+            170
+          ],
+          "unit_pixel_sha256": "fccf172a7c02796ac33714c962cc24c5b9c3e4fe843385ba512ee7885410616e"
+        },
+        {
+          "id": "K67",
+          "source_native_xyxy": [
+            1150,
+            818,
+            1293,
+            960
+          ],
+          "atlas_tile_xyxy": [
+            861,
+            28,
+            1004,
+            170
+          ],
+          "unit_pixel_sha256": "7bebaa0b1fe54e6afeb2e63ad7e7435d49f4ad081033b4dd5e925bf6c0650518"
+        },
+        {
+          "id": "K68",
+          "source_native_xyxy": [
+            1293,
+            818,
+            1435,
+            960
+          ],
+          "atlas_tile_xyxy": [
+            1004,
+            28,
+            1146,
+            170
+          ],
+          "unit_pixel_sha256": "3003afa579a89c8e75fbbbddf1f0bb91dd426d49c8b91ee6473fd276672fc09d"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_07.png",
+      "sha256": "0a737543094f467b88a638dcd9bfdbac19ed63c1529d7d5c5681d4abf540c168",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "K71",
+          "source_native_xyxy": [
+            289,
+            960,
+            435,
+            1103
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            146,
+            171
+          ],
+          "unit_pixel_sha256": "88a4edce4c7455894c77081015ea83439fb45aa72e65ee29fa0f3ab3519a91be"
+        },
+        {
+          "id": "K72",
+          "source_native_xyxy": [
+            435,
+            960,
+            578,
+            1103
+          ],
+          "atlas_tile_xyxy": [
+            146,
+            28,
+            289,
+            171
+          ],
+          "unit_pixel_sha256": "703b5a7fdb47db78aefb662e209e10ecbc9355d0075a44f939f2e3e8dc499a51"
+        },
+        {
+          "id": "K73",
+          "source_native_xyxy": [
+            578,
+            960,
+            720,
+            1103
+          ],
+          "atlas_tile_xyxy": [
+            289,
+            28,
+            431,
+            171
+          ],
+          "unit_pixel_sha256": "f876850449853d7c609533f1999614f68774ac111c5d3aaf44e80db12f8adb4d"
+        },
+        {
+          "id": "K74",
+          "source_native_xyxy": [
+            720,
+            960,
+            863,
+            1103
+          ],
+          "atlas_tile_xyxy": [
+            431,
+            28,
+            574,
+            171
+          ],
+          "unit_pixel_sha256": "a5bbb58ed404469ae0adead9eba3e4084fb300e07fc6353e9734902dda34a35f"
+        },
+        {
+          "id": "K75",
+          "source_native_xyxy": [
+            863,
+            960,
+            1007,
+            1103
+          ],
+          "atlas_tile_xyxy": [
+            574,
+            28,
+            718,
+            171
+          ],
+          "unit_pixel_sha256": "88f28d1f6503990e9ca9ab052ae2fda4963b04882febee38035178dd72320cb9"
+        },
+        {
+          "id": "K76",
+          "source_native_xyxy": [
+            1007,
+            960,
+            1150,
+            1103
+          ],
+          "atlas_tile_xyxy": [
+            718,
+            28,
+            861,
+            171
+          ],
+          "unit_pixel_sha256": "e43cbe42a164823c5c8f622a3a9624d8093c30050d65e1df5d955f8a6086e4a5"
+        },
+        {
+          "id": "K77",
+          "source_native_xyxy": [
+            1150,
+            960,
+            1293,
+            1103
+          ],
+          "atlas_tile_xyxy": [
+            861,
+            28,
+            1004,
+            171
+          ],
+          "unit_pixel_sha256": "70195c54c67ace758a52b6fed1dc846578631355fdce1b6a1a1afcf6393bebba"
+        },
+        {
+          "id": "K78",
+          "source_native_xyxy": [
+            1293,
+            960,
+            1435,
+            1103
+          ],
+          "atlas_tile_xyxy": [
+            1004,
+            28,
+            1146,
+            171
+          ],
+          "unit_pixel_sha256": "1b3409f196cebb17af6763132e5ef5d83801aac08b31b68455e3f289522ceb6a"
+        }
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_08.png",
+      "sha256": "cd09a42a2e2ff9b022b0b47767b855dfafbc1144b84a25eea86815ab4b8dc8de",
+      "native_tile_policy": "Source unit pixels pasted at1:1; only identifier margin added, no resizing/colour edits. Not a continuous source region.",
+      "tiles": [
+        {
+          "id": "K81",
+          "source_native_xyxy": [
+            289,
+            1103,
+            435,
+            1245
+          ],
+          "atlas_tile_xyxy": [
+            0,
+            28,
+            146,
+            170
+          ],
+          "unit_pixel_sha256": "93da9b6213175b7e3d7819e0823a567649019eab8c0ab79ae803df12abde7276"
+        },
+        {
+          "id": "K82",
+          "source_native_xyxy": [
+            435,
+            1103,
+            578,
+            1245
+          ],
+          "atlas_tile_xyxy": [
+            146,
+            28,
+            289,
+            170
+          ],
+          "unit_pixel_sha256": "f2eb67e538d0922098c288ea95bd9ccfd2b543ebeb60ff5d701c0ad240e37d2c"
+        },
+        {
+          "id": "K83",
+          "source_native_xyxy": [
+            578,
+            1103,
+            720,
+            1245
+          ],
+          "atlas_tile_xyxy": [
+            289,
+            28,
+            431,
+            170
+          ],
+          "unit_pixel_sha256": "b7e624d8ecd803f25aed00e46b55af7065715c0deb26dd1b2de346159277c820"
+        },
+        {
+          "id": "K84",
+          "source_native_xyxy": [
+            720,
+            1103,
+            863,
+            1245
+          ],
+          "atlas_tile_xyxy": [
+            431,
+            28,
+            574,
+            170
+          ],
+          "unit_pixel_sha256": "51aa6c7ea0ca679fc475c52de8d2883acb8ca5b9ac70f1102b63c6027daba4bd"
+        },
+        {
+          "id": "K85",
+          "source_native_xyxy": [
+            863,
+            1103,
+            1007,
+            1245
+          ],
+          "atlas_tile_xyxy": [
+            574,
+            28,
+            718,
+            170
+          ],
+          "unit_pixel_sha256": "f8a3004b0157e4cbbec27930b475eb557d538843e89af075b7c2dc58b7938725"
+        },
+        {
+          "id": "K86",
+          "source_native_xyxy": [
+            1007,
+            1103,
+            1150,
+            1245
+          ],
+          "atlas_tile_xyxy": [
+            718,
+            28,
+            861,
+            170
+          ],
+          "unit_pixel_sha256": "cea293ff50d91ed07cf1aef6ea74ea16bfbabfc04956c8db3bc14050d3302ece"
+        },
+        {
+          "id": "K87",
+          "source_native_xyxy": [
+            1150,
+            1103,
+            1293,
+            1245
+          ],
+          "atlas_tile_xyxy": [
+            861,
+            28,
+            1004,
+            170
+          ],
+          "unit_pixel_sha256": "3e164c11dd417c0e01bee914d5644012926bdb044aaf28e5c22235331391341d"
+        },
+        {
+          "id": "K88",
+          "source_native_xyxy": [
+            1293,
+            1103,
+            1435,
+            1245
+          ],
+          "atlas_tile_xyxy": [
+            1004,
+            28,
+            1146,
+            170
+          ],
+          "unit_pixel_sha256": "6d51fc9c1d6e4ad03988eba4750c71ac0d447c740da7817a6e6a337a83ccba3e"
+        }
+      ]
+    }
+  ],
+  "source_units_hashed_in_memory": 261,
+  "no_individual_unit_PNG_files_generated": true
+}

@@ -1,0 +1,3170 @@
+{
+  "checked_utc": "2026-10-06T04:35:46.704005+00:00",
+  "status": "COMPLETE_SOURCE_ACCOUNTING_COMPARISON_WITH_ONE_RAW_CLASS_DISAGREEMENT",
+  "own_freeze_utc": "2026-10-06T04:26:26.030780+00:00",
+  "primary_freeze_utc": "2026-10-06T04:30:35.909767+00:00",
+  "semantic_values_read": false,
+  "source_edits_after_comparison": false,
+  "lookup_or_alias_fallback": false,
+  "own_seal_unchanged": true,
+  "primary_payload_all30_hash_verified": [
+    {
+      "path": "data/source_v1/MANUAL_PREFERRED_RAW_UNITS_v1.json",
+      "sha256": "f0b4c30a4056dee34f29e8a375335c503698de2df73b88ce5388770d7c3afd04",
+      "verified": true
+    },
+    {
+      "path": "data/source_v1/SOURCE_CLASSES_v1.json",
+      "sha256": "51bbf64249530cc48effaa9b17ca4ed5cc36b91f2cc02f2d8b66ed401c2544cc",
+      "verified": true
+    },
+    {
+      "path": "data/source_v1/SOURCE_EVENTS_v1.json",
+      "sha256": "c8b39aca77e8ad48b69c34076739b5a85a2f7c1b0bdefff6fcfbfaaa47c3cc06",
+      "verified": true
+    },
+    {
+      "path": "data/source_v1/SOURCE_GROUPS_v1.json",
+      "sha256": "f7c8ea68bd3a4ba420ac3271f7c8cc2bfd955dd41dde610dd43f4a23444e498e",
+      "verified": true
+    },
+    {
+      "path": "data/source_v1/SOURCE_PIXEL_REPLAY_v1.json",
+      "sha256": "a1354fcaab1fc611a65a0abed46ad7324a3e569e605d43570508d0753ca775a7",
+      "verified": true
+    },
+    {
+      "path": "data/source_v1/SOURCE_PRIMITIVES_v1.json",
+      "sha256": "42dcb9af453a0f87ff3add9a85d5407d830057e5da940675272dffcd9f515380",
+      "verified": true
+    },
+    {
+      "path": "data/source_v1/SOURCE_ROWS_v1.json",
+      "sha256": "13702387965484a9e27f34f0cd1c9698618d55a36a6c74dbfae1e4fd9af61003",
+      "verified": true
+    },
+    {
+      "path": "data/source_v1/SOURCE_UNITS_v1.json",
+      "sha256": "5ba6e38987a59adcd95c090c283c24b8621cf53323231d6568544d4797bc91d1",
+      "verified": true
+    },
+    {
+      "path": "reports/source_v1/ACTUAL_NATIVE_VIEW_AND_CENSUS_RECEIPT_v1.json",
+      "sha256": "0862f0b98f80c328a60b98d0f6bfb3ff52ae35cdba696f35f16743f1d1e79961",
+      "verified": true
+    },
+    {
+      "path": "reports/source_v1/BODY_FULL_NATIVE_v1.png",
+      "sha256": "ff915b296c86f56a4cf17df113379e5fb8401b4e9d92bca223a9dd10f97788b4",
+      "verified": true
+    },
+    {
+      "path": "reports/source_v1/BUILDER_FAILURE_RECEIPT_v1.json",
+      "sha256": "07296393953d335f3fe3fab1402f29ea50a3ae49d6a47d164d09762ae63218d9",
+      "verified": true
+    },
+    {
+      "path": "reports/source_v1/DONOR_RAW_R_MARK_native_v1.png",
+      "sha256": "7c0d54748151d6fadc786a2b6ba2a96fcf6cc9d37463c48525cec2f0d56df32e",
+      "verified": true
+    },
+    {
+      "path": "reports/source_v1/DONOR_RAW_h_native_v1.png",
+      "sha256": "491da45eb035d94d68fa2cb1c119e687464edd76182bc275bb8e219d8d849d4b",
+      "verified": true
+    },
+    {
+      "path": "reports/source_v1/DONOR_RAW_r_native_v1.png",
+      "sha256": "54d6aea5200580db4a12d34b0c1078684114b6c66b74d85db0f2dbc90ce224f0",
+      "verified": true
+    },
+    {
+      "path": "reports/source_v1/MARK_CONTEXT_PROVENANCE_v1.json",
+      "sha256": "643a8db3a2ee3fe40d87a8cf59a2ceb2b3ecd8365bc45c5846e62f84b199482b",
+      "verified": true
+    },
+    {
+      "path": "reports/source_v1/PICTURE_NATIVE90CCW_v1.png",
+      "sha256": "02f16f5e2b675e15fac46354eea81a81ef1b9d25d658731c89d89f293dfa0261",
+      "verified": true
+    },
+    {
+      "path": "reports/source_v1/R01_FULL_NATIVE_ROW_v1.png",
+      "sha256": "9aefde8dbb985d0dfe33660936519c9a07335f3608994fdf0094c4d7b61c48d9",
+      "verified": true
+    },
+    {
+      "path": "reports/source_v1/R02_FULL_NATIVE_ROW_v1.png",
+      "sha256": "a78f369f911375ed5223266cb798e59a600cb33a5bc1108e5d04455276e6582b",
+      "verified": true
+    },
+    {
+      "path": "reports/source_v1/R03_FULL_NATIVE_ROW_v1.png",
+      "sha256": "75e72fb4dc1328b0c0258c372dc88f04ff6ecd5efe65eb3cb4250d4b0889e6a8",
+      "verified": true
+    },
+    {
+      "path": "reports/source_v1/R04_FULL_NATIVE_ROW_v1.png",
+      "sha256": "424ddc155afd54ec3b3469fb6895f170f392e3c3f695e7018db93b8ba38095ae",
+      "verified": true
+    },
+    {
+      "path": "reports/source_v1/R05_FULL_NATIVE_ROW_v1.png",
+      "sha256": "39590304b2099989a2c17d68f96ea273a4aa460935af5c2ea20401eb55f62af9",
+      "verified": true
+    },
+    {
+      "path": "reports/source_v1/R06_FULL_NATIVE_ROW_v1.png",
+      "sha256": "b955cdf4195291a71a506a7996149df6b1a2412b4568c6c66f74b15e1da26ff8",
+      "verified": true
+    },
+    {
+      "path": "reports/source_v1/R07_FULL_NATIVE_ROW_v1.png",
+      "sha256": "470f4c74c24c415919def26ad55980fa78e7cae6f54b6c490c124b03d2051574",
+      "verified": true
+    },
+    {
+      "path": "reports/source_v1/REGISTRATION_v1.json",
+      "sha256": "dc83befb0395935a7c6a6950dbc06a8dfeeaa51ae0b50535b81bf49cb427f670",
+      "verified": true
+    },
+    {
+      "path": "reports/source_v1/ROW1_MARKED_CORE_native_v1.png",
+      "sha256": "10446d503039549bf55dadb9a0d00be348cc57cf23074a540413b75fa07cf516",
+      "verified": true
+    },
+    {
+      "path": "reports/source_v1/ROW2_H_CONTRAST_native_v1.png",
+      "sha256": "0a79e59bc55c97dac99dbbb174f48851de19cb374251f0ba4d33603c2580c80d",
+      "verified": true
+    },
+    {
+      "path": "reports/source_v1/ROW2_MARKED_CORE_native_v1.png",
+      "sha256": "c84654a97d8e353a0d8a86ce56b9e791a3dd08b2e439b1bdf515c7095c5e41e1",
+      "verified": true
+    },
+    {
+      "path": "reports/source_v1/ROW_CROP_PROVENANCE_v1.json",
+      "sha256": "da04cdaf9289f2f558e54ba366839044290bf78c39c5836dcc6a89d35ecfa7a0",
+      "verified": true
+    },
+    {
+      "path": "reports/source_v1/SOURCE_ONLY_REPORT_v1.md",
+      "sha256": "55cc3222b642e88eded0488ea017c2fdee4909db0afe7446f640763012ca8c2e",
+      "verified": true
+    },
+    {
+      "path": "reports/source_v1/build_source_ledger_v1.py",
+      "sha256": "c07061333493a61a74a1974b90be35ca6b2a13f1397c7a8bd024ba54ce63eff1",
+      "verified": true
+    }
+  ],
+  "source_seals": {
+    "own_ledger": "2484fcb4481c92fd04d41c31b9340c7d7972c127e0671e9eca479c835ed85999",
+    "own_manifest": "bcb977aced52c765b225b9064f116b97cb183a162edc8472296b41e422e91cad",
+    "primary_ledger": "5ba6e38987a59adcd95c090c283c24b8621cf53323231d6568544d4797bc91d1",
+    "primary_manifest": "454047da4ec5ff2f98fdeaa877a151410be6dee45f61f226f8b8535158691ae6",
+    "primary_seal": "9477a9386be65178bc7bca99387ec1d0797cbd1e5a5fea6844e0d72b45306306"
+  },
+  "all_77_positions": [
+    {
+      "global_ordinal": 1,
+      "row": 1,
+      "row_ordinal": 1,
+      "group": 1,
+      "local": 1,
+      "independent_id": "U001",
+      "primary_id": "R01G01U01",
+      "independent_label": "t",
+      "primary_label": "t",
+      "independent_base": "t",
+      "primary_base": "t",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P001"
+      ],
+      "primary_component_span": [
+        "R01G01C01"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 2,
+      "row": 1,
+      "row_ordinal": 2,
+      "group": 1,
+      "local": 2,
+      "independent_id": "U002",
+      "primary_id": "R01G01U02",
+      "independent_label": "3",
+      "primary_label": "3",
+      "independent_base": "3",
+      "primary_base": "3",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P002"
+      ],
+      "primary_component_span": [
+        "R01G01C02"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 3,
+      "row": 1,
+      "row_ordinal": 3,
+      "group": 2,
+      "local": 1,
+      "independent_id": "U003",
+      "primary_id": "R01G02U01",
+      "independent_label": "d",
+      "primary_label": "d",
+      "independent_base": "d",
+      "primary_base": "d",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P003"
+      ],
+      "primary_component_span": [
+        "R01G02C01"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 4,
+      "row": 1,
+      "row_ordinal": 4,
+      "group": 2,
+      "local": 2,
+      "independent_id": "U004",
+      "primary_id": "R01G02U02",
+      "independent_label": "h+CARON_LIKE",
+      "primary_label": "H_MARK_UNASSIGNED",
+      "independent_base": "h",
+      "primary_base": "h",
+      "status": "GRAPHICAL_COMPOSITION_SAME_LABEL_NOMENCLATURE_DIFF",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P004",
+        "P005"
+      ],
+      "primary_component_span": [
+        "R01G02C02",
+        "R01G02C02M01",
+        "R01G02C02M02"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 5,
+      "row": 1,
+      "row_ordinal": 5,
+      "group": 2,
+      "local": 3,
+      "independent_id": "U005",
+      "primary_id": "R01G02U03",
+      "independent_label": "5",
+      "primary_label": "5",
+      "independent_base": "5",
+      "primary_base": "5",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P006"
+      ],
+      "primary_component_span": [
+        "R01G02C03"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 6,
+      "row": 1,
+      "row_ordinal": 6,
+      "group": 2,
+      "local": 4,
+      "independent_id": "U006",
+      "primary_id": "R01G02U04",
+      "independent_label": "d",
+      "primary_label": "d",
+      "independent_base": "d",
+      "primary_base": "d",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P007"
+      ],
+      "primary_component_span": [
+        "R01G02C04"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 7,
+      "row": 1,
+      "row_ordinal": 7,
+      "group": 2,
+      "local": 5,
+      "independent_id": "U007",
+      "primary_id": "R01G02U05",
+      "independent_label": "4",
+      "primary_label": "4",
+      "independent_base": "4",
+      "primary_base": "4",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P008"
+      ],
+      "primary_component_span": [
+        "R01G02C05"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 8,
+      "row": 1,
+      "row_ordinal": 8,
+      "group": 2,
+      "local": 6,
+      "independent_id": "U008",
+      "primary_id": "R01G02U06",
+      "independent_label": "s",
+      "primary_label": "s",
+      "independent_base": "s",
+      "primary_base": "s",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P009"
+      ],
+      "primary_component_span": [
+        "R01G02C06"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 9,
+      "row": 1,
+      "row_ordinal": 9,
+      "group": 2,
+      "local": 7,
+      "independent_id": "U009",
+      "primary_id": "R01G02U07",
+      "independent_label": "5",
+      "primary_label": "5",
+      "independent_base": "5",
+      "primary_base": "5",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P010"
+      ],
+      "primary_component_span": [
+        "R01G02C07"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 10,
+      "row": 1,
+      "row_ordinal": 10,
+      "group": 3,
+      "local": 1,
+      "independent_id": "U010",
+      "primary_id": "R01G03U01",
+      "independent_label": "d",
+      "primary_label": "d",
+      "independent_base": "d",
+      "primary_base": "d",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P011"
+      ],
+      "primary_component_span": [
+        "R01G03C01"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 11,
+      "row": 1,
+      "row_ordinal": 11,
+      "group": 3,
+      "local": 2,
+      "independent_id": "U011",
+      "primary_id": "R01G03U02",
+      "independent_label": "4",
+      "primary_label": "4",
+      "independent_base": "4",
+      "primary_base": "4",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P012"
+      ],
+      "primary_component_span": [
+        "R01G03C02"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 12,
+      "row": 2,
+      "row_ordinal": 1,
+      "group": 1,
+      "local": 1,
+      "independent_id": "U012",
+      "primary_id": "R02G01U01",
+      "independent_label": "b",
+      "primary_label": "b",
+      "independent_base": "b",
+      "primary_base": "b",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P013"
+      ],
+      "primary_component_span": [
+        "R02G01C01"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 13,
+      "row": 2,
+      "row_ordinal": 2,
+      "group": 1,
+      "local": 2,
+      "independent_id": "U013",
+      "primary_id": "R02G01U02",
+      "independent_label": "h",
+      "primary_label": "h",
+      "independent_base": "h",
+      "primary_base": "h",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P014"
+      ],
+      "primary_component_span": [
+        "R02G01C02"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 14,
+      "row": 2,
+      "row_ordinal": 3,
+      "group": 1,
+      "local": 3,
+      "independent_id": "U014",
+      "primary_id": "R02G01U03",
+      "independent_label": "5",
+      "primary_label": "5",
+      "independent_base": "5",
+      "primary_base": "5",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P015"
+      ],
+      "primary_component_span": [
+        "R02G01C03"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 15,
+      "row": 2,
+      "row_ordinal": 4,
+      "group": 1,
+      "local": 4,
+      "independent_id": "U015",
+      "primary_id": "R02G01U04",
+      "independent_label": "7",
+      "primary_label": "7",
+      "independent_base": "7",
+      "primary_base": "7",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P016"
+      ],
+      "primary_component_span": [
+        "R02G01C04"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 16,
+      "row": 2,
+      "row_ordinal": 5,
+      "group": 1,
+      "local": 5,
+      "independent_id": "U016",
+      "primary_id": "R02G01U05",
+      "independent_label": "5",
+      "primary_label": "5",
+      "independent_base": "5",
+      "primary_base": "5",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P017"
+      ],
+      "primary_component_span": [
+        "R02G01C05"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 17,
+      "row": 2,
+      "row_ordinal": 6,
+      "group": 2,
+      "local": 1,
+      "independent_id": "U017",
+      "primary_id": "R02G02U01",
+      "independent_label": "6",
+      "primary_label": "6",
+      "independent_base": "6",
+      "primary_base": "6",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P018"
+      ],
+      "primary_component_span": [
+        "R02G02C01"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 18,
+      "row": 2,
+      "row_ordinal": 7,
+      "group": 3,
+      "local": 1,
+      "independent_id": "U018",
+      "primary_id": "R02G03U01",
+      "independent_label": "f",
+      "primary_label": "f",
+      "independent_base": "f",
+      "primary_base": "f",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P019"
+      ],
+      "primary_component_span": [
+        "R02G03C01"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 19,
+      "row": 2,
+      "row_ordinal": 8,
+      "group": 4,
+      "local": 1,
+      "independent_id": "U019",
+      "primary_id": "R02G04U01",
+      "independent_label": "t",
+      "primary_label": "t",
+      "independent_base": "t",
+      "primary_base": "t",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P020"
+      ],
+      "primary_component_span": [
+        "R02G04C01"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 20,
+      "row": 2,
+      "row_ordinal": 9,
+      "group": 4,
+      "local": 2,
+      "independent_id": "U020",
+      "primary_id": "R02G04U02",
+      "independent_label": "2",
+      "primary_label": "2",
+      "independent_base": "2",
+      "primary_base": "2",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P021"
+      ],
+      "primary_component_span": [
+        "R02G04C02"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 21,
+      "row": 2,
+      "row_ordinal": 10,
+      "group": 4,
+      "local": 3,
+      "independent_id": "U021",
+      "primary_id": "R02G04U03",
+      "independent_label": "R_MARK",
+      "primary_label": "R_MARK",
+      "independent_base": "r",
+      "primary_base": "r",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P022",
+        "P023"
+      ],
+      "primary_component_span": [
+        "R02G04C03",
+        "R02G04C03M01",
+        "R02G04C03M02"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 22,
+      "row": 2,
+      "row_ordinal": 11,
+      "group": 4,
+      "local": 4,
+      "independent_id": "U022",
+      "primary_id": "R02G04U04",
+      "independent_label": "2",
+      "primary_label": "2",
+      "independent_base": "2",
+      "primary_base": "2",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P024"
+      ],
+      "primary_component_span": [
+        "R02G04C04"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 23,
+      "row": 3,
+      "row_ordinal": 1,
+      "group": 1,
+      "local": 1,
+      "independent_id": "U023",
+      "primary_id": "R03G01U01",
+      "independent_label": "m",
+      "primary_label": "m",
+      "independent_base": "m",
+      "primary_base": "m",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P025"
+      ],
+      "primary_component_span": [
+        "R03G01C01"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 24,
+      "row": 3,
+      "row_ordinal": 2,
+      "group": 1,
+      "local": 2,
+      "independent_id": "U024",
+      "primary_id": "R03G01U02",
+      "independent_label": "6",
+      "primary_label": "6",
+      "independent_base": "6",
+      "primary_base": "6",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P026"
+      ],
+      "primary_component_span": [
+        "R03G01C02"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 25,
+      "row": 3,
+      "row_ordinal": 3,
+      "group": 2,
+      "local": 1,
+      "independent_id": "U025",
+      "primary_id": "R03G02U01",
+      "independent_label": "c",
+      "primary_label": "c",
+      "independent_base": "c",
+      "primary_base": "c",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P027"
+      ],
+      "primary_component_span": [
+        "R03G02C01"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 26,
+      "row": 3,
+      "row_ordinal": 4,
+      "group": 2,
+      "local": 2,
+      "independent_id": "U026",
+      "primary_id": "R03G02U02",
+      "independent_label": "8",
+      "primary_label": "8",
+      "independent_base": "8",
+      "primary_base": "8",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P028"
+      ],
+      "primary_component_span": [
+        "R03G02C02"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 27,
+      "row": 3,
+      "row_ordinal": 5,
+      "group": 2,
+      "local": 3,
+      "independent_id": "U027",
+      "primary_id": "R03G02U03",
+      "independent_label": "6",
+      "primary_label": "6",
+      "independent_base": "6",
+      "primary_base": "6",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P029"
+      ],
+      "primary_component_span": [
+        "R03G02C03"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 28,
+      "row": 3,
+      "row_ordinal": 6,
+      "group": 2,
+      "local": 4,
+      "independent_id": "U028",
+      "primary_id": "R03G02U04",
+      "independent_label": "t",
+      "primary_label": "t",
+      "independent_base": "t",
+      "primary_base": "t",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P030"
+      ],
+      "primary_component_span": [
+        "R03G02C04"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 29,
+      "row": 3,
+      "row_ordinal": 7,
+      "group": 2,
+      "local": 5,
+      "independent_id": "U029",
+      "primary_id": "R03G02U05",
+      "independent_label": "g",
+      "primary_label": "g",
+      "independent_base": "g",
+      "primary_base": "g",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P031"
+      ],
+      "primary_component_span": [
+        "R03G02C05"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 30,
+      "row": 3,
+      "row_ordinal": 8,
+      "group": 2,
+      "local": 6,
+      "independent_id": "U030",
+      "primary_id": "R03G02U06",
+      "independent_label": "6",
+      "primary_label": "6",
+      "independent_base": "6",
+      "primary_base": "6",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P032"
+      ],
+      "primary_component_span": [
+        "R03G02C06"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 31,
+      "row": 3,
+      "row_ordinal": 9,
+      "group": 3,
+      "local": 1,
+      "independent_id": "U031",
+      "primary_id": "R03G03U01",
+      "independent_label": "2",
+      "primary_label": "2",
+      "independent_base": "2",
+      "primary_base": "2",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P033"
+      ],
+      "primary_component_span": [
+        "R03G03C01"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 32,
+      "row": 3,
+      "row_ordinal": 10,
+      "group": 3,
+      "local": 2,
+      "independent_id": "U032",
+      "primary_id": "R03G03U02",
+      "independent_label": "c",
+      "primary_label": "c",
+      "independent_base": "c",
+      "primary_base": "c",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P034"
+      ],
+      "primary_component_span": [
+        "R03G03C02"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 33,
+      "row": 3,
+      "row_ordinal": 11,
+      "group": 3,
+      "local": 3,
+      "independent_id": "U033",
+      "primary_id": "R03G03U03",
+      "independent_label": "d",
+      "primary_label": "d",
+      "independent_base": "d",
+      "primary_base": "d",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P035"
+      ],
+      "primary_component_span": [
+        "R03G03C03"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 34,
+      "row": 3,
+      "row_ordinal": 12,
+      "group": 3,
+      "local": 4,
+      "independent_id": "U034",
+      "primary_id": "R03G03U04",
+      "independent_label": "6",
+      "primary_label": "6",
+      "independent_base": "6",
+      "primary_base": "6",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P036"
+      ],
+      "primary_component_span": [
+        "R03G03C04"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 35,
+      "row": 4,
+      "row_ordinal": 1,
+      "group": 1,
+      "local": 1,
+      "independent_id": "U035",
+      "primary_id": "R04G01U01",
+      "independent_label": "d",
+      "primary_label": "d",
+      "independent_base": "d",
+      "primary_base": "d",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P037"
+      ],
+      "primary_component_span": [
+        "R04G01C01"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 36,
+      "row": 4,
+      "row_ordinal": 2,
+      "group": 1,
+      "local": 2,
+      "independent_id": "U036",
+      "primary_id": "R04G01U02",
+      "independent_label": "f",
+      "primary_label": "f",
+      "independent_base": "f",
+      "primary_base": "f",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P038"
+      ],
+      "primary_component_span": [
+        "R04G01C02"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 37,
+      "row": 4,
+      "row_ordinal": 3,
+      "group": 1,
+      "local": 3,
+      "independent_id": "U037",
+      "primary_id": "R04G01U03",
+      "independent_label": "3",
+      "primary_label": "3",
+      "independent_base": "3",
+      "primary_base": "3",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P039"
+      ],
+      "primary_component_span": [
+        "R04G01C03"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 38,
+      "row": 4,
+      "row_ordinal": 4,
+      "group": 1,
+      "local": 4,
+      "independent_id": "U038",
+      "primary_id": "R04G01U04",
+      "independent_label": "7",
+      "primary_label": "7",
+      "independent_base": "7",
+      "primary_base": "7",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P040"
+      ],
+      "primary_component_span": [
+        "R04G01C04"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 39,
+      "row": 4,
+      "row_ordinal": 5,
+      "group": 1,
+      "local": 5,
+      "independent_id": "U039",
+      "primary_id": "R04G01U05",
+      "independent_label": "5",
+      "primary_label": "5",
+      "independent_base": "5",
+      "primary_base": "5",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P041"
+      ],
+      "primary_component_span": [
+        "R04G01C05"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 40,
+      "row": 4,
+      "row_ordinal": 6,
+      "group": 2,
+      "local": 1,
+      "independent_id": "U040",
+      "primary_id": "R04G02U01",
+      "independent_label": "f",
+      "primary_label": "f",
+      "independent_base": "f",
+      "primary_base": "f",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P042"
+      ],
+      "primary_component_span": [
+        "R04G02C01"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 41,
+      "row": 4,
+      "row_ordinal": 7,
+      "group": 2,
+      "local": 2,
+      "independent_id": "U041",
+      "primary_id": "R04G02U02",
+      "independent_label": "h",
+      "primary_label": "h",
+      "independent_base": "h",
+      "primary_base": "h",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P043"
+      ],
+      "primary_component_span": [
+        "R04G02C02"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 42,
+      "row": 4,
+      "row_ordinal": 8,
+      "group": 2,
+      "local": 3,
+      "independent_id": "U042",
+      "primary_id": "R04G02U03",
+      "independent_label": "5",
+      "primary_label": "5",
+      "independent_base": "5",
+      "primary_base": "5",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P044"
+      ],
+      "primary_component_span": [
+        "R04G02C03"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 43,
+      "row": 4,
+      "row_ordinal": 9,
+      "group": 2,
+      "local": 4,
+      "independent_id": "U043",
+      "primary_id": "R04G02U04",
+      "independent_label": "8",
+      "primary_label": "8",
+      "independent_base": "8",
+      "primary_base": "8",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P045"
+      ],
+      "primary_component_span": [
+        "R04G02C04"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 44,
+      "row": 4,
+      "row_ordinal": 10,
+      "group": 2,
+      "local": 5,
+      "independent_id": "U044",
+      "primary_id": "R04G02U05",
+      "independent_label": "3",
+      "primary_label": "3",
+      "independent_base": "3",
+      "primary_base": "3",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P046"
+      ],
+      "primary_component_span": [
+        "R04G02C05"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 45,
+      "row": 4,
+      "row_ordinal": 11,
+      "group": 2,
+      "local": 6,
+      "independent_id": "U045",
+      "primary_id": "R04G02U06",
+      "independent_label": "2",
+      "primary_label": "2",
+      "independent_base": "2",
+      "primary_base": "2",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P047"
+      ],
+      "primary_component_span": [
+        "R04G02C06"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 46,
+      "row": 5,
+      "row_ordinal": 1,
+      "group": 1,
+      "local": 1,
+      "independent_id": "U046",
+      "primary_id": "R05G01U01",
+      "independent_label": "t",
+      "primary_label": "t",
+      "independent_base": "t",
+      "primary_base": "t",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P049"
+      ],
+      "primary_component_span": [
+        "R05G01C01"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 47,
+      "row": 5,
+      "row_ordinal": 2,
+      "group": 1,
+      "local": 2,
+      "independent_id": "U047",
+      "primary_id": "R05G01U02",
+      "independent_label": "8",
+      "primary_label": "8",
+      "independent_base": "8",
+      "primary_base": "8",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P050"
+      ],
+      "primary_component_span": [
+        "R05G01C02"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 48,
+      "row": 5,
+      "row_ordinal": 3,
+      "group": 1,
+      "local": 3,
+      "independent_id": "U048",
+      "primary_id": "R05G01U03",
+      "independent_label": "3",
+      "primary_label": "3",
+      "independent_base": "3",
+      "primary_base": "3",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P051"
+      ],
+      "primary_component_span": [
+        "R05G01C03"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 49,
+      "row": 5,
+      "row_ordinal": 4,
+      "group": 1,
+      "local": 4,
+      "independent_id": "U049",
+      "primary_id": "R05G01U04",
+      "independent_label": "2",
+      "primary_label": "2",
+      "independent_base": "2",
+      "primary_base": "2",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P052"
+      ],
+      "primary_component_span": [
+        "R05G01C04"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 50,
+      "row": 5,
+      "row_ordinal": 5,
+      "group": 1,
+      "local": 5,
+      "independent_id": "U050",
+      "primary_id": "R05G01U05",
+      "independent_label": "r",
+      "primary_label": "r",
+      "independent_base": "r",
+      "primary_base": "r",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [
+        {
+          "raw_shape": "small upperentry/hook near rcore",
+          "preferred_association": "intrinsicbaseentrystroke",
+          "alternative": "uppermarkroleheld; no clearlydetachedchevron assigned",
+          "semantic_role": null
+        }
+      ],
+      "independent_primitive_span": [
+        "P053"
+      ],
+      "primary_component_span": [
+        "R05G01C05"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 51,
+      "row": 5,
+      "row_ordinal": 6,
+      "group": 1,
+      "local": 6,
+      "independent_id": "U051",
+      "primary_id": "R05G01U06",
+      "independent_label": "3",
+      "primary_label": "3",
+      "independent_base": "3",
+      "primary_base": "3",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P054"
+      ],
+      "primary_component_span": [
+        "R05G01C06"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 52,
+      "row": 5,
+      "row_ordinal": 7,
+      "group": 1,
+      "local": 7,
+      "independent_id": "U052",
+      "primary_id": "R05G01U07",
+      "independent_label": "2",
+      "primary_label": "2",
+      "independent_base": "2",
+      "primary_base": "2",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P055"
+      ],
+      "primary_component_span": [
+        "R05G01C07"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 53,
+      "row": 5,
+      "row_ordinal": 8,
+      "group": 2,
+      "local": 1,
+      "independent_id": "U053",
+      "primary_id": "R05G02U01",
+      "independent_label": "b",
+      "primary_label": "b",
+      "independent_base": "b",
+      "primary_base": "b",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P056"
+      ],
+      "primary_component_span": [
+        "R05G02C01"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 54,
+      "row": 5,
+      "row_ordinal": 9,
+      "group": 2,
+      "local": 2,
+      "independent_id": "U054",
+      "primary_id": "R05G02U02",
+      "independent_label": "2",
+      "primary_label": "2",
+      "independent_base": "2",
+      "primary_base": "2",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P057"
+      ],
+      "primary_component_span": [
+        "R05G02C02"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 55,
+      "row": 5,
+      "row_ordinal": 10,
+      "group": 2,
+      "local": 3,
+      "independent_id": "U055",
+      "primary_id": "R05G02U03",
+      "independent_label": "c",
+      "primary_label": "c",
+      "independent_base": "c",
+      "primary_base": "c",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P058"
+      ],
+      "primary_component_span": [
+        "R05G02C03"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 56,
+      "row": 5,
+      "row_ordinal": 11,
+      "group": 2,
+      "local": 4,
+      "independent_id": "U056",
+      "primary_id": "R05G02U04",
+      "independent_label": "2",
+      "primary_label": "2",
+      "independent_base": "2",
+      "primary_base": "2",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P059"
+      ],
+      "primary_component_span": [
+        "R05G02C04"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 57,
+      "row": 6,
+      "row_ordinal": 1,
+      "group": 1,
+      "local": 1,
+      "independent_id": "U057",
+      "primary_id": "R06G01U01",
+      "independent_label": "d",
+      "primary_label": "d",
+      "independent_base": "d",
+      "primary_base": "d",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P060"
+      ],
+      "primary_component_span": [
+        "R06G01C01"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 58,
+      "row": 6,
+      "row_ordinal": 2,
+      "group": 1,
+      "local": 2,
+      "independent_id": "U058",
+      "primary_id": "R06G01U02",
+      "independent_label": "4",
+      "primary_label": "4",
+      "independent_base": "4",
+      "primary_base": "4",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P061"
+      ],
+      "primary_component_span": [
+        "R06G01C02"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 59,
+      "row": 6,
+      "row_ordinal": 3,
+      "group": 1,
+      "local": 3,
+      "independent_id": "U059",
+      "primary_id": "R06G01U03",
+      "independent_label": "c",
+      "primary_label": "c",
+      "independent_base": "c",
+      "primary_base": "c",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P062"
+      ],
+      "primary_component_span": [
+        "R06G01C03"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 60,
+      "row": 6,
+      "row_ordinal": 4,
+      "group": 1,
+      "local": 4,
+      "independent_id": "U060",
+      "primary_id": "R06G01U04",
+      "independent_label": "g",
+      "primary_label": "g",
+      "independent_base": "g",
+      "primary_base": "g",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P063"
+      ],
+      "primary_component_span": [
+        "R06G01C04"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 61,
+      "row": 6,
+      "row_ordinal": 5,
+      "group": 1,
+      "local": 5,
+      "independent_id": "U061",
+      "primary_id": "R06G01U05",
+      "independent_label": "m",
+      "primary_label": "m",
+      "independent_base": "m",
+      "primary_base": "m",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P064"
+      ],
+      "primary_component_span": [
+        "R06G01C05"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 62,
+      "row": 6,
+      "row_ordinal": 6,
+      "group": 1,
+      "local": 6,
+      "independent_id": "U062",
+      "primary_id": "R06G01U06",
+      "independent_label": "5",
+      "primary_label": "5",
+      "independent_base": "5",
+      "primary_base": "5",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P065"
+      ],
+      "primary_component_span": [
+        "R06G01C06"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 63,
+      "row": 6,
+      "row_ordinal": 7,
+      "group": 2,
+      "local": 1,
+      "independent_id": "U063",
+      "primary_id": "R06G02U01",
+      "independent_label": "f",
+      "primary_label": "f",
+      "independent_base": "f",
+      "primary_base": "f",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P066"
+      ],
+      "primary_component_span": [
+        "R06G02C01"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 64,
+      "row": 6,
+      "row_ordinal": 8,
+      "group": 2,
+      "local": 2,
+      "independent_id": "U064",
+      "primary_id": "R06G02U02",
+      "independent_label": "5",
+      "primary_label": "5",
+      "independent_base": "5",
+      "primary_base": "5",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P067"
+      ],
+      "primary_component_span": [
+        "R06G02C02"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 65,
+      "row": 6,
+      "row_ordinal": 9,
+      "group": 2,
+      "local": 3,
+      "independent_id": "U065",
+      "primary_id": "R06G02U03",
+      "independent_label": "4",
+      "primary_label": "s",
+      "independent_base": "4",
+      "primary_base": "s",
+      "status": "SUBSTANTIVE_PREFERRED_RAW_CLASS_DISAGREEMENT",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P068"
+      ],
+      "primary_component_span": [
+        "R06G02C03"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 66,
+      "row": 6,
+      "row_ordinal": 10,
+      "group": 2,
+      "local": 4,
+      "independent_id": "U066",
+      "primary_id": "R06G02U04",
+      "independent_label": "m",
+      "primary_label": "m",
+      "independent_base": "m",
+      "primary_base": "m",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P069"
+      ],
+      "primary_component_span": [
+        "R06G02C04"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 67,
+      "row": 6,
+      "row_ordinal": 11,
+      "group": 2,
+      "local": 5,
+      "independent_id": "U067",
+      "primary_id": "R06G02U05",
+      "independent_label": "5",
+      "primary_label": "5",
+      "independent_base": "5",
+      "primary_base": "5",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P070"
+      ],
+      "primary_component_span": [
+        "R06G02C05"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 68,
+      "row": 7,
+      "row_ordinal": 1,
+      "group": 1,
+      "local": 1,
+      "independent_id": "U068",
+      "primary_id": "R07G01U01",
+      "independent_label": "d",
+      "primary_label": "d",
+      "independent_base": "d",
+      "primary_base": "d",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P071"
+      ],
+      "primary_component_span": [
+        "R07G01C01"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 69,
+      "row": 7,
+      "row_ordinal": 2,
+      "group": 1,
+      "local": 2,
+      "independent_id": "U069",
+      "primary_id": "R07G01U02",
+      "independent_label": "f",
+      "primary_label": "f",
+      "independent_base": "f",
+      "primary_base": "f",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P072"
+      ],
+      "primary_component_span": [
+        "R07G01C02"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 70,
+      "row": 7,
+      "row_ordinal": 3,
+      "group": 1,
+      "local": 3,
+      "independent_id": "U070",
+      "primary_id": "R07G01U03",
+      "independent_label": "2",
+      "primary_label": "2",
+      "independent_base": "2",
+      "primary_base": "2",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P073"
+      ],
+      "primary_component_span": [
+        "R07G01C03"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 71,
+      "row": 7,
+      "row_ordinal": 4,
+      "group": 1,
+      "local": 4,
+      "independent_id": "U071",
+      "primary_id": "R07G01U04",
+      "independent_label": "7",
+      "primary_label": "7",
+      "independent_base": "7",
+      "primary_base": "7",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P074"
+      ],
+      "primary_component_span": [
+        "R07G01C04"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 72,
+      "row": 7,
+      "row_ordinal": 5,
+      "group": 2,
+      "local": 1,
+      "independent_id": "U072",
+      "primary_id": "R07G02U01",
+      "independent_label": "b",
+      "primary_label": "b",
+      "independent_base": "b",
+      "primary_base": "b",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P075"
+      ],
+      "primary_component_span": [
+        "R07G02C01"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 73,
+      "row": 7,
+      "row_ordinal": 6,
+      "group": 2,
+      "local": 2,
+      "independent_id": "U073",
+      "primary_id": "R07G02U02",
+      "independent_label": "5",
+      "primary_label": "5",
+      "independent_base": "5",
+      "primary_base": "5",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P076"
+      ],
+      "primary_component_span": [
+        "R07G02C02"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 74,
+      "row": 7,
+      "row_ordinal": 7,
+      "group": 2,
+      "local": 3,
+      "independent_id": "U074",
+      "primary_id": "R07G02U03",
+      "independent_label": "b",
+      "primary_label": "b",
+      "independent_base": "b",
+      "primary_base": "b",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P077"
+      ],
+      "primary_component_span": [
+        "R07G02C03"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 75,
+      "row": 7,
+      "row_ordinal": 8,
+      "group": 2,
+      "local": 4,
+      "independent_id": "U075",
+      "primary_id": "R07G02U04",
+      "independent_label": "3",
+      "primary_label": "3",
+      "independent_base": "3",
+      "primary_base": "3",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P078"
+      ],
+      "primary_component_span": [
+        "R07G02C04"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 76,
+      "row": 7,
+      "row_ordinal": 9,
+      "group": 2,
+      "local": 5,
+      "independent_id": "U076",
+      "primary_id": "R07G02U05",
+      "independent_label": "2",
+      "primary_label": "2",
+      "independent_base": "2",
+      "primary_base": "2",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P079"
+      ],
+      "primary_component_span": [
+        "R07G02C05"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    },
+    {
+      "global_ordinal": 77,
+      "row": 7,
+      "row_ordinal": 10,
+      "group": 2,
+      "local": 6,
+      "independent_id": "U077",
+      "primary_id": "R07G02U06",
+      "independent_label": "c",
+      "primary_label": "c",
+      "independent_base": "c",
+      "primary_base": "c",
+      "status": "EXACT_RAW_LABEL_MATCH",
+      "marks_agree_graphically": true,
+      "primary_intrinsic_stroke_attributes": [],
+      "independent_primitive_span": [
+        "P080"
+      ],
+      "primary_component_span": [
+        "R07G02C06"
+      ],
+      "ordinal_provenance_agrees": true,
+      "primary_RAW_RGB_pins_verified": true
+    }
+  ],
+  "agreement": {
+    "exact_label_matches": 75,
+    "same_graphical_composition_nomenclature_difference": 1,
+    "substantive_preferred_raw_class_disagreements": 1,
+    "all_positions_group_order_agree": true,
+    "all_two_mark_associations_agree": true
+  },
+  "all18_groups": [
+    {
+      "row": 1,
+      "group": 1,
+      "independent_units": [
+        "U001",
+        "U002"
+      ],
+      "primary_units": [
+        "R01G01U01",
+        "R01G01U02"
+      ],
+      "same_order_and_group_membership": true
+    },
+    {
+      "row": 1,
+      "group": 2,
+      "independent_units": [
+        "U003",
+        "U004",
+        "U005",
+        "U006",
+        "U007",
+        "U008",
+        "U009"
+      ],
+      "primary_units": [
+        "R01G02U01",
+        "R01G02U02",
+        "R01G02U03",
+        "R01G02U04",
+        "R01G02U05",
+        "R01G02U06",
+        "R01G02U07"
+      ],
+      "same_order_and_group_membership": true
+    },
+    {
+      "row": 1,
+      "group": 3,
+      "independent_units": [
+        "U010",
+        "U011"
+      ],
+      "primary_units": [
+        "R01G03U01",
+        "R01G03U02"
+      ],
+      "same_order_and_group_membership": true
+    },
+    {
+      "row": 2,
+      "group": 1,
+      "independent_units": [
+        "U012",
+        "U013",
+        "U014",
+        "U015",
+        "U016"
+      ],
+      "primary_units": [
+        "R02G01U01",
+        "R02G01U02",
+        "R02G01U03",
+        "R02G01U04",
+        "R02G01U05"
+      ],
+      "same_order_and_group_membership": true
+    },
+    {
+      "row": 2,
+      "group": 2,
+      "independent_units": [
+        "U017"
+      ],
+      "primary_units": [
+        "R02G02U01"
+      ],
+      "same_order_and_group_membership": true
+    },
+    {
+      "row": 2,
+      "group": 3,
+      "independent_units": [
+        "U018"
+      ],
+      "primary_units": [
+        "R02G03U01"
+      ],
+      "same_order_and_group_membership": true
+    },
+    {
+      "row": 2,
+      "group": 4,
+      "independent_units": [
+        "U019",
+        "U020",
+        "U021",
+        "U022"
+      ],
+      "primary_units": [
+        "R02G04U01",
+        "R02G04U02",
+        "R02G04U03",
+        "R02G04U04"
+      ],
+      "same_order_and_group_membership": true
+    },
+    {
+      "row": 3,
+      "group": 1,
+      "independent_units": [
+        "U023",
+        "U024"
+      ],
+      "primary_units": [
+        "R03G01U01",
+        "R03G01U02"
+      ],
+      "same_order_and_group_membership": true
+    },
+    {
+      "row": 3,
+      "group": 2,
+      "independent_units": [
+        "U025",
+        "U026",
+        "U027",
+        "U028",
+        "U029",
+        "U030"
+      ],
+      "primary_units": [
+        "R03G02U01",
+        "R03G02U02",
+        "R03G02U03",
+        "R03G02U04",
+        "R03G02U05",
+        "R03G02U06"
+      ],
+      "same_order_and_group_membership": true
+    },
+    {
+      "row": 3,
+      "group": 3,
+      "independent_units": [
+        "U031",
+        "U032",
+        "U033",
+        "U034"
+      ],
+      "primary_units": [
+        "R03G03U01",
+        "R03G03U02",
+        "R03G03U03",
+        "R03G03U04"
+      ],
+      "same_order_and_group_membership": true
+    },
+    {
+      "row": 4,
+      "group": 1,
+      "independent_units": [
+        "U035",
+        "U036",
+        "U037",
+        "U038",
+        "U039"
+      ],
+      "primary_units": [
+        "R04G01U01",
+        "R04G01U02",
+        "R04G01U03",
+        "R04G01U04",
+        "R04G01U05"
+      ],
+      "same_order_and_group_membership": true
+    },
+    {
+      "row": 4,
+      "group": 2,
+      "independent_units": [
+        "U040",
+        "U041",
+        "U042",
+        "U043",
+        "U044",
+        "U045"
+      ],
+      "primary_units": [
+        "R04G02U01",
+        "R04G02U02",
+        "R04G02U03",
+        "R04G02U04",
+        "R04G02U05",
+        "R04G02U06"
+      ],
+      "same_order_and_group_membership": true
+    },
+    {
+      "row": 5,
+      "group": 1,
+      "independent_units": [
+        "U046",
+        "U047",
+        "U048",
+        "U049",
+        "U050",
+        "U051",
+        "U052"
+      ],
+      "primary_units": [
+        "R05G01U01",
+        "R05G01U02",
+        "R05G01U03",
+        "R05G01U04",
+        "R05G01U05",
+        "R05G01U06",
+        "R05G01U07"
+      ],
+      "same_order_and_group_membership": true
+    },
+    {
+      "row": 5,
+      "group": 2,
+      "independent_units": [
+        "U053",
+        "U054",
+        "U055",
+        "U056"
+      ],
+      "primary_units": [
+        "R05G02U01",
+        "R05G02U02",
+        "R05G02U03",
+        "R05G02U04"
+      ],
+      "same_order_and_group_membership": true
+    },
+    {
+      "row": 6,
+      "group": 1,
+      "independent_units": [
+        "U057",
+        "U058",
+        "U059",
+        "U060",
+        "U061",
+        "U062"
+      ],
+      "primary_units": [
+        "R06G01U01",
+        "R06G01U02",
+        "R06G01U03",
+        "R06G01U04",
+        "R06G01U05",
+        "R06G01U06"
+      ],
+      "same_order_and_group_membership": true
+    },
+    {
+      "row": 6,
+      "group": 2,
+      "independent_units": [
+        "U063",
+        "U064",
+        "U065",
+        "U066",
+        "U067"
+      ],
+      "primary_units": [
+        "R06G02U01",
+        "R06G02U02",
+        "R06G02U03",
+        "R06G02U04",
+        "R06G02U05"
+      ],
+      "same_order_and_group_membership": true
+    },
+    {
+      "row": 7,
+      "group": 1,
+      "independent_units": [
+        "U068",
+        "U069",
+        "U070",
+        "U071"
+      ],
+      "primary_units": [
+        "R07G01U01",
+        "R07G01U02",
+        "R07G01U03",
+        "R07G01U04"
+      ],
+      "same_order_and_group_membership": true
+    },
+    {
+      "row": 7,
+      "group": 2,
+      "independent_units": [
+        "U072",
+        "U073",
+        "U074",
+        "U075",
+        "U076",
+        "U077"
+      ],
+      "primary_units": [
+        "R07G02U01",
+        "R07G02U02",
+        "R07G02U03",
+        "R07G02U04",
+        "R07G02U05",
+        "R07G02U06"
+      ],
+      "same_order_and_group_membership": true
+    }
+  ],
+  "all7_native_row_provenance_checks": [
+    {
+      "row": 1,
+      "primary_box": [
+        750,
+        318,
+        1105,
+        394
+      ],
+      "independent_box": [
+        750,
+        314,
+        1106,
+        385
+      ],
+      "primary_RGB_replay": true,
+      "boxes_need_not_equal": "Both whole-row authority; primary intentionally includes more neighbor fringes.",
+      "actual_primary_native_viewed_after_own_freeze": true
+    },
+    {
+      "row": 2,
+      "primary_box": [
+        750,
+        370,
+        1105,
+        460
+      ],
+      "independent_box": [
+        750,
+        385,
+        1106,
+        445
+      ],
+      "primary_RGB_replay": true,
+      "boxes_need_not_equal": "Both whole-row authority; primary intentionally includes more neighbor fringes.",
+      "actual_primary_native_viewed_after_own_freeze": true
+    },
+    {
+      "row": 3,
+      "primary_box": [
+        750,
+        430,
+        1105,
+        529
+      ],
+      "independent_box": [
+        750,
+        445,
+        1106,
+        501
+      ],
+      "primary_RGB_replay": true,
+      "boxes_need_not_equal": "Both whole-row authority; primary intentionally includes more neighbor fringes.",
+      "actual_primary_native_viewed_after_own_freeze": true
+    },
+    {
+      "row": 4,
+      "primary_box": [
+        750,
+        488,
+        1105,
+        596
+      ],
+      "independent_box": [
+        750,
+        500,
+        1106,
+        561
+      ],
+      "primary_RGB_replay": true,
+      "boxes_need_not_equal": "Both whole-row authority; primary intentionally includes more neighbor fringes.",
+      "actual_primary_native_viewed_after_own_freeze": true
+    },
+    {
+      "row": 5,
+      "primary_box": [
+        750,
+        557,
+        1105,
+        657
+      ],
+      "independent_box": [
+        750,
+        560,
+        1106,
+        615
+      ],
+      "primary_RGB_replay": true,
+      "boxes_need_not_equal": "Both whole-row authority; primary intentionally includes more neighbor fringes.",
+      "actual_primary_native_viewed_after_own_freeze": true
+    },
+    {
+      "row": 6,
+      "primary_box": [
+        750,
+        614,
+        1105,
+        721
+      ],
+      "independent_box": [
+        750,
+        615,
+        1106,
+        682
+      ],
+      "primary_RGB_replay": true,
+      "boxes_need_not_equal": "Both whole-row authority; primary intentionally includes more neighbor fringes.",
+      "actual_primary_native_viewed_after_own_freeze": true
+    },
+    {
+      "row": 7,
+      "primary_box": [
+        750,
+        674,
+        1105,
+        767
+      ],
+      "independent_box": [
+        750,
+        681,
+        1106,
+        750
+      ],
+      "primary_RGB_replay": true,
+      "boxes_need_not_equal": "Both whole-row authority; primary intentionally includes more neighbor fringes.",
+      "actual_primary_native_viewed_after_own_freeze": true
+    }
+  ],
+  "all81_independent_primitive_mappings": [
+    {
+      "independent_primitive": "P001",
+      "primary_components": [
+        "R01G01C01"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P002",
+      "primary_components": [
+        "R01G01C02"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P003",
+      "primary_components": [
+        "R01G02C01"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P004",
+      "primary_components": [
+        "R01G02C02"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "GRAPHICAL_COMPOSITION_SAME_LABEL_NOMENCLATURE_DIFF"
+    },
+    {
+      "independent_primitive": "P005",
+      "primary_components": [
+        "R01G02C02M01",
+        "R01G02C02M02"
+      ],
+      "role": "WHOLE_UPPER_CARON_VS_TWO_UPPER_STROKES",
+      "equivalence_scope": "One observed chevron described at whole-mark vs two-stroke granularity; not a semantic decoder alias."
+    },
+    {
+      "independent_primitive": "P006",
+      "primary_components": [
+        "R01G02C03"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P007",
+      "primary_components": [
+        "R01G02C04"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P008",
+      "primary_components": [
+        "R01G02C05"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P009",
+      "primary_components": [
+        "R01G02C06"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P010",
+      "primary_components": [
+        "R01G02C07"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P011",
+      "primary_components": [
+        "R01G03C01"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P012",
+      "primary_components": [
+        "R01G03C02"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P013",
+      "primary_components": [
+        "R02G01C01"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P014",
+      "primary_components": [
+        "R02G01C02"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P015",
+      "primary_components": [
+        "R02G01C03"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P016",
+      "primary_components": [
+        "R02G01C04"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P017",
+      "primary_components": [
+        "R02G01C05"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P018",
+      "primary_components": [
+        "R02G02C01"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P019",
+      "primary_components": [
+        "R02G03C01"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P020",
+      "primary_components": [
+        "R02G04C01"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P021",
+      "primary_components": [
+        "R02G04C02"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P022",
+      "primary_components": [
+        "R02G04C03"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P023",
+      "primary_components": [
+        "R02G04C03M01",
+        "R02G04C03M02"
+      ],
+      "role": "WHOLE_UPPER_CARON_VS_TWO_UPPER_STROKES",
+      "equivalence_scope": "One observed chevron described at whole-mark vs two-stroke granularity; not a semantic decoder alias."
+    },
+    {
+      "independent_primitive": "P024",
+      "primary_components": [
+        "R02G04C04"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P025",
+      "primary_components": [
+        "R03G01C01"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P026",
+      "primary_components": [
+        "R03G01C02"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P027",
+      "primary_components": [
+        "R03G02C01"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P028",
+      "primary_components": [
+        "R03G02C02"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P029",
+      "primary_components": [
+        "R03G02C03"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P030",
+      "primary_components": [
+        "R03G02C04"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P031",
+      "primary_components": [
+        "R03G02C05"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P032",
+      "primary_components": [
+        "R03G02C06"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P033",
+      "primary_components": [
+        "R03G03C01"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P034",
+      "primary_components": [
+        "R03G03C02"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P035",
+      "primary_components": [
+        "R03G03C03"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P036",
+      "primary_components": [
+        "R03G03C04"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P037",
+      "primary_components": [
+        "R04G01C01"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P038",
+      "primary_components": [
+        "R04G01C02"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P039",
+      "primary_components": [
+        "R04G01C03"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P040",
+      "primary_components": [
+        "R04G01C04"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P041",
+      "primary_components": [
+        "R04G01C05"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P042",
+      "primary_components": [
+        "R04G02C01"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P043",
+      "primary_components": [
+        "R04G02C02"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P044",
+      "primary_components": [
+        "R04G02C03"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P045",
+      "primary_components": [
+        "R04G02C04"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P046",
+      "primary_components": [
+        "R04G02C05"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P047",
+      "primary_components": [
+        "R04G02C06"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P049",
+      "primary_components": [
+        "R05G01C01"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P050",
+      "primary_components": [
+        "R05G01C02"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P051",
+      "primary_components": [
+        "R05G01C03"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P052",
+      "primary_components": [
+        "R05G01C04"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P053",
+      "primary_components": [
+        "R05G01C05"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P054",
+      "primary_components": [
+        "R05G01C06"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P055",
+      "primary_components": [
+        "R05G01C07"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P056",
+      "primary_components": [
+        "R05G02C01"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P057",
+      "primary_components": [
+        "R05G02C02"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P058",
+      "primary_components": [
+        "R05G02C03"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P059",
+      "primary_components": [
+        "R05G02C04"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P060",
+      "primary_components": [
+        "R06G01C01"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P061",
+      "primary_components": [
+        "R06G01C02"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P062",
+      "primary_components": [
+        "R06G01C03"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P063",
+      "primary_components": [
+        "R06G01C04"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P064",
+      "primary_components": [
+        "R06G01C05"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P065",
+      "primary_components": [
+        "R06G01C06"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P066",
+      "primary_components": [
+        "R06G02C01"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P067",
+      "primary_components": [
+        "R06G02C02"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P068",
+      "primary_components": [
+        "R06G02C03"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "SUBSTANTIVE_PREFERRED_RAW_CLASS_DISAGREEMENT"
+    },
+    {
+      "independent_primitive": "P069",
+      "primary_components": [
+        "R06G02C04"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P070",
+      "primary_components": [
+        "R06G02C05"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P071",
+      "primary_components": [
+        "R07G01C01"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P072",
+      "primary_components": [
+        "R07G01C02"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P073",
+      "primary_components": [
+        "R07G01C03"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P074",
+      "primary_components": [
+        "R07G01C04"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P075",
+      "primary_components": [
+        "R07G02C01"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P076",
+      "primary_components": [
+        "R07G02C02"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P077",
+      "primary_components": [
+        "R07G02C03"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P078",
+      "primary_components": [
+        "R07G02C04"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P079",
+      "primary_components": [
+        "R07G02C05"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P080",
+      "primary_components": [
+        "R07G02C06"
+      ],
+      "role": "MAIN_BODY",
+      "preferred_shape_status": "EXACT_RAW_LABEL_MATCH"
+    },
+    {
+      "independent_primitive": "P048",
+      "primary_event": "R04G02E03",
+      "role": "PUNCTUATION_NOT_PRIMARY_COMPONENT"
+    },
+    {
+      "independent_primitive": "P081",
+      "primary_event": "R07G02E04",
+      "role": "PUNCTUATION_NOT_PRIMARY_COMPONENT"
+    }
+  ],
+  "all81_primary_components_accounted_once": true,
+  "punctuation_roles": [
+    {
+      "row": 4,
+      "independent_primitive": "P048",
+      "primary_event": "R04G02E03",
+      "preferred_role_agrees": true,
+      "encoded_unit_alternative_preserved_both": true
+    },
+    {
+      "row": 7,
+      "independent_primitive": "P081",
+      "primary_event": "R07G02E04",
+      "preferred_role_agrees": true,
+      "encoded_unit_alternative_preserved_both": true
+    }
+  ],
+  "census_reconciliation": {
+    "primary": "77 main bodies + 4 detached upper mark strokes = 81 components; comma and dot are separate events.",
+    "independent": "77 main bodies + 2 whole upper marks + 2 punctuation primitives = 81 primitives.",
+    "common_granularity": "77 bodies + 4 mark strokes + 2 punctuation = 83 graphical accounting atoms. Same numeral81 does NOT mean identical type census.",
+    "two_chevrons": "Each independent whole mark maps to two primary stroke components; no exact stroke pixel partition claimed."
+  },
+  "event_reconciliation": {
+    "primary4_events": "2 attached mark events + comma + dot. Units, gaps and physical row order recorded elsewhere.",
+    "independent96_events": "77 unit events + 11 gap events + 6 row breaks + 2 punctuation events; the two marks retained inside unit spans.",
+    "canonical96_order": "All unit/gap/row/punctuation events agree after explicit mapping of separately stored primary structure.",
+    "primary_two_mark_events": "Both map to independent whole marks at global4 and global21 (row2 ordinal10).",
+    "no_dropped_marks_or_nulls": true
+  },
+  "substantive_disagreement": {
+    "position": "R06G02U03, global65, row6 ordinal9",
+    "independent_preferred": "4",
+    "primary_preferred": "s",
+    "source_observation": "Small angular/triangular foreground body on native row6. It resembles row1 s-like body as well as a reduced/open 4-like body. Exact raw class remains observationally disputed.",
+    "resolution": "Retain both freezes and treat 4/s as unresolved source alternative. No lookup, word fit or source edit used.",
+    "effect": "Independent source audit does not uniquely certify this class; it cannot be advertised as unanimous 77/77 identity agreement."
+  },
+  "marked_h": "Both observers prefer h-like baseline plus detached caron, distinct from bareh/R_MARK; opaque whole class held. Names are descriptive only, not a decoder alias."
+}

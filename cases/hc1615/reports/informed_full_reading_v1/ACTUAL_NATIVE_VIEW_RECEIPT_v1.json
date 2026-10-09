@@ -1,0 +1,18 @@
+{
+  "wholepicture_address_body_viewed_by_utc": "2026-10-06T04:51:04+00:00",
+  "case_original_images_actually_viewed": true,
+  "printed_header_observed": "Šťastný nový rok!",
+  "header_role": "Ordinaryprintedcontext, notcodedunits; reviewerobservedaftercandidateaccess. Sourceobserversearliertitle/headerexposure androotpostsecondprojectionheaderexposure disclosed.",
+  "address_role": "Ordinarypostalrecipientwriting; noencodedbodyobserved",
+  "exactretained_API_urls": [
+    {
+      "title": "Picture side",
+      "original": "https://api.hcportal.eu/media/4905/pc_hcp_296_pic.JPG"
+    },
+    {
+      "title": "Address side",
+      "original": "https://api.hcportal.eu/media/4906/pc_hcp_296_adr.JPG"
+    }
+  ],
+  "operation": "view_image detailoriginal, no newGET"
+}

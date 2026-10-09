@@ -1,0 +1,21 @@
+{
+  "source_url": "https://api.hcportal.eu/api/cryptograms/615",
+  "accessed_at_utc": "2026-10-09T15:06:55.010219+00:00",
+  "public_record_excerpt": {
+    "id": 615,
+    "name": "Cryptogram in 11 210",
+    "description": "<p>Cryptogram in 11 210, solved by Zijian Zeng.</p>",
+    "state": {
+      "id": "approved",
+      "title": "Approved",
+      "show": true
+    },
+    "date": null,
+    "date_around": "1952",
+    "solution": {
+      "id": 2,
+      "name": "Solved"
+    }
+  },
+  "source_type": "public catalogue; no private correspondence"
+}

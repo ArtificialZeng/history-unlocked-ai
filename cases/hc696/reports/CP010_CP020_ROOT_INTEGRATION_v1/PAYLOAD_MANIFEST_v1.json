@@ -1,0 +1,30 @@
+[
+  {
+    "path": "checkpoints/CP010_Visible_Layer_Source_Freeze_PASS.md",
+    "sha256": "9e878bae6e85658f0b8b8199c25d77b73ca32b647ceffccc4efe2d5bba64fd82"
+  },
+  {
+    "path": "checkpoints/CP020_Primary_PORTAX_and_Pretarget_Control_PASS.md",
+    "sha256": "7d0c2d74376df8300ef4b59fb407c6c83bd4d7809839b26e3aefec8705ee8925"
+  },
+  {
+    "path": "config/TARGET_SOURCE_REGISTRATION_v1.json",
+    "sha256": "d59b7a38cacbfd6ddc8d8481ec93e95d09733e4ffe0ee1f678879ae9c991c815"
+  },
+  {
+    "path": "reports/CP010_CP020_ROOT_INTEGRATION_v1/PRE_PROJECT_STATE.json",
+    "sha256": "d19840160a78c16a92f0b9e0ddbb4a1ad07a9e27104d8f3c78401c0e74ec2351"
+  },
+  {
+    "path": "reports/CP010_CP020_ROOT_INTEGRATION_v1/PRE_README.md",
+    "sha256": "640154dc146073bdf8b5e769427113fe3faa93283b824b5b36266a7693005fb8"
+  },
+  {
+    "path": "reports/CP010_CP020_ROOT_INTEGRATION_v1/PRE_RESEARCH_LOG.md",
+    "sha256": "1ecf3aa42cda87b9c073633ab95701da8ee9941d05f5e59c8d14fd3cac9d67b1"
+  },
+  {
+    "path": "reports/CP010_CP020_ROOT_INTEGRATION_v1/REPLAY_RECEIPT_v1.json",
+    "sha256": "c1b04ef1abd36e9d2bc78a925e8824100f6fc25f880d8e6400431b2add678001"
+  }
+]

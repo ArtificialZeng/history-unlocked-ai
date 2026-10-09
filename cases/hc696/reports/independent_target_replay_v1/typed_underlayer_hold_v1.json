@@ -1,0 +1,152 @@
+{
+  "status": "UNIDENTIFIED; full originally typed stream cannot be replayed",
+  "independently_recovered_underlayer_letters": 0,
+  "positions": [
+    {
+      "occurrence_id": "C023",
+      "global_position": 23,
+      "line": 1,
+      "group": 5,
+      "position_in_group": 3,
+      "position_in_line": 23,
+      "visible_final_uppercase": "P",
+      "visible_identity_status": "fixed_from_pixels",
+      "visible_layer": "thick_dark_overlay",
+      "typed_underlayer_identity": null,
+      "typed_underlayer_status": "held_unidentified_occluded",
+      "source_supported_alternative_letters": [],
+      "alternative_note": "No underlying alphabetic candidate is asserted: incomplete/occluded residue does not identify a letter.",
+      "event_ids": [
+        "E01"
+      ],
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4",
+      "bbox_original_xyxy": [
+        2179,
+        680,
+        2255,
+        875
+      ],
+      "bbox_kind": "manual occurrence-centered cell window; includes entire row height; not a tight ink segmentation",
+      "native_crop_id": "line_01",
+      "pixel_evidence": "Dominant final uppercase outline directly legible in the original and native row crop; no linguistic inference."
+    },
+    {
+      "occurrence_id": "C066",
+      "global_position": 66,
+      "line": 3,
+      "group": 2,
+      "position_in_group": 1,
+      "position_in_line": 6,
+      "visible_final_uppercase": "N",
+      "visible_identity_status": "fixed_from_pixels",
+      "visible_layer": "thick_dark_overlay",
+      "typed_underlayer_identity": null,
+      "typed_underlayer_status": "held_unidentified_occluded",
+      "source_supported_alternative_letters": [],
+      "alternative_note": "No underlying alphabetic candidate is asserted: incomplete/occluded residue does not identify a letter.",
+      "event_ids": [
+        "E02"
+      ],
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4",
+      "bbox_original_xyxy": [
+        650,
+        1135,
+        726,
+        1340
+      ],
+      "bbox_kind": "manual occurrence-centered cell window; includes entire row height; not a tight ink segmentation",
+      "native_crop_id": "line_03",
+      "pixel_evidence": "Dominant final uppercase outline directly legible in the original and native row crop; no linguistic inference."
+    },
+    {
+      "occurrence_id": "C080",
+      "global_position": 80,
+      "line": 3,
+      "group": 4,
+      "position_in_group": 5,
+      "position_in_line": 20,
+      "visible_final_uppercase": "B",
+      "visible_identity_status": "fixed_from_pixels",
+      "visible_layer": "thick_dark_overlay",
+      "typed_underlayer_identity": null,
+      "typed_underlayer_status": "held_unidentified_occluded",
+      "source_supported_alternative_letters": [],
+      "alternative_note": "No underlying alphabetic candidate is asserted: incomplete/occluded residue does not identify a letter.",
+      "event_ids": [
+        "E04"
+      ],
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4",
+      "bbox_original_xyxy": [
+        1872,
+        1135,
+        1948,
+        1340
+      ],
+      "bbox_kind": "manual occurrence-centered cell window; includes entire row height; not a tight ink segmentation",
+      "native_crop_id": "line_03",
+      "pixel_evidence": "Dominant final uppercase outline directly legible in the original and native row crop; no linguistic inference."
+    },
+    {
+      "occurrence_id": "C132",
+      "global_position": 132,
+      "line": 5,
+      "group": 3,
+      "position_in_group": 2,
+      "position_in_line": 12,
+      "visible_final_uppercase": "H",
+      "visible_identity_status": "fixed_from_pixels",
+      "visible_layer": "thick_dark_overlay",
+      "typed_underlayer_identity": null,
+      "typed_underlayer_status": "held_unidentified_occluded",
+      "source_supported_alternative_letters": [],
+      "alternative_note": "No underlying alphabetic candidate is asserted: incomplete/occluded residue does not identify a letter.",
+      "event_ids": [
+        "E05"
+      ],
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4",
+      "bbox_original_xyxy": [
+        1197,
+        1590,
+        1273,
+        1780
+      ],
+      "bbox_kind": "manual occurrence-centered cell window; includes entire row height; not a tight ink segmentation",
+      "native_crop_id": "line_05",
+      "pixel_evidence": "Dominant final uppercase outline directly legible in the original and native row crop; no linguistic inference."
+    },
+    {
+      "occurrence_id": "C172",
+      "global_position": 172,
+      "line": 6,
+      "group": 5,
+      "position_in_group": 2,
+      "position_in_line": 22,
+      "visible_final_uppercase": "W",
+      "visible_identity_status": "fixed_from_pixels",
+      "visible_layer": "thick_dark_overlay",
+      "typed_underlayer_identity": null,
+      "typed_underlayer_status": "held_unidentified_occluded",
+      "source_supported_alternative_letters": [],
+      "alternative_note": "No underlying alphabetic candidate is asserted: incomplete/occluded residue does not identify a letter.",
+      "event_ids": [
+        "E06"
+      ],
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4",
+      "bbox_original_xyxy": [
+        2117,
+        1800,
+        2193,
+        2000
+      ],
+      "bbox_kind": "manual occurrence-centered cell window; includes entire row height; not a tight ink segmentation",
+      "native_crop_id": "line_06",
+      "pixel_evidence": "Dominant final uppercase outline directly legible in the original and native row crop; no linguistic inference."
+    }
+  ],
+  "reason": "Re-encryption yields the selected visible-final layer. It cannot independently establish occluded earlier ink or correction chronology."
+}

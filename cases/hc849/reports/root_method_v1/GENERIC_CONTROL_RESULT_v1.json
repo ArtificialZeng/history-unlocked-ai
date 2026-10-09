@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "seed": 84920261006,
+  "distinct_keys": 100,
+  "settings_per_key": 32,
+  "fixtures": 3200,
+  "blocks_per_fixture": 3,
+  "known_vector_checks": 2,
+  "invalid_model_or_length_rejections": 8,
+  "target_data_read": false,
+  "time_utc": "2026-10-05T19:40:57.082623+00:00"
+}

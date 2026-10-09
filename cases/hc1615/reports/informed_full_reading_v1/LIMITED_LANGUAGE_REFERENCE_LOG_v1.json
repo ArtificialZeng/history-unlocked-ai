@@ -1,0 +1,16 @@
+{
+  "access_date_UTC": "2026-10-06",
+  "queries": [
+    "site:ssjc.ujc.cas.cz \"třetice\" \"do třetice\"",
+    "site:ssjc.ujc.cas.cz \"tisknout\" \"polibek\""
+  ],
+  "verified_primary": [
+    {
+      "url": "https://ssjc.ujc.cas.cz/search.php?heslo=do&hsubstr=no&sti=10498&where=hesla",
+      "title": "ÚJČ Slovník spisovného jazyka českého: do",
+      "limited_support": "Attests do třetice expression/proverb; doesnotconfirmtargetmessage or historicalencoding."
+    }
+  ],
+  "no_source_quotes_copied": true,
+  "no_targetsolutionsearch_or_broadresearch": true
+}

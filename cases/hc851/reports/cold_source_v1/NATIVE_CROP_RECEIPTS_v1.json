@@ -1,0 +1,1154 @@
+[
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/typed_row_01_native.png",
+    "source": "sources/raw/HC851_typed_original.jpg",
+    "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+    "crop_box_native_xyxy": [
+      230,
+      545,
+      2870,
+      690
+    ],
+    "rotation": 0,
+    "dimensions": [
+      2640,
+      145
+    ],
+    "sha256": "83e7d8cf3ad82ea6af3c549c45f9e5369d85f91cd28f37054a57d3671c45c30f",
+    "transformation": "exact crop only",
+    "actual_view": "Actually displayed at original detail in view_image.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/typed_row_02_native.png",
+    "source": "sources/raw/HC851_typed_original.jpg",
+    "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+    "crop_box_native_xyxy": [
+      230,
+      735,
+      2870,
+      875
+    ],
+    "rotation": 0,
+    "dimensions": [
+      2640,
+      140
+    ],
+    "sha256": "4f902e6acdf5cb4364246d2140dfd1b43e69ac7811c0ea057e5ac4443bc79b98",
+    "transformation": "exact crop only",
+    "actual_view": "Actually displayed at original detail in view_image.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/typed_row_03_native.png",
+    "source": "sources/raw/HC851_typed_original.jpg",
+    "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+    "crop_box_native_xyxy": [
+      230,
+      920,
+      2870,
+      1060
+    ],
+    "rotation": 0,
+    "dimensions": [
+      2640,
+      140
+    ],
+    "sha256": "82bb63bc5d8ec706060cf5790a33498d43cdd173351d9f672453c48ef21b9a7c",
+    "transformation": "exact crop only",
+    "actual_view": "Actually displayed at original detail in view_image.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/typed_row_04_native.png",
+    "source": "sources/raw/HC851_typed_original.jpg",
+    "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+    "crop_box_native_xyxy": [
+      235,
+      1100,
+      2880,
+      1260
+    ],
+    "rotation": 0,
+    "dimensions": [
+      2645,
+      160
+    ],
+    "sha256": "86f62b762b28c22ca39119c3ab0c61e82cc9d0a1b3d3a8a710bfc1365d19e259",
+    "transformation": "exact crop only",
+    "actual_view": "Actually displayed at original detail in view_image.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/typed_row_05_native.png",
+    "source": "sources/raw/HC851_typed_original.jpg",
+    "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+    "crop_box_native_xyxy": [
+      235,
+      1270,
+      2445,
+      1435
+    ],
+    "rotation": 0,
+    "dimensions": [
+      2210,
+      165
+    ],
+    "sha256": "ac695dd39e86ed91eb3a166fb3f8f972fda4657273e28235ceca4e1324485efe",
+    "transformation": "exact crop only",
+    "actual_view": "Actually displayed at original detail in view_image.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/typed_first_row_black_overlay_native.png",
+    "source": "sources/raw/HC851_typed_original.jpg",
+    "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+    "crop_box_native_xyxy": [
+      2570,
+      540,
+      2690,
+      690
+    ],
+    "rotation": 0,
+    "dimensions": [
+      120,
+      150
+    ],
+    "sha256": "f3544b6ea6c897eba217a779e82d07a3485ee3d2c40f62fbf96cd67034941063",
+    "transformation": "exact crop only",
+    "actual_view": "Actually displayed at original detail in view_image.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/typed_last_row_group4_native.png",
+    "source": "sources/raw/HC851_typed_original.jpg",
+    "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+    "crop_box_native_xyxy": [
+      1575,
+      1260,
+      2045,
+      1440
+    ],
+    "rotation": 0,
+    "dimensions": [
+      470,
+      180
+    ],
+    "sha256": "fe1403e40a3011e6b61a07d8b9be544c5f835d19c16301fb8f55c03a7eae58bd",
+    "transformation": "exact crop only",
+    "actual_view": "Actually displayed at original detail in view_image.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/typed_heading_native.png",
+    "source": "sources/raw/HC851_typed_original.jpg",
+    "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+    "crop_box_native_xyxy": [
+      60,
+      280,
+      1080,
+      485
+    ],
+    "rotation": 0,
+    "dimensions": [
+      1020,
+      205
+    ],
+    "sha256": "8d73b6f3ff138a2e8a7bb58df5a4155d9a609f938ea6ae15abca0e92611da559",
+    "transformation": "exact crop only",
+    "actual_view": "Actually displayed at original detail in view_image.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/hand_array_1_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      130,
+      130,
+      1120,
+      1040
+    ],
+    "rotation": 0,
+    "dimensions": [
+      990,
+      910
+    ],
+    "sha256": "95c7fa84e0cb9f727ac433c3cea6a9d55d90e8f517b7e2ee883b29d30cae39e9",
+    "transformation": "exact crop only",
+    "actual_view": "Actually displayed at original detail in view_image.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/hand_array_2_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      1170,
+      120,
+      2060,
+      1040
+    ],
+    "rotation": 0,
+    "dimensions": [
+      890,
+      920
+    ],
+    "sha256": "c3f799cf3f12adec27e74a2d9ffc8aa1076fe96ffc4d7bf3882b5cfac0a020a5",
+    "transformation": "exact crop only",
+    "actual_view": "Actually displayed at original detail in view_image.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/hand_array_3_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      150,
+      1140,
+      1130,
+      2035
+    ],
+    "rotation": 0,
+    "dimensions": [
+      980,
+      895
+    ],
+    "sha256": "da2559d41e558e3d0445956168f7d94f885e4a04f3fa24f5c9dcad368d303244",
+    "transformation": "exact crop only",
+    "actual_view": "Actually displayed at original detail in view_image.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/hand_array_4_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      1160,
+      1120,
+      2070,
+      2035
+    ],
+    "rotation": 0,
+    "dimensions": [
+      910,
+      915
+    ],
+    "sha256": "8d19cd616b6ebc34a342904fc6f6b52ffc69d28e4002a57d6b009543ff8113c9",
+    "transformation": "exact crop only",
+    "actual_view": "Actually displayed at original detail in view_image.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_full_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2050,
+      745,
+      3020,
+      1710
+    ],
+    "rotation": 0,
+    "dimensions": [
+      970,
+      965
+    ],
+    "sha256": "3092f3ab51b9b266982bf1a876ca09ef24c14ac61546b94d3000a604882374f5",
+    "transformation": "exact crop only",
+    "actual_view": "Actually displayed at original detail in view_image.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/upper_author_notes_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2070,
+      20,
+      3024,
+      690
+    ],
+    "rotation": 0,
+    "dimensions": [
+      954,
+      670
+    ],
+    "sha256": "061d83b86dd1746fcafad685b77ac31dadc16ecf83b3f37460ecb17c8ce74d75",
+    "transformation": "exact crop only",
+    "actual_view": "Actually displayed at original detail in view_image.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/lower_grouped_witness_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      165,
+      2070,
+      2730,
+      2940
+    ],
+    "rotation": 0,
+    "dimensions": [
+      2565,
+      870
+    ],
+    "sha256": "6f258d1da0b632b5a5cb793600f2280de965ccc4bd340ab88f316608f554a235",
+    "transformation": "exact crop only",
+    "actual_view": "Actually displayed at original detail in view_image.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/bottom_arithmetic_notes_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      350,
+      3050,
+      1800,
+      4025
+    ],
+    "rotation": 0,
+    "dimensions": [
+      1450,
+      975
+    ],
+    "sha256": "72ddbe4d3db23f64c90d19bef151c9a84a47271b65deba176a6f2b0ed2bf284b",
+    "transformation": "exact crop only",
+    "actual_view": "Actually displayed at original detail in view_image.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r1_c1_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2085,
+      779,
+      2239,
+      934
+    ],
+    "rotation": 0,
+    "dimensions": [
+      154,
+      155
+    ],
+    "sha256": "39b3e1f1272dfea02c5d48c6bec1f72641bec7fbb255b1d99169465028e92984",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r1_c2_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2231,
+      777,
+      2385,
+      932
+    ],
+    "rotation": 0,
+    "dimensions": [
+      154,
+      155
+    ],
+    "sha256": "8bd47aa4f7e94257b78050409aa7c79fcc90d084dbdcac14856de9edc854df52",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r1_c3_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2376,
+      775,
+      2531,
+      930
+    ],
+    "rotation": 0,
+    "dimensions": [
+      155,
+      155
+    ],
+    "sha256": "be27ed8b5c522a93665dc5c87e8816cd254f71722865c3f6a3e41000ce80f1ef",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r1_c4_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2522,
+      773,
+      2677,
+      928
+    ],
+    "rotation": 0,
+    "dimensions": [
+      155,
+      155
+    ],
+    "sha256": "cf775e1433cd5a08a665769023f596203634d233e30463c4c2be4c0b3a6432cd",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r1_c5_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2667,
+      771,
+      2823,
+      927
+    ],
+    "rotation": 0,
+    "dimensions": [
+      156,
+      156
+    ],
+    "sha256": "76631f9269e805a68afae386860adeaa2f0bc90d0902d56e809319650df22636",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r1_c6_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2813,
+      770,
+      2970,
+      925
+    ],
+    "rotation": 0,
+    "dimensions": [
+      157,
+      155
+    ],
+    "sha256": "090e1420d2c72ddc5da84f7d5d30d46b09e24fa7267b4ebebfc13139d09a64e6",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r2_c1_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2085,
+      925,
+      2238,
+      1080
+    ],
+    "rotation": 0,
+    "dimensions": [
+      153,
+      155
+    ],
+    "sha256": "ffeb2498dd1773a28b3b6c2036f12325562907a298864019bc0075f2ea54c8fe",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r2_c2_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2230,
+      923,
+      2383,
+      1078
+    ],
+    "rotation": 0,
+    "dimensions": [
+      153,
+      155
+    ],
+    "sha256": "fb0c67b3aab3fa5dd18ed0bfccb39632d934abddea0532f0beb47faa2def31b4",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r2_c3_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2375,
+      921,
+      2529,
+      1076
+    ],
+    "rotation": 0,
+    "dimensions": [
+      154,
+      155
+    ],
+    "sha256": "03c8239dc511dec0964f54a0b2c104873cf7f2e687604e0abc6375bec747f7a7",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r2_c4_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2520,
+      920,
+      2674,
+      1075
+    ],
+    "rotation": 0,
+    "dimensions": [
+      154,
+      155
+    ],
+    "sha256": "283d0e3d9464ac7ddd032b6e0ba72e4271d0a2601dca9448c9d806913148502a",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r2_c5_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2665,
+      918,
+      2820,
+      1073
+    ],
+    "rotation": 0,
+    "dimensions": [
+      155,
+      155
+    ],
+    "sha256": "e94f6a78eef4769a69fff46aba60812ea2ccca1f9d9ac0b9d2d1f9aceb47919a",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r2_c6_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2810,
+      916,
+      2966,
+      1071
+    ],
+    "rotation": 0,
+    "dimensions": [
+      156,
+      155
+    ],
+    "sha256": "2df6f7c26017246ea82281ed066cd8bcecab5777ebc432ea40ca6247da90969f",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r3_c1_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2084,
+      1071,
+      2237,
+      1226
+    ],
+    "rotation": 0,
+    "dimensions": [
+      153,
+      155
+    ],
+    "sha256": "16253ac39a2fdad85d43d987bcc65df3c7e56945e81782f216651c05dea5a8df",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r3_c2_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2228,
+      1069,
+      2382,
+      1224
+    ],
+    "rotation": 0,
+    "dimensions": [
+      154,
+      155
+    ],
+    "sha256": "b4356515ef3fe3a195c12c66bc53f4f3f5e7eb5c60bb95a2ab4eda89752b45b7",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r3_c3_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2373,
+      1068,
+      2527,
+      1222
+    ],
+    "rotation": 0,
+    "dimensions": [
+      154,
+      154
+    ],
+    "sha256": "e08e3cec09dcd21d41fefba975904d0037fc69e20245979cffff2013a2f91935",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r3_c4_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2517,
+      1066,
+      2672,
+      1221
+    ],
+    "rotation": 0,
+    "dimensions": [
+      155,
+      155
+    ],
+    "sha256": "43b0429260d8dd436cc9b99c93bc82cfdee2c64c08a7ad6523e920c189f89a9a",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r3_c5_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2662,
+      1064,
+      2817,
+      1219
+    ],
+    "rotation": 0,
+    "dimensions": [
+      155,
+      155
+    ],
+    "sha256": "1ef01b22acab7afa0df8851d8d317ae88bb238301bea1b772f5c7eb1193fd379",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r3_c6_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2806,
+      1063,
+      2962,
+      1218
+    ],
+    "rotation": 0,
+    "dimensions": [
+      156,
+      155
+    ],
+    "sha256": "4f8b768c5354059789cd72f3d46b4401f2da2678d05572d46735c2c650cdcfea",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r4_c1_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2084,
+      1217,
+      2235,
+      1372
+    ],
+    "rotation": 0,
+    "dimensions": [
+      151,
+      155
+    ],
+    "sha256": "a1244bc94e26a59406fe83043f9cd0c7c75048be66e174487a6072a21e98f988",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r4_c2_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2227,
+      1215,
+      2380,
+      1370
+    ],
+    "rotation": 0,
+    "dimensions": [
+      153,
+      155
+    ],
+    "sha256": "4595f9ff5351b25a96fc0af92a19fbd9aa8f7fe03ba9bbf9356c15c47bda2bf7",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r4_c3_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2371,
+      1214,
+      2524,
+      1369
+    ],
+    "rotation": 0,
+    "dimensions": [
+      153,
+      155
+    ],
+    "sha256": "669dacc9fb887a53b2b56b5dbe043016d3997df7ddeb4a60f7da394b67aca0d1",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r4_c4_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2515,
+      1212,
+      2669,
+      1367
+    ],
+    "rotation": 0,
+    "dimensions": [
+      154,
+      155
+    ],
+    "sha256": "f9b877bb4e1670dc5b9b2f03fa38d9f8af474e25b912e86f27bf31060db203b8",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r4_c5_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2659,
+      1211,
+      2813,
+      1366
+    ],
+    "rotation": 0,
+    "dimensions": [
+      154,
+      155
+    ],
+    "sha256": "b860a904166887ce30bd7b910aa85c02f75db5f29b32eeb772565cc27cfdedf1",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r4_c6_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2803,
+      1209,
+      2958,
+      1364
+    ],
+    "rotation": 0,
+    "dimensions": [
+      155,
+      155
+    ],
+    "sha256": "221911f02dabfd350d0d6931bfde876bf0fff91287353a36824858d30ee836f7",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r5_c1_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2083,
+      1363,
+      2234,
+      1518
+    ],
+    "rotation": 0,
+    "dimensions": [
+      151,
+      155
+    ],
+    "sha256": "6769b15399375ba6437f9e911a0745bea62586aa8026569ce82052c68a1c8c14",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r5_c2_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2226,
+      1362,
+      2378,
+      1516
+    ],
+    "rotation": 0,
+    "dimensions": [
+      152,
+      154
+    ],
+    "sha256": "899c87ebd5bf8217056fed42e96188898171670e3e1c7c835a30ccbbd55430cb",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r5_c3_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2370,
+      1360,
+      2522,
+      1515
+    ],
+    "rotation": 0,
+    "dimensions": [
+      152,
+      155
+    ],
+    "sha256": "644f9a3d23e6ec8b338cd123ee3b564cda6e870d62cb5b05003fe5f320f25d6a",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r5_c4_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2513,
+      1359,
+      2666,
+      1513
+    ],
+    "rotation": 0,
+    "dimensions": [
+      153,
+      154
+    ],
+    "sha256": "c7872bce4ddbf4b6871bdba04272eb36fd590bead8daaf3182956f848e81e490",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r5_c5_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2656,
+      1357,
+      2810,
+      1512
+    ],
+    "rotation": 0,
+    "dimensions": [
+      154,
+      155
+    ],
+    "sha256": "b53a291a58845240b7442e32002cce9d8b6b5b4338b241ee5af39e7db4b97244",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r5_c6_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2799,
+      1356,
+      2954,
+      1510
+    ],
+    "rotation": 0,
+    "dimensions": [
+      155,
+      154
+    ],
+    "sha256": "0a3fe10a0932a9c675c634b0542e7b313acad9679cf27e69a0afe5104626d36e",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r6_c1_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2083,
+      1509,
+      2233,
+      1664
+    ],
+    "rotation": 0,
+    "dimensions": [
+      150,
+      155
+    ],
+    "sha256": "ba2c5f1f1211f3702c78f0b0630aa1e513f46e2edc30e1f528443fb682489efb",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r6_c2_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2225,
+      1508,
+      2377,
+      1662
+    ],
+    "rotation": 0,
+    "dimensions": [
+      152,
+      154
+    ],
+    "sha256": "68243822594627e43d819dc8541e35bff414f4709c48a542759a9d160cbe5086",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r6_c3_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2368,
+      1506,
+      2520,
+      1661
+    ],
+    "rotation": 0,
+    "dimensions": [
+      152,
+      155
+    ],
+    "sha256": "097e77a3b89b8379f93e637b679dbe7d7e6af4244bc4de29736f53b1e2843793",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r6_c4_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2511,
+      1505,
+      2663,
+      1660
+    ],
+    "rotation": 0,
+    "dimensions": [
+      152,
+      155
+    ],
+    "sha256": "685a6440fa3f457e8ec87cb04f9acdf71ea622da698f5df6c1e3241c2e54d1ab",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r6_c5_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2653,
+      1503,
+      2806,
+      1658
+    ],
+    "rotation": 0,
+    "dimensions": [
+      153,
+      155
+    ],
+    "sha256": "180b834118fcb43a9eee6c1dc554c6e25c9037b5754698a8c8a336a92e6ad810",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_cell_r6_c6_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2796,
+      1502,
+      2950,
+      1657
+    ],
+    "rotation": 0,
+    "dimensions": [
+      154,
+      155
+    ],
+    "sha256": "7f7f3cc90131f2d4b852996b164f2215b86a1d12aea80a3236a009f21e686f2b",
+    "transformation": "exact native crop; coarse-cell polygon is approximate cut-lattice anchor, <=10px edge uncertainty",
+    "actual_view": "All native crop pixels actually displayed in the 36-cell native atlas; individual file not separately opened.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_36_cell_atlas_native.png",
+    "source": "36 exact native cell crops listed in GRILLE_CELL_ATLAS_GEOMETRY_v1.json",
+    "dimensions": [
+      1050,
+      1092
+    ],
+    "sha256": "c8d1a5ee1f6590034f865198f67dc6fecc6d6ea190f1bbb99fafbbe0e0ed3c3d",
+    "transformation": "montage of native crops with added coordinate labels outside source pixels; no resize, warp or restoration",
+    "actual_view": "Actually displayed at original detail in view_image.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_center_inscription_ROT180.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2425,
+      935,
+      2695,
+      1190
+    ],
+    "rotation_degrees_counterclockwise": 180,
+    "dimensions": [
+      270,
+      255
+    ],
+    "sha256": "83c473f5a5164925155a6b4822caaec895a3eee435f039a4a24b86faa84956e8",
+    "transformation": "exact crop and orthogonal rotation only",
+    "actual_view": "Actually displayed at original detail in view_image.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_top_I_native.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2410,
+      780,
+      2505,
+      960
+    ],
+    "rotation_degrees_counterclockwise": 0,
+    "dimensions": [
+      95,
+      180
+    ],
+    "sha256": "11e02b367b1b0cf96fc8bb04faf6178f302b534f831a2d90a262e1dfb9735f62",
+    "transformation": "exact crop and orthogonal rotation only",
+    "actual_view": "Actually displayed at original detail in view_image.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_left_II_ROT90CW.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2070,
+      1290,
+      2300,
+      1480
+    ],
+    "rotation_degrees_counterclockwise": -90,
+    "dimensions": [
+      190,
+      230
+    ],
+    "sha256": "b65e300ec755e70400923a26a307b1120bf71eb68034fabc698b5ce85bdd2e1a",
+    "transformation": "exact crop and orthogonal rotation only",
+    "actual_view": "Actually displayed at original detail in view_image.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_right_IV_ROT90CCW.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2795,
+      1180,
+      2970,
+      1360
+    ],
+    "rotation_degrees_counterclockwise": 90,
+    "dimensions": [
+      180,
+      175
+    ],
+    "sha256": "887c13ea865eecd8e714d6222d3b18150904b606a2572848ebcc54552801baa8",
+    "transformation": "exact crop and orthogonal rotation only",
+    "actual_view": "Actually displayed at original detail in view_image.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  },
+  {
+    "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/inspection/cold_source_v1/grille_bottom_III_ROT180.png",
+    "source": "sources/raw/HC851_public_grille_original.jpg",
+    "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "crop_box_native_xyxy": [
+      2730,
+      1510,
+      2900,
+      1645
+    ],
+    "rotation_degrees_counterclockwise": 180,
+    "dimensions": [
+      170,
+      135
+    ],
+    "sha256": "2a4eb04bca87556c954e256bbe415dd8bb92e9b5ffbdf4ffa6099165f2c0c994",
+    "transformation": "exact crop and orthogonal rotation only",
+    "actual_view": "Actually displayed at original detail in view_image.",
+    "actual_view_receipt_written_utc": "2026-10-05T17:47:17.026085+00:00"
+  }
+]

@@ -1,0 +1,207 @@
+{
+  "sealed_utc": "2026-10-05T21:01:50.492175+00:00",
+  "status": "PASS EXACT PDF AND CORRECTED92 PROSPECTIVE STAGE",
+  "exactPDF_sha256": "67514d7c0a22b162fbc4b971d013cbe108cb1d02d916d1d97ecec7968ba5b118",
+  "exact92stage_manifest_sha256": "38cc687cce7ad6bfaf6b163ce6cef086af7fa09cb147d88d7b17f4f6dfaa557b",
+  "actual_stage_payload_names": [
+    "AGENTS.md",
+    "CITATION.cff",
+    "DECIPHERMENT_PROTOCOL_v1.md",
+    "LICENSE-CODE",
+    "LICENSE-DOCUMENTATION",
+    "README.md",
+    "README.zh-CN.md",
+    "config/TARGET_METHOD_REGISTRATION_v1.json",
+    "data/cold_source_v1/all_derivative_provenance_v1.json",
+    "data/cold_source_v1/annotations_and_extent_v1.json",
+    "data/cold_source_v1/initial_crop_provenance_v1.json",
+    "data/cold_source_v1/native_unit_crop_provenance_v1.json",
+    "data/cold_source_v1/notebook_array_v1.json",
+    "data/cold_source_v1/notebook_grouped_copy_v1.json",
+    "data/cold_source_v1/original_inventory_v1.json",
+    "data/cold_source_v1/physical_key_v1.json",
+    "data/cold_source_v1/typed_current_v1.json",
+    "output/pdf/HC849_Source_Assisted_Current_Layer_Reading_v1.pdf",
+    "reports/ROOT_PORTABLE_CHECKER_REPLAY_v1.json",
+    "reports/SOURCE_FREEZE_PARENT_REPLAY_v1.json",
+    "reports/SOURCE_RECONCILIATION_PRETARGET_v1.json",
+    "reports/cold_source_v1/EXPOSURE_CHRONOLOGY_v1.json",
+    "reports/cold_source_v1/LOCAL_SOURCE_INTEGRITY_CHECK_v1.json",
+    "reports/cold_source_v1/SCOPE_REGISTRATION_v1.json",
+    "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+    "reports/cold_source_v1/SOURCE_FREEZE_REPORT_v1.md",
+    "reports/cold_source_v1/SOURCE_FREEZE_SEAL_v1.json",
+    "reports/independent_candidate_audit_v1/AUDIT_CHRONOLOGY_v1.json",
+    "reports/independent_candidate_audit_v1/AUDIT_RESULTS_v1.json",
+    "reports/independent_candidate_audit_v1/AUDIT_SCOPE_REGISTRATION_v1.json",
+    "reports/independent_candidate_audit_v1/FIRST_AUTHORIZED_FILE_READS_v1.json",
+    "reports/independent_candidate_audit_v1/FIXED_LITERAL_FINITE_CONTROLS_v1.json",
+    "reports/independent_candidate_audit_v1/INDEPENDENT_CANDIDATE_AUDIT_REPORT_v1.md",
+    "reports/independent_candidate_audit_v1/LITERAL_SPACES_ONLY_GLOSS_v1.json",
+    "reports/independent_candidate_audit_v1/NATIVE_PRIMARY_PIXEL_REPLAY_v1.json",
+    "reports/independent_candidate_audit_v1/NATIVE_SOURCE_AUDIT_v1.json",
+    "reports/independent_candidate_audit_v1/OWN_2048_SOURCE_POSITION_CERTIFICATES_v1.json",
+    "reports/independent_candidate_audit_v1/OWN_ALL_32_LITERAL_PROJECTIONS_v1.json",
+    "reports/independent_candidate_audit_v1/PRIOR_FREEZES_UNCHANGED_v1.json",
+    "reports/independent_candidate_audit_v1/REPORTING_INVOCATION_FAILURE_v1.json",
+    "reports/independent_candidate_audit_v1/ROOT_LITERAL_COMPARISON_v1.json",
+    "reports/independent_candidate_audit_v1/SEAL_MANIFEST_v1.json",
+    "reports/independent_candidate_audit_v1/SECONDARY_WITNESS_ROLE_HOLDS_v1.json",
+    "reports/independent_candidate_audit_v1/SOURCE_FREEZE_REPLAY_v1.json",
+    "reports/independent_method_v1/CONTROL_RESULTS_v1.json",
+    "reports/independent_method_v1/EXPOSURE_LOG_v1.json",
+    "reports/independent_method_v1/FAILED_RUN_v1.json",
+    "reports/independent_method_v1/KNOWN_VECTORS_v1.json",
+    "reports/independent_method_v1/METHOD_REPORT_v1.md",
+    "reports/independent_method_v1/PUBLIC_API_v1.json",
+    "reports/independent_method_v1/REGISTRATION_v1.json",
+    "reports/independent_method_v1/REJECTION_CONTROLS_v1.json",
+    "reports/independent_method_v1/SEAL_MANIFEST_v1.json",
+    "reports/independent_method_v1/SYNTHETIC_KEYS_v1.json",
+    "reports/independent_method_v1/SYNTHETIC_REPRESENTATIVE_VECTORS_v1.json",
+    "reports/independent_method_v1/SYNTHETIC_TRIAL_RECEIPTS_v1.json",
+    "reports/independent_release_checker_v1/CHECKER_EXPECTATIONS_v1.json",
+    "reports/independent_release_checker_v1/CHECKER_REPORT_v1.md",
+    "reports/independent_release_checker_v1/DEFAULT_RUN_RECEIPT_v1.json",
+    "reports/independent_release_checker_v1/DEFAULT_STDERR_v1.txt",
+    "reports/independent_release_checker_v1/DEFAULT_STDOUT_v1.json",
+    "reports/independent_release_checker_v1/HASH_RECEIPT_v1.json",
+    "reports/independent_release_checker_v1/INTEGRITY_RUN_RECEIPT_v1.json",
+    "reports/independent_release_checker_v1/INTEGRITY_STDERR_v1.txt",
+    "reports/independent_release_checker_v1/INTEGRITY_STDOUT_v1.json",
+    "reports/independent_release_checker_v1/NO_PIXEL_PORTABILITY_RECEIPT_v1.json",
+    "reports/independent_release_checker_v1/NO_PIXEL_PORTABILITY_STDOUT_v1.json",
+    "reports/independent_release_checker_v1/PUBLICATION_SCOPE_AUDIT_PREPARATION_v1.json",
+    "reports/independent_release_checker_v1/SCHEMA_INSPECTION_FAILURE_v1.json",
+    "reports/independent_release_checker_v1/SCOPE_REGISTRATION_v1.json",
+    "reports/independent_release_checker_v1/SEAL_MANIFEST_v1.json",
+    "reports/registered_target_v1/ALL_32_REGISTERED_PROJECTIONS_v1.json",
+    "reports/registered_target_v1/ALL_32_SOURCE_POSITION_CERTIFICATES_v1.json",
+    "reports/registered_target_v1/PREFERRED_CURRENT_LAYER_LITERAL_v1.json",
+    "reports/registered_target_v1/TARGET_RESULT_SEAL_v1.json",
+    "reports/root_method_v1/GENERIC_CONTROL_RESULT_v1.json",
+    "reports/root_method_v1/POSTSEAL_INDEPENDENT_COMPARISON_v1.json",
+    "reports/root_method_v1/PRETARGET_METHOD_SEAL_v1.json",
+    "reports/root_method_v1/SYNTHETIC_FIXTURES_v1.json",
+    "scripts/build_current_layer_note_v1.py",
+    "scripts/build_release_v1.py",
+    "scripts/check_hc849_release_v1.py",
+    "scripts/grille_even_v1.py",
+    "scripts/independent_candidate_check_v1.py",
+    "scripts/independent_grille_v1.py",
+    "scripts/root_generic_controls_v1.py",
+    "scripts/run_registered_target_v1.py",
+    "scripts/verify_release_manifest_v1.py",
+    "sources/ACA_PUBLIC_METHOD_REFERENCE_v1.json",
+    "sources/HC849_RETAINED_METADATA_EXCERPT_v1.json",
+    "sources/NETWORK_RECEIPTS_v1.json",
+    "sources/SOURCE_ONLY_SCOPE_v1.md"
+  ],
+  "actual_stage_payload_bytes": 22521713,
+  "artifact_count": 20,
+  "artifacts": [
+    {
+      "path": "reports/independent_publication_scope_v1/ACTUAL_STAGE_CHECKER_RECEIPT_v1.json",
+      "bytes": 2331,
+      "sha256": "3b7d6e9b8744e69e3cf0bd4bbaedee4d068afebb9c7daebf0e83ee3cd594b6bd"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/ACTUAL_STAGE_CHECKER_STDERR_v1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/ACTUAL_STAGE_CHECKER_STDOUT_v1.json",
+      "bytes": 95149,
+      "sha256": "3bdc148262631c8fe79eb55e456a2c60b61035d817c48071d306ecf249cd0782"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/CFF_SUCCESSOR_SCOPE_AMENDMENT_v1.json",
+      "bytes": 782,
+      "sha256": "22c1f80b1a852ffd6fce1d38ce833770dec58f83a3b0a78de655ce47a06e52ac"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/EXACT_ARTIFACT_RECEIPTS_v1.json",
+      "bytes": 2367,
+      "sha256": "3aa64ad7c85be1d3a2dbcf3febcb168f87a00d93cd4f7ebb53108a170f9418ba"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/EXACT_PDF_RENDER_v1-1.png",
+      "bytes": 240754,
+      "sha256": "eca8c22418548ffe1cb3a746d36142237c9ef7d628a6e811af9989b21569ce42"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/EXACT_PDF_RENDER_v1-2.png",
+      "bytes": 200184,
+      "sha256": "e866fac768315b537e3cd45e65fc8a2ed1528bd8bf3713afa997f6616dae41c9"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/EXACT_PDF_RENDER_v1-3.png",
+      "bytes": 327311,
+      "sha256": "b1db160b519e6d3c97b82ef5b9d0fafe02e04765f2c1086cf300c54165e4c2b1"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/FINAL_SCOPE_RESULT_v1.json",
+      "bytes": 1221,
+      "sha256": "972430adf63af727f890ad8893eb4dde3d32dd939ef7c5713cf4851627fd85f0"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/PDFINFO_v1.txt",
+      "bytes": 630,
+      "sha256": "ce8c6ca1113088ed9dabafeaed9037894425c411e06b41d5d8cb699852d2e169"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/PDF_STRUCTURE_LINKS_FONTS_v1.json",
+      "bytes": 3818,
+      "sha256": "c23875e146c93f6c833650d8c1cf8b42a57dedb27c103383b0cce73b905dc061"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/PDF_TEXT_SCIENTIFIC_VISUAL_CHECK_v1.json",
+      "bytes": 13188,
+      "sha256": "46c85d39b02382a0337df082180468f946b1ab3a1aed9a11e8ed5cfa1ef8c4b4"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/PDF_TEXT_v1.txt",
+      "bytes": 7743,
+      "sha256": "7cad97916a2bd0c167f26119ee2226d015c21fecdb96c34f3593051fc27fa058"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/PRIMARY_CFF_SCHEMA_METADATA_CHECK_v1.json",
+      "bytes": 1357,
+      "sha256": "853b90ee6728d02f8add53cf9efdce3bfeb1a0c4fae93f996e64d3b34e5697fe"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/PUBLICATION_SCOPE_AUDIT_REPORT_v1.md",
+      "bytes": 8024,
+      "sha256": "8894f038bc99a7240041393d72dbe7d65a40a59f15a0fea2eaae2dc9da9c4e80"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/SCOPE_REGISTRATION_v1.json",
+      "bytes": 1316,
+      "sha256": "167aa1b56626e14b3a38719650ea90eb72c97bcd79b2db53d7295e353a7017b5"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/STAGE_92_PRE_CFF_MANIFEST_CAPTURE_v1.json",
+      "bytes": 17837,
+      "sha256": "6dabee8638c7d316e768fcc15ce27a01e18e0090be4d188044e1f12830e819aa"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/STAGE_92_SUCCESSOR_INVENTORY_SCOPE_v1.json",
+      "bytes": 21361,
+      "sha256": "0baa730ba27f1f88f013064e301c9dab3960eb17edb00c2eb37299acd9591f05"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/STAGE_92_SUCCESSOR_MANIFEST_CAPTURE_v1.json",
+      "bytes": 18086,
+      "sha256": "38cc687cce7ad6bfaf6b163ce6cef086af7fa09cb147d88d7b17f4f6dfaa557b"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/STAGE_SCOPE_AMENDMENT_v1.json",
+      "bytes": 967,
+      "sha256": "b47b7dec70129858a52934f98e002a15dca62ebab2115bac5e89167eca9f96f5"
+    }
+  ],
+  "historical_QA_artifacts_may_be_unbundled": true,
+  "futurestage_successor_ZIP_extract_not_yet_audited": true,
+  "self_hash_reported_separately": true
+}

@@ -1,0 +1,73 @@
+{
+  "status": "BOUNDED_NEGATIVE_EXACT_OFFICIAL_SOURCE_MATCH_UNVERIFIED",
+  "access_date": "2026-10-05",
+  "queries": [
+    {
+      "q": "\"Many patrols have successfully accomplished their missions\" withdrawal"
+    },
+    {
+      "q": "\"Night patrols go out stealthily\""
+    },
+    {
+      "q": "\"hasty noisy withdrawal\" patrols",
+      "domains": [
+        "army.mil",
+        "mil",
+        "armyupress.army.mil",
+        "cgsc.contentdm.oclc.org"
+      ]
+    },
+    {
+      "q": "\"Night patrols\" \"getting back to safety\"",
+      "domains": [
+        "army.mil",
+        "mil",
+        "armyupress.army.mil",
+        "cgsc.contentdm.oclc.org"
+      ]
+    },
+    {
+      "q": "\"patrols\" \"only to lose personnel\""
+    },
+    {
+      "q": "\"stealthily\" \"taking all precautions\" patrols"
+    },
+    {
+      "q": "\"Battle Experiences\" \"WITHDRAWAL FROM PATROLLING\""
+    },
+    {
+      "q": "\"Battle Experiences\" \"noisy withdrawal\" site:cgsc.contentdm.oclc.org"
+    },
+    {
+      "q": "\"Night patrols go out stealthily\" \"safety\""
+    }
+  ],
+  "verified_exact_phrase_or_both_sentences": false,
+  "verified_official_hosted_manual": false,
+  "relevant_printed_page_visually_inspected": false,
+  "near_passage_search_index_lead": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Battle_Experiences_%28European_Theater_of_Operations%29.pdf",
+    "status": "UNVERIFIED_INDEX_SNIPPET_ONLY",
+    "observed_difference": "Indexed snippet uses mission singular and differently worded second sentence; not an exact match",
+    "printed_page": null
+  },
+  "metadata_page_read": "https://commons.wikimedia.org/wiki/File:Battle_Experiences_(European_Theater_of_Operations).pdf",
+  "fetches": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Battle_Experiences_%28European_Theater_of_Operations%29.pdf",
+      "http_head_status": 200,
+      "expected_complete_bytes": 30875195,
+      "outcome": "Manual interruption after 67 seconds of very slow incomplete download; no complete PDF inspection",
+      "retained_incomplete_path": "reports/independent_target_replay_v1/sources/battle_experiences_eto_mirror.pdf.incomplete",
+      "partial_bytes": 303104,
+      "partial_sha256": "b9a90ba1c80e1d25850e47594ceb0ebf02c555a57aa6616af858bb191943fc3f",
+      "partial_is_verified_source": false
+    },
+    {
+      "url": "https://tomharperkelly.com/files/BattleExperiencesETO.pdf",
+      "outcome": "curl exit28; timeout after30003milliseconds;0bytes received"
+    }
+  ],
+  "no_historical_citation_asserted": true,
+  "not_a_replay_or_publication_prerequisite": true
+}

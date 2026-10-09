@@ -1,0 +1,34 @@
+{
+  "written_utc": "2026-10-05T20:48:03.135201+00:00",
+  "preparation_only": true,
+  "PDF_or_actual_release_package_read": false,
+  "actual_RELEASE_MANIFEST_created_or_assumed": false,
+  "allowed_core_claim": "HC849 supplied-physical-grille-assisted current64 typed-body mechanical reading under explicit source-registered conventions, independently native-correlated and independently forward-certified.",
+  "required_literal": "FRANCOUZSKAVLADASEROZHODLAODESLATDOKOREJEDENINTERVENCNIPRAPORXXX",
+  "required_spaces_only": "FRANCOUZSKA VLADA SE ROZHODLA ODESLAT DO KORE JEDEN INTERVENCNI PRAPOR XXX",
+  "required_holds": [
+    "Literal DO KORE is morphologically/toponymically uncertain; Korea interpretation editorial, no JE insertion.",
+    "XXX literal; filler/padding/terminator role unassigned.",
+    "Unknown old layers30/60, secondaryA/H,U/W,X/Y/modifiers, nonbody/clipped/caption/source-order holds retained.",
+    "Photographed face/start/CW/row hole scan/column serialization explicit registered hypothesis, not established historical operation.",
+    "Candidate auditor saw parent preferredP before own target-file/audit registration; own generic method was pretarget sealed, no fullyblind candidateaudit claim.",
+    "Catalogue NotSolved snapshot cached; acquisition API466/currentstatus and worldpriority unverified.",
+    "Curated course circa1952 source scope; no original war-dispatch authorship inference.",
+    "Portable bundle omits archivalphotos/nativecrops; URL/SHA/nativecoordinate references and historical pixel-audit receipts cannot substitute for fresh pixel inspection."
+  ],
+  "forbidden_claims": [
+    "unknownkey recovered or blindkeybreak",
+    "completehistoricwholemessage or reconstructedoldciphertext",
+    "global4^16 key uniqueness",
+    "world-first/breakthrough/currentgloballyunsolved",
+    "KOREJE as literal spaces-only gloss",
+    "terminalX role certified",
+    "complete365sourcepixelreplay from image-free package alone"
+  ],
+  "later_exact_content_audit_checks": [
+    "Actual PDF extracted text versus unchangedP/spacesonly, allholds/chronology/claimlimits.",
+    "Exact packageinventory and actualroot RELEASE_MANIFEST/replay, noinvention ofmissingimages.",
+    "Cleanpackage checker default andintegritytests withfilecensus unchanged.",
+    "Publication-source references and current-body scope consistent acrossPDF,README/config/proof artifacts."
+  ]
+}

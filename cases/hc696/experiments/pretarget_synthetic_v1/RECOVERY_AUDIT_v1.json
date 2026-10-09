@@ -1,0 +1,118 @@
+{
+  "total": 10,
+  "exact_selected": 10,
+  "exact_found": 10,
+  "results": [
+    {
+      "id": "SYNTHETIC_P01",
+      "true_period": 1,
+      "selected_period": 1,
+      "selected_correct_letters": 180,
+      "exact_selected": true,
+      "exact_key_found_any_rank": true,
+      "expected_key": "A",
+      "best_key": "A",
+      "selected_score": "-1706.31587013"
+    },
+    {
+      "id": "SYNTHETIC_P02",
+      "true_period": 2,
+      "selected_period": 2,
+      "selected_correct_letters": 180,
+      "exact_selected": true,
+      "exact_key_found_any_rank": true,
+      "expected_key": "AM",
+      "best_key": "AM",
+      "selected_score": "-1676.55340831"
+    },
+    {
+      "id": "SYNTHETIC_P03",
+      "true_period": 3,
+      "selected_period": 3,
+      "selected_correct_letters": 180,
+      "exact_selected": true,
+      "exact_key_found_any_rank": true,
+      "expected_key": "UCM",
+      "best_key": "UCM",
+      "selected_score": "-1764.6894188"
+    },
+    {
+      "id": "SYNTHETIC_P04",
+      "true_period": 4,
+      "selected_period": 4,
+      "selected_correct_letters": 180,
+      "exact_selected": true,
+      "exact_key_found_any_rank": true,
+      "expected_key": "UKOO",
+      "best_key": "UKOO",
+      "selected_score": "-1708.91063771"
+    },
+    {
+      "id": "SYNTHETIC_P05",
+      "true_period": 5,
+      "selected_period": 5,
+      "selected_correct_letters": 180,
+      "exact_selected": true,
+      "exact_key_found_any_rank": true,
+      "expected_key": "AWYCI",
+      "best_key": "AWYCI",
+      "selected_score": "-1739.38641423"
+    },
+    {
+      "id": "SYNTHETIC_P06",
+      "true_period": 6,
+      "selected_period": 6,
+      "selected_correct_letters": 180,
+      "exact_selected": true,
+      "exact_key_found_any_rank": true,
+      "expected_key": "UUUMQC",
+      "best_key": "UUUMQC",
+      "selected_score": "-1761.65507557"
+    },
+    {
+      "id": "SYNTHETIC_P07",
+      "true_period": 7,
+      "selected_period": 7,
+      "selected_correct_letters": 180,
+      "exact_selected": true,
+      "exact_key_found_any_rank": true,
+      "expected_key": "MSSMMSA",
+      "best_key": "MSSMMSA",
+      "selected_score": "-1760.93102776"
+    },
+    {
+      "id": "SYNTHETIC_P08",
+      "true_period": 8,
+      "selected_period": 8,
+      "selected_correct_letters": 180,
+      "exact_selected": true,
+      "exact_key_found_any_rank": true,
+      "expected_key": "WOGYYIMY",
+      "best_key": "WOGYYIMY",
+      "selected_score": "-1746.34162397"
+    },
+    {
+      "id": "SYNTHETIC_P09",
+      "true_period": 9,
+      "selected_period": 9,
+      "selected_correct_letters": 180,
+      "exact_selected": true,
+      "exact_key_found_any_rank": true,
+      "expected_key": "ACEWWESCI",
+      "best_key": "ACEWWESCI",
+      "selected_score": "-1685.83066276"
+    },
+    {
+      "id": "SYNTHETIC_P10",
+      "true_period": 10,
+      "selected_period": 10,
+      "selected_correct_letters": 180,
+      "exact_selected": true,
+      "exact_key_found_any_rank": true,
+      "expected_key": "UKAASQAIIQ",
+      "best_key": "UKAASQAIIQ",
+      "selected_score": "-1833.21386039"
+    }
+  ],
+  "scope": "10outoftraining180letterknownkeysyntheticcontrols; nottarget/historicalproof"
+}

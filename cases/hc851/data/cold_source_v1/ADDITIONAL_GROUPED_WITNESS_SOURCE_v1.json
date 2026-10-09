@@ -1,0 +1,87 @@
+{
+  "frozen_utc": "2026-10-05T17:41:16.239413+00:00",
+  "source": "sources/raw/HC851_public_grille_original.jpg",
+  "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+  "native_box_xyxy": [
+    165,
+    2070,
+    2730,
+    2940
+  ],
+  "native_crop": "sources/inspection/cold_source_v1/lower_grouped_witness_native.png",
+  "rows_grouped": [
+    [
+      "DNEIR",
+      "ENESA",
+      "NSICI",
+      "CHHGC",
+      "RWHIT",
+      "GEFEG"
+    ],
+    [
+      "EETRF",
+      "ENNID",
+      "GNUIL",
+      "NDEAL",
+      "EGOES",
+      "HONAN"
+    ],
+    [
+      "FDESE",
+      "RBDNO",
+      "TARUT",
+      "IXHAT",
+      "RUPID",
+      "SFECN"
+    ],
+    [
+      "TESHR",
+      "TNGAH",
+      "ESWER",
+      "NDWEE",
+      "TRLHN",
+      "KLHOE"
+    ],
+    [
+      "EUBGN",
+      "TEOFD",
+      "MEBST",
+      "MEOPB",
+      "NAIB"
+    ]
+  ],
+  "active_stream": "DNEIRENESANSICICHHGCRWHITGEFEGEETRFENNIDGNUILNDEALEGOESHONANFDESERBDNOTARUTIXHATRUPIDSFECNTESHRTNGAHESWERNDWEETRLHNKLHOEEUBGNTEOFDMEBSTMEOPBNAIB",
+  "count": 144,
+  "independent_basis": "Direct native grouped-copy image observation; no source changes from primary/arrays.",
+  "local_ink_notes": [
+    {
+      "row": 2,
+      "group": 3,
+      "offset": 3,
+      "visible": "U",
+      "note": "Red short mark/overlay near cursive U; modifier role held."
+    },
+    {
+      "row": 3,
+      "group": 4,
+      "offset": 4,
+      "visible": "A",
+      "note": "Strong foreground A overlaps a paler earlier rounded ink shape; earlier ASCII unknown."
+    },
+    {
+      "row": 4,
+      "group": 2,
+      "offset": 5,
+      "visible": "H",
+      "note": "Final grouped-copy glyph looks H, not changed to primary A."
+    },
+    {
+      "row": 4,
+      "group": 4,
+      "offset": 4,
+      "visible": "E",
+      "note": "Red overlay/correction on E; earlier layer not independently recovered."
+    }
+  ],
+  "role": "Additional secondary grouped copy; four arrays remain independently sealed"
+}

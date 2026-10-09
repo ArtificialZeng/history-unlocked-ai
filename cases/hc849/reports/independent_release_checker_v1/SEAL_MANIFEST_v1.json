@@ -1,0 +1,85 @@
+{
+  "sealed_utc": "2026-10-05T20:48:03.137399+00:00",
+  "status": "PASS READ-ONLY PORTABLE CHECKER/PREPARATION ONLY",
+  "artifact_count": 15,
+  "artifacts": [
+    {
+      "path": "reports/independent_release_checker_v1/CHECKER_EXPECTATIONS_v1.json",
+      "bytes": 5813,
+      "sha256": "a9cc65a3a12067c80d6b9c5dc4e2acab6583c9373c4612714948614efdd52039"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/CHECKER_REPORT_v1.md",
+      "bytes": 6302,
+      "sha256": "3384fedb613d0ddf30352a1bf622b6cea53b8d4b7af5fd9e4f8c719932a85fcd"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/DEFAULT_RUN_RECEIPT_v1.json",
+      "bytes": 925,
+      "sha256": "d25790020b438978e121cbf77f556fd2b4aed04618bbdbf68fae3cdf2053c43d"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/DEFAULT_STDERR_v1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/DEFAULT_STDOUT_v1.json",
+      "bytes": 3235,
+      "sha256": "e5410579bb415a2283b65a481ab69c9a05b28a100e220d2a428fcd66157c667a"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/HASH_RECEIPT_v1.json",
+      "bytes": 879,
+      "sha256": "080ea53b362fa4e7ca37c931dbf4705295a05750890b179d439189ac539bde58"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/INTEGRITY_RUN_RECEIPT_v1.json",
+      "bytes": 2190,
+      "sha256": "562737c47900c87a5bfc641273ad5f0bfd5970b72f2e65debcc7a28942558000"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/INTEGRITY_STDERR_v1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/INTEGRITY_STDOUT_v1.json",
+      "bytes": 4475,
+      "sha256": "dcba72413ba4d42257ac2d40ec770d2e810d13dfdbfdcc5c9139d82da0d3aa5c"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/NO_PIXEL_PORTABILITY_RECEIPT_v1.json",
+      "bytes": 6358,
+      "sha256": "9958ec50acfd80b2a650a73734fdcb67bd35f737785a950c6c7f53d87a4c7fa6"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/NO_PIXEL_PORTABILITY_STDOUT_v1.json",
+      "bytes": 103461,
+      "sha256": "336add733623716909c586c51205439068c288aa7ed90e1561e9dd56115ba2d9"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/PUBLICATION_SCOPE_AUDIT_PREPARATION_v1.json",
+      "bytes": 2405,
+      "sha256": "be3ccfc690bb4218c88b222dc31756506fbddf32d076cb17c943657918c234d9"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/SCHEMA_INSPECTION_FAILURE_v1.json",
+      "bytes": 366,
+      "sha256": "dd549c8fd00e61c48100ebbc33b68ab7baecd0a9797b1b6c46b94a67f1a487dd"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/SCOPE_REGISTRATION_v1.json",
+      "bytes": 1857,
+      "sha256": "97ce233f4e4813377069a43c36b2ff812168feee219a1fb547a7844a0f601c6d"
+    },
+    {
+      "path": "scripts/check_hc849_release_v1.py",
+      "bytes": 22942,
+      "sha256": "18214dce4b8a5a4bb744d0ed50a9510801b662c161ce01eef98b1945b2995541"
+    }
+  ],
+  "prior_source_method_candidate_files_modified": false,
+  "actual_release_manifest_or_PDF_audited": false,
+  "self_hash_reported_separately": true
+}

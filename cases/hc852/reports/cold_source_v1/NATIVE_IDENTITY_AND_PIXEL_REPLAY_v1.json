@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "originals_checked": 3,
+  "native_unit_regions_checked": 261,
+  "atlas_tiles_exact_pixel_matches": 261,
+  "atlas_strips_checked": 33,
+  "standalone_native_crops_checked": 19,
+  "typed_current": 64,
+  "notebook_array": 64,
+  "grouped_current_preferred": 64,
+  "cancelled_copy_glyphs": 5,
+  "physical_cells": 64,
+  "cut_cells": 16,
+  "solid_cells": 48,
+  "route_or_coverage_test": false,
+  "verified_utc": "2026-10-05T21:40:12.309691+00:00"
+}

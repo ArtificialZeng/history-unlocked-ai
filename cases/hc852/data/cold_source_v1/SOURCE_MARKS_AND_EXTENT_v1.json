@@ -1,0 +1,505 @@
+{
+  "manual_visual_observation": true,
+  "marks": [
+    {
+      "id": "typed_heading",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        280,
+        80,
+        915,
+        245
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Violet ordinary heading and dashed underline. Preferred literal Německý čís. 5; catalogue5b is not silently appended.",
+      "preferred_source_role": "ordinary heading",
+      "literal_alternatives": [
+        "Německý čís. 5"
+      ],
+      "hold": "Diacritic details preserved by native crop; no cipher-body role assigned."
+    },
+    {
+      "id": "typed_terminal_trace",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        2805,
+        480,
+        2920,
+        610
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Small dot-like trace to the right of final row2M.",
+      "preferred_source_role": "punctuation/speck held",
+      "literal_alternatives": null,
+      "hold": "No extra alphabetic occurrence; punctuation versus paper trace unresolved."
+    },
+    {
+      "id": "typed_lower_blue_mark",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        620,
+        760,
+        810,
+        905
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Small blue comma-like mark below/right of TSCT.",
+      "preferred_source_role": "nonalphabetic mark",
+      "literal_alternatives": null,
+      "hold": "Punctuation versus separate annotation held; not an added letter."
+    },
+    {
+      "id": "notebook_caption",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1450,
+        650,
+        2470,
+        1015
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Preferred handwritten literals německý příklad and psáno svisle.",
+      "preferred_source_role": "ordinary source note",
+      "literal_alternatives": [
+        "německý příklad / psáno svisle"
+      ],
+      "hold": "Conservative gloss: German example / written vertically. Does not specify beginning, direction, or hole-scan order."
+    },
+    {
+      "id": "notebook_numeral_cluster",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2480,
+        660,
+        3024,
+        1035
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Blue5/delta-like mark; crossed blue57-like pair; large purple8 with red enclosure; green4-like/letter/flourish.",
+      "preferred_source_role": "source annotations",
+      "literal_alternatives": [
+        "5-like or delta-like",
+        "crossed57-like",
+        "8",
+        "green4-like or unknown flourish"
+      ],
+      "hold": "Exact first/green value and chronological order held; not used to infer lattice or body count."
+    },
+    {
+      "id": "notebook_cancelled_block",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1430,
+        1230,
+        1840,
+        1375
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Five dark letters MSRPR visible under red strike and black curved overline.",
+      "preferred_source_role": "cancelled visible copy layer",
+      "literal_alternatives": [
+        "MSRPR, with obscured portions of R/P/R held"
+      ],
+      "hold": "Five raw locations retained; no wholly hidden preceding values reconstructed; black/red chronology held."
+    },
+    {
+      "id": "notebook_red_replacements",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1450,
+        1160,
+        1840,
+        1255
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Three uncrossed red R/P/R superscriptions above first/fourth/fifth old positions.",
+      "preferred_source_role": "preferred current replacement letters",
+      "literal_alternatives": [
+        "RPR"
+      ],
+      "hold": "Current role from crossing/superscription geometry. It is an explicit source-layer interpretation, not forced from typed count/word agreement."
+    },
+    {
+      "id": "notebook_arrow",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1790,
+        1225,
+        1940,
+        1330
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Dark rightward curved arrow from cancelled/replaced block to K/T.",
+      "preferred_source_role": "copy correction arrow",
+      "literal_alternatives": null,
+      "hold": "Stroke chronology and operational meaning beyond local source connection held."
+    },
+    {
+      "id": "notebook_green_retouch",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1590,
+        1360,
+        1690,
+        1500
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Green E-like overmark at copyrow3position3.",
+      "preferred_source_role": "current retouch",
+      "literal_alternatives": [
+        "E"
+      ],
+      "hold": "Earlier whole value unknown; no earlier letter guessed."
+    },
+    {
+      "id": "divider_01",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2020,
+        1210,
+        2055,
+        1390
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Red vertical stroke at copyrow2 aftercurrent5.",
+      "preferred_source_role": "copy divider",
+      "literal_alternatives": null,
+      "hold": "Divider function preferred; no hole/route operation inferred."
+    },
+    {
+      "id": "divider_02",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2450,
+        1205,
+        2485,
+        1390
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Red vertical stroke at copyrow2 aftercurrent10.",
+      "preferred_source_role": "copy divider",
+      "literal_alternatives": null,
+      "hold": "Divider function preferred; no hole/route operation inferred."
+    },
+    {
+      "id": "divider_03",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1580,
+        1360,
+        1610,
+        1500
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Red vertical stroke at copyrow3 aftercurrent2.",
+      "preferred_source_role": "copy divider",
+      "literal_alternatives": null,
+      "hold": "Divider function preferred; no hole/route operation inferred."
+    },
+    {
+      "id": "divider_04",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2020,
+        1360,
+        2055,
+        1510
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Red vertical stroke at copyrow3 aftercurrent7.",
+      "preferred_source_role": "copy divider",
+      "literal_alternatives": null,
+      "hold": "Divider function preferred; no hole/route operation inferred."
+    },
+    {
+      "id": "divider_05",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2450,
+        1370,
+        2490,
+        1515
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Red vertical stroke at copyrow3 aftercurrent12.",
+      "preferred_source_role": "copy divider",
+      "literal_alternatives": null,
+      "hold": "Divider function preferred; no hole/route operation inferred."
+    },
+    {
+      "id": "divider_06",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1575,
+        1500,
+        1610,
+        1665
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Red vertical stroke at copyrow4 aftercurrent2.",
+      "preferred_source_role": "copy divider",
+      "literal_alternatives": null,
+      "hold": "Divider function preferred; no hole/route operation inferred."
+    },
+    {
+      "id": "divider_07",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2020,
+        1500,
+        2055,
+        1665
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Red vertical stroke at copyrow4 aftercurrent7.",
+      "preferred_source_role": "copy divider",
+      "literal_alternatives": null,
+      "hold": "Divider function preferred; no hole/route operation inferred."
+    },
+    {
+      "id": "divider_08",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2450,
+        1500,
+        2490,
+        1670
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Red vertical stroke at copyrow4 aftercurrent12.",
+      "preferred_source_role": "copy divider",
+      "literal_alternatives": null,
+      "hold": "Divider function preferred; no hole/route operation inferred."
+    },
+    {
+      "id": "divider_09",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1590,
+        1655,
+        1630,
+        1810
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Red vertical stroke at copyrow5 aftercurrent2.",
+      "preferred_source_role": "copy divider",
+      "literal_alternatives": null,
+      "hold": "Divider function preferred; no hole/route operation inferred."
+    },
+    {
+      "id": "copy_comma",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1795,
+        1420,
+        1855,
+        1500
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Small red comma-like stroke aftercopyrow3position5.",
+      "preferred_source_role": "nonalphabetic annotation",
+      "literal_alternatives": null,
+      "hold": "Retained separately from currentcopy64."
+    },
+    {
+      "id": "copy_modifiers",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1430,
+        1060,
+        2785,
+        1800
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Detached dots/overbars and green retouch are enumerated beside native current positions.",
+      "preferred_source_role": "visible pen modifiers",
+      "literal_alternatives": null,
+      "hold": "ASCII case bases are explicit; detached marks are not silently deleted from physical record. Copyrow4initialI has no certified detached dot."
+    },
+    {
+      "id": "notebook_red_lower_monogram",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2400,
+        1680,
+        2700,
+        1910
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Red looped monogram-like stroke with separate short upright mark.",
+      "preferred_source_role": "ordinary marginal annotation",
+      "literal_alternatives": [
+        "unknown monogram"
+      ],
+      "hold": "No name or word reading assigned."
+    },
+    {
+      "id": "notebook_red64",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2830,
+        1830,
+        3024,
+        2020
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Red6/4-like pair at lower right.",
+      "preferred_source_role": "ordinary numerical annotation",
+      "literal_alternatives": [
+        "64-like"
+      ],
+      "hold": "Not used as a completeness or plaintext constraint."
+    },
+    {
+      "id": "key_top_label",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        680,
+        110,
+        880,
+        410
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Dark I-like upright/dot with oblique framing strokes.",
+      "preferred_source_role": "physical face label",
+      "literal_alternatives": [
+        "I-like"
+      ],
+      "hold": "Literal shape only; orientation operation/start state unassigned."
+    },
+    {
+      "id": "key_right_labels",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1240,
+        640,
+        1460,
+        825
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Uncrossed two-bar/dot II-like mark and adjacent crossed/overdrawn IV-like cluster.",
+      "preferred_source_role": "physical face labels",
+      "literal_alternatives": [
+        "II-like",
+        "crossedIV-like or unknown cluster"
+      ],
+      "hold": "Relative age/current designation held. No canonical rotation number supplied from a model."
+    },
+    {
+      "id": "key_left_overdraw",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        285,
+        750,
+        560,
+        940
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Several dark transverse/sloping parallel strokes, framing strokes and dot; visibly complex overdraw.",
+      "preferred_source_role": "physical face mark",
+      "literal_alternatives": [
+        "II-like",
+        "IV-like",
+        "unknown overdrawn mark"
+      ],
+      "hold": "Whole literal and layer order held; no leftIV completion from anticipated I/II/III/IV sequence."
+    },
+    {
+      "id": "key_lower_label",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        560,
+        1000,
+        855,
+        1230
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Dark three parallel upright strokes with oblique framing strokes.",
+      "preferred_source_role": "physical face label",
+      "literal_alternatives": [
+        "III-like"
+      ],
+      "hold": "No scan/turn direction derived."
+    },
+    {
+      "id": "key_central_caption",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        845,
+        660,
+        1110,
+        1010
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Two dark8-like looped shapes separated by oblique slash-like stroke.",
+      "preferred_source_role": "physical caption",
+      "literal_alternatives": [
+        "8/8-like",
+        "unresolved whole caption"
+      ],
+      "hold": "Exact penform/meaning held. Even8×8 geometry is measured separately; no centre-cell policy invented."
+    },
+    {
+      "id": "key_graphite",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        289,
+        107,
+        1435,
+        1245
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Faint graphite numeral-like, curved and retraced strokes on solid cells; per-cell native views retain all pixels.",
+      "preferred_source_role": "physical numbering/annotation traces",
+      "literal_alternatives": null,
+      "hold": "Only directly visible sample values are listed in cell records; all other whole readings and possible prior layers held. No numeric sequence completion."
+    },
+    {
+      "id": "noncipher_extent",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        0,
+        0,
+        3024,
+        4032
+      ],
+      "box_policy": "Approximate annotation context; adjacent source strokes may enter the rectangle.",
+      "observation": "Notebook graph ruling, top metalclip/folds, physical stencil at lower left, paper fibres/stains and lower blank extent.",
+      "preferred_source_role": "ordinary substrate/photograph",
+      "literal_alternatives": null,
+      "hold": "Repeated key photograph is not an independent key. No complete plaintext/answer spotted in any of three faces. Off-frame material not inferred."
+    }
+  ],
+  "nonbody_alphabetic_caption_not_in_current_body": true,
+  "unknown_underlayers_not_reconstructed": true,
+  "no_coverage_route_language_constraints_used": true
+}

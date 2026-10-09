@@ -1,0 +1,632 @@
+{
+  "cases": [
+    {
+      "label": "bad side -2",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "side must be even and at least two"
+        },
+        {
+          "api": "decrypt",
+          "error": "side must be even and at least two"
+        }
+      ]
+    },
+    {
+      "label": "bad side 0",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "side must be even and at least two"
+        },
+        {
+          "api": "decrypt",
+          "error": "side must be even and at least two"
+        }
+      ]
+    },
+    {
+      "label": "bad side 1",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "side must be even and at least two"
+        },
+        {
+          "api": "decrypt",
+          "error": "side must be even and at least two"
+        }
+      ]
+    },
+    {
+      "label": "bad side 3",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "side must be even and at least two"
+        },
+        {
+          "api": "decrypt",
+          "error": "side must be even and at least two"
+        }
+      ]
+    },
+    {
+      "label": "bad side 5",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "side must be even and at least two"
+        },
+        {
+          "api": "decrypt",
+          "error": "side must be even and at least two"
+        }
+      ]
+    },
+    {
+      "label": "bad side True",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "side must be an integer, excluding bool"
+        },
+        {
+          "api": "decrypt",
+          "error": "side must be an integer, excluding bool"
+        }
+      ]
+    },
+    {
+      "label": "bad side 4.0",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "side must be an integer, excluding bool"
+        },
+        {
+          "api": "decrypt",
+          "error": "side must be an integer, excluding bool"
+        }
+      ]
+    },
+    {
+      "label": "bad side '4'",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "side must be an integer, excluding bool"
+        },
+        {
+          "api": "decrypt",
+          "error": "side must be an integer, excluding bool"
+        }
+      ]
+    },
+    {
+      "label": "bad side None",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "side must be an integer, excluding bool"
+        },
+        {
+          "api": "decrypt",
+          "error": "side must be an integer, excluding bool"
+        }
+      ]
+    },
+    {
+      "label": "holes none",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "holes must be an iterable of coordinate pairs"
+        },
+        {
+          "api": "decrypt",
+          "error": "holes must be an iterable of coordinate pairs"
+        }
+      ]
+    },
+    {
+      "label": "holes scalar",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "holes must be an iterable of coordinate pairs"
+        },
+        {
+          "api": "decrypt",
+          "error": "holes must be an iterable of coordinate pairs"
+        }
+      ]
+    },
+    {
+      "label": "pair scalar",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "each hole must be a coordinate pair"
+        },
+        {
+          "api": "decrypt",
+          "error": "each hole must be a coordinate pair"
+        }
+      ]
+    },
+    {
+      "label": "short pair",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "each hole must be a coordinate pair"
+        },
+        {
+          "api": "decrypt",
+          "error": "each hole must be a coordinate pair"
+        }
+      ]
+    },
+    {
+      "label": "long pair",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "each hole must be a coordinate pair"
+        },
+        {
+          "api": "decrypt",
+          "error": "each hole must be a coordinate pair"
+        }
+      ]
+    },
+    {
+      "label": "float coordinate",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "hole row must be an integer, excluding bool"
+        },
+        {
+          "api": "decrypt",
+          "error": "hole row must be an integer, excluding bool"
+        }
+      ]
+    },
+    {
+      "label": "bool coordinate",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "hole row must be an integer, excluding bool"
+        },
+        {
+          "api": "decrypt",
+          "error": "hole row must be an integer, excluding bool"
+        }
+      ]
+    },
+    {
+      "label": "negative coordinate",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "hole outside square"
+        },
+        {
+          "api": "decrypt",
+          "error": "hole outside square"
+        }
+      ]
+    },
+    {
+      "label": "out of bounds",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "hole outside square"
+        },
+        {
+          "api": "decrypt",
+          "error": "hole outside square"
+        }
+      ]
+    },
+    {
+      "label": "duplicate",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "duplicate hole"
+        },
+        {
+          "api": "decrypt",
+          "error": "duplicate hole"
+        }
+      ]
+    },
+    {
+      "label": "too few",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "hole count must be exactly one quarter of cells"
+        },
+        {
+          "api": "decrypt",
+          "error": "hole count must be exactly one quarter of cells"
+        }
+      ]
+    },
+    {
+      "label": "too many",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "hole count must be exactly one quarter of cells"
+        },
+        {
+          "api": "decrypt",
+          "error": "hole count must be exactly one quarter of cells"
+        }
+      ]
+    },
+    {
+      "label": "overlap and missing orbit",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "four rotations must cover every cell exactly once"
+        },
+        {
+          "api": "decrypt",
+          "error": "four rotations must cover every cell exactly once"
+        }
+      ]
+    },
+    {
+      "label": "bad start -1",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "start_quarters must be 0, 1, 2 or 3"
+        },
+        {
+          "api": "decrypt",
+          "error": "start_quarters must be 0, 1, 2 or 3"
+        }
+      ]
+    },
+    {
+      "label": "bad start 4",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "start_quarters must be 0, 1, 2 or 3"
+        },
+        {
+          "api": "decrypt",
+          "error": "start_quarters must be 0, 1, 2 or 3"
+        }
+      ]
+    },
+    {
+      "label": "bad start True",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "start_quarters must be an integer, excluding bool"
+        },
+        {
+          "api": "decrypt",
+          "error": "start_quarters must be an integer, excluding bool"
+        }
+      ]
+    },
+    {
+      "label": "bad start 0.5",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "start_quarters must be an integer, excluding bool"
+        },
+        {
+          "api": "decrypt",
+          "error": "start_quarters must be an integer, excluding bool"
+        }
+      ]
+    },
+    {
+      "label": "bad start '0'",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "start_quarters must be an integer, excluding bool"
+        },
+        {
+          "api": "decrypt",
+          "error": "start_quarters must be an integer, excluding bool"
+        }
+      ]
+    },
+    {
+      "label": "bad start None",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "start_quarters must be an integer, excluding bool"
+        },
+        {
+          "api": "decrypt",
+          "error": "start_quarters must be an integer, excluding bool"
+        }
+      ]
+    },
+    {
+      "label": "bad direction 'CW'",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "unknown rotation direction"
+        },
+        {
+          "api": "decrypt",
+          "error": "unknown rotation direction"
+        }
+      ]
+    },
+    {
+      "label": "bad direction ''",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "unknown rotation direction"
+        },
+        {
+          "api": "decrypt",
+          "error": "unknown rotation direction"
+        }
+      ]
+    },
+    {
+      "label": "bad direction None",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "unknown rotation direction"
+        },
+        {
+          "api": "decrypt",
+          "error": "unknown rotation direction"
+        }
+      ]
+    },
+    {
+      "label": "bad direction True",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "unknown rotation direction"
+        },
+        {
+          "api": "decrypt",
+          "error": "unknown rotation direction"
+        }
+      ]
+    },
+    {
+      "label": "bad hole_scan 'row'",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "scan and serialization must be explicit supported orders"
+        },
+        {
+          "api": "decrypt",
+          "error": "scan and serialization must be explicit supported orders"
+        }
+      ]
+    },
+    {
+      "label": "bad hole_scan ''",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "scan and serialization must be explicit supported orders"
+        },
+        {
+          "api": "decrypt",
+          "error": "scan and serialization must be explicit supported orders"
+        }
+      ]
+    },
+    {
+      "label": "bad hole_scan None",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "scan and serialization must be explicit supported orders"
+        },
+        {
+          "api": "decrypt",
+          "error": "scan and serialization must be explicit supported orders"
+        }
+      ]
+    },
+    {
+      "label": "bad hole_scan True",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "scan and serialization must be explicit supported orders"
+        },
+        {
+          "api": "decrypt",
+          "error": "scan and serialization must be explicit supported orders"
+        }
+      ]
+    },
+    {
+      "label": "bad cipher_serialization 'row'",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "scan and serialization must be explicit supported orders"
+        },
+        {
+          "api": "decrypt",
+          "error": "scan and serialization must be explicit supported orders"
+        }
+      ]
+    },
+    {
+      "label": "bad cipher_serialization ''",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "scan and serialization must be explicit supported orders"
+        },
+        {
+          "api": "decrypt",
+          "error": "scan and serialization must be explicit supported orders"
+        }
+      ]
+    },
+    {
+      "label": "bad cipher_serialization None",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "scan and serialization must be explicit supported orders"
+        },
+        {
+          "api": "decrypt",
+          "error": "scan and serialization must be explicit supported orders"
+        }
+      ]
+    },
+    {
+      "label": "bad cipher_serialization True",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "scan and serialization must be explicit supported orders"
+        },
+        {
+          "api": "decrypt",
+          "error": "scan and serialization must be explicit supported orders"
+        }
+      ]
+    },
+    {
+      "label": "bad literal type/extent None",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "literal input must be a string"
+        },
+        {
+          "api": "decrypt",
+          "error": "literal input must be a string"
+        }
+      ]
+    },
+    {
+      "label": "bad literal type/extent []",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "literal input must be a string"
+        },
+        {
+          "api": "decrypt",
+          "error": "literal input must be a string"
+        }
+      ]
+    },
+    {
+      "label": "bad literal type/extent b'AAAAAAAAAAAAAAAA'",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "literal input must be a string"
+        },
+        {
+          "api": "decrypt",
+          "error": "literal input must be a string"
+        }
+      ]
+    },
+    {
+      "label": "bad literal type/extent ''",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "input must contain a positive exact number of full blocks"
+        },
+        {
+          "api": "decrypt",
+          "error": "input must contain a positive exact number of full blocks"
+        }
+      ]
+    },
+    {
+      "label": "bad literal type/extent 'A'",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "input must contain a positive exact number of full blocks"
+        },
+        {
+          "api": "decrypt",
+          "error": "input must contain a positive exact number of full blocks"
+        }
+      ]
+    },
+    {
+      "label": "bad literal type/extent 'AAAAAAAAAAAAAAA'",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "input must contain a positive exact number of full blocks"
+        },
+        {
+          "api": "decrypt",
+          "error": "input must contain a positive exact number of full blocks"
+        }
+      ]
+    },
+    {
+      "label": "bad literal type/extent 'AAAAAAAAAAAAAAAAA'",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "input must contain a positive exact number of full blocks"
+        },
+        {
+          "api": "decrypt",
+          "error": "input must contain a positive exact number of full blocks"
+        }
+      ]
+    },
+    {
+      "label": "bad literal type/extent 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'",
+      "outcomes": [
+        {
+          "api": "encrypt",
+          "error": "input must contain a positive exact number of full blocks"
+        },
+        {
+          "api": "decrypt",
+          "error": "input must contain a positive exact number of full blocks"
+        }
+      ]
+    }
+  ],
+  "content_tamper_negative_control": {
+    "mechanical_permutation_detects_content_tamper": false,
+    "same_length_change_forward_replays": true
+  }
+}

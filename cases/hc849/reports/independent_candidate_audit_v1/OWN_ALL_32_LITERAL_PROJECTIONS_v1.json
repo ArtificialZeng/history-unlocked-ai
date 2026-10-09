@@ -1,0 +1,2794 @@
+{
+  "started_utc": "2026-10-05T20:16:03.394669+00:00",
+  "completed_utc": "2026-10-05T20:16:03.413369+00:00",
+  "codec_sha256": "5c2d8c3bbf1f54ecf8c43583e0f7e8f875a167050ab12d7e4a393f230f095e16",
+  "records": [
+    {
+      "id": "a0_d-1_hrow-major_crow-major",
+      "settings": {
+        "start": 0,
+        "direction": -1,
+        "hole_scan": "row-major",
+        "cipher_order": "row-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 0,
+        "direction": "counterclockwise",
+        "hole_scan": "row-major",
+        "cipher_serialization": "row-major"
+      },
+      "plaintext_literal": "OTTRNODKJVIXEEHNRKEAXNXPONDREICVAPOZSNLSLUACAARRODAFDDEZLROEOSEA",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a0_d-1_hrow-major_ccolumn-major",
+      "settings": {
+        "start": 0,
+        "direction": -1,
+        "hole_scan": "row-major",
+        "cipher_order": "column-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 0,
+        "direction": "counterclockwise",
+        "hole_scan": "row-major",
+        "cipher_serialization": "column-major"
+      },
+      "plaintext_literal": "FRANCOUZSKAVLADARVENCNIPRAPORXXXTDOKOREJEDENINTESEROZHODLAODESLA",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a0_d-1_hcolumn-major_crow-major",
+      "settings": {
+        "start": 0,
+        "direction": -1,
+        "hole_scan": "column-major",
+        "cipher_order": "row-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 0,
+        "direction": "counterclockwise",
+        "hole_scan": "column-major",
+        "cipher_serialization": "row-major"
+      },
+      "plaintext_literal": "TVOOKHRJEDENINTXRDENCNIPRKAVOXXESRANCOUZSAPLRALAFERZOOEDLAODESDA",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a0_d-1_hcolumn-major_ccolumn-major",
+      "settings": {
+        "start": 0,
+        "direction": -1,
+        "hole_scan": "column-major",
+        "cipher_order": "column-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 0,
+        "direction": "counterclockwise",
+        "hole_scan": "column-major",
+        "cipher_serialization": "column-major"
+      },
+      "plaintext_literal": "AKOFZDNSLUACAARVRPEAXNXPOVNXRICROTTRNODKJIDEEEENODADSELZLROEOSHA",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a0_d1_hrow-major_crow-major",
+      "settings": {
+        "start": 0,
+        "direction": 1,
+        "hole_scan": "row-major",
+        "cipher_order": "row-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 0,
+        "direction": "clockwise",
+        "hole_scan": "row-major",
+        "cipher_serialization": "row-major"
+      },
+      "plaintext_literal": "OTTRNODKJVIXEEHNODAFDDEZLROEOSEAAPOZSNLSLUACAARRRKEAXNXPONDREICV",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a0_d1_hrow-major_ccolumn-major",
+      "settings": {
+        "start": 0,
+        "direction": 1,
+        "hole_scan": "row-major",
+        "cipher_order": "column-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 0,
+        "direction": "clockwise",
+        "hole_scan": "row-major",
+        "cipher_serialization": "column-major"
+      },
+      "plaintext_literal": "FRANCOUZSKAVLADASEROZHODLAODESLATDOKOREJEDENINTERVENCNIPRAPORXXX",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": true,
+      "source_changes": 0
+    },
+    {
+      "id": "a0_d1_hcolumn-major_crow-major",
+      "settings": {
+        "start": 0,
+        "direction": 1,
+        "hole_scan": "column-major",
+        "cipher_order": "row-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 0,
+        "direction": "clockwise",
+        "hole_scan": "column-major",
+        "cipher_serialization": "row-major"
+      },
+      "plaintext_literal": "TVOOKHRJEDENINTXFERZOOEDLAODESDASRANCOUZSAPLRALARDENCNIPRKAVOXXE",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a0_d1_hcolumn-major_ccolumn-major",
+      "settings": {
+        "start": 0,
+        "direction": 1,
+        "hole_scan": "column-major",
+        "cipher_order": "column-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 0,
+        "direction": "clockwise",
+        "hole_scan": "column-major",
+        "cipher_serialization": "column-major"
+      },
+      "plaintext_literal": "AKOFZDNSLUACAARVODADSELZLROEOSHAOTTRNODKJIDEEEENRPEAXNXPOVNXRICR",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a1_d-1_hrow-major_crow-major",
+      "settings": {
+        "start": 1,
+        "direction": -1,
+        "hole_scan": "row-major",
+        "cipher_order": "row-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 1,
+        "direction": "counterclockwise",
+        "hole_scan": "row-major",
+        "cipher_serialization": "row-major"
+      },
+      "plaintext_literal": "ODAFDDEZLROEOSEAOTTRNODKJVIXEEHNRKEAXNXPONDREICVAPOZSNLSLUACAARR",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a1_d-1_hrow-major_ccolumn-major",
+      "settings": {
+        "start": 1,
+        "direction": -1,
+        "hole_scan": "row-major",
+        "cipher_order": "column-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 1,
+        "direction": "counterclockwise",
+        "hole_scan": "row-major",
+        "cipher_serialization": "column-major"
+      },
+      "plaintext_literal": "SEROZHODLAODESLAFRANCOUZSKAVLADARVENCNIPRAPORXXXTDOKOREJEDENINTE",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a1_d-1_hcolumn-major_crow-major",
+      "settings": {
+        "start": 1,
+        "direction": -1,
+        "hole_scan": "column-major",
+        "cipher_order": "row-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 1,
+        "direction": "counterclockwise",
+        "hole_scan": "column-major",
+        "cipher_serialization": "row-major"
+      },
+      "plaintext_literal": "FERZOOEDLAODESDATVOOKHRJEDENINTXRDENCNIPRKAVOXXESRANCOUZSAPLRALA",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a1_d-1_hcolumn-major_ccolumn-major",
+      "settings": {
+        "start": 1,
+        "direction": -1,
+        "hole_scan": "column-major",
+        "cipher_order": "column-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 1,
+        "direction": "counterclockwise",
+        "hole_scan": "column-major",
+        "cipher_serialization": "column-major"
+      },
+      "plaintext_literal": "ODADSELZLROEOSHAAKOFZDNSLUACAARVRPEAXNXPOVNXRICROTTRNODKJIDEEEEN",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a1_d1_hrow-major_crow-major",
+      "settings": {
+        "start": 1,
+        "direction": 1,
+        "hole_scan": "row-major",
+        "cipher_order": "row-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 1,
+        "direction": "clockwise",
+        "hole_scan": "row-major",
+        "cipher_serialization": "row-major"
+      },
+      "plaintext_literal": "ODAFDDEZLROEOSEAAPOZSNLSLUACAARRRKEAXNXPONDREICVOTTRNODKJVIXEEHN",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a1_d1_hrow-major_ccolumn-major",
+      "settings": {
+        "start": 1,
+        "direction": 1,
+        "hole_scan": "row-major",
+        "cipher_order": "column-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 1,
+        "direction": "clockwise",
+        "hole_scan": "row-major",
+        "cipher_serialization": "column-major"
+      },
+      "plaintext_literal": "SEROZHODLAODESLATDOKOREJEDENINTERVENCNIPRAPORXXXFRANCOUZSKAVLADA",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a1_d1_hcolumn-major_crow-major",
+      "settings": {
+        "start": 1,
+        "direction": 1,
+        "hole_scan": "column-major",
+        "cipher_order": "row-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 1,
+        "direction": "clockwise",
+        "hole_scan": "column-major",
+        "cipher_serialization": "row-major"
+      },
+      "plaintext_literal": "FERZOOEDLAODESDASRANCOUZSAPLRALARDENCNIPRKAVOXXETVOOKHRJEDENINTX",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a1_d1_hcolumn-major_ccolumn-major",
+      "settings": {
+        "start": 1,
+        "direction": 1,
+        "hole_scan": "column-major",
+        "cipher_order": "column-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 1,
+        "direction": "clockwise",
+        "hole_scan": "column-major",
+        "cipher_serialization": "column-major"
+      },
+      "plaintext_literal": "ODADSELZLROEOSHAOTTRNODKJIDEEEENRPEAXNXPOVNXRICRAKOFZDNSLUACAARV",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a2_d-1_hrow-major_crow-major",
+      "settings": {
+        "start": 2,
+        "direction": -1,
+        "hole_scan": "row-major",
+        "cipher_order": "row-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 2,
+        "direction": "counterclockwise",
+        "hole_scan": "row-major",
+        "cipher_serialization": "row-major"
+      },
+      "plaintext_literal": "APOZSNLSLUACAARRODAFDDEZLROEOSEAOTTRNODKJVIXEEHNRKEAXNXPONDREICV",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a2_d-1_hrow-major_ccolumn-major",
+      "settings": {
+        "start": 2,
+        "direction": -1,
+        "hole_scan": "row-major",
+        "cipher_order": "column-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 2,
+        "direction": "counterclockwise",
+        "hole_scan": "row-major",
+        "cipher_serialization": "column-major"
+      },
+      "plaintext_literal": "TDOKOREJEDENINTESEROZHODLAODESLAFRANCOUZSKAVLADARVENCNIPRAPORXXX",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a2_d-1_hcolumn-major_crow-major",
+      "settings": {
+        "start": 2,
+        "direction": -1,
+        "hole_scan": "column-major",
+        "cipher_order": "row-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 2,
+        "direction": "counterclockwise",
+        "hole_scan": "column-major",
+        "cipher_serialization": "row-major"
+      },
+      "plaintext_literal": "SRANCOUZSAPLRALAFERZOOEDLAODESDATVOOKHRJEDENINTXRDENCNIPRKAVOXXE",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a2_d-1_hcolumn-major_ccolumn-major",
+      "settings": {
+        "start": 2,
+        "direction": -1,
+        "hole_scan": "column-major",
+        "cipher_order": "column-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 2,
+        "direction": "counterclockwise",
+        "hole_scan": "column-major",
+        "cipher_serialization": "column-major"
+      },
+      "plaintext_literal": "OTTRNODKJIDEEEENODADSELZLROEOSHAAKOFZDNSLUACAARVRPEAXNXPOVNXRICR",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a2_d1_hrow-major_crow-major",
+      "settings": {
+        "start": 2,
+        "direction": 1,
+        "hole_scan": "row-major",
+        "cipher_order": "row-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 2,
+        "direction": "clockwise",
+        "hole_scan": "row-major",
+        "cipher_serialization": "row-major"
+      },
+      "plaintext_literal": "APOZSNLSLUACAARRRKEAXNXPONDREICVOTTRNODKJVIXEEHNODAFDDEZLROEOSEA",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a2_d1_hrow-major_ccolumn-major",
+      "settings": {
+        "start": 2,
+        "direction": 1,
+        "hole_scan": "row-major",
+        "cipher_order": "column-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 2,
+        "direction": "clockwise",
+        "hole_scan": "row-major",
+        "cipher_serialization": "column-major"
+      },
+      "plaintext_literal": "TDOKOREJEDENINTERVENCNIPRAPORXXXFRANCOUZSKAVLADASEROZHODLAODESLA",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a2_d1_hcolumn-major_crow-major",
+      "settings": {
+        "start": 2,
+        "direction": 1,
+        "hole_scan": "column-major",
+        "cipher_order": "row-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 2,
+        "direction": "clockwise",
+        "hole_scan": "column-major",
+        "cipher_serialization": "row-major"
+      },
+      "plaintext_literal": "SRANCOUZSAPLRALARDENCNIPRKAVOXXETVOOKHRJEDENINTXFERZOOEDLAODESDA",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a2_d1_hcolumn-major_ccolumn-major",
+      "settings": {
+        "start": 2,
+        "direction": 1,
+        "hole_scan": "column-major",
+        "cipher_order": "column-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 2,
+        "direction": "clockwise",
+        "hole_scan": "column-major",
+        "cipher_serialization": "column-major"
+      },
+      "plaintext_literal": "OTTRNODKJIDEEEENRPEAXNXPOVNXRICRAKOFZDNSLUACAARVODADSELZLROEOSHA",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a3_d-1_hrow-major_crow-major",
+      "settings": {
+        "start": 3,
+        "direction": -1,
+        "hole_scan": "row-major",
+        "cipher_order": "row-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 3,
+        "direction": "counterclockwise",
+        "hole_scan": "row-major",
+        "cipher_serialization": "row-major"
+      },
+      "plaintext_literal": "RKEAXNXPONDREICVAPOZSNLSLUACAARRODAFDDEZLROEOSEAOTTRNODKJVIXEEHN",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a3_d-1_hrow-major_ccolumn-major",
+      "settings": {
+        "start": 3,
+        "direction": -1,
+        "hole_scan": "row-major",
+        "cipher_order": "column-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 3,
+        "direction": "counterclockwise",
+        "hole_scan": "row-major",
+        "cipher_serialization": "column-major"
+      },
+      "plaintext_literal": "RVENCNIPRAPORXXXTDOKOREJEDENINTESEROZHODLAODESLAFRANCOUZSKAVLADA",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a3_d-1_hcolumn-major_crow-major",
+      "settings": {
+        "start": 3,
+        "direction": -1,
+        "hole_scan": "column-major",
+        "cipher_order": "row-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 3,
+        "direction": "counterclockwise",
+        "hole_scan": "column-major",
+        "cipher_serialization": "row-major"
+      },
+      "plaintext_literal": "RDENCNIPRKAVOXXESRANCOUZSAPLRALAFERZOOEDLAODESDATVOOKHRJEDENINTX",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a3_d-1_hcolumn-major_ccolumn-major",
+      "settings": {
+        "start": 3,
+        "direction": -1,
+        "hole_scan": "column-major",
+        "cipher_order": "column-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 3,
+        "direction": "counterclockwise",
+        "hole_scan": "column-major",
+        "cipher_serialization": "column-major"
+      },
+      "plaintext_literal": "RPEAXNXPOVNXRICROTTRNODKJIDEEEENODADSELZLROEOSHAAKOFZDNSLUACAARV",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a3_d1_hrow-major_crow-major",
+      "settings": {
+        "start": 3,
+        "direction": 1,
+        "hole_scan": "row-major",
+        "cipher_order": "row-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 3,
+        "direction": "clockwise",
+        "hole_scan": "row-major",
+        "cipher_serialization": "row-major"
+      },
+      "plaintext_literal": "RKEAXNXPONDREICVOTTRNODKJVIXEEHNODAFDDEZLROEOSEAAPOZSNLSLUACAARR",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a3_d1_hrow-major_ccolumn-major",
+      "settings": {
+        "start": 3,
+        "direction": 1,
+        "hole_scan": "row-major",
+        "cipher_order": "column-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 3,
+        "direction": "clockwise",
+        "hole_scan": "row-major",
+        "cipher_serialization": "column-major"
+      },
+      "plaintext_literal": "RVENCNIPRAPORXXXFRANCOUZSKAVLADASEROZHODLAODESLATDOKOREJEDENINTE",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a3_d1_hcolumn-major_crow-major",
+      "settings": {
+        "start": 3,
+        "direction": 1,
+        "hole_scan": "column-major",
+        "cipher_order": "row-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 3,
+        "direction": "clockwise",
+        "hole_scan": "column-major",
+        "cipher_serialization": "row-major"
+      },
+      "plaintext_literal": "RDENCNIPRKAVOXXETVOOKHRJEDENINTXFERZOOEDLAODESDASRANCOUZSAPLRALA",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    },
+    {
+      "id": "a3_d1_hcolumn-major_ccolumn-major",
+      "settings": {
+        "start": 3,
+        "direction": 1,
+        "hole_scan": "column-major",
+        "cipher_order": "column-major"
+      },
+      "own_codec_settings": {
+        "side": 8,
+        "holes": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            6
+          ]
+        ],
+        "start_quarters": 3,
+        "direction": "clockwise",
+        "hole_scan": "column-major",
+        "cipher_serialization": "column-major"
+      },
+      "plaintext_literal": "RPEAXNXPOVNXRICRAKOFZDNSLUACAARVODADSELZLROEOSHAOTTRNODKJIDEEEEN",
+      "reencrypted_literal": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+      "exact_source_positions": 64,
+      "is_registered_preferred": false,
+      "source_changes": 0
+    }
+  ],
+  "all_32_full_64_forward_exact": true,
+  "no_root_code_or_adapter_imported": true,
+  "candidate_preference": "Frozen root source-registration preference; parent supplied literal known before this observer audit."
+}

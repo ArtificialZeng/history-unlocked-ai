@@ -1,0 +1,119 @@
+{
+  "utc": "2026-10-06T04:24:08.809767+00:00",
+  "items": [
+    {
+      "site": "ROW1_MARKED_CORE",
+      "body_native_box": [
+        73,
+        0,
+        231,
+        79
+      ],
+      "source_native_box": [
+        1388,
+        823,
+        1467,
+        981
+      ],
+      "path": "reports/source_v1/ROW1_MARKED_CORE_native_v1.png",
+      "PNG_SHA256": "10446d503039549bf55dadb9a0d00be348cc57cf23074a540413b75fa07cf516",
+      "RGB_SHA256": "7cba5b8e27d168cc59ca2a7e85a519d72b02a7c56bc54cc426127cb67342f5b3",
+      "operation": "Nativebodycrop no cleanup/resampling, neighboringfringe retained"
+    },
+    {
+      "site": "ROW2_MARKED_CORE",
+      "body_native_box": [
+        181,
+        46,
+        343,
+        145
+      ],
+      "source_native_box": [
+        1322,
+        931,
+        1421,
+        1093
+      ],
+      "path": "reports/source_v1/ROW2_MARKED_CORE_native_v1.png",
+      "PNG_SHA256": "c84654a97d8e353a0d8a86ce56b9e791a3dd08b2e439b1bdf515c7095c5e41e1",
+      "RGB_SHA256": "93f9530c0d37fdeed1136fb2eb098eb15f81184016ed064e8542ee7e5d4b57b9",
+      "operation": "Nativebodycrop no cleanup/resampling, neighboringfringe retained"
+    },
+    {
+      "site": "ROW2_H_CONTRAST",
+      "body_native_box": [
+        15,
+        52,
+        123,
+        147
+      ],
+      "source_native_box": [
+        1320,
+        765,
+        1415,
+        873
+      ],
+      "path": "reports/source_v1/ROW2_H_CONTRAST_native_v1.png",
+      "PNG_SHA256": "0a79e59bc55c97dac99dbbb174f48851de19cb374251f0ba4d33603c2580c80d",
+      "RGB_SHA256": "829262c6202317d57f6b6a1811355d822c7ff782e33a6a6f16026f26ee7038f9",
+      "operation": "Nativebodycrop no cleanup/resampling, neighboringfringe retained"
+    },
+    {
+      "site": "DONOR_RAW_R_MARK",
+      "raw_base_label": "r",
+      "raw_shape_label": "r+CARON_LIKE",
+      "literal_mark": "CARON_LIKE",
+      "local_ordinal": 3,
+      "source_native_box": [
+        1489,
+        98,
+        1589,
+        222
+      ],
+      "path": "reports/source_v1/DONOR_RAW_R_MARK_native_v1.png",
+      "PNG_SHA256": "7c0d54748151d6fadc786a2b6ba2a96fcf6cc9d37463c48525cec2f0d56df32e",
+      "RGB_SHA256": "b45d558fc86b93dbc262cd1ae1f3ec2ac9db249416fd376a6e225dd56094196e",
+      "source_RAW_SHA256": "a9bfe6199a85cfaba77b010e28b7385774ae6ab0e285adcae239f92af6a9674d",
+      "source_ledger_SHA256": "282b9ba8f7629959ca2680c31161ab95c34cdd4855dda7fd2b77839e13624ceb",
+      "operation": "Expandednativeword90CW rawonly, donorv2postoldinference/sourceedition, notsemanticvalues"
+    },
+    {
+      "site": "DONOR_RAW_h",
+      "raw_base_label": "h",
+      "raw_shape_label": "h",
+      "literal_mark": "",
+      "local_ordinal": 7,
+      "source_native_box": [
+        1391,
+        823,
+        1486,
+        1005
+      ],
+      "path": "reports/source_v1/DONOR_RAW_h_native_v1.png",
+      "PNG_SHA256": "491da45eb035d94d68fa2cb1c119e687464edd76182bc275bb8e219d8d849d4b",
+      "RGB_SHA256": "5e6049eca642a3c073fda43b7e563a7c610858816c10cd4a7a3c006b30ca48ed",
+      "source_RAW_SHA256": "a9bfe6199a85cfaba77b010e28b7385774ae6ab0e285adcae239f92af6a9674d",
+      "source_ledger_SHA256": "282b9ba8f7629959ca2680c31161ab95c34cdd4855dda7fd2b77839e13624ceb",
+      "operation": "Expandednativeword90CW rawonly, donorv2postoldinference/sourceedition, notsemanticvalues"
+    },
+    {
+      "site": "DONOR_RAW_r",
+      "raw_base_label": "r",
+      "raw_shape_label": "r",
+      "literal_mark": "",
+      "local_ordinal": 7,
+      "source_native_box": [
+        1386,
+        263,
+        1494,
+        470
+      ],
+      "path": "reports/source_v1/DONOR_RAW_r_native_v1.png",
+      "PNG_SHA256": "54d6aea5200580db4a12d34b0c1078684114b6c66b74d85db0f2dbc90ce224f0",
+      "RGB_SHA256": "66b065621b455e31eed1f4066328728611599d3a0ab64cd7846f9b336a257877",
+      "source_RAW_SHA256": "a9bfe6199a85cfaba77b010e28b7385774ae6ab0e285adcae239f92af6a9674d",
+      "source_ledger_SHA256": "282b9ba8f7629959ca2680c31161ab95c34cdd4855dda7fd2b77839e13624ceb",
+      "operation": "Expandednativeword90CW rawonly, donorv2postoldinference/sourceedition, notsemanticvalues"
+    }
+  ]
+}

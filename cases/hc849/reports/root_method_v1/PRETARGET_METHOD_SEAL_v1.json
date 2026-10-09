@@ -1,0 +1,26 @@
+{
+  "sealed_utc": "2026-10-05T19:40:57.171316+00:00",
+  "target_data_read": false,
+  "artifacts": [
+    {
+      "path": "scripts/grille_even_v1.py",
+      "bytes": 2517,
+      "sha256": "585830c07b14a252c7e10428ffd175943a049dd9b999f33602b04a255d08a11c"
+    },
+    {
+      "path": "scripts/root_generic_controls_v1.py",
+      "bytes": 3284,
+      "sha256": "80eebc4b318d33e39ca66ba83e463aeee1ee08f8643a8ef218f1b730663b0a22"
+    },
+    {
+      "path": "reports/root_method_v1/SYNTHETIC_FIXTURES_v1.json",
+      "bytes": 5631171,
+      "sha256": "6de0ce48edd14a22034c29e90e226b3ba0d4a553ebb85115407ada8a6822b070"
+    },
+    {
+      "path": "reports/root_method_v1/GENERIC_CONTROL_RESULT_v1.json",
+      "bytes": 293,
+      "sha256": "ca3b9e9017c5350b10d7f821a8e45fec0f2f322a8c87dbd87a2c51cbb0172ca3"
+    }
+  ]
+}

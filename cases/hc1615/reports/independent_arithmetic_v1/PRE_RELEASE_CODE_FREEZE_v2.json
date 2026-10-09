@@ -1,0 +1,19 @@
+{
+  "frozen_utc": "2026-10-06T04:34:51.816810+00:00",
+  "phase": "SOURCE_SCHEMA_ADAPTER_QUALIFIED_BEFORE_ACTUAL_SOURCE_VALUES_OR_P",
+  "predecessor_freeze_preserved": true,
+  "actual_source_values_or_P_seen": false,
+  "root_punct_display_policy_pending": true,
+  "adapter_behavior": "all primitive ownership/spans; base vs detached stroke census; exact mark-event association; registered-role punctuation at source unit ordinal; complete carried events",
+  "synthetic_only_counts": "6units,6base+4detached strokes,4events; no historical count forced",
+  "negative_cases": 38,
+  "payload": {
+    "reports/independent_arithmetic_v1/check_certificate_independent_v2.py": "a65a994e8221b0ad87e214ed022aed94e5f9f94f23fd93a97b984e8411c274a3",
+    "reports/independent_arithmetic_v1/synthetic_checks_v2.py": "3ee410ffde4096b8759b6eb4576d76d70147045555c2f67f62b01846152189cb",
+    "reports/independent_arithmetic_v1/PRE_RELEASE_SYNTHETIC_CHECKS_v2.json": "39258b1b8546f31ae16b1e15e6c5db9471c2ee9f337ff4a71dbd10e11346b922",
+    "reports/independent_arithmetic_v1/MASKED_SOURCE_SCHEMA_RECEIPT_v1.json": "bf3cf9fc7b1d3b6445f658996e64053b31beb045ba458053b9661fb74c62fc92",
+    "reports/independent_arithmetic_v1/MASKED_COMPONENT_EVENT_SCHEMA_v1.json": "028d7f207374bd30ecb44d965446b87f42b0e0244bf55f687bb47e4869701b26"
+  },
+  "source_primary81_vs_other_census81_not_declared_equivalent": true,
+  "root_decoder_imported": false
+}

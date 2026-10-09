@@ -1,0 +1,1361 @@
+{
+  "written_utc": "2026-10-05T20:12:23.704131+00:00",
+  "chronology": "After canonical frozen source ledgers and parent-supplied preferred candidate were read; before this observer first target codec projection. This is a independent native corroboration audit, not a cold blind transcription.",
+  "typed_observed_rows": [
+    "RAOOKPDTTEORAANXFONZDDXDSNKPJO",
+    "ELVNZSLLIXDRUREOAEECIOAESARCHE",
+    "VRNA"
+  ],
+  "typed_observed_counts": [
+    30,
+    30,
+    4
+  ],
+  "current_body_count": 64,
+  "typed_current_match_frozen": true,
+  "current_positions": [
+    {
+      "position": 1,
+      "observed_current": "R",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 2,
+      "observed_current": "A",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 3,
+      "observed_current": "O",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 4,
+      "observed_current": "O",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 5,
+      "observed_current": "K",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 6,
+      "observed_current": "P",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 7,
+      "observed_current": "D",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 8,
+      "observed_current": "T",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 9,
+      "observed_current": "T",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 10,
+      "observed_current": "E",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 11,
+      "observed_current": "O",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 12,
+      "observed_current": "R",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 13,
+      "observed_current": "A",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 14,
+      "observed_current": "A",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 15,
+      "observed_current": "N",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 16,
+      "observed_current": "X",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 17,
+      "observed_current": "F",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 18,
+      "observed_current": "O",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 19,
+      "observed_current": "N",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 20,
+      "observed_current": "Z",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 21,
+      "observed_current": "D",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 22,
+      "observed_current": "D",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 23,
+      "observed_current": "X",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 24,
+      "observed_current": "D",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 25,
+      "observed_current": "S",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 26,
+      "observed_current": "N",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 27,
+      "observed_current": "K",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 28,
+      "observed_current": "P",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 29,
+      "observed_current": "J",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 30,
+      "observed_current": "O",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": true
+    },
+    {
+      "position": 31,
+      "observed_current": "E",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 32,
+      "observed_current": "L",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 33,
+      "observed_current": "V",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 34,
+      "observed_current": "N",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 35,
+      "observed_current": "Z",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 36,
+      "observed_current": "S",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 37,
+      "observed_current": "L",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 38,
+      "observed_current": "L",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 39,
+      "observed_current": "I",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 40,
+      "observed_current": "X",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 41,
+      "observed_current": "D",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 42,
+      "observed_current": "R",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 43,
+      "observed_current": "U",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 44,
+      "observed_current": "R",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 45,
+      "observed_current": "E",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 46,
+      "observed_current": "O",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 47,
+      "observed_current": "A",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 48,
+      "observed_current": "E",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 49,
+      "observed_current": "E",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 50,
+      "observed_current": "C",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 51,
+      "observed_current": "I",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 52,
+      "observed_current": "O",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 53,
+      "observed_current": "A",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 54,
+      "observed_current": "E",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 55,
+      "observed_current": "S",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 56,
+      "observed_current": "A",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 57,
+      "observed_current": "R",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 58,
+      "observed_current": "C",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 59,
+      "observed_current": "H",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 60,
+      "observed_current": "E",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": true
+    },
+    {
+      "position": 61,
+      "observed_current": "V",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 62,
+      "observed_current": "R",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 63,
+      "observed_current": "N",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    },
+    {
+      "position": 64,
+      "observed_current": "A",
+      "confirmed_by": "whole native primary plus the labeled native unit atlas covering this position",
+      "current_uncertainty": null,
+      "unknown_prior_layer": false
+    }
+  ],
+  "physical_cells": [
+    {
+      "cell_id": "K11",
+      "row": 1,
+      "column": 1,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K12",
+      "row": 1,
+      "column": 2,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K13",
+      "row": 1,
+      "column": 3,
+      "observed_cut": true,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K14",
+      "row": 1,
+      "column": 4,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K15",
+      "row": 1,
+      "column": 5,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K16",
+      "row": 1,
+      "column": 6,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K17",
+      "row": 1,
+      "column": 7,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K18",
+      "row": 1,
+      "column": 8,
+      "observed_cut": true,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K21",
+      "row": 2,
+      "column": 1,
+      "observed_cut": true,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K22",
+      "row": 2,
+      "column": 2,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K23",
+      "row": 2,
+      "column": 3,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K24",
+      "row": 2,
+      "column": 4,
+      "observed_cut": true,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K25",
+      "row": 2,
+      "column": 5,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K26",
+      "row": 2,
+      "column": 6,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K27",
+      "row": 2,
+      "column": 7,
+      "observed_cut": true,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K28",
+      "row": 2,
+      "column": 8,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K31",
+      "row": 3,
+      "column": 1,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K32",
+      "row": 3,
+      "column": 2,
+      "observed_cut": true,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K33",
+      "row": 3,
+      "column": 3,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K34",
+      "row": 3,
+      "column": 4,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K35",
+      "row": 3,
+      "column": 5,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K36",
+      "row": 3,
+      "column": 6,
+      "observed_cut": true,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K37",
+      "row": 3,
+      "column": 7,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K38",
+      "row": 3,
+      "column": 8,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K41",
+      "row": 4,
+      "column": 1,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K42",
+      "row": 4,
+      "column": 2,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K43",
+      "row": 4,
+      "column": 3,
+      "observed_cut": true,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K44",
+      "row": 4,
+      "column": 4,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K45",
+      "row": 4,
+      "column": 5,
+      "observed_cut": true,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K46",
+      "row": 4,
+      "column": 6,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K47",
+      "row": 4,
+      "column": 7,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K48",
+      "row": 4,
+      "column": 8,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K51",
+      "row": 5,
+      "column": 1,
+      "observed_cut": true,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K52",
+      "row": 5,
+      "column": 2,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K53",
+      "row": 5,
+      "column": 3,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K54",
+      "row": 5,
+      "column": 4,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K55",
+      "row": 5,
+      "column": 5,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K56",
+      "row": 5,
+      "column": 6,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K57",
+      "row": 5,
+      "column": 7,
+      "observed_cut": true,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K58",
+      "row": 5,
+      "column": 8,
+      "observed_cut": true,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K61",
+      "row": 6,
+      "column": 1,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K62",
+      "row": 6,
+      "column": 2,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K63",
+      "row": 6,
+      "column": 3,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K64",
+      "row": 6,
+      "column": 4,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K65",
+      "row": 6,
+      "column": 5,
+      "observed_cut": true,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K66",
+      "row": 6,
+      "column": 6,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K67",
+      "row": 6,
+      "column": 7,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K68",
+      "row": 6,
+      "column": 8,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K71",
+      "row": 7,
+      "column": 1,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K72",
+      "row": 7,
+      "column": 2,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K73",
+      "row": 7,
+      "column": 3,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K74",
+      "row": 7,
+      "column": 4,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K75",
+      "row": 7,
+      "column": 5,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K76",
+      "row": 7,
+      "column": 6,
+      "observed_cut": true,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K77",
+      "row": 7,
+      "column": 7,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K78",
+      "row": 7,
+      "column": 8,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K81",
+      "row": 8,
+      "column": 1,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K82",
+      "row": 8,
+      "column": 2,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K83",
+      "row": 8,
+      "column": 3,
+      "observed_cut": true,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K84",
+      "row": 8,
+      "column": 4,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K85",
+      "row": 8,
+      "column": 5,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K86",
+      "row": 8,
+      "column": 6,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K87",
+      "row": 8,
+      "column": 7,
+      "observed_cut": true,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    },
+    {
+      "cell_id": "K88",
+      "row": 8,
+      "column": 8,
+      "observed_cut": false,
+      "basis": "Physically visible absent stencil material/background versus solid stencil paper in full native source and row atlas; no route coverage used for this observation."
+    }
+  ],
+  "physical_cut_count": 16,
+  "physical_solid_count": 48,
+  "physical_membership_match_frozen": true,
+  "body_holds": {
+    "30": "current closed dark O; preceding layer unknown",
+    "60": "current dark upright with three arms, E; preceding layer unknown",
+    "between_Es": "separate thin curved dark stroke, no extra typed unit assigned",
+    "bottom_frame": "dark clipped off-body pen fragments visible; whole characters/off-frame extent and roles unassigned"
+  },
+  "notebook_secondary_holds": {
+    "A21_A52_A57_A62_A76_A87_A88": "closed-top block forms prefer A with H retained; not adjudicated using candidate",
+    "A36": "U preferred; W retained and detached overbar role unassigned",
+    "A85": "X preferred; Y retained for extended lower stroke",
+    "A35_A43": "cursive z-like form loops/crossing retained",
+    "grouped7": "visible D-like glyph with red retrace; earlier hidden value unknown",
+    "grouped49": "E-like glyph with short stroke below; role unassigned"
+  },
+  "annotations": {
+    "notebook_note": "psáno svisle. visibly corroborated; written vertically, not specifying start/scan/rotation/column ends",
+    "key_orientation": "top I-like, left II-like/two-stroke, bottom III-like visible; right diagonal feature crease/shadow, no secure dark IV",
+    "key_caption": "cursive ordinary caption and 3/slash-like ending visible; exact word/role held",
+    "other_source_marks": "numeric annotations, red monogram/dot, faint lower impression and pencil numerals remain separate role/literal holds"
+  },
+  "full_plaintext_source_seen": "No full plaintext answer in the finite original faces/native areas viewed. This does not establish global absence.",
+  "actual_view_receipts": [
+    {
+      "path": "sources/raw/HC849_original_1.jpg",
+      "sha256": "0b06c69eb1db23fd216aac4f389c5119eb5e2d64669f07b1b403d374a690c061",
+      "bytes": 704837,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated."
+    },
+    {
+      "path": "sources/raw/HC849_original_2.jpg",
+      "sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "bytes": 3149977,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "display_resize_notice": "3024x4032 -> 2752x3669; full face seen but native unit crops independently checked"
+    },
+    {
+      "path": "sources/raw/HC849_original_3.jpg",
+      "sha256": "c3751e509ee34ab5a934d19912adfd22c24daee46fad6e8ee921a6dd127032bb",
+      "bytes": 673572,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated."
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/typed_native_atlas_01.png",
+      "sha256": "4449d4ceb3185faa4c6031ad78384c9a9f9041335963de2089d791a12181ee35",
+      "bytes": 100139,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        520,
+        157
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/typed_native_atlas_02.png",
+      "sha256": "87a0b79866edfa9f4f6be7256337ee4dc5ea00baa854dba71b6c74148308ea6a",
+      "bytes": 96454,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        520,
+        157
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/typed_native_atlas_03.png",
+      "sha256": "8401aad5c1356006a0901eab38f6f1812dc97de460bc9aaca2574204dc571cf0",
+      "bytes": 95246,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        520,
+        157
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/typed_native_atlas_04.png",
+      "sha256": "bf0ffdcc55d164af7b5f9f724ee10e835e959b48ad20d464400cb0c22aff6b14",
+      "bytes": 98776,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        520,
+        162
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/typed_native_atlas_05.png",
+      "sha256": "e3a74e56eba30f18ecb9054335ff7e893f956099fd9b030dc3cc9cb091917dcc",
+      "bytes": 100186,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        520,
+        162
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/typed_native_atlas_06.png",
+      "sha256": "ea24bcc0a55ab17bfbb5793fbc3a29083c3e5322034a89173fe61c5e555bd977",
+      "bytes": 99314,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        520,
+        162
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/typed_native_atlas_07.png",
+      "sha256": "488cacf55909b7b9220c00d13138d6ade3375c259d2be5a4651aad22e25dede3",
+      "bytes": 97294,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        520,
+        162
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/typed_native_atlas_08.png",
+      "sha256": "5972737b73a21f1322306c694c05c1bbd41b6e4fec288f27fee3a02377714b39",
+      "bytes": 90582,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        520,
+        162
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/key_native_atlas_01.png",
+      "sha256": "68dcdb22e8ba891fcfd17234f9125cc90802dcf494839c346562c4619324c819",
+      "bytes": 231864,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        1131,
+        176
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/key_native_atlas_02.png",
+      "sha256": "3e303946f2e2fb19d58459c052bfa7cf0e34c24b19a7af3dbb911c848f6100c7",
+      "bytes": 218617,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        1131,
+        168
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/key_native_atlas_03.png",
+      "sha256": "1de5210ba0d158f6e121dae3e1d71fa9e65c9e792dcc26d2da434f673fbc37fb",
+      "bytes": 222962,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        1131,
+        169
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/key_native_atlas_04.png",
+      "sha256": "607373ce6e8fbca6e64affb56f3b46d68516a3bb29baf7467f8a721acfac8812",
+      "bytes": 223385,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        1131,
+        171
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/key_native_atlas_05.png",
+      "sha256": "8c11d92d737dd491a85a3a79360afd34d08d3a96820ef242b0b6d70b500ea551",
+      "bytes": 221512,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        1131,
+        169
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/key_native_atlas_06.png",
+      "sha256": "0353f0913c6cf7f148141dfe37d323e225e8e0ba45151cd06eb1af0cc630953a",
+      "bytes": 203364,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        1131,
+        167
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/key_native_atlas_07.png",
+      "sha256": "0bd366b16164b6871b3378b4efe79702197f76624a367ab6f6732dfb203e210f",
+      "bytes": 204928,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        1131,
+        168
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/key_native_atlas_08.png",
+      "sha256": "9a87cee9e8600f7f0aae5c102be730c0d060b7b1468fcfd73eb5e14c12d2770d",
+      "bytes": 207786,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        1131,
+        168
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/array_native_atlas_01.png",
+      "sha256": "b35a96ad7ff72c8970b2d5e10311a963622019d13317a8175f3517acaff4c6f5",
+      "bytes": 224435,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        1118,
+        185
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/array_native_atlas_02.png",
+      "sha256": "546adb895d0d0991c598db433df067baa29a6bafcdd2582d26051ce4d564a8c1",
+      "bytes": 197317,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        1118,
+        160
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/array_native_atlas_03.png",
+      "sha256": "8c1b9acd11d02434d37f3fd88e78badd842c19fe2ac3a10fad8781a3cc2cf5ef",
+      "bytes": 206938,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        1118,
+        171
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/array_native_atlas_04.png",
+      "sha256": "919ea71760836756b33e0f7155036234965b30b19d8c39e58e4019c1ef3137e3",
+      "bytes": 200173,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        1118,
+        163
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/array_native_atlas_05.png",
+      "sha256": "246b73ecb776201f989bf886b7e83d45b7aa28b54c7587ba881e8b420a5e59f6",
+      "bytes": 200305,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        1118,
+        166
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/array_native_atlas_06.png",
+      "sha256": "b47619a1548140ce4d9f2cd53b7ba92f75874e995380862d5015aef61b269551",
+      "bytes": 198340,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        1118,
+        166
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/array_native_atlas_07.png",
+      "sha256": "e895777accc8ef84ab2f900305fde603cf8cc2cd0bf46b10cc4ef2fd6d52cba0",
+      "bytes": 203607,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        1118,
+        173
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/array_native_atlas_08.png",
+      "sha256": "042fbee349875a22f81b10c569622f9a92483a81cb0ccf8be65c446ff1b15ee3",
+      "bytes": 207552,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        1118,
+        173
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/ann_notebook_vertical_note.png",
+      "sha256": "a1149535a06b8bc11020f5ab9355025a7f9a619467569f0a60dd3fab71e6ae1c",
+      "bytes": 174794,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        835,
+        180
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/ann_typed_between_Es.png",
+      "sha256": "262adb47f934f69424c595936385916a104a3907625da6f099b3e1dc9a405fa6",
+      "bytes": 4425,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        43,
+        55
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/ann_typed_clipped_bottom.png",
+      "sha256": "ea3cf410bf89909abd9d2c9763da2138a57748580492d2812d96d9d75ce78560",
+      "bytes": 10945,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        350,
+        20
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/ann_key_cursive_caption.png",
+      "sha256": "49eb3212158879f1188476f116faf3c81a2080a083bc623fc677bf83abfcf219",
+      "bytes": 119754,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        490,
+        170
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grouped_p07.png",
+      "sha256": "47177ad0496f28bbadb70fd9f3d74180ca3c49a0ad7c887312da75469397126f",
+      "bytes": 14554,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        69,
+        130
+      ]
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grouped_p49.png",
+      "sha256": "fff3ea7876d377129f1b6122268042f8988795e33fd518c29326298b36b00610",
+      "bytes": 9953,
+      "tool": "view_image(detail=original)",
+      "actual_pixels_seen": true,
+      "view_completed_no_later_than_utc": "2026-10-05T20:12:23.704131+00:00",
+      "exact_per_view_utc": "Not independently logged; bounded by first authorized file-read receipt and this observation record, not fabricated.",
+      "png_native_dimensions": [
+        69,
+        100
+      ]
+    }
+  ],
+  "total_viewed_images": 33
+}

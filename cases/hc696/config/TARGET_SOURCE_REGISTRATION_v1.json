@@ -1,0 +1,24 @@
+{
+  "target": "HC696",
+  "registered_utc": "2026-10-05T15:25:58.922168+00:00",
+  "before_first_target_search": true,
+  "source_layer": "final_visible_uppercase_only",
+  "ciphertext": "CIUSWINBAXERHPBWPXOQYKPVAGUSRBKWXKJUKILRWBCJWMTYLZWUSUFCBKDAUGTKSNKJFSJLZGMMWZWBEKKMNLNAJTSQMZLJCIMSWIFNENEQPNSWQRCCPNLMMQNSDMLWMKZHKHLENXJIVKPMWASSHINKDJRZCWJTBFPNGBQZGPHWZYOEKNCL",
+  "source_ledger_sha256": "ce61b3011b69e846b123b49e873806fca6fb5e36467dfe20f3d3093696bce375",
+  "source_manifest_sha256": "480412b221d352eab67b9b40b5087c6012adda332b336ac314e77e712e2575de",
+  "first_variant_count": 1,
+  "typed_underlayer_held_positions": [
+    23,
+    66,
+    80,
+    132,
+    172
+  ],
+  "typed_original_candidate_search_allowed": false,
+  "no_source_supported_specific_typed_alternative_letters": true,
+  "fixed_physical_reading_order": "6source rows topdown,lefttoright; allregular/extra whitespace retained inledger,removed for ciphertransform",
+  "first_search_registration": "config/SEARCH_REGISTRATION_v1.json",
+  "search_code_prelock": "config/SEARCH_PRETARGET_CODE_LOCK_v1.json",
+  "root_source_letter_access": "After source seal via observer reply, before anytargetoutput",
+  "second_source_pixel_auditor": "Own coldimagepass180letters reported; source string/seal/compare stillpending; no candidate supplied."
+}

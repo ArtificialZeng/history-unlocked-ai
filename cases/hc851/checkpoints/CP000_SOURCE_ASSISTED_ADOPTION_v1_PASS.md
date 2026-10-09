@@ -1,0 +1,2 @@
+# CP000 PASSinexplicitknown-key-assistedsource scope
+Separatefolder created; twoofficialpublicoriginals/metadatacopiedwithreceipts. Physicalgrille/keysuppliedpublicly; originalplaintextabsenceonlytwoimageinspection, no worldwideclaim. Coldallsource/typed/keyholeledgerpending, continueCP010.

@@ -1,0 +1,29 @@
+{
+  "recorded_at_utc": "2026-10-05T21:24:39.110896+00:00",
+  "this_method_task_reads": [
+    "HC852 AGENTS.md",
+    "HC852 DECIPHERMENT_PROTOCOL_v1.md",
+    "HC852 PROJECT_STATE.json",
+    "HC852 README.md",
+    "HC852 sources/SOURCE_ONLY_SCOPE_v1.md",
+    "own previously presealed generic codec and new generic registration/controls only"
+  ],
+  "this_method_task_unread": [
+    "HC852 original photographs",
+    "HC852 cold/source/provisional ledgers",
+    "HC852 ROOT_PRE_FREEZE_EXPOSURE_v1.json",
+    "HC852 actual key coordinates or ciphertext literal",
+    "HC852 target registration/projections",
+    "root codec or root controls"
+  ],
+  "same_observer_prior_exposure": "Before this new method task, this observer viewed HC852 whole source photographs and native secondary crops during the sealed source-only scouting gate. Rough 64-unit body and apparent 8x8 stencil were reported; no structured target letter stream/key coordinates/rotation coverage/decode/plaintext was created or provided. This prior visual exposure is not hidden.",
+  "prior_source_gate_reference": "historical_cipher_scout/reports/hc850_hc852_given_key_source_gate_2026-10-06_v1/SEAL_MANIFEST_v1.json",
+  "prior_source_gate_manifest_sha256": "cfee84cdd73c11df9f3a85645ef6002272915c1b1da5f72b003e33ad67baf44f",
+  "generic_core_original_seal_utc_from_retained_task_provenance": "2026-10-05T20:01:47.802998+00:00",
+  "generic_core_original_hash": "5c2d8c3bbf1f54ecf8c43583e0f7e8f875a167050ab12d7e4a393f230f095e16",
+  "new_wrapper_after_prior_source_quality_exposure": true,
+  "fresh_pre_target_global_blind_claim": false,
+  "network_calls_this_task": 0,
+  "source_target_implementation_imports": 0,
+  "state_git_contact_pdf_changes": false
+}

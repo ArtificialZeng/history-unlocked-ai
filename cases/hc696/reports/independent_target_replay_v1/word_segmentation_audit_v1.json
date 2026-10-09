@@ -1,0 +1,189 @@
+{
+  "operation": "insert spaces only; no deletions, substitutions, or punctuation",
+  "collapse_equals_all_180_decrypted_letters": true,
+  "x_positions": [
+    95,
+    180
+  ],
+  "word_spans": [
+    {
+      "word": "MANY",
+      "first_position": 1,
+      "last_position": 4
+    },
+    {
+      "word": "PATROLS",
+      "first_position": 5,
+      "last_position": 11
+    },
+    {
+      "word": "HAVE",
+      "first_position": 12,
+      "last_position": 15
+    },
+    {
+      "word": "SUCCESSFULLY",
+      "first_position": 16,
+      "last_position": 27
+    },
+    {
+      "word": "ACCOMPLISHED",
+      "first_position": 28,
+      "last_position": 39
+    },
+    {
+      "word": "THEIR",
+      "first_position": 40,
+      "last_position": 44
+    },
+    {
+      "word": "MISSIONS",
+      "first_position": 45,
+      "last_position": 52
+    },
+    {
+      "word": "ONLY",
+      "first_position": 53,
+      "last_position": 56
+    },
+    {
+      "word": "TO",
+      "first_position": 57,
+      "last_position": 58
+    },
+    {
+      "word": "LOSE",
+      "first_position": 59,
+      "last_position": 62
+    },
+    {
+      "word": "PERSONNEL",
+      "first_position": 63,
+      "last_position": 71
+    },
+    {
+      "word": "BY",
+      "first_position": 72,
+      "last_position": 73
+    },
+    {
+      "word": "A",
+      "first_position": 74,
+      "last_position": 74
+    },
+    {
+      "word": "HASTY",
+      "first_position": 75,
+      "last_position": 79
+    },
+    {
+      "word": "NOISY",
+      "first_position": 80,
+      "last_position": 84
+    },
+    {
+      "word": "WITHDRAWAL",
+      "first_position": 85,
+      "last_position": 94
+    },
+    {
+      "word": "X",
+      "first_position": 95,
+      "last_position": 95
+    },
+    {
+      "word": "NIGHT",
+      "first_position": 96,
+      "last_position": 100
+    },
+    {
+      "word": "PATROLS",
+      "first_position": 101,
+      "last_position": 107
+    },
+    {
+      "word": "GO",
+      "first_position": 108,
+      "last_position": 109
+    },
+    {
+      "word": "OUT",
+      "first_position": 110,
+      "last_position": 112
+    },
+    {
+      "word": "STEALTHILY",
+      "first_position": 113,
+      "last_position": 122
+    },
+    {
+      "word": "TAKING",
+      "first_position": 123,
+      "last_position": 128
+    },
+    {
+      "word": "ALL",
+      "first_position": 129,
+      "last_position": 131
+    },
+    {
+      "word": "PRECAUTIONS",
+      "first_position": 132,
+      "last_position": 142
+    },
+    {
+      "word": "BUT",
+      "first_position": 143,
+      "last_position": 145
+    },
+    {
+      "word": "FORGET",
+      "first_position": 146,
+      "last_position": 151
+    },
+    {
+      "word": "ALL",
+      "first_position": 152,
+      "last_position": 154
+    },
+    {
+      "word": "THAT",
+      "first_position": 155,
+      "last_position": 158
+    },
+    {
+      "word": "IN",
+      "first_position": 159,
+      "last_position": 160
+    },
+    {
+      "word": "GETTING",
+      "first_position": 161,
+      "last_position": 167
+    },
+    {
+      "word": "BACK",
+      "first_position": 168,
+      "last_position": 171
+    },
+    {
+      "word": "TO",
+      "first_position": 172,
+      "last_position": 173
+    },
+    {
+      "word": "SAFETY",
+      "first_position": 174,
+      "last_position": 179
+    },
+    {
+      "word": "X",
+      "first_position": 180,
+      "last_position": 180
+    }
+  ],
+  "interpretation": {
+    "X95": "sentence separator plausible; conditional",
+    "X180": "terminal padding plausible; conditional"
+  }
+}

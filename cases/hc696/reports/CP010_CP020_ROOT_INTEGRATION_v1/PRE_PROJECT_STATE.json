@@ -1,0 +1,16 @@
+{
+  "project": "hcportal696_1952_portax_decipherment",
+  "target": "HC696",
+  "status": "SOURCE_ADOPTED_COLD_LEDGER_PENDING",
+  "catalogue_solution": "Not solved",
+  "catalogue_family": "PORTAX",
+  "catalogue_language": "English",
+  "fresh_source_date": "2026-10-05",
+  "cipher_key_id": null,
+  "cipher_solved": false,
+  "target_inference_executed": false,
+  "source_exact_counts_known": false,
+  "source_ledgers_frozen": false,
+  "latest_checkpoint": "CP000_Source_Adoption_PASS",
+  "next": "CP010 cold original-pixel ledger; CP020 known algorithm calibration in parallel, no target payload yet"
+}

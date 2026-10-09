@@ -1,0 +1,9 @@
+# CP030 modelv2 — complete conditional glyph-unit coverage
+
+2026-10-06T04:50:29.808875+00:00
+
+PASS onlyforcoverage underexplicitmarkhypothesis:77/77 preferredunits,18groups/sevenrows/fourevents;78NFClettercharacters becauseexistingCHcountsonecipherunit. Onlyoneuncoveredmarkedwholeunit usesgenericbase-map+retainedcaron; allother76 tablevalues unchanged. Parenttable22entries byteidentical; zeroarbitrarynewlettervalues/sourceedits/per-positionexceptions. Firstbaseline76/77 preserved. Twohistoricaltargetprojections total, one methodrevision.
+
+Complete provisionalliteral is in data/mark_carry_projection_v1; its onlysourcecaron renderedphonographically ishypothesizedř. Otheraccents/capitalization remainunrestored. Rootfirstviewedcompletefront/nativebody aftersecondprojection andobservedprintedNewYearheading. Sourceobservers hadordinarysourcecontextearlier; notblind. Source4/s disagreement/markedallographholds retained.
+
+CandidateSHA `adee6e527cd54586462d1fccc67b8fb8c9c941a784fcce1c943171f50f11f0ec`. Independentforward/source/wholecontentaudit nowrequired; nothistorical/externalSolved. Continueimmediately.

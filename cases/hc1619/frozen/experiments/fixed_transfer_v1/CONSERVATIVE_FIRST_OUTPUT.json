@@ -1,0 +1,1232 @@
+{
+  "target": "HC1619/pc_hcp_300",
+  "method": "one fixed observed key",
+  "source_sha256": "5d889f826604a1f996d1792815dc89f9e40196781de74a67277a2f12eb15444a",
+  "key_sha256": "267fac542b3cc9b3fbb5d788b8d867a0c37de0fa1f4ffefe16776256e1835273",
+  "bridge_sha256": "4e48ddd52d358b21a79d570372e2c4a3bb37535670e5d54820abed65b4cea5be",
+  "source_units": 80,
+  "key_covered_units": 79,
+  "coverage_is_not_accuracy": true,
+  "known_expanded_letters": 79,
+  "physical_groups": 12,
+  "source_lines": 2,
+  "format_events": 4,
+  "literal_physical_lines": [
+    "sve libezne sladke milence dlouhou vrelou vasnivou pusu posila touzebne",
+    "vzpominajici pepou[UNMAPPED:O0]"
+  ],
+  "literal_lines_with_events": [
+    "sve libezne, sladke milence dlouhou, vrelou, vasnivou pusu posila touzebne",
+    "vzpominajici pepou[UNMAPPED:O0]."
+  ],
+  "occurrences": [
+    {
+      "index": 1,
+      "line": 1,
+      "group_id": "L01G01",
+      "position": 1,
+      "source_label": "c",
+      "refined_source_label": "c",
+      "canonical_class": "c",
+      "unit_value": "s",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 2,
+      "line": 1,
+      "group_id": "L01G01",
+      "position": 2,
+      "source_label": "f",
+      "refined_source_label": "f",
+      "canonical_class": "f",
+      "unit_value": "v",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 3,
+      "line": 1,
+      "group_id": "L01G01",
+      "position": 3,
+      "source_label": "5",
+      "refined_source_label": "5",
+      "canonical_class": "5",
+      "unit_value": "e",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 4,
+      "line": 1,
+      "group_id": "L01G02",
+      "position": 1,
+      "source_label": "8",
+      "refined_source_label": "8",
+      "canonical_class": "8",
+      "unit_value": "l",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 5,
+      "line": 1,
+      "group_id": "L01G02",
+      "position": 2,
+      "source_label": "4",
+      "refined_source_label": "4",
+      "canonical_class": "4",
+      "unit_value": "i",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 6,
+      "line": 1,
+      "group_id": "L01G02",
+      "position": 3,
+      "source_label": "p",
+      "refined_source_label": "p",
+      "canonical_class": "p",
+      "unit_value": "b",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 7,
+      "line": 1,
+      "group_id": "L01G02",
+      "position": 4,
+      "source_label": "5",
+      "refined_source_label": "5",
+      "canonical_class": "5",
+      "unit_value": "e",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 8,
+      "line": 1,
+      "group_id": "L01G02",
+      "position": 5,
+      "source_label": "g",
+      "refined_source_label": "V007_OPEN_LOWER_HOOK",
+      "canonical_class": "9",
+      "unit_value": "z",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 9,
+      "line": 1,
+      "group_id": "L01G02",
+      "position": 6,
+      "source_label": "m",
+      "refined_source_label": "m",
+      "canonical_class": "m",
+      "unit_value": "n",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 10,
+      "line": 1,
+      "group_id": "L01G02",
+      "position": 7,
+      "source_label": "5",
+      "refined_source_label": "5",
+      "canonical_class": "5",
+      "unit_value": "e",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 11,
+      "line": 1,
+      "group_id": "L01G03",
+      "position": 1,
+      "source_label": "c",
+      "refined_source_label": "c",
+      "canonical_class": "c",
+      "unit_value": "s",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 12,
+      "line": 1,
+      "group_id": "L01G03",
+      "position": 2,
+      "source_label": "8",
+      "refined_source_label": "8",
+      "canonical_class": "8",
+      "unit_value": "l",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 13,
+      "line": 1,
+      "group_id": "L01G03",
+      "position": 3,
+      "source_label": "6",
+      "refined_source_label": "6",
+      "canonical_class": "6",
+      "unit_value": "a",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 14,
+      "line": 1,
+      "group_id": "L01G03",
+      "position": 4,
+      "source_label": "t",
+      "refined_source_label": "t",
+      "canonical_class": "t",
+      "unit_value": "d",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 15,
+      "line": 1,
+      "group_id": "L01G03",
+      "position": 5,
+      "source_label": "g",
+      "refined_source_label": "V007_CLOSED_LOWER_LOOP",
+      "canonical_class": "g",
+      "unit_value": "k",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 16,
+      "line": 1,
+      "group_id": "L01G03",
+      "position": 6,
+      "source_label": "5",
+      "refined_source_label": "5",
+      "canonical_class": "5",
+      "unit_value": "e",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 17,
+      "line": 1,
+      "group_id": "L01G04",
+      "position": 1,
+      "source_label": "n",
+      "refined_source_label": "n",
+      "canonical_class": "n",
+      "unit_value": "m",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 18,
+      "line": 1,
+      "group_id": "L01G04",
+      "position": 2,
+      "source_label": "4",
+      "refined_source_label": "4",
+      "canonical_class": "4",
+      "unit_value": "i",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 19,
+      "line": 1,
+      "group_id": "L01G04",
+      "position": 3,
+      "source_label": "8",
+      "refined_source_label": "8",
+      "canonical_class": "8",
+      "unit_value": "l",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 20,
+      "line": 1,
+      "group_id": "L01G04",
+      "position": 4,
+      "source_label": "5",
+      "refined_source_label": "5",
+      "canonical_class": "5",
+      "unit_value": "e",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 21,
+      "line": 1,
+      "group_id": "L01G04",
+      "position": 5,
+      "source_label": "m",
+      "refined_source_label": "m",
+      "canonical_class": "m",
+      "unit_value": "n",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 22,
+      "line": 1,
+      "group_id": "L01G04",
+      "position": 6,
+      "source_label": "DELTA",
+      "refined_source_label": "DELTA",
+      "canonical_class": "s",
+      "unit_value": "c",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 23,
+      "line": 1,
+      "group_id": "L01G04",
+      "position": 7,
+      "source_label": "5",
+      "refined_source_label": "5",
+      "canonical_class": "5",
+      "unit_value": "e",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 24,
+      "line": 1,
+      "group_id": "L01G05",
+      "position": 1,
+      "source_label": "t",
+      "refined_source_label": "t",
+      "canonical_class": "t",
+      "unit_value": "d",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 25,
+      "line": 1,
+      "group_id": "L01G05",
+      "position": 2,
+      "source_label": "8",
+      "refined_source_label": "8",
+      "canonical_class": "8",
+      "unit_value": "l",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 26,
+      "line": 1,
+      "group_id": "L01G05",
+      "position": 3,
+      "source_label": "3",
+      "refined_source_label": "3",
+      "canonical_class": "3",
+      "unit_value": "o",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 27,
+      "line": 1,
+      "group_id": "L01G05",
+      "position": 4,
+      "source_label": "2",
+      "refined_source_label": "2",
+      "canonical_class": "2",
+      "unit_value": "u",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 28,
+      "line": 1,
+      "group_id": "L01G05",
+      "position": 5,
+      "source_label": "r",
+      "refined_source_label": "r",
+      "canonical_class": "r",
+      "unit_value": "h",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 29,
+      "line": 1,
+      "group_id": "L01G05",
+      "position": 6,
+      "source_label": "3",
+      "refined_source_label": "3",
+      "canonical_class": "3",
+      "unit_value": "o",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 30,
+      "line": 1,
+      "group_id": "L01G05",
+      "position": 7,
+      "source_label": "2",
+      "refined_source_label": "2",
+      "canonical_class": "2",
+      "unit_value": "u",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 31,
+      "line": 1,
+      "group_id": "L01G06",
+      "position": 1,
+      "source_label": "f",
+      "refined_source_label": "f",
+      "canonical_class": "f",
+      "unit_value": "v",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 32,
+      "line": 1,
+      "group_id": "L01G06",
+      "position": 2,
+      "source_label": "h",
+      "refined_source_label": "h",
+      "canonical_class": "h",
+      "unit_value": "r",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 33,
+      "line": 1,
+      "group_id": "L01G06",
+      "position": 3,
+      "source_label": "5",
+      "refined_source_label": "5",
+      "canonical_class": "5",
+      "unit_value": "e",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 34,
+      "line": 1,
+      "group_id": "L01G06",
+      "position": 4,
+      "source_label": "8",
+      "refined_source_label": "8",
+      "canonical_class": "8",
+      "unit_value": "l",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 35,
+      "line": 1,
+      "group_id": "L01G06",
+      "position": 5,
+      "source_label": "3",
+      "refined_source_label": "3",
+      "canonical_class": "3",
+      "unit_value": "o",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 36,
+      "line": 1,
+      "group_id": "L01G06",
+      "position": 6,
+      "source_label": "2",
+      "refined_source_label": "2",
+      "canonical_class": "2",
+      "unit_value": "u",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 37,
+      "line": 1,
+      "group_id": "L01G07",
+      "position": 1,
+      "source_label": "f",
+      "refined_source_label": "f",
+      "canonical_class": "f",
+      "unit_value": "v",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 38,
+      "line": 1,
+      "group_id": "L01G07",
+      "position": 2,
+      "source_label": "6",
+      "refined_source_label": "6",
+      "canonical_class": "6",
+      "unit_value": "a",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 39,
+      "line": 1,
+      "group_id": "L01G07",
+      "position": 3,
+      "source_label": "c",
+      "refined_source_label": "c",
+      "canonical_class": "c",
+      "unit_value": "s",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 40,
+      "line": 1,
+      "group_id": "L01G07",
+      "position": 4,
+      "source_label": "m",
+      "refined_source_label": "m",
+      "canonical_class": "m",
+      "unit_value": "n",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 41,
+      "line": 1,
+      "group_id": "L01G07",
+      "position": 5,
+      "source_label": "4",
+      "refined_source_label": "4",
+      "canonical_class": "4",
+      "unit_value": "i",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 42,
+      "line": 1,
+      "group_id": "L01G07",
+      "position": 6,
+      "source_label": "f",
+      "refined_source_label": "f",
+      "canonical_class": "f",
+      "unit_value": "v",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 43,
+      "line": 1,
+      "group_id": "L01G07",
+      "position": 7,
+      "source_label": "3",
+      "refined_source_label": "3",
+      "canonical_class": "3",
+      "unit_value": "o",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 44,
+      "line": 1,
+      "group_id": "L01G07",
+      "position": 8,
+      "source_label": "2",
+      "refined_source_label": "2",
+      "canonical_class": "2",
+      "unit_value": "u",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 45,
+      "line": 1,
+      "group_id": "L01G08",
+      "position": 1,
+      "source_label": "b",
+      "refined_source_label": "b",
+      "canonical_class": "b",
+      "unit_value": "p",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 46,
+      "line": 1,
+      "group_id": "L01G08",
+      "position": 2,
+      "source_label": "2",
+      "refined_source_label": "2",
+      "canonical_class": "2",
+      "unit_value": "u",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 47,
+      "line": 1,
+      "group_id": "L01G08",
+      "position": 3,
+      "source_label": "c",
+      "refined_source_label": "c",
+      "canonical_class": "c",
+      "unit_value": "s",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 48,
+      "line": 1,
+      "group_id": "L01G08",
+      "position": 4,
+      "source_label": "2",
+      "refined_source_label": "2",
+      "canonical_class": "2",
+      "unit_value": "u",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 49,
+      "line": 1,
+      "group_id": "L01G09",
+      "position": 1,
+      "source_label": "b",
+      "refined_source_label": "b",
+      "canonical_class": "b",
+      "unit_value": "p",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 50,
+      "line": 1,
+      "group_id": "L01G09",
+      "position": 2,
+      "source_label": "3",
+      "refined_source_label": "3",
+      "canonical_class": "3",
+      "unit_value": "o",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 51,
+      "line": 1,
+      "group_id": "L01G09",
+      "position": 3,
+      "source_label": "c",
+      "refined_source_label": "c",
+      "canonical_class": "c",
+      "unit_value": "s",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 52,
+      "line": 1,
+      "group_id": "L01G09",
+      "position": 4,
+      "source_label": "4",
+      "refined_source_label": "4",
+      "canonical_class": "4",
+      "unit_value": "i",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 53,
+      "line": 1,
+      "group_id": "L01G09",
+      "position": 5,
+      "source_label": "8",
+      "refined_source_label": "8",
+      "canonical_class": "8",
+      "unit_value": "l",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 54,
+      "line": 1,
+      "group_id": "L01G09",
+      "position": 6,
+      "source_label": "6",
+      "refined_source_label": "6",
+      "canonical_class": "6",
+      "unit_value": "a",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 55,
+      "line": 1,
+      "group_id": "L01G10",
+      "position": 1,
+      "source_label": "d",
+      "refined_source_label": "d",
+      "canonical_class": "d",
+      "unit_value": "t",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 56,
+      "line": 1,
+      "group_id": "L01G10",
+      "position": 2,
+      "source_label": "3",
+      "refined_source_label": "3",
+      "canonical_class": "3",
+      "unit_value": "o",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 57,
+      "line": 1,
+      "group_id": "L01G10",
+      "position": 3,
+      "source_label": "2",
+      "refined_source_label": "2",
+      "canonical_class": "2",
+      "unit_value": "u",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 58,
+      "line": 1,
+      "group_id": "L01G10",
+      "position": 4,
+      "source_label": "g",
+      "refined_source_label": "V007_OPEN_LOWER_HOOK",
+      "canonical_class": "9",
+      "unit_value": "z",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 59,
+      "line": 1,
+      "group_id": "L01G10",
+      "position": 5,
+      "source_label": "5",
+      "refined_source_label": "5",
+      "canonical_class": "5",
+      "unit_value": "e",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 60,
+      "line": 1,
+      "group_id": "L01G10",
+      "position": 6,
+      "source_label": "p",
+      "refined_source_label": "p",
+      "canonical_class": "p",
+      "unit_value": "b",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 61,
+      "line": 1,
+      "group_id": "L01G10",
+      "position": 7,
+      "source_label": "m",
+      "refined_source_label": "m",
+      "canonical_class": "m",
+      "unit_value": "n",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 62,
+      "line": 1,
+      "group_id": "L01G10",
+      "position": 8,
+      "source_label": "5",
+      "refined_source_label": "5",
+      "canonical_class": "5",
+      "unit_value": "e",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 63,
+      "line": 2,
+      "group_id": "L02G01",
+      "position": 1,
+      "source_label": "f",
+      "refined_source_label": "f",
+      "canonical_class": "f",
+      "unit_value": "v",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 64,
+      "line": 2,
+      "group_id": "L02G01",
+      "position": 2,
+      "source_label": "g",
+      "refined_source_label": "V007_OPEN_LOWER_HOOK",
+      "canonical_class": "9",
+      "unit_value": "z",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 65,
+      "line": 2,
+      "group_id": "L02G01",
+      "position": 3,
+      "source_label": "b",
+      "refined_source_label": "b",
+      "canonical_class": "b",
+      "unit_value": "p",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 66,
+      "line": 2,
+      "group_id": "L02G01",
+      "position": 4,
+      "source_label": "3",
+      "refined_source_label": "3",
+      "canonical_class": "3",
+      "unit_value": "o",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 67,
+      "line": 2,
+      "group_id": "L02G01",
+      "position": 5,
+      "source_label": "n",
+      "refined_source_label": "n",
+      "canonical_class": "n",
+      "unit_value": "m",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 68,
+      "line": 2,
+      "group_id": "L02G01",
+      "position": 6,
+      "source_label": "4",
+      "refined_source_label": "4",
+      "canonical_class": "4",
+      "unit_value": "i",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 69,
+      "line": 2,
+      "group_id": "L02G01",
+      "position": 7,
+      "source_label": "m",
+      "refined_source_label": "m",
+      "canonical_class": "m",
+      "unit_value": "n",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 70,
+      "line": 2,
+      "group_id": "L02G01",
+      "position": 8,
+      "source_label": "6",
+      "refined_source_label": "6",
+      "canonical_class": "6",
+      "unit_value": "a",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 71,
+      "line": 2,
+      "group_id": "L02G01",
+      "position": 9,
+      "source_label": "7",
+      "refined_source_label": "7",
+      "canonical_class": "7",
+      "unit_value": "j",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 72,
+      "line": 2,
+      "group_id": "L02G01",
+      "position": 10,
+      "source_label": "4",
+      "refined_source_label": "4",
+      "canonical_class": "4",
+      "unit_value": "i",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 73,
+      "line": 2,
+      "group_id": "L02G01",
+      "position": 11,
+      "source_label": "DELTA",
+      "refined_source_label": "DELTA",
+      "canonical_class": "s",
+      "unit_value": "c",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 74,
+      "line": 2,
+      "group_id": "L02G01",
+      "position": 12,
+      "source_label": "4",
+      "refined_source_label": "4",
+      "canonical_class": "4",
+      "unit_value": "i",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 75,
+      "line": 2,
+      "group_id": "L02G02",
+      "position": 1,
+      "source_label": "b",
+      "refined_source_label": "b",
+      "canonical_class": "b",
+      "unit_value": "p",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 76,
+      "line": 2,
+      "group_id": "L02G02",
+      "position": 2,
+      "source_label": "5",
+      "refined_source_label": "5",
+      "canonical_class": "5",
+      "unit_value": "e",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 77,
+      "line": 2,
+      "group_id": "L02G02",
+      "position": 3,
+      "source_label": "b",
+      "refined_source_label": "b",
+      "canonical_class": "b",
+      "unit_value": "p",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 78,
+      "line": 2,
+      "group_id": "L02G02",
+      "position": 4,
+      "source_label": "3",
+      "refined_source_label": "3",
+      "canonical_class": "3",
+      "unit_value": "o",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 79,
+      "line": 2,
+      "group_id": "L02G02",
+      "position": 5,
+      "source_label": "2",
+      "refined_source_label": "2",
+      "canonical_class": "2",
+      "unit_value": "u",
+      "known_unit_roundtrip": true
+    },
+    {
+      "index": 80,
+      "line": 2,
+      "group_id": "L02G02",
+      "position": 6,
+      "source_label": "O0",
+      "refined_source_label": "O0",
+      "canonical_class": null,
+      "unit_value": null,
+      "known_unit_roundtrip": false
+    }
+  ],
+  "groups": [
+    {
+      "line": 1,
+      "group_id": "L01G01",
+      "source_labels": [
+        "c",
+        "f",
+        "5"
+      ],
+      "unit_values": [
+        "s",
+        "v",
+        "e"
+      ],
+      "text": "sve",
+      "events_after": []
+    },
+    {
+      "line": 1,
+      "group_id": "L01G02",
+      "source_labels": [
+        "8",
+        "4",
+        "p",
+        "5",
+        "g",
+        "m",
+        "5"
+      ],
+      "unit_values": [
+        "l",
+        "i",
+        "b",
+        "e",
+        "z",
+        "n",
+        "e"
+      ],
+      "text": "libezne",
+      "events_after": [
+        ","
+      ]
+    },
+    {
+      "line": 1,
+      "group_id": "L01G03",
+      "source_labels": [
+        "c",
+        "8",
+        "6",
+        "t",
+        "g",
+        "5"
+      ],
+      "unit_values": [
+        "s",
+        "l",
+        "a",
+        "d",
+        "k",
+        "e"
+      ],
+      "text": "sladke",
+      "events_after": []
+    },
+    {
+      "line": 1,
+      "group_id": "L01G04",
+      "source_labels": [
+        "n",
+        "4",
+        "8",
+        "5",
+        "m",
+        "DELTA",
+        "5"
+      ],
+      "unit_values": [
+        "m",
+        "i",
+        "l",
+        "e",
+        "n",
+        "c",
+        "e"
+      ],
+      "text": "milence",
+      "events_after": []
+    },
+    {
+      "line": 1,
+      "group_id": "L01G05",
+      "source_labels": [
+        "t",
+        "8",
+        "3",
+        "2",
+        "r",
+        "3",
+        "2"
+      ],
+      "unit_values": [
+        "d",
+        "l",
+        "o",
+        "u",
+        "h",
+        "o",
+        "u"
+      ],
+      "text": "dlouhou",
+      "events_after": [
+        ","
+      ]
+    },
+    {
+      "line": 1,
+      "group_id": "L01G06",
+      "source_labels": [
+        "f",
+        "h",
+        "5",
+        "8",
+        "3",
+        "2"
+      ],
+      "unit_values": [
+        "v",
+        "r",
+        "e",
+        "l",
+        "o",
+        "u"
+      ],
+      "text": "vrelou",
+      "events_after": [
+        ","
+      ]
+    },
+    {
+      "line": 1,
+      "group_id": "L01G07",
+      "source_labels": [
+        "f",
+        "6",
+        "c",
+        "m",
+        "4",
+        "f",
+        "3",
+        "2"
+      ],
+      "unit_values": [
+        "v",
+        "a",
+        "s",
+        "n",
+        "i",
+        "v",
+        "o",
+        "u"
+      ],
+      "text": "vasnivou",
+      "events_after": []
+    },
+    {
+      "line": 1,
+      "group_id": "L01G08",
+      "source_labels": [
+        "b",
+        "2",
+        "c",
+        "2"
+      ],
+      "unit_values": [
+        "p",
+        "u",
+        "s",
+        "u"
+      ],
+      "text": "pusu",
+      "events_after": []
+    },
+    {
+      "line": 1,
+      "group_id": "L01G09",
+      "source_labels": [
+        "b",
+        "3",
+        "c",
+        "4",
+        "8",
+        "6"
+      ],
+      "unit_values": [
+        "p",
+        "o",
+        "s",
+        "i",
+        "l",
+        "a"
+      ],
+      "text": "posila",
+      "events_after": []
+    },
+    {
+      "line": 1,
+      "group_id": "L01G10",
+      "source_labels": [
+        "d",
+        "3",
+        "2",
+        "g",
+        "5",
+        "p",
+        "m",
+        "5"
+      ],
+      "unit_values": [
+        "t",
+        "o",
+        "u",
+        "z",
+        "e",
+        "b",
+        "n",
+        "e"
+      ],
+      "text": "touzebne",
+      "events_after": []
+    },
+    {
+      "line": 2,
+      "group_id": "L02G01",
+      "source_labels": [
+        "f",
+        "g",
+        "b",
+        "3",
+        "n",
+        "4",
+        "m",
+        "6",
+        "7",
+        "4",
+        "DELTA",
+        "4"
+      ],
+      "unit_values": [
+        "v",
+        "z",
+        "p",
+        "o",
+        "m",
+        "i",
+        "n",
+        "a",
+        "j",
+        "i",
+        "c",
+        "i"
+      ],
+      "text": "vzpominajici",
+      "events_after": []
+    },
+    {
+      "line": 2,
+      "group_id": "L02G02",
+      "source_labels": [
+        "b",
+        "5",
+        "b",
+        "3",
+        "2",
+        "O0"
+      ],
+      "unit_values": [
+        "p",
+        "e",
+        "p",
+        "o",
+        "u",
+        "[UNMAPPED:O0]"
+      ],
+      "text": "pepou[UNMAPPED:O0]",
+      "events_after": [
+        "."
+      ]
+    }
+  ],
+  "unknown_positions": [
+    80
+  ],
+  "key_refit": false,
+  "frozen_source_overwrites": 0,
+  "pre_application_source_refinements": [
+    {
+      "index": 8,
+      "original_source_label": "g",
+      "refined_source_label": "V007_OPEN_LOWER_HOOK",
+      "old_raw_class": "9",
+      "evidence": "rounded upper bowl plus open lower hook"
+    },
+    {
+      "index": 15,
+      "original_source_label": "g",
+      "refined_source_label": "V007_CLOSED_LOWER_LOOP",
+      "old_raw_class": "g",
+      "evidence": "rounded upper bowl plus separately enclosed descending lower loop"
+    },
+    {
+      "index": 58,
+      "original_source_label": "g",
+      "refined_source_label": "V007_OPEN_LOWER_HOOK",
+      "old_raw_class": "9",
+      "evidence": "rounded upper bowl plus long open lower hooked tail; expanded pixels include full tail"
+    },
+    {
+      "index": 64,
+      "original_source_label": "g",
+      "refined_source_label": "V007_OPEN_LOWER_HOOK",
+      "old_raw_class": "9",
+      "evidence": "rounded upper bowl plus open lower left-turning hook"
+    }
+  ],
+  "language_completion": false,
+  "cipher_solved": false,
+  "full_historical_reading_confirmed": false
+}

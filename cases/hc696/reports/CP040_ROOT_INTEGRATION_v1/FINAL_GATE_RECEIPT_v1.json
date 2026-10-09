@@ -1,0 +1,135 @@
+{
+  "independent_replay_payloads": [
+    {
+      "path": "reports/independent_target_replay_v1/INDEPENDENT_REPLAY_REPORT.md",
+      "sha256": "022622b6efc17cd952f46fe3d0cf771b8b74494accc4218318699634082159bb"
+    },
+    {
+      "path": "reports/independent_target_replay_v1/alternative_replay_audit_v1.json",
+      "sha256": "93bc9dcc1f340b87a0bc6f67bea78a37b1a768aeff1f758f1565f33ede4d7c47"
+    },
+    {
+      "path": "reports/independent_target_replay_v1/equivalent_key_spellings_64.txt",
+      "sha256": "6c3d3e7597a09a471e046e66dad39add1a93f1bdbf3b2a3197827b6d5fda6684"
+    },
+    {
+      "path": "reports/independent_target_replay_v1/independent_replay.py",
+      "sha256": "53e7774e05c3b058e04383503d31cc9b6d69f9a346f710c0699a36800f601615"
+    },
+    {
+      "path": "reports/independent_target_replay_v1/independent_replay_results_v1.json",
+      "sha256": "915b2d564f5344052bf2b6aa82c138fd594884972e771072fd85ceeb4277168b"
+    },
+    {
+      "path": "reports/independent_target_replay_v1/method_seal_recheck_v1.json",
+      "sha256": "5921184afb1c8826411b60442e6e9d9755c016dd800751099178615431ad4e1c"
+    },
+    {
+      "path": "reports/independent_target_replay_v1/occurrence_certificate_v1.json",
+      "sha256": "1a5a71954d953bf8fd89e42769d7d400b8f5b6a8813ca539f6e12844fe4c846d"
+    },
+    {
+      "path": "reports/independent_target_replay_v1/occurrence_certificate_v1.tsv",
+      "sha256": "c297def8fe3b8719ff3a94345a5e4e3ca4aa09002efd659045cb611038527318"
+    },
+    {
+      "path": "reports/independent_target_replay_v1/plaintext_at_source_layout.txt",
+      "sha256": "28b186e8879ad4adaf6b4b6579e33e5720460aaecd5639bc9d70c5714efa1ead"
+    },
+    {
+      "path": "reports/independent_target_replay_v1/plaintext_stream.txt",
+      "sha256": "943dc88b04d0d6d7630e3ab0cfd30b9538572c4d7b41c9c149250aeb149ae8bf"
+    },
+    {
+      "path": "reports/independent_target_replay_v1/replay_inputs_v1.json",
+      "sha256": "4d07d1669b01356cfadc9e9c82a03b18a0be1c4db4519e728024ee582d25f9b9"
+    },
+    {
+      "path": "reports/independent_target_replay_v1/replayed_cipher_at_source_layout.txt",
+      "sha256": "033d1ac7d84a923e9fc282c2c28faf650ea6b1916a8e544fd53e9dce526b9c98"
+    },
+    {
+      "path": "reports/independent_target_replay_v1/segmented_reading_spaces_only.txt",
+      "sha256": "31649acb687a80e6068a9e4890f1a4a8706738091bc28eaf0c76d4bc1d039450"
+    },
+    {
+      "path": "reports/independent_target_replay_v1/source_layout_and_events_preserved_v1.json",
+      "sha256": "e33c7daf3b357c883d2451da0079433dcd47290c2a95405a2378c37189c8196b"
+    },
+    {
+      "path": "reports/independent_target_replay_v1/source_search_negative_v1.json",
+      "sha256": "8fa72266fec828b7b61e45fce870a4bf20895ffbbeb166f2af992ce14f06d141"
+    },
+    {
+      "path": "reports/independent_target_replay_v1/sources/battle_experiences_eto_mirror.pdf.incomplete",
+      "sha256": "b9a90ba1c80e1d25850e47594ceb0ebf02c555a57aa6616af858bb191943fc3f"
+    },
+    {
+      "path": "reports/independent_target_replay_v1/typed_underlayer_hold_v1.json",
+      "sha256": "2af3394384b99338395a9bda1b0555535c7cbf038cebb30c3d064f359a1413e1"
+    },
+    {
+      "path": "reports/independent_target_replay_v1/word_segmentation_audit_v1.json",
+      "sha256": "3e40e8b6b9f17d22b73b4a7683050e75018fa7030fb5def3b6b9b6b32a9f4a34"
+    }
+  ],
+  "source_audit": {
+    "status": "PASS_SOURCE_FILE_BYTES_AND_ALL180_LETTERS",
+    "audit_files": 36,
+    "source_inputs": 3,
+    "equal_final_visible_letters": 180,
+    "hidden_typed_identities_held": 5,
+    "no_algorithm_or_candidate_exposure_by_auditor": true,
+    "independent_source_audit_manifest_sha256": "7975437d5a709b751c8e9d8033f71637947a11ec3e6c9b4e4b28d7879380c604",
+    "timing": "ownsourcefreeze beforeownprimaryledgerread; globalbeforeprogramoutputnotasserted"
+  },
+  "independent_replay": {
+    "status": "PASS_VISIBLE_FINAL_EXACT_REPLAY",
+    "observed_letters": 180,
+    "accounted_positions": 180,
+    "vertical_pairs": 90,
+    "period": 6,
+    "effective_slides": [
+      7,
+      0,
+      8,
+      5,
+      2,
+      8
+    ],
+    "key_representative": "OAQKEQ",
+    "exact_forward_position_matches": 180,
+    "source_edits": 0,
+    "unassigned_replay_fields": 0,
+    "exceptions_used": 0,
+    "primary_method_hashes_unchanged": 8,
+    "input_hashes_before_and_after_unchanged": true,
+    "equivalent_key_spellings": 64,
+    "occluded_typed_underlayers_unidentified": 5,
+    "all_retained_search_candidates_independently_replayed": 175,
+    "single_slide_mutations_rejected_for_fixed_reading": 72,
+    "fixed_reading_compatible_periods_1_to_20": [
+      6
+    ],
+    "x_positions": [
+      95,
+      180
+    ],
+    "plaintext_sha256": "e76ff0546e96a2badb545e201804845d7e2d8f4b1bc11513d684b4e91f606f24"
+  },
+  "root_exact_checker": "PASS180",
+  "meaningful_release_integrity_tests": "6PASSinclplaintext/key/source/certificate/holdtamperreject",
+  "null_reference": {
+    "status": "COMPLETE_REGISTERED_MATCHED_NULL_REFERENCE",
+    "null_count": 19,
+    "exceed_target": 0,
+    "finite_empirical_tail_with_plus_one": 0.05,
+    "target_penalised_score": -1862.20197966,
+    "max_null_penalised_score": -2592.88736176,
+    "gap_to_best_null": 730.6853821000002,
+    "interpretation": "RankingstatisticforregisteredPORTAXperiodpanel/optimizer; overlappingquadgramsnotlikelihoodandnotprobabilityoriginalplaintext/historicaltruth. No globalmodel/keyuniquenessclaim.",
+    "same_search_budget_each": true,
+    "same_model_binary_seed_each": true
+  },
+  "scope": "Complete final visibleciphertext reading only; earlier five typedglyphs remainunidentified; no globaluniqueness,originalanswer/keyspelling/historicalpriority/outsideexpertclaim"
+}

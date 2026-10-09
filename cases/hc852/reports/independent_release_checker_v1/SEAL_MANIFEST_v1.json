@@ -1,0 +1,249 @@
+{
+  "sealed_at_utc": "2026-10-05T22:09:03.097227+00:00",
+  "scope": "Purestdlib read-only portable checker/config/receipts/minimal image-free trial, no actual release manifest/PDF audit",
+  "status": "PASS_READONLY_CHECKER_AND_INTEGRITY_CONTROLS",
+  "artifacts": [
+    {
+      "path": "scripts/check_hc852_release_v1.py",
+      "bytes": 22244,
+      "sha256": "d88acfe3d3635e9a56e5014c53c38fdc7c8fc97e409bdad871b75a19eaa7644a"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/BEFORE_FIRST_CHECKER_RUN_v1.json",
+      "bytes": 570,
+      "sha256": "1fa347b3b2174043ad7a4043acd0f74c26cdaf2f6a3dfabd69d7b160277b8a5a"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/BEFORE_README_CONTEXT_AMENDMENT_EXPECTATIONS_v1.json",
+      "bytes": 123172,
+      "sha256": "6a6c6e7bc717ade53729448fba73ba9d1513403e2fb705339a29b3f52d893ef7"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/CHECKER_API_DEPENDENCIES_AND_HASH_RECEIPT_v1.json",
+      "bytes": 982,
+      "sha256": "41f45560bac07198f21a1501961a02a152cd94b479b8cfe8eb7c11b5e645b162"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/CHECKER_EXPECTATIONS_v1.json",
+      "bytes": 123833,
+      "sha256": "68574a7aa0188f7cd2abce9a961f4560d7e6bcb89acbe64f50611ff6399b8d27"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/CLEAN_IMAGE_FREE_PACKAGE_TRIAL_v1.json",
+      "bytes": 115555,
+      "sha256": "368a07e409257f2f3c139be2da90fbaef73908590b9a0b5fcfb17b19629b6cf7"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/DEFAULT_EXECUTION_RECEIPT_v1.json",
+      "bytes": 2914,
+      "sha256": "08e4ce387079d219f4faeece510a606055c48d0df2f4ef7aa2c831e1ec9a2554"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/INTEGRITY_EXECUTION_RECEIPT_v1.json",
+      "bytes": 4643,
+      "sha256": "d5d7c8342b897279bf85e7a6610741505774a31ef769a26874186b5ba085253d"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/LIVE_PINNED_INPUTS_NO_MUTATION_v1.json",
+      "bytes": 9882,
+      "sha256": "4f11761cef606beef3dc761573a034a6b1716219d51902eaddf2f371f2e449d8"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/READ_ONLY_CHECKER_VERIFICATION_REPORT_v1.md",
+      "bytes": 2818,
+      "sha256": "6269a3c6d5f0a47818422b30c32d34f36f9f266219b78c6b6761b080a20213ab"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/READ_ONLY_SCHEMA_INSPECTION_FAILURE_v1.json",
+      "bytes": 274,
+      "sha256": "a7e3a05f30b15165f713ab95a15db57837a0258fdf380d3a91011c417c19bfab"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/REGISTRATION_v1.json",
+      "bytes": 1169,
+      "sha256": "49801da0debaded15da2bd67708a9e97d75808226f34f3000387d316e2f22a95"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/config/TARGET_METHOD_REGISTRATION_v1.json",
+      "bytes": 1524,
+      "sha256": "2b1fb46af387ef92608b2218437a3079e77135bd700defec6eacb78bc1e2c4bd"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/data/cold_source_v1/NATIVE_ATLAS_PROVENANCE_v1.json",
+      "bytes": 107765,
+      "sha256": "f9fbec7aabed6e9c2712bca29097e773c154e97d4ac51807115e1f47c3fffaa7"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/data/cold_source_v1/NOTEBOOK_ARRAY_v1.json",
+      "bytes": 82907,
+      "sha256": "63610ebcbced7075ebb3df46f9cd2173c108d7077ba2934d23ced9b9dcfddd21"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/data/cold_source_v1/NOTEBOOK_GROUPED_COPY_v1.json",
+      "bytes": 93086,
+      "sha256": "c3ba6604f1551baa132bc1b62d7c217aba899f373ea6c7a6f0e206e8222ffcfe"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/data/cold_source_v1/ORIGINAL_INPUT_IDENTITY_v1.json",
+      "bytes": 651,
+      "sha256": "84e4762fc7bc9610e1910413c935e2b789b39baefa4f3ad96b5a2743ec912cee"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/data/cold_source_v1/OVERVIEW_CROP_PROVENANCE_v1.json",
+      "bytes": 5008,
+      "sha256": "7dfdec6fe93ab6114faa6ec4929e90d6767bde6b89f83859759355389e016ae8"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/data/cold_source_v1/PHYSICAL_KEY_v1.json",
+      "bytes": 88211,
+      "sha256": "dee1c666273834ffa453f3d539d4b9ad07c8979cd06fccb82bca6f281881b8d4"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/data/cold_source_v1/SOURCE_MARKS_AND_EXTENT_v1.json",
+      "bytes": 19798,
+      "sha256": "18cc0560bb36a69cd40618dd9907159456ae51d84e9d30ac5145a70fb73da449"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/data/cold_source_v1/SUPPLEMENTAL_CROP_PROVENANCE_v1.json",
+      "bytes": 4570,
+      "sha256": "85b3d1dab78db27fb5e55eac22ed9158e0c61ffeb55da3491961f486bb99aa54"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/data/cold_source_v1/TYPED_CURRENT_v1.json",
+      "bytes": 90591,
+      "sha256": "61ebaedc713a8c76af8c6c9e673559ace0ab0854da24223e4609aeadf72b0965"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/reports/cold_source_v1/EXPOSURE_CHRONOLOGY_v1.json",
+      "bytes": 1509,
+      "sha256": "6a5e04c6a3d1152c6a8c54cb741428673388669f9f47c3db9ad3f967747c4dff"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/reports/cold_source_v1/MANIFEST_v1.json",
+      "bytes": 15065,
+      "sha256": "a2dcab38ce4a18830cd4825ed1ea8c967d7ffba33500642dad30ee90e4d9c6e6"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/reports/cold_source_v1/SEAL_v1.json",
+      "bytes": 375,
+      "sha256": "4d6a86a1f5a36a3bd816c0cec8218e223093d5fc53f7310c793f723e571073d6"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/reports/independent_candidate_audit_v1/ALL_79_FIXED_LITERAL_FINITE_CONTROLS_v1.json",
+      "bytes": 138535,
+      "sha256": "ef9347b09f56ec9f5b6a53085af95250517741249188e7070f4607d8bc9f9338"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/reports/independent_candidate_audit_v1/AUDIT_RESULTS_v1.json",
+      "bytes": 961,
+      "sha256": "5e44c7bbab6347a4c5478f2f36e0ddceb54f41e2fddb4440a398d7b291175124"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/reports/independent_candidate_audit_v1/INDEPENDENT_NATIVE_PIXEL_AND_VISUAL_AUDIT_v1.json",
+      "bytes": 190665,
+      "sha256": "d9af0161f741e9aa2c7c03dd2758e3fa488235f9acde6cd73736b59d977c4165"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/reports/independent_candidate_audit_v1/LITERAL_SPACES_ONLY_GLOSS_AND_SEMANTIC_HOLDS_v1.json",
+      "bytes": 1004,
+      "sha256": "8459a2a539ba4666c4b16c0e5e23d376ec09ea590c47faec9c11156e346c8eb1"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/reports/independent_candidate_audit_v1/OWN_2048_SOURCE_POSITION_CERTIFICATES_v1.json",
+      "bytes": 6806243,
+      "sha256": "8e02532b30f2063c9a5aa2610d9285adfd1d1e71ea1e7ba0a1a1ac25b54f851e"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/reports/independent_candidate_audit_v1/OWN_ALL_32_PROJECTIONS_v1.json",
+      "bytes": 14306,
+      "sha256": "44c2e7ee20eedcd9fee237b261811caa56acfced0ed21db698772edce8774554"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/reports/independent_candidate_audit_v1/POST_FREEZE_SECONDARY_COMPARISON_AND_HOLDS_v1.json",
+      "bytes": 637,
+      "sha256": "47a192899c4ef86b8a7c611be545c2197e541c87738c5cd59a777a7958d91679"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/reports/independent_candidate_audit_v1/SEAL_MANIFEST_v1.json",
+      "bytes": 3108,
+      "sha256": "25cc665d53712fc4ad1bf8189829c6ad18edb3565703f47e7c350766631cffaf"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/reports/independent_method_v1/REGISTRATION_v1.json",
+      "bytes": 2609,
+      "sha256": "92cb99cb9b8e2fef2453a69ce1389816bc8da1b792443c859680d78493f8da6c"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/reports/independent_method_v1/SEAL_MANIFEST_v1.json",
+      "bytes": 2367,
+      "sha256": "e2bd56bb75329042b1021174827d4846646e9b53994424907ff050b84e3bbd1d"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/reports/independent_release_checker_v1/CHECKER_EXPECTATIONS_v1.json",
+      "bytes": 123833,
+      "sha256": "68574a7aa0188f7cd2abce9a961f4560d7e6bcb89acbe64f50611ff6399b8d27"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/reports/pre_projection_context_replay_v1/CONTEXT_ONLY_REFERENCE_RECEIPT_v1.json",
+      "bytes": 839,
+      "sha256": "90504320f1ae09f7832fcc2760c86baa505b99b6b4151df2d7ccb5e89e2d2faf"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/reports/pre_projection_context_replay_v1/CP000_PROJECT_STATE_CONTEXT_SNAPSHOT_v1.json",
+      "bytes": 830,
+      "sha256": "1281fc8e66aecdf35da03783253ed2262a89f421114005d6d2e09b45a127f810"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/reports/pre_projection_context_replay_v1/CP000_README_CONTEXT_SNAPSHOT_v1.md",
+      "bytes": 755,
+      "sha256": "5068eab975dd32f3da6dad0f154fc1e1a1efd10b9aea11436868cfe16dbfee57"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/reports/registered_target_v1/ALL_32_REGISTERED_PROJECTIONS_v1.json",
+      "bytes": 14306,
+      "sha256": "44c2e7ee20eedcd9fee237b261811caa56acfced0ed21db698772edce8774554"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/reports/registered_target_v1/ALL_32_SOURCE_POSITION_CERTIFICATES_v1.json",
+      "bytes": 6806243,
+      "sha256": "8e02532b30f2063c9a5aa2610d9285adfd1d1e71ea1e7ba0a1a1ac25b54f851e"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/reports/registered_target_v1/PREFERRED_CURRENT_LAYER_LITERAL_v1.json",
+      "bytes": 420,
+      "sha256": "02f57f2e4db302713e741555dac1052a6eac281813c4c2438e16d4848d7922ea"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/reports/registered_target_v1/TARGET_RESULT_SEAL_v1.json",
+      "bytes": 1015,
+      "sha256": "6cf3893a2a50c4db8589a20f44948787202c0264efbb3b1ac62d00ba9fcb6be0"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/reports/root_method_v1/FOCUSED_SYNTHETIC_FIXTURES_v1.json",
+      "bytes": 326243,
+      "sha256": "fada8ba0c545f3f5f70dd4951eea3b32a46fa8c1427d48e397ed37018421e357"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/scripts/check_hc852_release_v1.py",
+      "bytes": 22244,
+      "sha256": "d88acfe3d3635e9a56e5014c53c38fdc7c8fc97e409bdad871b75a19eaa7644a"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/scripts/independent_grille_v1.py",
+      "bytes": 19484,
+      "sha256": "5c2d8c3bbf1f54ecf8c43583e0f7e8f875a167050ab12d7e4a393f230f095e16"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/sources/FRESH_HC852_METADATA_EXCERPT_v1.json",
+      "bytes": 1379,
+      "sha256": "802b22eabbd93524ab63686056e5872662e50c6ad345b19a99e22a71ab905ae0"
+    },
+    {
+      "path": "reports/independent_release_checker_v1/clean_image_free_trial_v1/sources/PARENT_NETWORK_RECEIPT_REFERENCE_v1.json",
+      "bytes": 1037,
+      "sha256": "4a9889298a779bf03ef2886ad466768717962c32b7b1bf03f53699335c798548"
+    }
+  ],
+  "self_excluded": true,
+  "source_method_candidate_seals_unchanged": true
+}

@@ -1,0 +1,12 @@
+{
+  "compared_utc": "2026-10-05T20:05:28.452574+00:00",
+  "status": "PASS",
+  "both_generic_methods_sealed_before_comparison": true,
+  "root_fixtures_compared": 3200,
+  "actual_target_read_by_script": false,
+  "peer_manifest": "reports/independent_method_v1/SEAL_MANIFEST_v1.json",
+  "peer_manifest_sha256": "5cfbb7eceb3f217ad94dd56bf776df1ea06b5ed82bc34cd5c162a40388ff11f8",
+  "peer_artifacts_verified": 13,
+  "peer_code_sha256": "5c2d8c3bbf1f54ecf8c43583e0f7e8f875a167050ab12d7e4a393f230f095e16",
+  "initial_manifest_adapter_failure": "KeyError:path; actualmanifestusesrelative_path; failedbeforepeerimport/comparisons; no sourcemutations or targetdecode"
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "kind": "API",
+    "url": "https://api.hcportal.eu/api/cryptograms/849",
+    "started_utc": "2026-10-05T19:35:55.423436+00:00",
+    "completed_utc": "2026-10-05T19:35:58.216885+00:00",
+    "status": 466,
+    "error": "HTTP Error 466: ",
+    "path": "raw/API_error.bin",
+    "bytes": 2541,
+    "sha256": "dd8b9b9c18b2c80e19165a97ecfc91844c9e143edd95b292e575718c8f2c63c4",
+    "attempts": 1
+  },
+  {
+    "kind": "original1",
+    "url": "https://api.hcportal.eu/media/2503/59451685309807.jpg",
+    "started_utc": "2026-10-05T19:35:55.423880+00:00",
+    "completed_utc": "2026-10-05T19:36:00.155433+00:00",
+    "status": 200,
+    "error": null,
+    "path": "raw/HC849_original_1.jpg",
+    "bytes": 704837,
+    "sha256": "0b06c69eb1db23fd216aac4f389c5119eb5e2d64669f07b1b403d374a690c061",
+    "attempts": 1
+  },
+  {
+    "kind": "original2",
+    "url": "https://api.hcportal.eu/media/2504/89001685309807.jpg",
+    "started_utc": "2026-10-05T19:35:55.424108+00:00",
+    "completed_utc": "2026-10-05T19:36:06.247296+00:00",
+    "status": 200,
+    "error": null,
+    "path": "raw/HC849_original_2.jpg",
+    "bytes": 3149977,
+    "sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+    "attempts": 1
+  },
+  {
+    "kind": "original3",
+    "url": "https://api.hcportal.eu/media/2505/93691685309807.jpg",
+    "started_utc": "2026-10-05T19:35:55.424295+00:00",
+    "completed_utc": "2026-10-05T19:36:00.791933+00:00",
+    "status": 200,
+    "error": null,
+    "path": "raw/HC849_original_3.jpg",
+    "bytes": 673572,
+    "sha256": "c3751e509ee34ab5a934d19912adfd22c24daee46fad6e8ee921a6dd127032bb",
+    "attempts": 1
+  }
+]

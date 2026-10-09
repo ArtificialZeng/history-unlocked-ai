@@ -1,0 +1,418 @@
+[
+  {
+    "id": "a0_d-1_hrow-major_crow-major",
+    "settings": {
+      "start": 0,
+      "direction": -1,
+      "hole_scan": "row-major",
+      "cipher_order": "row-major"
+    },
+    "plaintext_literal": "HISKTTSNTEIALZCTETAMPTZUSRIAHEMTUHDSRIENSEITLDMCTEMIRSIWEDEKOIES",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a0_d-1_hrow-major_ccolumn-major",
+    "settings": {
+      "start": 0,
+      "direction": -1,
+      "hole_scan": "row-major",
+      "cipher_order": "column-major"
+    },
+    "plaintext_literal": "DIEKOMUNISTISCHEPARTEIIMWESTDEUTSCHLANDISTIMLETZTEMZEITSEHRSTARK",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": true
+  },
+  {
+    "id": "a0_d-1_hcolumn-major_crow-major",
+    "settings": {
+      "start": 0,
+      "direction": -1,
+      "hole_scan": "column-major",
+      "cipher_order": "row-major"
+    },
+    "plaintext_literal": "SCHELKNISTITTATZPAZEAITSMHMRTEUTDIRTNMUDISLSECHETEMEIOIEWESISDRK",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a0_d-1_hcolumn-major_ccolumn-major",
+    "settings": {
+      "start": 0,
+      "direction": -1,
+      "hole_scan": "column-major",
+      "cipher_order": "column-major"
+    },
+    "plaintext_literal": "UHDSSKNTEEIIOIMCETIPRSIWUDTEAEMTHIAMITSENSLLDZCTTEMRTTZESRIAKHES",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a0_d1_hrow-major_crow-major",
+    "settings": {
+      "start": 0,
+      "direction": 1,
+      "hole_scan": "row-major",
+      "cipher_order": "row-major"
+    },
+    "plaintext_literal": "HISKTTSNTEIALZCTTEMIRSIWEDEKOIESUHDSRIENSEITLDMCETAMPTZUSRIAHEMT",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a0_d1_hrow-major_ccolumn-major",
+    "settings": {
+      "start": 0,
+      "direction": 1,
+      "hole_scan": "row-major",
+      "cipher_order": "column-major"
+    },
+    "plaintext_literal": "DIEKOMUNISTISCHETEMZEITSEHRSTARKSCHLANDISTIMLETZPARTEIIMWESTDEUT",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a0_d1_hcolumn-major_crow-major",
+    "settings": {
+      "start": 0,
+      "direction": 1,
+      "hole_scan": "column-major",
+      "cipher_order": "row-major"
+    },
+    "plaintext_literal": "SCHELKNISTITTATZTEMEIOIEWESISDRKDIRTNMUDISLSECHEPAZEAITSMHMRTEUT",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a0_d1_hcolumn-major_ccolumn-major",
+    "settings": {
+      "start": 0,
+      "direction": 1,
+      "hole_scan": "column-major",
+      "cipher_order": "column-major"
+    },
+    "plaintext_literal": "UHDSSKNTEEIIOIMCTEMRTTZESRIAKHESHIAMITSENSLLDZCTETIPRSIWUDTEAEMT",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a1_d-1_hrow-major_crow-major",
+    "settings": {
+      "start": 1,
+      "direction": -1,
+      "hole_scan": "row-major",
+      "cipher_order": "row-major"
+    },
+    "plaintext_literal": "TEMIRSIWEDEKOIESHISKTTSNTEIALZCTETAMPTZUSRIAHEMTUHDSRIENSEITLDMC",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a1_d-1_hrow-major_ccolumn-major",
+    "settings": {
+      "start": 1,
+      "direction": -1,
+      "hole_scan": "row-major",
+      "cipher_order": "column-major"
+    },
+    "plaintext_literal": "TEMZEITSEHRSTARKDIEKOMUNISTISCHEPARTEIIMWESTDEUTSCHLANDISTIMLETZ",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a1_d-1_hcolumn-major_crow-major",
+    "settings": {
+      "start": 1,
+      "direction": -1,
+      "hole_scan": "column-major",
+      "cipher_order": "row-major"
+    },
+    "plaintext_literal": "TEMEIOIEWESISDRKSCHELKNISTITTATZPAZEAITSMHMRTEUTDIRTNMUDISLSECHE",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a1_d-1_hcolumn-major_ccolumn-major",
+    "settings": {
+      "start": 1,
+      "direction": -1,
+      "hole_scan": "column-major",
+      "cipher_order": "column-major"
+    },
+    "plaintext_literal": "TEMRTTZESRIAKHESUHDSSKNTEEIIOIMCETIPRSIWUDTEAEMTHIAMITSENSLLDZCT",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a1_d1_hrow-major_crow-major",
+    "settings": {
+      "start": 1,
+      "direction": 1,
+      "hole_scan": "row-major",
+      "cipher_order": "row-major"
+    },
+    "plaintext_literal": "TEMIRSIWEDEKOIESUHDSRIENSEITLDMCETAMPTZUSRIAHEMTHISKTTSNTEIALZCT",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a1_d1_hrow-major_ccolumn-major",
+    "settings": {
+      "start": 1,
+      "direction": 1,
+      "hole_scan": "row-major",
+      "cipher_order": "column-major"
+    },
+    "plaintext_literal": "TEMZEITSEHRSTARKSCHLANDISTIMLETZPARTEIIMWESTDEUTDIEKOMUNISTISCHE",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a1_d1_hcolumn-major_crow-major",
+    "settings": {
+      "start": 1,
+      "direction": 1,
+      "hole_scan": "column-major",
+      "cipher_order": "row-major"
+    },
+    "plaintext_literal": "TEMEIOIEWESISDRKDIRTNMUDISLSECHEPAZEAITSMHMRTEUTSCHELKNISTITTATZ",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a1_d1_hcolumn-major_ccolumn-major",
+    "settings": {
+      "start": 1,
+      "direction": 1,
+      "hole_scan": "column-major",
+      "cipher_order": "column-major"
+    },
+    "plaintext_literal": "TEMRTTZESRIAKHESHIAMITSENSLLDZCTETIPRSIWUDTEAEMTUHDSSKNTEEIIOIMC",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a2_d-1_hrow-major_crow-major",
+    "settings": {
+      "start": 2,
+      "direction": -1,
+      "hole_scan": "row-major",
+      "cipher_order": "row-major"
+    },
+    "plaintext_literal": "UHDSRIENSEITLDMCTEMIRSIWEDEKOIESHISKTTSNTEIALZCTETAMPTZUSRIAHEMT",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a2_d-1_hrow-major_ccolumn-major",
+    "settings": {
+      "start": 2,
+      "direction": -1,
+      "hole_scan": "row-major",
+      "cipher_order": "column-major"
+    },
+    "plaintext_literal": "SCHLANDISTIMLETZTEMZEITSEHRSTARKDIEKOMUNISTISCHEPARTEIIMWESTDEUT",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a2_d-1_hcolumn-major_crow-major",
+    "settings": {
+      "start": 2,
+      "direction": -1,
+      "hole_scan": "column-major",
+      "cipher_order": "row-major"
+    },
+    "plaintext_literal": "DIRTNMUDISLSECHETEMEIOIEWESISDRKSCHELKNISTITTATZPAZEAITSMHMRTEUT",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a2_d-1_hcolumn-major_ccolumn-major",
+    "settings": {
+      "start": 2,
+      "direction": -1,
+      "hole_scan": "column-major",
+      "cipher_order": "column-major"
+    },
+    "plaintext_literal": "HIAMITSENSLLDZCTTEMRTTZESRIAKHESUHDSSKNTEEIIOIMCETIPRSIWUDTEAEMT",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a2_d1_hrow-major_crow-major",
+    "settings": {
+      "start": 2,
+      "direction": 1,
+      "hole_scan": "row-major",
+      "cipher_order": "row-major"
+    },
+    "plaintext_literal": "UHDSRIENSEITLDMCETAMPTZUSRIAHEMTHISKTTSNTEIALZCTTEMIRSIWEDEKOIES",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a2_d1_hrow-major_ccolumn-major",
+    "settings": {
+      "start": 2,
+      "direction": 1,
+      "hole_scan": "row-major",
+      "cipher_order": "column-major"
+    },
+    "plaintext_literal": "SCHLANDISTIMLETZPARTEIIMWESTDEUTDIEKOMUNISTISCHETEMZEITSEHRSTARK",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a2_d1_hcolumn-major_crow-major",
+    "settings": {
+      "start": 2,
+      "direction": 1,
+      "hole_scan": "column-major",
+      "cipher_order": "row-major"
+    },
+    "plaintext_literal": "DIRTNMUDISLSECHEPAZEAITSMHMRTEUTSCHELKNISTITTATZTEMEIOIEWESISDRK",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a2_d1_hcolumn-major_ccolumn-major",
+    "settings": {
+      "start": 2,
+      "direction": 1,
+      "hole_scan": "column-major",
+      "cipher_order": "column-major"
+    },
+    "plaintext_literal": "HIAMITSENSLLDZCTETIPRSIWUDTEAEMTUHDSSKNTEEIIOIMCTEMRTTZESRIAKHES",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a3_d-1_hrow-major_crow-major",
+    "settings": {
+      "start": 3,
+      "direction": -1,
+      "hole_scan": "row-major",
+      "cipher_order": "row-major"
+    },
+    "plaintext_literal": "ETAMPTZUSRIAHEMTUHDSRIENSEITLDMCTEMIRSIWEDEKOIESHISKTTSNTEIALZCT",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a3_d-1_hrow-major_ccolumn-major",
+    "settings": {
+      "start": 3,
+      "direction": -1,
+      "hole_scan": "row-major",
+      "cipher_order": "column-major"
+    },
+    "plaintext_literal": "PARTEIIMWESTDEUTSCHLANDISTIMLETZTEMZEITSEHRSTARKDIEKOMUNISTISCHE",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a3_d-1_hcolumn-major_crow-major",
+    "settings": {
+      "start": 3,
+      "direction": -1,
+      "hole_scan": "column-major",
+      "cipher_order": "row-major"
+    },
+    "plaintext_literal": "PAZEAITSMHMRTEUTDIRTNMUDISLSECHETEMEIOIEWESISDRKSCHELKNISTITTATZ",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a3_d-1_hcolumn-major_ccolumn-major",
+    "settings": {
+      "start": 3,
+      "direction": -1,
+      "hole_scan": "column-major",
+      "cipher_order": "column-major"
+    },
+    "plaintext_literal": "ETIPRSIWUDTEAEMTHIAMITSENSLLDZCTTEMRTTZESRIAKHESUHDSSKNTEEIIOIMC",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a3_d1_hrow-major_crow-major",
+    "settings": {
+      "start": 3,
+      "direction": 1,
+      "hole_scan": "row-major",
+      "cipher_order": "row-major"
+    },
+    "plaintext_literal": "ETAMPTZUSRIAHEMTHISKTTSNTEIALZCTTEMIRSIWEDEKOIESUHDSRIENSEITLDMC",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a3_d1_hrow-major_ccolumn-major",
+    "settings": {
+      "start": 3,
+      "direction": 1,
+      "hole_scan": "row-major",
+      "cipher_order": "column-major"
+    },
+    "plaintext_literal": "PARTEIIMWESTDEUTDIEKOMUNISTISCHETEMZEITSEHRSTARKSCHLANDISTIMLETZ",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a3_d1_hcolumn-major_crow-major",
+    "settings": {
+      "start": 3,
+      "direction": 1,
+      "hole_scan": "column-major",
+      "cipher_order": "row-major"
+    },
+    "plaintext_literal": "PAZEAITSMHMRTEUTSCHELKNISTITTATZTEMEIOIEWESISDRKDIRTNMUDISLSECHE",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  },
+  {
+    "id": "a3_d1_hcolumn-major_ccolumn-major",
+    "settings": {
+      "start": 3,
+      "direction": 1,
+      "hole_scan": "column-major",
+      "cipher_order": "column-major"
+    },
+    "plaintext_literal": "ETIPRSIWUDTEAEMTUHDSSKNTEEIIOIMCTEMRTTZESRIAKHESHIAMITSENSLLDZCT",
+    "reencrypted_literal": "THEUEITHDMAISMSRPRKTISTTSZINWTEUEENSSRDEITIIELAKALODHIEZCEMMTSCT",
+    "exact_source_positions": 64,
+    "is_registered_preferred": false
+  }
+]

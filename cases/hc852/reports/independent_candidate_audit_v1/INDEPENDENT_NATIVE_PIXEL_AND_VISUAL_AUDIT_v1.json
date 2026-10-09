@@ -1,0 +1,6012 @@
+{
+  "verified_at_utc": "2026-10-05T21:51:34.665250+00:00",
+  "native_unit_pixel_checks": 261,
+  "primary_typed_units": 64,
+  "physical_key_cells": 64,
+  "secondary_units": 133,
+  "record_pixel_checks": [
+    {
+      "id": "T01",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        299,
+        300,
+        364,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_01.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        65,
+        193
+      ],
+      "native_RGB_sha256": "944a8cc844b2f8f063ddfdac262d7ee3ff620af91e27a147e43ad8fee1996a31",
+      "native_PNG_encoding_sha256": "8fbe4c022d69a68326591e6e8462d19b8a65c4c25e1a5844b3d0873da7db1bee",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T02",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        379,
+        300,
+        444,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_01.png",
+      "atlas_native_tile_xyxy": [
+        65,
+        28,
+        130,
+        193
+      ],
+      "native_RGB_sha256": "0b66000fa24942fcf3e00b8a1371f81f66209d4962b3c85d990666e51758de20",
+      "native_PNG_encoding_sha256": "473adb29013ee7f0cf0299861c7d593bcb5ff27a7b353c2275c4eab38ddaf311",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T03",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        454,
+        300,
+        519,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_01.png",
+      "atlas_native_tile_xyxy": [
+        130,
+        28,
+        195,
+        193
+      ],
+      "native_RGB_sha256": "5baf6aec9e8daffb1e667b82b4fc6c373ac09b6fb6692606573787b1e7f91e45",
+      "native_PNG_encoding_sha256": "122d2df3a365223fa9e9a6db2ac1b45b57b971b692c34f0e3e196bcd98efb1ea",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T04",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        524,
+        300,
+        589,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_01.png",
+      "atlas_native_tile_xyxy": [
+        195,
+        28,
+        260,
+        193
+      ],
+      "native_RGB_sha256": "53bca1fef83d50af075022594df5ad59f04f0daca2a28ca3cdaa734193621c3d",
+      "native_PNG_encoding_sha256": "cb8ed751f92637ac25e6af03e46894736785088fb3e253d08eaf637038e2de46",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T05",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        601,
+        300,
+        666,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_01.png",
+      "atlas_native_tile_xyxy": [
+        260,
+        28,
+        325,
+        193
+      ],
+      "native_RGB_sha256": "9fb4b3f5b4ad7ff6dffdd52707889c3717a17392e36c65912953f9a56c1f5c4e",
+      "native_PNG_encoding_sha256": "d8ada8a1f413fa676403d6437000ab3997254f591382da5441d8479a711da176",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T06",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        741,
+        300,
+        806,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_01.png",
+      "atlas_native_tile_xyxy": [
+        325,
+        28,
+        390,
+        193
+      ],
+      "native_RGB_sha256": "a97a962fcc6cb743881cfc7fc7bcd8027d7da93d85c9ae8082c4a1082dbf3b90",
+      "native_PNG_encoding_sha256": "f8be168bc35ca6ecd6a42ead215851afa6940f13f5438b54cc37c53483b02b2e",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T07",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        812,
+        300,
+        877,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_01.png",
+      "atlas_native_tile_xyxy": [
+        390,
+        28,
+        455,
+        193
+      ],
+      "native_RGB_sha256": "5321d84628020aab6ea7749f5a51dd20656a57b679b3b54b9f39abcf9389fe23",
+      "native_PNG_encoding_sha256": "23eaffce4b4067bf95f2fbc074eb1c23e620e981f40da2635aef1e2657822e1e",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T08",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        888,
+        300,
+        953,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_01.png",
+      "atlas_native_tile_xyxy": [
+        455,
+        28,
+        520,
+        193
+      ],
+      "native_RGB_sha256": "0f018d212a422c1f8929e8c28a849449a2f2608f9afe6d4a032be4df99085fbf",
+      "native_PNG_encoding_sha256": "ac8127be6f0c97535b647b4a83275bbd2785d0bf1c9f273e25a8589aa1e2c629",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T09",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        958,
+        300,
+        1023,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_02.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        65,
+        193
+      ],
+      "native_RGB_sha256": "32ad5d0036452b970f954f0f4cf61818f9ae5857b8d329021603ccb9a095d8ee",
+      "native_PNG_encoding_sha256": "c133f72b817042c5ef9abdcea8837cdf4a6dce5015a3ab7a86b4fb19a021cc9e",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T10",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        1033,
+        300,
+        1098,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_02.png",
+      "atlas_native_tile_xyxy": [
+        65,
+        28,
+        130,
+        193
+      ],
+      "native_RGB_sha256": "337f64d73708fb26f3a56a5181a47173fc96260578d6d41abb0738d93d81faaf",
+      "native_PNG_encoding_sha256": "922854eb8967d69aa97d493f4d16c3bbac848b24a24121423524fd728179d4a1",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T11",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        1178,
+        300,
+        1243,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_02.png",
+      "atlas_native_tile_xyxy": [
+        130,
+        28,
+        195,
+        193
+      ],
+      "native_RGB_sha256": "be9cb690b6abc72447951e56210ca068959c550ecbcd578db885274eee42f8d6",
+      "native_PNG_encoding_sha256": "578d91d1d28082ce93ae22cd82a8a42d82bede9d0ddcea5f9fd1acfd9710138b",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T12",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        1247,
+        300,
+        1312,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_02.png",
+      "atlas_native_tile_xyxy": [
+        195,
+        28,
+        260,
+        193
+      ],
+      "native_RGB_sha256": "97eb4b0bd0636da1b8159718951d299414c9e68393eeb2ac8550d295b4c99ebe",
+      "native_PNG_encoding_sha256": "adf6ff902d0ee7d6c2e077986e5aa481d26c02571043ef44f3a3ddb1d1d06e36",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T13",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        1318,
+        300,
+        1383,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_02.png",
+      "atlas_native_tile_xyxy": [
+        260,
+        28,
+        325,
+        193
+      ],
+      "native_RGB_sha256": "7d4cdd7e22fd02834f86b8e6f154aef2d2df5aec0bf907cbb4bc5f2401f3568d",
+      "native_PNG_encoding_sha256": "036b2cb281458666a4371afbf72401f4d9e9a2806321e213df0cba3b647f8fe6",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T14",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        1396,
+        300,
+        1461,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_02.png",
+      "atlas_native_tile_xyxy": [
+        325,
+        28,
+        390,
+        193
+      ],
+      "native_RGB_sha256": "0916bf259bd482faaac5701683c00682ccf380c04a4841923a50fe65ffa5b53f",
+      "native_PNG_encoding_sha256": "c2bb052a415ba1e24e5b6ae90831ef01bf94b892a55db85156d7326a521f3644",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T15",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        1468,
+        300,
+        1533,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_02.png",
+      "atlas_native_tile_xyxy": [
+        390,
+        28,
+        455,
+        193
+      ],
+      "native_RGB_sha256": "c058efd6a66920b998e031bef2bfd70ed5c5ba9fca8d35b578b07d50e63cebbd",
+      "native_PNG_encoding_sha256": "87226949f4782f8dd1a521c8c99d040b1628b7811b3de8d2ea8cf685b3cd1549",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T16",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        1604,
+        300,
+        1669,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_02.png",
+      "atlas_native_tile_xyxy": [
+        455,
+        28,
+        520,
+        193
+      ],
+      "native_RGB_sha256": "c234421cedfdb91faf1eb5347287f0d2c04c49daec4ac23e3c0cb46e2a719f2d",
+      "native_PNG_encoding_sha256": "02e14ded2d2be5e4eb359dac808e81a7d502872d4f996976f6370f9e8406611a",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T17",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        1676,
+        300,
+        1741,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_03.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        65,
+        193
+      ],
+      "native_RGB_sha256": "eddb5e3afa925f5bd8b071cd973912bb8d7b3ff342a9b71efd55522d0f8465c8",
+      "native_PNG_encoding_sha256": "48120667aaa6e81520dd1a2065b29636994a36e7b3397ed9182d2af8ca6066e5",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T18",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        1748,
+        300,
+        1813,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_03.png",
+      "atlas_native_tile_xyxy": [
+        65,
+        28,
+        130,
+        193
+      ],
+      "native_RGB_sha256": "6a8d0586986146ef001e53002d7bfbdfbd4ef9c776912fa995aa4d5ef2a92700",
+      "native_PNG_encoding_sha256": "5c28a72970481da313ac50ba64c0a0b64f95f96fdf708f088c1be1879ad54a8e",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T19",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        1816,
+        300,
+        1881,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_03.png",
+      "atlas_native_tile_xyxy": [
+        130,
+        28,
+        195,
+        193
+      ],
+      "native_RGB_sha256": "a4c5a0ec72e0c51488aaa58210038678e0c18768c32645c48ff5fd83032abb91",
+      "native_PNG_encoding_sha256": "8c8d32e533eef313cdc95fbc4ede95b0054263e505a98a967043f97a40d0da56",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T20",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        1888,
+        300,
+        1953,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_03.png",
+      "atlas_native_tile_xyxy": [
+        195,
+        28,
+        260,
+        193
+      ],
+      "native_RGB_sha256": "4ae9c005cf3e8657a7d4e6857e82dd0923ca4ae1d4987f2f72fa8e1b4a4f8668",
+      "native_PNG_encoding_sha256": "c3dd37cefdea5611c6092ea630193778fa34d294154dddc24d57d5cd25d8303c",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T21",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        2040,
+        300,
+        2085,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_03.png",
+      "atlas_native_tile_xyxy": [
+        260,
+        28,
+        305,
+        193
+      ],
+      "native_RGB_sha256": "0e4b702b8d50a016f951feeecd06bf00e25d3b2e90efb4436158b0c4023a2d5d",
+      "native_PNG_encoding_sha256": "5201c76295d5d2b2ac86152aa59ad795205e916ff0bf4cbe5ee41bb5cf923f66",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T22",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        2077,
+        300,
+        2139,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_03.png",
+      "atlas_native_tile_xyxy": [
+        305,
+        28,
+        367,
+        193
+      ],
+      "native_RGB_sha256": "1d1b5f5c542a65693cde51ec5f4de86f73f169e603e621d15b3a3b8497ade824",
+      "native_PNG_encoding_sha256": "549ab5fee2902b93dea6bf0e6853961e7983dfd3d47a0ee4f081738ae1495d38",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T23",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        2143,
+        300,
+        2208,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_03.png",
+      "atlas_native_tile_xyxy": [
+        367,
+        28,
+        432,
+        193
+      ],
+      "native_RGB_sha256": "b22b0014a45b93fc49c8df18bb2f79f02252b48c35157efd58825fd3261ee3d5",
+      "native_PNG_encoding_sha256": "5dff734ee2bcd346ab747bc59fec77c9055f9f98b152c220eebd5e67c0634b58",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T24",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        2218,
+        300,
+        2283,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_03.png",
+      "atlas_native_tile_xyxy": [
+        432,
+        28,
+        497,
+        193
+      ],
+      "native_RGB_sha256": "f452b07744544686af776d33f22381369acf9bea41e5b759c770e71df4638324",
+      "native_PNG_encoding_sha256": "ae363fa70adfe564f4543ad186b48099a8aae50748f55e00e0156a7a22c6ae96",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T25",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        2291,
+        300,
+        2356,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_04.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        65,
+        193
+      ],
+      "native_RGB_sha256": "635b5d38d64f6dde4df15ad1096926cd470eb59160f5556430379c4ec8eb36ba",
+      "native_PNG_encoding_sha256": "a23bd906f88bb44258e5d55f916b7f77e8e34914d394c0265ade78b8e2bdbc36",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T26",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        2439,
+        300,
+        2504,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_04.png",
+      "atlas_native_tile_xyxy": [
+        65,
+        28,
+        130,
+        193
+      ],
+      "native_RGB_sha256": "652c13fef4f59e4e744e16c1438a8d9d122d4b621abaad7632addce86d50f8c1",
+      "native_PNG_encoding_sha256": "702c6241e084b1282ffca070a0dec78c47ee1840dfca2d9192fa033935ef7bdf",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T27",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        2514,
+        300,
+        2579,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_04.png",
+      "atlas_native_tile_xyxy": [
+        130,
+        28,
+        195,
+        193
+      ],
+      "native_RGB_sha256": "7f535106e0d5431663156e580fab54899cd7c4b8600288b077430f3e77486273",
+      "native_PNG_encoding_sha256": "80c1077f6cc5383dcddb52eb7a6c3bafe8b7e7d50746bacf8bce1342b70edab8",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T28",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        2586,
+        300,
+        2651,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_04.png",
+      "atlas_native_tile_xyxy": [
+        195,
+        28,
+        260,
+        193
+      ],
+      "native_RGB_sha256": "9fac654c1a80f81f3b56784bc0e61b6c93f91be113729ec1fe98ba252937c356",
+      "native_PNG_encoding_sha256": "a2d0ad34d74db3457fef29da4253a9ff0f85facaf7ad9e0faa0bd137fa32470a",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T29",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        2658,
+        300,
+        2723,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_04.png",
+      "atlas_native_tile_xyxy": [
+        260,
+        28,
+        325,
+        193
+      ],
+      "native_RGB_sha256": "79acf1ea74d3badae52b578df17908386c654a4b4b327fed3c1df7c7c461be4f",
+      "native_PNG_encoding_sha256": "c7659d4ae2ad4e8796f231a81f676aecb5209e454e906add2a0b87c043a0b541",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T30",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        2729,
+        300,
+        2794,
+        465
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_04.png",
+      "atlas_native_tile_xyxy": [
+        325,
+        28,
+        390,
+        193
+      ],
+      "native_RGB_sha256": "9c075ca2b5e98e5f610e26698e689afd949a0bb3b559b2f278f26c04d1a2f46d",
+      "native_PNG_encoding_sha256": "7d39785e2c691d4b8c52200f17501ea26becc56c84ba923d367000e6fde16e15",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T31",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        301,
+        485,
+        366,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_04.png",
+      "atlas_native_tile_xyxy": [
+        390,
+        28,
+        455,
+        190
+      ],
+      "native_RGB_sha256": "1a37d26f741349268016aa8130a45345252c1a1a184b6203372a3b4ac20b1542",
+      "native_PNG_encoding_sha256": "cdc807937babd603338001cdf3d129caa6e73fb1167e0cf11b6962c6aad694bd",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T32",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        381,
+        485,
+        446,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_04.png",
+      "atlas_native_tile_xyxy": [
+        455,
+        28,
+        520,
+        190
+      ],
+      "native_RGB_sha256": "6c259a32521778f0e860687e989a5494791e0322072c292d88c368d9c8dd448a",
+      "native_PNG_encoding_sha256": "f67ae95654905a2030d991173e0deb02cd05f7a4bfa2f4f7989655b3508d0050",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T33",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        454,
+        485,
+        519,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_05.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        65,
+        190
+      ],
+      "native_RGB_sha256": "167bbf669a383619f5b728ebdcb357144afab086c8e6a89d194b5c6afa8c02b7",
+      "native_PNG_encoding_sha256": "ade946981fc80a17f7b48d1c9c31bac89683895737778f69cc9c79dc8293647b",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T34",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        525,
+        485,
+        590,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_05.png",
+      "atlas_native_tile_xyxy": [
+        65,
+        28,
+        130,
+        190
+      ],
+      "native_RGB_sha256": "b42bd422cdbe8e92969bc54bd07023043aeeeea1fc12de5b763af53f39a59eaf",
+      "native_PNG_encoding_sha256": "3fbafbda970ff39ec9e6a696938373a9016c6b08c22bec7e94ac7c02913ac2bb",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T35",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        603,
+        485,
+        668,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_05.png",
+      "atlas_native_tile_xyxy": [
+        130,
+        28,
+        195,
+        190
+      ],
+      "native_RGB_sha256": "426fd6db8fd1f78671d5a86fffc08899683b15a69d2f708f395a88629ca3338d",
+      "native_PNG_encoding_sha256": "3b7346ae4d2328803ab532ceebc375716e968d294c64341ae8286068d37902e9",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T36",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        748,
+        485,
+        813,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_05.png",
+      "atlas_native_tile_xyxy": [
+        195,
+        28,
+        260,
+        190
+      ],
+      "native_RGB_sha256": "056eabba67c973989a290663e027d35722f2fac174a252f378827e0397b44229",
+      "native_PNG_encoding_sha256": "01b6f59e173a7ff50e3f9b4fbc9fe8e0ae1a6ee97f88c5fba0805a9c60c5a03f",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T37",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        819,
+        485,
+        884,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_05.png",
+      "atlas_native_tile_xyxy": [
+        260,
+        28,
+        325,
+        190
+      ],
+      "native_RGB_sha256": "c4f2d08fbec83a45a8f97bc58d0bbcdf411c6206a0fe617638b2d0a677f11180",
+      "native_PNG_encoding_sha256": "7c71c44cd3e425b570d430e23a948d1bb61dbc58b4d7c3eae24ddebf4d84961c",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T38",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        895,
+        485,
+        960,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_05.png",
+      "atlas_native_tile_xyxy": [
+        325,
+        28,
+        390,
+        190
+      ],
+      "native_RGB_sha256": "a1bfb8bdaa5ca2f57ff50241317f5bf7f6b17a9cd3f3edd2f61361b76f3955c6",
+      "native_PNG_encoding_sha256": "6e4d822a05af22dd5627de02d7ef450c2029af9aa7780331d550d87d0de41b55",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T39",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        967,
+        485,
+        1032,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_05.png",
+      "atlas_native_tile_xyxy": [
+        390,
+        28,
+        455,
+        190
+      ],
+      "native_RGB_sha256": "a3afe9a5ffa1c50cbf88715ddc552670b760e81ba8cc81625f2f8eef758b69b2",
+      "native_PNG_encoding_sha256": "3ecf85ebdecb8fd4dc0420fcadaee3cbb45b4b12b3d5da67c9e4f66876c0ff21",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T40",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        1040,
+        485,
+        1105,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_05.png",
+      "atlas_native_tile_xyxy": [
+        455,
+        28,
+        520,
+        190
+      ],
+      "native_RGB_sha256": "3b89725c0e7cab2dc752438020ee5bf5a708cca3c784c7f85413d4ceda9b7890",
+      "native_PNG_encoding_sha256": "01997fde594a5496a7a0d06edc44070324b1f7ef9db798dc2c2ec16d8b42972b",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T41",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        1183,
+        485,
+        1248,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_06.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        65,
+        190
+      ],
+      "native_RGB_sha256": "10c11d2e9156f5b0deeab189de8933848a317eeb5d82c43619708b381a589d5e",
+      "native_PNG_encoding_sha256": "171cf8e514c214ef2b45c36048767ccab48efae79e4befb27b8692f742d357a5",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T42",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        1254,
+        485,
+        1319,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_06.png",
+      "atlas_native_tile_xyxy": [
+        65,
+        28,
+        130,
+        190
+      ],
+      "native_RGB_sha256": "c9c2b713ef28132ed0a1cbe070a5a8004c5e9cdeee04c3be77203bbf98b408c8",
+      "native_PNG_encoding_sha256": "35762ab06305e8e388703bad44419c2cb2c4ccd5de90f272ed9677f85fd614b0",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T43",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        1331,
+        485,
+        1396,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_06.png",
+      "atlas_native_tile_xyxy": [
+        130,
+        28,
+        195,
+        190
+      ],
+      "native_RGB_sha256": "84cf0a93776994f5a943abc2b1f03ab4673e9ae07653bc39cc47d2ac2c946ded",
+      "native_PNG_encoding_sha256": "596e1dcabe2cceb8a58c326099ff6b3832443ca1a1331ed8027fb6b2a9f75f58",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T44",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        1403,
+        485,
+        1468,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_06.png",
+      "atlas_native_tile_xyxy": [
+        195,
+        28,
+        260,
+        190
+      ],
+      "native_RGB_sha256": "20a65285de6b5c572ef0abcf3b8550e3d5f29ab6b4dd4f456d2b43c1f26126c2",
+      "native_PNG_encoding_sha256": "929c0826fdab10424deb8c77216489fa5309e7872272ec3498c9ea0dc2dc99a5",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T45",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        1476,
+        485,
+        1541,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_06.png",
+      "atlas_native_tile_xyxy": [
+        260,
+        28,
+        325,
+        190
+      ],
+      "native_RGB_sha256": "40e1a728f31663b4b040d532cc48ddf7a0679529c4d3c98bf35fd0c66939756d",
+      "native_PNG_encoding_sha256": "056455fc888a44d4275bd7019f4e8cd635f52276d6a1a2749061358c9fcad9d7",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T46",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        1608,
+        485,
+        1673,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_06.png",
+      "atlas_native_tile_xyxy": [
+        325,
+        28,
+        390,
+        190
+      ],
+      "native_RGB_sha256": "c22e78387d864c0ac7e9a96d00777704405589092c803986fa394ecb4561e5f9",
+      "native_PNG_encoding_sha256": "00115b6af64e0949c46e68271daf1971520e752ebb95384460b39068c73e85b1",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T47",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        1685,
+        485,
+        1750,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_06.png",
+      "atlas_native_tile_xyxy": [
+        390,
+        28,
+        455,
+        190
+      ],
+      "native_RGB_sha256": "8431ec51aa0ec4db0b7d1beaa673d953d3418236cf034937ba8698f7d709855f",
+      "native_PNG_encoding_sha256": "05bf55f81d4d610fd2d60c261c08979029b95ecd61139c3f61e6a1f8d911ebdd",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T48",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        1753,
+        485,
+        1818,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_06.png",
+      "atlas_native_tile_xyxy": [
+        455,
+        28,
+        520,
+        190
+      ],
+      "native_RGB_sha256": "566a8fcd9b8ff2b9b02a598a46cfa9569fb5be564a647533be53bfe24dbbc84a",
+      "native_PNG_encoding_sha256": "b54044a1ed38f8ae9e59207eb87ba8c9eaebb9eeac53842f423ad67fa35e78ab",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T49",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        1828,
+        485,
+        1893,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_07.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        65,
+        190
+      ],
+      "native_RGB_sha256": "2a4ceef19b1751a62d679642d7ab8e0faf53de1a71046133d368fa17239d03a9",
+      "native_PNG_encoding_sha256": "29039aebc0b108da296365251d7786b284aec54ff01e7498d8d23c53cc55b9e3",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T50",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        1898,
+        485,
+        1963,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_07.png",
+      "atlas_native_tile_xyxy": [
+        65,
+        28,
+        130,
+        190
+      ],
+      "native_RGB_sha256": "4c4f33c7a0dd4641243437a8c72d2a2e60f85cd5497eb122cbbae6c0e2e7c16e",
+      "native_PNG_encoding_sha256": "06452def5c89972437a37be69973170c8e002d50b7889c4897e689a1e5f05038",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T51",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        2036,
+        485,
+        2101,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_07.png",
+      "atlas_native_tile_xyxy": [
+        130,
+        28,
+        195,
+        190
+      ],
+      "native_RGB_sha256": "c6727794e9c015529864707eefea07f0051a5e97f9fd6d2f4cfba1e3c32a8289",
+      "native_PNG_encoding_sha256": "04ac735b61aaa6f6686a760d409b4fdabbfc174c0de4eabcb7635782ed782516",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T52",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        2113,
+        485,
+        2178,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_07.png",
+      "atlas_native_tile_xyxy": [
+        195,
+        28,
+        260,
+        190
+      ],
+      "native_RGB_sha256": "df2d1a6e42208311ff830ac95be763cd2935b01908789645c1d3cfc5ec3746f9",
+      "native_PNG_encoding_sha256": "9fd69c7e9c692bf2e0d024345fd4a832710bd124bc4a74e33f4f925a467b4f0b",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T53",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        2185,
+        485,
+        2250,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_07.png",
+      "atlas_native_tile_xyxy": [
+        260,
+        28,
+        325,
+        190
+      ],
+      "native_RGB_sha256": "9fbbedc17333dbbbe7652004e23ab91af0fcee219a72b654302963f508aacfd5",
+      "native_PNG_encoding_sha256": "b17361ee3d3a37adff33b990c01bac5379e8ec49ec7acb6927aa28e674e74c5a",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T54",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        2258,
+        485,
+        2323,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_07.png",
+      "atlas_native_tile_xyxy": [
+        325,
+        28,
+        390,
+        190
+      ],
+      "native_RGB_sha256": "a672f6f3aaf82a5a0ed035913c473f3cf7ef70daa63e31a1d0f881deb087e6cd",
+      "native_PNG_encoding_sha256": "7c1b801c29e7cf4b5855bca28b1458eac3c65eb0b532005b1764f9dee51ee587",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T55",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        2331,
+        485,
+        2396,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_07.png",
+      "atlas_native_tile_xyxy": [
+        390,
+        28,
+        455,
+        190
+      ],
+      "native_RGB_sha256": "869ff7adcbd78ae295da975ef8ef0cf61e03f27f2ef458faebbc4ed004fe3ee7",
+      "native_PNG_encoding_sha256": "d4418769526acbb5cd2fa531f2f5e12f33409fac65ed1cf3ffa24f78c30c7029",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T56",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        2479,
+        485,
+        2544,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_07.png",
+      "atlas_native_tile_xyxy": [
+        455,
+        28,
+        520,
+        190
+      ],
+      "native_RGB_sha256": "82cfcf86214783ed62f7c09cf4ac8612d35b8811f3e2eb3299f32db8aec523d8",
+      "native_PNG_encoding_sha256": "19329dd22a87b181175765b31ffe29c3a8e0672e83ee2b450a5d12a146bb2f7b",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T57",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        2553,
+        485,
+        2618,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_08.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        65,
+        190
+      ],
+      "native_RGB_sha256": "af4d82d76d497cf19da96e3ecec9d3368671898cbe6b6ce4312dbaad68f9eb22",
+      "native_PNG_encoding_sha256": "84739fbf81b12ec5c6242bb6ec08888de7884b3e2bd3910f4f9e5765df5b3ed0",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T58",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        2622,
+        485,
+        2687,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_08.png",
+      "atlas_native_tile_xyxy": [
+        65,
+        28,
+        130,
+        190
+      ],
+      "native_RGB_sha256": "0cea044cf566518673328bd85cc14a1616d4e62860730f5eeebc3da6c9dbeca3",
+      "native_PNG_encoding_sha256": "032be285cdd379373092b58648f2caa735c151816c25a7ef18e84176367d0daf",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T59",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        2696,
+        485,
+        2761,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_08.png",
+      "atlas_native_tile_xyxy": [
+        130,
+        28,
+        195,
+        190
+      ],
+      "native_RGB_sha256": "528899883dee4ce6ed68f9f926a17c3f4f8055f1903f41578a6cbbbb2a13781c",
+      "native_PNG_encoding_sha256": "a27d64803683c1658b5e92c0e507a16163f88cba7e2c5ef31b07538d1c042ff3",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T60",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        2768,
+        485,
+        2833,
+        647
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_08.png",
+      "atlas_native_tile_xyxy": [
+        195,
+        28,
+        260,
+        190
+      ],
+      "native_RGB_sha256": "8af3c8aebb36282035a3f8312fba436568bf32c60bf89dea7914c72ee8151531",
+      "native_PNG_encoding_sha256": "08f5b0033626a656138176a1ecf6fa80ec8666b1d1f33a8623fe2aa670ae996e",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T61",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        306,
+        675,
+        371,
+        812
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_08.png",
+      "atlas_native_tile_xyxy": [
+        260,
+        28,
+        325,
+        165
+      ],
+      "native_RGB_sha256": "067fa8232d966099e8aceec20d0f225cc3f3a87c9e67d1abd8c298738ffab0bc",
+      "native_PNG_encoding_sha256": "5b285caddac5146ee322261b5350fd391c8a38b58145a9c8228c75a24fe8417f",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T62",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        378,
+        675,
+        443,
+        812
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_08.png",
+      "atlas_native_tile_xyxy": [
+        325,
+        28,
+        390,
+        165
+      ],
+      "native_RGB_sha256": "f766666ac5edf56e9a1f99048e6e2bf3a1ca07c2bf1e73fc5c99bf8275d5af59",
+      "native_PNG_encoding_sha256": "34933ccf5421506e84b6072da2803a80999ba1844012196fadbe206e2fb365dc",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T63",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        455,
+        675,
+        520,
+        812
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_08.png",
+      "atlas_native_tile_xyxy": [
+        390,
+        28,
+        455,
+        165
+      ],
+      "native_RGB_sha256": "9afdce0a9a33db22046baa56ef57813b8f2cb789dec785b4c86f9aa2c161eab3",
+      "native_PNG_encoding_sha256": "69eb728cb975b2307d919ab274bd4f282ba44525bc8b4f5718f39af92a987176",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "T64",
+      "parent": "sources/raw/HC852_original_1.jpg",
+      "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_xyxy": [
+        527,
+        675,
+        592,
+        812
+      ],
+      "atlas": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_08.png",
+      "atlas_native_tile_xyxy": [
+        455,
+        28,
+        520,
+        165
+      ],
+      "native_RGB_sha256": "4df59117b5566255dba09ec9b97a2fd7c5373023d5052d8f1e0822c691f9f5ea",
+      "native_PNG_encoding_sha256": "435ff870b547b087d7d76f2725b1d302abe28b33a934712826aef6a221eabc2f",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K11",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        289,
+        107,
+        435,
+        251
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        146,
+        172
+      ],
+      "native_RGB_sha256": "b431886e2de11b2b6fa97045d5d506e0c310b5392603d5c5dfd1586e15f54200",
+      "native_PNG_encoding_sha256": "21116d51a5902cdd69f1420c5e9b8a110dc2467f3b18c448b5eb43b12d463992",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K12",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        435,
+        107,
+        578,
+        251
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        146,
+        28,
+        289,
+        172
+      ],
+      "native_RGB_sha256": "a4b6ee40cab1406e630480b26885766912f09243beceda78629effea0dcc3404",
+      "native_PNG_encoding_sha256": "c435058f6c748503d21177bf62149afbf7b063857318401ffa44b1bf803b3b31",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K13",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        578,
+        107,
+        720,
+        251
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        289,
+        28,
+        431,
+        172
+      ],
+      "native_RGB_sha256": "27468cea666470ec5c147158f90b11cab7022b305d7e79cdb97835414ba8ff6c",
+      "native_PNG_encoding_sha256": "d277ff249c94b33445e084455e07d24004d129dd0a7dd39b4435867e98045b2c",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K14",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        720,
+        107,
+        863,
+        251
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        431,
+        28,
+        574,
+        172
+      ],
+      "native_RGB_sha256": "f9dac420c7b2b475fdda92ea6102860a2f6f2d3f600c9389eeaee635dde9dbb1",
+      "native_PNG_encoding_sha256": "cb7cbb4ac3d68ac63cc02b6c56338b2bce64594dbf737b3efb669d89fd3f2784",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K15",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        863,
+        107,
+        1007,
+        251
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        574,
+        28,
+        718,
+        172
+      ],
+      "native_RGB_sha256": "68879d658d3578eddc8092c94621d761cadc93d88c72dc1955751aac83dff289",
+      "native_PNG_encoding_sha256": "dc5de19b33a2f898b832758930bf405d9554d7fa571d012b1d7ff19ea0e39127",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K16",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1007,
+        107,
+        1150,
+        251
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        718,
+        28,
+        861,
+        172
+      ],
+      "native_RGB_sha256": "0eec7fd889747f47e120d4f57f721f537fb35bb18a6725b5629a91691187d510",
+      "native_PNG_encoding_sha256": "1104b6eb0dd4f881c1a1f927e585c0c94cca85760c0ae58422688a827a904218",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K17",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1150,
+        107,
+        1293,
+        251
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        861,
+        28,
+        1004,
+        172
+      ],
+      "native_RGB_sha256": "a5f2bcd2ed2a7fee43b7d6ec1790da6fa04e88f3bbbf75ed7e5dd68f4b15967a",
+      "native_PNG_encoding_sha256": "fcaf4e22e76e99052dbcc84d2961e1d67473e427f5651d6532bb51d10a8cb0a6",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K18",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1293,
+        107,
+        1435,
+        251
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        1004,
+        28,
+        1146,
+        172
+      ],
+      "native_RGB_sha256": "5d3a2f48ebb2b18ce5f995a1bf4d64b8db6f3e613e862804062d230360f74681",
+      "native_PNG_encoding_sha256": "aa9e729ca54f91a735c1793695d4ee38f89e2b164d87190fe6bc65b462cf4108",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K21",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        289,
+        251,
+        435,
+        393
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        146,
+        170
+      ],
+      "native_RGB_sha256": "14fbe919b84f058ec80966dc18635b0ef92faa95346da564e070c4184e705d2d",
+      "native_PNG_encoding_sha256": "37ddb4c78f10358f3a354b42c022eeb9741f6576949df0ff6db7b3ca852cbbc0",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K22",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        435,
+        251,
+        578,
+        393
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        146,
+        28,
+        289,
+        170
+      ],
+      "native_RGB_sha256": "380bf7f7d18190edd2f947aa8e70908ec6e2533c3ccd29fc9499fc9cc064d635",
+      "native_PNG_encoding_sha256": "751579ce7120f79ebe31455782899a8fb7ef9866e99225093293a57a7a6a628c",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K23",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        578,
+        251,
+        720,
+        393
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        289,
+        28,
+        431,
+        170
+      ],
+      "native_RGB_sha256": "596e2c580196aba7fd3ff73147cdf66555e59d8b6d5ce8bb9f129fb2d68e82e1",
+      "native_PNG_encoding_sha256": "f18b5426e532bbfce6ed40c073a58b0b3207473592a8518756dbe6dc4130a8ac",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K24",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        720,
+        251,
+        863,
+        393
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        431,
+        28,
+        574,
+        170
+      ],
+      "native_RGB_sha256": "3d6ddf581c4b8392bec7f159bec75ca86b81072ef53c4221c5118b909d6aa509",
+      "native_PNG_encoding_sha256": "241093f01cafee5072270ae950ba7b6a7f7b1d30d221543e933cdb3181bf1ec0",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K25",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        863,
+        251,
+        1007,
+        393
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        574,
+        28,
+        718,
+        170
+      ],
+      "native_RGB_sha256": "0125610cff3363d48e7c498e1b4b97c2fc2e971c64342ffd9e1c0b857e4eb824",
+      "native_PNG_encoding_sha256": "f4726eb99d28c11012a82dc84a6da951de5db436170a1c4867b91cb929f5a939",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K26",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1007,
+        251,
+        1150,
+        393
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        718,
+        28,
+        861,
+        170
+      ],
+      "native_RGB_sha256": "5a0fd5d9a749080344817f2c8458b9894bb9acba702b832245bb68e66947e012",
+      "native_PNG_encoding_sha256": "85ec21fae612605c81b6569cf11aa1e4fec6bd79cadffb083d2bcaa124bccc50",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K27",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1150,
+        251,
+        1293,
+        393
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        861,
+        28,
+        1004,
+        170
+      ],
+      "native_RGB_sha256": "5541b88a9979be3a718e4da7f4ea170e025000d2efa53bbec8cc56ab5cdb543b",
+      "native_PNG_encoding_sha256": "76401554b9376ad88e81678fc66aa67a1e4c01d6c4030fc9812bc10a2954ac78",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K28",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1293,
+        251,
+        1435,
+        393
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        1004,
+        28,
+        1146,
+        170
+      ],
+      "native_RGB_sha256": "3ce6ae2a364cd8f203e736fcc58cd6b2e7f351e2f715e392e17fac63de5b9227",
+      "native_PNG_encoding_sha256": "99b1adc44af5177fcae843c6667bf56c7937d99c9970ebdbb3beaa7b85a1787f",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K31",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        289,
+        393,
+        435,
+        535
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        146,
+        170
+      ],
+      "native_RGB_sha256": "0d8f2188f9ea966acd46ac6a3fd6333dcb32476aee69db6d312ef0e8039f9d46",
+      "native_PNG_encoding_sha256": "24f1387a627622093d268bc1899c5ba917a9da8c872ae6ac072525343f174402",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K32",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        435,
+        393,
+        578,
+        535
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        146,
+        28,
+        289,
+        170
+      ],
+      "native_RGB_sha256": "1548778b1f1d7c1976586f0fe0723947afff963f4c8fee740a6a3635e48e611d",
+      "native_PNG_encoding_sha256": "8f220c3fd23601d502cc7f245132da50acb13c9ec0343f95fda18cf5c0ced16b",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K33",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        578,
+        393,
+        720,
+        535
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        289,
+        28,
+        431,
+        170
+      ],
+      "native_RGB_sha256": "8a1eebcb9772db16ac27f8e4f94c11de6f4362cad67d681e5d76868399b0610e",
+      "native_PNG_encoding_sha256": "0beeed5751d6b173182fa5a5218ad9ae04cdacb784367a44c2dd0f4b67b7c230",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K34",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        720,
+        393,
+        863,
+        535
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        431,
+        28,
+        574,
+        170
+      ],
+      "native_RGB_sha256": "398aef7281b196302b5f5f5b858eb4155e4a8323b732144cb2e94afbe5710a29",
+      "native_PNG_encoding_sha256": "d9b9cbeb1f92e0a8d75ef92d354614f16edad3be31165f46aca3759848a3448d",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K35",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        863,
+        393,
+        1007,
+        535
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        574,
+        28,
+        718,
+        170
+      ],
+      "native_RGB_sha256": "4caf4859165b31198d3b086e38d9c5425d69598b5eed72c820c27258613c8271",
+      "native_PNG_encoding_sha256": "2d2d88db49f723b6f8dd79194ff5eb122b21ef107bef873626715a8eb64bcdf6",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K36",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1007,
+        393,
+        1150,
+        535
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        718,
+        28,
+        861,
+        170
+      ],
+      "native_RGB_sha256": "a824e4d2925742b4da5e8b69b58a71c4a20f657dd49e9e3111863375a6d748cd",
+      "native_PNG_encoding_sha256": "7c8f2c70147a4c63337ff2e9ace61617eeb940e1fdacd755a0f8cea12266c285",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K37",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1150,
+        393,
+        1293,
+        535
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        861,
+        28,
+        1004,
+        170
+      ],
+      "native_RGB_sha256": "b32e937ab6dfdd96800fcbae6dd10a46aaf5dd00be11980f1d16442aefefe800",
+      "native_PNG_encoding_sha256": "d522d2ac9b47531c94a0e6ead2262c3f57060204f3128ca71ca3fa45fccdf3d6",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K38",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1293,
+        393,
+        1435,
+        535
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        1004,
+        28,
+        1146,
+        170
+      ],
+      "native_RGB_sha256": "9e9f21e5df167fb99b3c4eeb6c51bca121105de4558ac2e84c9b2d09f81cef26",
+      "native_PNG_encoding_sha256": "753bf7ded17d02819b13fff5e996a8a53678ec27f26c6d1acf49be87a4d21703",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K41",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        289,
+        535,
+        435,
+        677
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        146,
+        170
+      ],
+      "native_RGB_sha256": "19b17e61207df34fe521bd53f3570b569331ec0d03282cbabb70f41d23996b9a",
+      "native_PNG_encoding_sha256": "cc14066a35fc8b36d61e090cff13998ac12827045791dc12501965d9c710afdd",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K42",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        435,
+        535,
+        578,
+        677
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        146,
+        28,
+        289,
+        170
+      ],
+      "native_RGB_sha256": "e3fdf29cecf401f4b3d6e7ee9087d9aaaab09b706ad6431693921bd6c0edf1a2",
+      "native_PNG_encoding_sha256": "76c2f456c22ba5b4cc312cdcd95dddd16840e7faef5027b0ada0f9af42efc507",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K43",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        578,
+        535,
+        720,
+        677
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        289,
+        28,
+        431,
+        170
+      ],
+      "native_RGB_sha256": "14af6c95fcab9ab1ba08e3c56e7fab6030ae9f113b01d57553a83ef6383d4d5d",
+      "native_PNG_encoding_sha256": "ec00f149cbba3e553815e0b6ffe3602cd23e1a8641b7f3327fa78f611a93084c",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K44",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        720,
+        535,
+        863,
+        677
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        431,
+        28,
+        574,
+        170
+      ],
+      "native_RGB_sha256": "2a0762b9e89bb98c8ea96feab23c711ece9581f34b8ef548a8a135dea23102e0",
+      "native_PNG_encoding_sha256": "9dfadde1188439c34e60da37c83b8a2fd3b377dfd56bbb3b17d0fc59d20bba70",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K45",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        863,
+        535,
+        1007,
+        677
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        574,
+        28,
+        718,
+        170
+      ],
+      "native_RGB_sha256": "5694153940d30ed4abb5b990ecf0002163691c5027c6d1f20dded2bb06b7a30c",
+      "native_PNG_encoding_sha256": "8643717c1e49807e1eb36eb6436ecbcc0148522b0da688dfbb10439e41bd9215",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K46",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1007,
+        535,
+        1150,
+        677
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        718,
+        28,
+        861,
+        170
+      ],
+      "native_RGB_sha256": "4fe64cfa67513579d33651f72dc48e952e1203f4f96c21581bb0b0e1a9ea654b",
+      "native_PNG_encoding_sha256": "d90061868cd78bd2b70b7e07e3bfcc8b930c464f2e9aeea6e78d89e93e6e58ab",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K47",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1150,
+        535,
+        1293,
+        677
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        861,
+        28,
+        1004,
+        170
+      ],
+      "native_RGB_sha256": "270b963ffc2188b8562b87a79b2d1ebf453d2179c555f452c7ecada6b9fd63b3",
+      "native_PNG_encoding_sha256": "a351bc08906408b5e2f18fb58b9f65bfe19672b715badd3e17a97496bf385aca",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K48",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1293,
+        535,
+        1435,
+        677
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        1004,
+        28,
+        1146,
+        170
+      ],
+      "native_RGB_sha256": "7a46ff732d4b7645819ff9e2224bd234b37e89463207736e4e6bce07a78629a4",
+      "native_PNG_encoding_sha256": "dc5859da20e51633935b9b0bcb7957a301fa9ddfc514156a4cee0295d593df36",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K51",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        289,
+        677,
+        435,
+        818
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        146,
+        169
+      ],
+      "native_RGB_sha256": "9172b95543512fbbfc20ccbb448b1aa94ec91e9ed235517d9d45f2f3e826e7bf",
+      "native_PNG_encoding_sha256": "992171838e5bb07691ac6c0eae7ed45cc9218ab741925c16df7be2f174c37e19",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K52",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        435,
+        677,
+        578,
+        818
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        146,
+        28,
+        289,
+        169
+      ],
+      "native_RGB_sha256": "505f2dfdf6678cd7a4798c9fe5c1c3af21c9ca579416921cd26bbfc508f078ee",
+      "native_PNG_encoding_sha256": "fc55daf4a567e5f0697f5366c22a8a00769d5ed345f433db29cca9d5f7cf8957",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K53",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        578,
+        677,
+        720,
+        818
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        289,
+        28,
+        431,
+        169
+      ],
+      "native_RGB_sha256": "4d40e29625a0815e1d872bbe5013fb8cc4dec2aa67482c263de618dfb57e0852",
+      "native_PNG_encoding_sha256": "e521aad0dcfa264bf596fd053d6cd08766ca296d73b0703930f6907d93209c9e",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K54",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        720,
+        677,
+        863,
+        818
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        431,
+        28,
+        574,
+        169
+      ],
+      "native_RGB_sha256": "8495fafb907a2c75e87048a824f149fcde8b0dc4bdb78ef59f7a1a48af34f54b",
+      "native_PNG_encoding_sha256": "139351a1b3ed843be6188d4cad4db0f599a06ff922b61b8882ac007322f31782",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K55",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        863,
+        677,
+        1007,
+        818
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        574,
+        28,
+        718,
+        169
+      ],
+      "native_RGB_sha256": "ea70af76963348f47759dc2b1125c40dc6d2c4178a6b3752b714dde66c049633",
+      "native_PNG_encoding_sha256": "e5a31e151ff45c3632cecf328ec5bbdac57dcf117cbba3fc9f55e6d74f414fee",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K56",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1007,
+        677,
+        1150,
+        818
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        718,
+        28,
+        861,
+        169
+      ],
+      "native_RGB_sha256": "6603ada82e35ba24ac280bebc505328c91ecfd61446e7feed22e8abbabadc39b",
+      "native_PNG_encoding_sha256": "75406745cc614ecf2bdd4001903633e9d8b35cfe56c26d8d569b26161943080e",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K57",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1150,
+        677,
+        1293,
+        818
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        861,
+        28,
+        1004,
+        169
+      ],
+      "native_RGB_sha256": "24d1700f0b2fe4c8fb1b195528728cff772a106603121c871d59c2e29a055403",
+      "native_PNG_encoding_sha256": "07d228de0a351fce404b2f1c68be0db6333b6e36a34cba8a952e7cd27e33da4f",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K58",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1293,
+        677,
+        1435,
+        818
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        1004,
+        28,
+        1146,
+        169
+      ],
+      "native_RGB_sha256": "014ede63d67369ead467825d2ea12f906b7dea046733986f1e2846222bb282ef",
+      "native_PNG_encoding_sha256": "ff152b3d6e6ef52e9d1a5a4c8b7baa83371187b2e1fd94f7f33a3cdaf85bf2b0",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K61",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        289,
+        818,
+        435,
+        960
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        146,
+        170
+      ],
+      "native_RGB_sha256": "4b6896dc7b8a0db1f17c49d6eb5ac6dce21a3311ccf9630a7000d746c31e9bbd",
+      "native_PNG_encoding_sha256": "42925e6474a7b7bd2881d6c3924e21619048223343ce35bc661b3b5e539e4b87",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K62",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        435,
+        818,
+        578,
+        960
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        146,
+        28,
+        289,
+        170
+      ],
+      "native_RGB_sha256": "8df44b46b68d937d51050858f79471ee6ac4a15392fcea2507e0a742cb9d5a41",
+      "native_PNG_encoding_sha256": "ac71cc0fecac3d82bdc5df40cea0092c573e690c4c5ea09aa8f88f26dc244ba6",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K63",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        578,
+        818,
+        720,
+        960
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        289,
+        28,
+        431,
+        170
+      ],
+      "native_RGB_sha256": "7cc3d20595e26854f6939a3851454398885cca1a5f3e3217149b4be4f2f813a7",
+      "native_PNG_encoding_sha256": "8bf50984cbaa2f3ec8af68c82490bea75936d13fe3555771027982253e63e090",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K64",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        720,
+        818,
+        863,
+        960
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        431,
+        28,
+        574,
+        170
+      ],
+      "native_RGB_sha256": "81471f5c7422437ffe1602b8ae866aeaa14a4f2f6afeb67e53de1b36b0af322b",
+      "native_PNG_encoding_sha256": "e761403330c1422158d4e0abaef8ef1864942bd349c1277b0ce0d188c1b316c6",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K65",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        863,
+        818,
+        1007,
+        960
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        574,
+        28,
+        718,
+        170
+      ],
+      "native_RGB_sha256": "a11979a6dc6befecda71a22549d1b22c82c869ef90e60d83ab7d77ef27bdca6c",
+      "native_PNG_encoding_sha256": "29d6eeb79b73c5cef59f2e8dbb1ca9f5825e337fd3cf4e81126167c1e8b5fd03",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K66",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1007,
+        818,
+        1150,
+        960
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        718,
+        28,
+        861,
+        170
+      ],
+      "native_RGB_sha256": "fccf172a7c02796ac33714c962cc24c5b9c3e4fe843385ba512ee7885410616e",
+      "native_PNG_encoding_sha256": "2ca9d559e3a4f81e76c9a042495f9a4bb2d85ca0127756416a0399287a254232",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K67",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1150,
+        818,
+        1293,
+        960
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        861,
+        28,
+        1004,
+        170
+      ],
+      "native_RGB_sha256": "7bebaa0b1fe54e6afeb2e63ad7e7435d49f4ad081033b4dd5e925bf6c0650518",
+      "native_PNG_encoding_sha256": "4442d886d5fea8c7935d49f4c0111d56b00e946917f95e3696a0d5216417c296",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K68",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1293,
+        818,
+        1435,
+        960
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        1004,
+        28,
+        1146,
+        170
+      ],
+      "native_RGB_sha256": "3003afa579a89c8e75fbbbddf1f0bb91dd426d49c8b91ee6473fd276672fc09d",
+      "native_PNG_encoding_sha256": "68b41c7bf5efb9693426c2ec2df8eccffb020144eb8a90a9f124fce045001bd4",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K71",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        289,
+        960,
+        435,
+        1103
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        146,
+        171
+      ],
+      "native_RGB_sha256": "88a4edce4c7455894c77081015ea83439fb45aa72e65ee29fa0f3ab3519a91be",
+      "native_PNG_encoding_sha256": "91d2e776519aeff8b43e34b8e27deedae13e6b1c68d04374972199ed85a5b981",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K72",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        435,
+        960,
+        578,
+        1103
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        146,
+        28,
+        289,
+        171
+      ],
+      "native_RGB_sha256": "703b5a7fdb47db78aefb662e209e10ecbc9355d0075a44f939f2e3e8dc499a51",
+      "native_PNG_encoding_sha256": "e8c9db011a164e9dfcd77a1be187e003a3bba0bee705c16a6f80e72e383b4dcb",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K73",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        578,
+        960,
+        720,
+        1103
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        289,
+        28,
+        431,
+        171
+      ],
+      "native_RGB_sha256": "f876850449853d7c609533f1999614f68774ac111c5d3aaf44e80db12f8adb4d",
+      "native_PNG_encoding_sha256": "45d5868a788d40ffed360d679a069f5309c824a64e90a1732e21087253949475",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K74",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        720,
+        960,
+        863,
+        1103
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        431,
+        28,
+        574,
+        171
+      ],
+      "native_RGB_sha256": "a5bbb58ed404469ae0adead9eba3e4084fb300e07fc6353e9734902dda34a35f",
+      "native_PNG_encoding_sha256": "4f4c7930ea6e7e35c34baa15e9c3e59131884fdd5a927faf90e85ec9e809210c",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K75",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        863,
+        960,
+        1007,
+        1103
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        574,
+        28,
+        718,
+        171
+      ],
+      "native_RGB_sha256": "88f28d1f6503990e9ca9ab052ae2fda4963b04882febee38035178dd72320cb9",
+      "native_PNG_encoding_sha256": "3f353be69ccfa36ef269a492ea7f21a64bf58a0c7ef105553a7e9828de150878",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K76",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1007,
+        960,
+        1150,
+        1103
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        718,
+        28,
+        861,
+        171
+      ],
+      "native_RGB_sha256": "e43cbe42a164823c5c8f622a3a9624d8093c30050d65e1df5d955f8a6086e4a5",
+      "native_PNG_encoding_sha256": "42e05da80d6f202d3bc7a72d98636f607501e277008bfb79255b54ef253f281b",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K77",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1150,
+        960,
+        1293,
+        1103
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        861,
+        28,
+        1004,
+        171
+      ],
+      "native_RGB_sha256": "70195c54c67ace758a52b6fed1dc846578631355fdce1b6a1a1afcf6393bebba",
+      "native_PNG_encoding_sha256": "9513f0be15fa81e3d26c3de6eb4b98aac0f18a6fa4346a245fa3c24999bbc3f9",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K78",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1293,
+        960,
+        1435,
+        1103
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        1004,
+        28,
+        1146,
+        171
+      ],
+      "native_RGB_sha256": "1b3409f196cebb17af6763132e5ef5d83801aac08b31b68455e3f289522ceb6a",
+      "native_PNG_encoding_sha256": "6f4d1e039f08b9333d18fb00e008f843ceef7f1177d7246c2b73c6345928c993",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K81",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        289,
+        1103,
+        435,
+        1245
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        146,
+        170
+      ],
+      "native_RGB_sha256": "93da9b6213175b7e3d7819e0823a567649019eab8c0ab79ae803df12abde7276",
+      "native_PNG_encoding_sha256": "0b6627daf43fbd2ca24174afd716aba193bb6fd7e9d879d838685e6686f280be",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K82",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        435,
+        1103,
+        578,
+        1245
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        146,
+        28,
+        289,
+        170
+      ],
+      "native_RGB_sha256": "f2eb67e538d0922098c288ea95bd9ccfd2b543ebeb60ff5d701c0ad240e37d2c",
+      "native_PNG_encoding_sha256": "91b21c1753911f32d4fc834085d680d797aeb69250de6336324f8ad6aba6041a",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K83",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        578,
+        1103,
+        720,
+        1245
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        289,
+        28,
+        431,
+        170
+      ],
+      "native_RGB_sha256": "b7e624d8ecd803f25aed00e46b55af7065715c0deb26dd1b2de346159277c820",
+      "native_PNG_encoding_sha256": "ac8d082dbe0a1c339693b090d62a99292b878e61d0c9514f01f6d2e22e20ac36",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K84",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        720,
+        1103,
+        863,
+        1245
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        431,
+        28,
+        574,
+        170
+      ],
+      "native_RGB_sha256": "51aa6c7ea0ca679fc475c52de8d2883acb8ca5b9ac70f1102b63c6027daba4bd",
+      "native_PNG_encoding_sha256": "38de352357de5e7033e7e25e18ab8a5a64367982306d0634a426844047df8a37",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K85",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        863,
+        1103,
+        1007,
+        1245
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        574,
+        28,
+        718,
+        170
+      ],
+      "native_RGB_sha256": "f8a3004b0157e4cbbec27930b475eb557d538843e89af075b7c2dc58b7938725",
+      "native_PNG_encoding_sha256": "45aa106b0ea2d5b43b2d9e361a5355e29730c5b022a281f7b7586aad15cd8405",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K86",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1007,
+        1103,
+        1150,
+        1245
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        718,
+        28,
+        861,
+        170
+      ],
+      "native_RGB_sha256": "cea293ff50d91ed07cf1aef6ea74ea16bfbabfc04956c8db3bc14050d3302ece",
+      "native_PNG_encoding_sha256": "00f7f55071f3d5a36f6f6610ef1067e9c2ce874df47174d053b472de924f0a8a",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K87",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1150,
+        1103,
+        1293,
+        1245
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        861,
+        28,
+        1004,
+        170
+      ],
+      "native_RGB_sha256": "3e164c11dd417c0e01bee914d5644012926bdb044aaf28e5c22235331391341d",
+      "native_PNG_encoding_sha256": "75c4ab24879696631f8a453d0756cfeba4e273d0cc30a22ee420c1292e4f1014",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "K88",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1293,
+        1103,
+        1435,
+        1245
+      ],
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        1004,
+        28,
+        1146,
+        170
+      ],
+      "native_RGB_sha256": "6d51fc9c1d6e4ad03988eba4750c71ac0d447c740da7817a6e6a337a83ccba3e",
+      "native_PNG_encoding_sha256": "f69a563a36981dd66ed5892ec3a8665621b87fcacf32fd7eeacd27197614a4bf",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A11",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        112,
+        708,
+        251,
+        893
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        139,
+        213
+      ],
+      "native_RGB_sha256": "40ebd05f0ed006156d74dc01f65c40ed9731f61979ef62f2997f8c2fb3fd7a29",
+      "native_PNG_encoding_sha256": "1a1a1aaf4082c9fd3d848880ecdf4c199a7c3c73a807b9be6f6663bca5b86609",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A12",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        268,
+        708,
+        407,
+        893
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        139,
+        28,
+        278,
+        213
+      ],
+      "native_RGB_sha256": "8b9549eaf032af8d6a00f45e3bfaf9a9219c9ab9cfa1ab1198e6689971d71241",
+      "native_PNG_encoding_sha256": "25c1bb9047bce8b1339d8b41de51475a5ce372a012b23eb179a0a2392007a3ce",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A13",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        425,
+        708,
+        558,
+        893
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        278,
+        28,
+        411,
+        213
+      ],
+      "native_RGB_sha256": "d031f6664205e8fd31c965f1dab21799dfd3b708b491f088c0e61f718b3221a0",
+      "native_PNG_encoding_sha256": "92e2cf8d0fd2c29c8fc14f454802048052535f9b693c0a74a45577e1802c7484",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A14",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        574,
+        708,
+        714,
+        893
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        411,
+        28,
+        551,
+        213
+      ],
+      "native_RGB_sha256": "77ed8be64aa992f1f11161e2f6a2070011213eca0f7bc8d7303e6035b2563de8",
+      "native_PNG_encoding_sha256": "22e8f8115c0a4b38625d55cab73c9c0d97e7e4e025eff08f2d785457e35408bd",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A15",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        726,
+        708,
+        864,
+        893
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        551,
+        28,
+        689,
+        213
+      ],
+      "native_RGB_sha256": "4c7a55e8b65cd3d926e11c134181dbca063da8f6cb00ef277c397ff968d8a67a",
+      "native_PNG_encoding_sha256": "403177e996f5770632493c1d82fddf67a335cb78004a35219938118fcd58d565",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A16",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        883,
+        708,
+        1008,
+        893
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        689,
+        28,
+        814,
+        213
+      ],
+      "native_RGB_sha256": "649d96eb5a46e59e3133cfa69b250a4ab0867465c7f7b8766ee924aeb43607d1",
+      "native_PNG_encoding_sha256": "c9c881e5bba002d0303251624d0097b44774247c658d023b49e3ca45c86eca02",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A17",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1020,
+        708,
+        1160,
+        893
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        814,
+        28,
+        954,
+        213
+      ],
+      "native_RGB_sha256": "e3fe991106b4929becc3c62d49a23ec8e63200732a3988ca7376ca8a29d54f36",
+      "native_PNG_encoding_sha256": "5e4bc5230c129b2b187b83e48b06a70330e49eec8606f89b5e15053c6c5c0a20",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A18",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1178,
+        708,
+        1355,
+        893
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        954,
+        28,
+        1131,
+        213
+      ],
+      "native_RGB_sha256": "eba5a8da9080a9cc58aa28ba68f48d09abfa726e280fd0b0b9dead48833fc934",
+      "native_PNG_encoding_sha256": "a0d58935a6358d13e9558b7f7fcbfa347bfeff499aed4e1efd71fb964f301345",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A21",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        112,
+        849,
+        251,
+        1041
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        139,
+        220
+      ],
+      "native_RGB_sha256": "eb828e77954f6ee7e83dbfd640567ef3ec0ab14e4a80f137654c98054ee72fb8",
+      "native_PNG_encoding_sha256": "95e55f6df2053b63c8700ddd4b4bdc387b049f578a4140b34237b5a124472bd4",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A22",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        268,
+        849,
+        407,
+        1041
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        139,
+        28,
+        278,
+        220
+      ],
+      "native_RGB_sha256": "3c29ff198e8ea20458680a7336f9fc28f8136dbb19818e6754acc73e71cdef74",
+      "native_PNG_encoding_sha256": "3d8b0e7a50f3bd78581dcef890e2ca07cdb8012598d4ebd23c2ab00d0b10edc9",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A23",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        425,
+        849,
+        558,
+        1041
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        278,
+        28,
+        411,
+        220
+      ],
+      "native_RGB_sha256": "1d838f50c69cf5e0f77e6ee60ff0d8887703cac4d96443221c70887c8bf42d86",
+      "native_PNG_encoding_sha256": "cd8e8f1e315f8b58bee39fa936dd584e87a341e8429e12ea27e9ce548897cea6",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A24",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        574,
+        849,
+        714,
+        1041
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        411,
+        28,
+        551,
+        220
+      ],
+      "native_RGB_sha256": "4af14bac9322eda342be8cb4b4b43a43d5c6106865dd72c251cbf3deb7cb1d9e",
+      "native_PNG_encoding_sha256": "c0841f8702e05fda2bd357100f368ba7cfddd96d412bf33a5233d68fccd977fb",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A25",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        726,
+        849,
+        864,
+        1041
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        551,
+        28,
+        689,
+        220
+      ],
+      "native_RGB_sha256": "64d5dfa1cfefc01f3df2c09036474b815918a604f4ecdc8634299c54c5f93891",
+      "native_PNG_encoding_sha256": "0db5e0b57d1b27d755c56be4f49111a2eb5e2630f6292605374c0142959569c4",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A26",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        883,
+        849,
+        1008,
+        1041
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        689,
+        28,
+        814,
+        220
+      ],
+      "native_RGB_sha256": "a9bfb36b82e06e9cbbc1fa25ece690b2bdbead144ac79d50ab88d139f317b542",
+      "native_PNG_encoding_sha256": "28594757b4f69e8e1e2d63fcbc6251298fb20cc9f7993f3a5419702db5121411",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A27",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1020,
+        849,
+        1160,
+        1041
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        814,
+        28,
+        954,
+        220
+      ],
+      "native_RGB_sha256": "ee1e3be394b3b26b425e0ffc57ddde5ab0f79164528de19fb757b856e5ad0d01",
+      "native_PNG_encoding_sha256": "16f0163feaead7413cfa70c1c2ea018d993384b69c9a7e216f1aeff0fc07fed6",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A28",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1178,
+        849,
+        1355,
+        1041
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        954,
+        28,
+        1131,
+        220
+      ],
+      "native_RGB_sha256": "fec0e1d4eef1bac63a702279fd41323d21610d82fd02005da97d11f4a30f00e2",
+      "native_PNG_encoding_sha256": "502f95a09e138a510c440284aafef11f15db37e97586b095b9c9ddb55841d10c",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A31",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        112,
+        1000,
+        251,
+        1196
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        139,
+        224
+      ],
+      "native_RGB_sha256": "081b1c97fb67c896f4fb87a6400e1504ba608094b88e64235a74f34bf7d3f640",
+      "native_PNG_encoding_sha256": "7119cf9c1c7e658c1476143666314bb8c9051f4945e2b7fc4caf1a6be64a3ab9",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A32",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        268,
+        1000,
+        407,
+        1196
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        139,
+        28,
+        278,
+        224
+      ],
+      "native_RGB_sha256": "979e979fa9e8794da646ebcb8349c4ffce3d86faab58f26b7074fca3a0d0089c",
+      "native_PNG_encoding_sha256": "b032fa211b77033ad16d8ee8411e3849fd6c3f183b3cfa28ec53360beabc206e",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A33",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        425,
+        1000,
+        558,
+        1196
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        278,
+        28,
+        411,
+        224
+      ],
+      "native_RGB_sha256": "6eed7f72573d5e502df90a06fd059cb0bf7b00f6a4cd1088489a05e0a255cbdd",
+      "native_PNG_encoding_sha256": "166236ae05c9dae4a45a906bfc4f52f02c7108b53f072588a7af1e0d4cb6f57a",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A34",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        574,
+        1000,
+        714,
+        1196
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        411,
+        28,
+        551,
+        224
+      ],
+      "native_RGB_sha256": "0549ffbfd67a132c62f8c9f8dd537472b96803e7cf6712054cf4557b7e561819",
+      "native_PNG_encoding_sha256": "c22a7bfa30c4a2e294e08490db9b532b16bd16b118abad0d4afb5e0e835bd4d0",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A35",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        726,
+        1000,
+        864,
+        1196
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        551,
+        28,
+        689,
+        224
+      ],
+      "native_RGB_sha256": "32f4e81cfe7d32dc9b76f34731a23a9f3e44338b63d70eb2f57f8e3e41871c29",
+      "native_PNG_encoding_sha256": "643565862daf9c118a595b2fc5cd8049e0cda4f9f095987ed98c4d394c10e598",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A36",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        883,
+        1000,
+        1008,
+        1196
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        689,
+        28,
+        814,
+        224
+      ],
+      "native_RGB_sha256": "85ee3bf7e0e1072bf6029539b18ce4cb2050985e9ec56b0365589cf67a1cee24",
+      "native_PNG_encoding_sha256": "f38d0cae20e8b5554c4a6981150e86d7d813102323ddbba5ba23dd8423a9f467",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A37",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1020,
+        1000,
+        1160,
+        1196
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        814,
+        28,
+        954,
+        224
+      ],
+      "native_RGB_sha256": "83ef70a1cf53e835ceb5ea5a242be08439aae0ed8aa9366ca9933913942068d1",
+      "native_PNG_encoding_sha256": "26ee849b7c7bc6159832e8da7911a5d66557a6c29b0e91bd03001f7a5699c82e",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A38",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1178,
+        1000,
+        1355,
+        1196
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        954,
+        28,
+        1131,
+        224
+      ],
+      "native_RGB_sha256": "b93ab0616922b325f9a3debaa016f6168d91b648003b7eda789cd760b8ebee45",
+      "native_PNG_encoding_sha256": "4683562b2c3861d1b1748415fc91c377ca3d50e428e3aa17d1b2bc7852413753",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A41",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        112,
+        1154,
+        251,
+        1353
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        139,
+        227
+      ],
+      "native_RGB_sha256": "78dabd365aa9595ae13074ed449e86bd1bf0e8261e94fcded8db3c3d3273b0d5",
+      "native_PNG_encoding_sha256": "975612cda94e4057518fc8920d8ef0734d6ef444369f0a58d430b860bc25a631",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A42",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        268,
+        1154,
+        407,
+        1353
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        139,
+        28,
+        278,
+        227
+      ],
+      "native_RGB_sha256": "129091f1dc52e98419498e00994fe7f25623ca4bd515596b7d162a91ddcc77f9",
+      "native_PNG_encoding_sha256": "8521d767d770916b98bd114fbac380c5208a4bf7798c902ac6c01f3b19314cba",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A43",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        425,
+        1154,
+        558,
+        1353
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        278,
+        28,
+        411,
+        227
+      ],
+      "native_RGB_sha256": "4a56f601cb742afbf2c651d4d2f77f1447eaf693578ce3dfdf94d63050b9a187",
+      "native_PNG_encoding_sha256": "f113cf5211f6abd23fca0bbb354796ebb3ec0d8cfb380b88a016b3744b4f41e2",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A44",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        574,
+        1154,
+        714,
+        1353
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        411,
+        28,
+        551,
+        227
+      ],
+      "native_RGB_sha256": "fbcdfb6cd2cff14c9ba85a35b8426705769940d3904ce1b57336f5626aa12e28",
+      "native_PNG_encoding_sha256": "f18b8c09e2d601a903539b077e150e7a862398ec39dd605f10d3aa851a81eddb",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A45",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        726,
+        1154,
+        864,
+        1353
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        551,
+        28,
+        689,
+        227
+      ],
+      "native_RGB_sha256": "6df4502e041d28c4813dcce191bd809256908bef4939e5e55471b3b2089e4ac0",
+      "native_PNG_encoding_sha256": "e26db67e312bb49e971c6ddd8711a1ee10db114b7172a243ef1b39435e7eb305",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A46",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        883,
+        1154,
+        1008,
+        1353
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        689,
+        28,
+        814,
+        227
+      ],
+      "native_RGB_sha256": "fdb24eb25a39431b2ee29e67de0cee8f73225d9d9802783d9117dc87426915d0",
+      "native_PNG_encoding_sha256": "e11ca856980bbf6b83cd57e4a8bb8a6633ad63999d55a54abbf178d1a7dc0feb",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A47",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1020,
+        1154,
+        1160,
+        1353
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        814,
+        28,
+        954,
+        227
+      ],
+      "native_RGB_sha256": "7566298ec38572d9585778bfdd5d67adef9914d96ac814873dfc0f8fdddfe086",
+      "native_PNG_encoding_sha256": "2dad1c002fbf8823d842f0eb033272d520c6c2840daef060b97c6692a9e6e61f",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A48",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1178,
+        1154,
+        1355,
+        1353
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        954,
+        28,
+        1131,
+        227
+      ],
+      "native_RGB_sha256": "65a5cd5b654d83b0c13a64ec854315b075d0580faed30bfee7b3b035d34909c7",
+      "native_PNG_encoding_sha256": "5226d81052d5026abf86fb2dbc1397c42e72f6371b5d62df849bda4a4fd6e5b3",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A51",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        112,
+        1305,
+        251,
+        1508
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        139,
+        231
+      ],
+      "native_RGB_sha256": "d3ad869a1e1711b3650cafcaf2e163a1f1659089817d07de520dc6a22d501887",
+      "native_PNG_encoding_sha256": "3fb4d6c30066abc3a26e356ab49d3d5208e4e0eea9cfa998905d2df2857270af",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A52",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        268,
+        1305,
+        407,
+        1508
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        139,
+        28,
+        278,
+        231
+      ],
+      "native_RGB_sha256": "f30515495d2701713543d67af266589d88d813767e27dd56db259844df527a67",
+      "native_PNG_encoding_sha256": "21f486254e17d9dcc57f0c4556b9e25575610aacfa49c95ca964fe965cbeb5ee",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A53",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        425,
+        1305,
+        558,
+        1508
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        278,
+        28,
+        411,
+        231
+      ],
+      "native_RGB_sha256": "16497c600041e79c245859799e7b254b6d88ecb00ef1bfe473c9fc0b9a3a7119",
+      "native_PNG_encoding_sha256": "0162741128f6f0d484a17eced8e0eaca6d9858c4bdd2804c5fbcc0169801e685",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A54",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        574,
+        1305,
+        714,
+        1508
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        411,
+        28,
+        551,
+        231
+      ],
+      "native_RGB_sha256": "7bb6f8300d06e4b9e5ed06a1239ea32652f0e5b51c6b45b0700b587f9fba2698",
+      "native_PNG_encoding_sha256": "2e87ff81a4bf4417eab856e9bbd69eca8f11f3bb78edb3496d693ff74305d4f0",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A55",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        726,
+        1305,
+        864,
+        1508
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        551,
+        28,
+        689,
+        231
+      ],
+      "native_RGB_sha256": "ddffd1cdb79f97cebb2d0f2471d89a8a018e82a382d7f7b0268480920ce6910d",
+      "native_PNG_encoding_sha256": "34014851a20e4c974a93af338273afc1a9d2836e8f5c2e70d4f71e8fd6ebedb1",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A56",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        883,
+        1305,
+        1008,
+        1508
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        689,
+        28,
+        814,
+        231
+      ],
+      "native_RGB_sha256": "5c617fae79bfa449d10bf79407ebd0ce1448c26e657420cea8903c6dd343780d",
+      "native_PNG_encoding_sha256": "9fe5359a7595a614445503c77fad6252034059e21c2080ca8eae62124f7565e3",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A57",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1020,
+        1305,
+        1160,
+        1508
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        814,
+        28,
+        954,
+        231
+      ],
+      "native_RGB_sha256": "927f87747d08022015728da91ebc8720c4f46e8ccffc6ba80e4889f4282f0600",
+      "native_PNG_encoding_sha256": "c36f871ed53763923d7e4b9029de9c91d54b5ddd3e44c756233ab23abcdf67bb",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A58",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1178,
+        1305,
+        1355,
+        1508
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        954,
+        28,
+        1131,
+        231
+      ],
+      "native_RGB_sha256": "6ba7758f0e8e937ac7d58ab7d7768dcdc45433d38d18c4fd405d27839a23d3db",
+      "native_PNG_encoding_sha256": "f5e900b0f3d1a231ef5d0857fbf6455a12df982c6fd935687845ecab8ea5d9be",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A61",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        112,
+        1462,
+        251,
+        1656
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        139,
+        222
+      ],
+      "native_RGB_sha256": "da2ab1f498feb5bce1de45762f258f363b81301924a1fc2d117d97d569c059e5",
+      "native_PNG_encoding_sha256": "7ac02d6ae3c5a22ddbf66befd9a6d17583c9bd4a38a2e9e6338a51715a3fb097",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A62",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        268,
+        1462,
+        407,
+        1656
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        139,
+        28,
+        278,
+        222
+      ],
+      "native_RGB_sha256": "e26706df45515c8944783bb62e5b5aff2ecb87812af2f6ac97da100d4021af75",
+      "native_PNG_encoding_sha256": "51dfa99e9728b5ec2098ab00a094534f495f418d6dbf95830d88b5ad7f93cbf5",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A63",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        425,
+        1462,
+        558,
+        1656
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        278,
+        28,
+        411,
+        222
+      ],
+      "native_RGB_sha256": "66b9b22d32bafbd3ef5d09270283977bc91ae81a4093c1441e2d4c064806890c",
+      "native_PNG_encoding_sha256": "42091cd8f37e6bc6d8e0ca41e651cf6940ea1af1ca982485a4c9f54d1177efb5",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A64",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        574,
+        1462,
+        714,
+        1656
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        411,
+        28,
+        551,
+        222
+      ],
+      "native_RGB_sha256": "0861587ef8a433534d42e775540a4bb17ce8fee04230c24f8f64595c91768596",
+      "native_PNG_encoding_sha256": "c7579a731a662773834ba86efb730f8c054caf3ca46051725b2e21c9d58c219c",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A65",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        726,
+        1462,
+        864,
+        1656
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        551,
+        28,
+        689,
+        222
+      ],
+      "native_RGB_sha256": "ad8d4f6974d193ec9f38540f017c2c3a984ce646ad273ee32b8667e6b502c612",
+      "native_PNG_encoding_sha256": "8a8f0b0ae4c6d2e5d96f52d85cc7426187f53fd4ea3347951f4a2e3e8bcd5ba4",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A66",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        883,
+        1462,
+        1008,
+        1656
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        689,
+        28,
+        814,
+        222
+      ],
+      "native_RGB_sha256": "f0d6f0896c7fb9a28640c0fc1a783d6eff97dc275ec74dbfdd2fe67cc2b166f5",
+      "native_PNG_encoding_sha256": "fbd406134ef8de4e5c4a9e25d8ce4a73038cf4da0206d4a4c57db5d86885de91",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A67",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1020,
+        1462,
+        1160,
+        1656
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        814,
+        28,
+        954,
+        222
+      ],
+      "native_RGB_sha256": "a8e24080be30bcc6c81a28e06a7d346648aa830469a7122eed6c6455e9ad8932",
+      "native_PNG_encoding_sha256": "399b886f34292dccf7a8571d4b0b1b63d7744cf04096121f53ae26074d22d9c5",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A68",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1178,
+        1462,
+        1355,
+        1656
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        954,
+        28,
+        1131,
+        222
+      ],
+      "native_RGB_sha256": "fc303a5726dbc685858d8fab8e0e3cc77da67e547599da18523cea7129f77c74",
+      "native_PNG_encoding_sha256": "7115665add75b1253b6328ba8cc0a18ea1538dbf414894ab77f8a2212b04843c",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A71",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        112,
+        1610,
+        251,
+        1812
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        139,
+        230
+      ],
+      "native_RGB_sha256": "5adc8bad93c8803f167c4aa14c0b30cb33d7be8e4a46c32281477b34751ab625",
+      "native_PNG_encoding_sha256": "a4c98406e5cb12a8508db45f91d0f175b145ad86ce17247613cd0c4110f792fb",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A72",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        268,
+        1610,
+        407,
+        1812
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        139,
+        28,
+        278,
+        230
+      ],
+      "native_RGB_sha256": "68660fc246e3ad8bee770a6b78102f6cde56283b1f9fdeea81a90da92f2a5191",
+      "native_PNG_encoding_sha256": "1ca6171c3a0f5aa293c8e69f6380fc0ad9eecb92a62fc5ba634703f40c4b60a3",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A73",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        425,
+        1610,
+        558,
+        1812
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        278,
+        28,
+        411,
+        230
+      ],
+      "native_RGB_sha256": "59aa63872e42427c1c03cc4e15869a8d1db9ec6e80d3b499e20cb9d6c5b1f947",
+      "native_PNG_encoding_sha256": "3ff7c4a61a8fd950051a80096081408fe540f6f1148b57934a39ffe375c9d789",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A74",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        574,
+        1610,
+        714,
+        1812
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        411,
+        28,
+        551,
+        230
+      ],
+      "native_RGB_sha256": "ea998897946166ffa4ac98dc332a71df2a7faff2e156ae33a3c995074440cacd",
+      "native_PNG_encoding_sha256": "b965dd7b5fbb5109b6de83671b27500b147d9515e76c27f96d0e5cd4b5b4d294",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A75",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        726,
+        1610,
+        864,
+        1812
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        551,
+        28,
+        689,
+        230
+      ],
+      "native_RGB_sha256": "fab6f1cd6cc59d262b532a92b1f7c91a2418a0a13524c4b19759b6156e236cf1",
+      "native_PNG_encoding_sha256": "2d9bf85f45759c140421add94756e4d89ebd1ef9b380ae50134cadb3af6a58f4",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A76",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        883,
+        1610,
+        1008,
+        1812
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        689,
+        28,
+        814,
+        230
+      ],
+      "native_RGB_sha256": "6915742fa9da308b0981338f4e0bb9250846edda8ff803b47dcf147bc6490c2b",
+      "native_PNG_encoding_sha256": "39b679779f7ba9836179f15a43d4a5e9b70a7b7ecf56389dc0f281b6a069b99d",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A77",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1020,
+        1610,
+        1160,
+        1812
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        814,
+        28,
+        954,
+        230
+      ],
+      "native_RGB_sha256": "85f9e8900f84fae346e75b46f61b30b4fe0b88319a122dd77fc87183f313c318",
+      "native_PNG_encoding_sha256": "699d1e76291024b6708f4db9dbc7730ba9434093749456bb4263a52a3786015a",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A78",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1178,
+        1610,
+        1355,
+        1812
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        954,
+        28,
+        1131,
+        230
+      ],
+      "native_RGB_sha256": "8b7e31bfa00f348b3d48e977c29518bb6dc61d93e1da89a8a79f9d99c975aca7",
+      "native_PNG_encoding_sha256": "74e55108e6930557f37b1068f53d3af5b5d3a3708a79e4a44519d81f571ebc56",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A81",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        112,
+        1761,
+        251,
+        1955
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        139,
+        222
+      ],
+      "native_RGB_sha256": "77db641ed535850a791ae6398da9bc59270bdc2cebb91a7360c40f37376e0871",
+      "native_PNG_encoding_sha256": "1c90363a3ef324a253a517ca90a0a4937d1a0af8290a01fa3d47617d5ede2771",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A82",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        268,
+        1761,
+        407,
+        1955
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        139,
+        28,
+        278,
+        222
+      ],
+      "native_RGB_sha256": "50d08cdddf3edd8490f8150e33343f19707995f3eb23511a28ca1cf11e11473d",
+      "native_PNG_encoding_sha256": "7330c6405f2338a76516f6651d45a55029c6bf031f81f4d5e02f22f15a88a5fe",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A83",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        425,
+        1761,
+        558,
+        1955
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        278,
+        28,
+        411,
+        222
+      ],
+      "native_RGB_sha256": "173352d238e797609aa153c9fd7abf05ca3dab8ef7698314e81f75e364e80cb7",
+      "native_PNG_encoding_sha256": "cdd2632abc6a6a29dedc8124528027639b50c92a346d52058898db7a3c61244b",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A84",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        574,
+        1761,
+        714,
+        1955
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        411,
+        28,
+        551,
+        222
+      ],
+      "native_RGB_sha256": "fadccb8babcfa90b36e9b0a36ba1da8a0e0d8e327014b0cd09da138b9fc309c6",
+      "native_PNG_encoding_sha256": "ac2b4367286bdceb129ec442a79bab009390170908700332990c71c6558a8adc",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A85",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        726,
+        1761,
+        864,
+        1955
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        551,
+        28,
+        689,
+        222
+      ],
+      "native_RGB_sha256": "fe9e0cd105bf9c58790c5b5cc44a21b892cc9430fe1134831e9cd8feb67ccfe5",
+      "native_PNG_encoding_sha256": "73b9ce3c094b5e3c2ae7648919603308888e07f0c9212ce1cc66b7e56c0fd541",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A86",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        883,
+        1761,
+        1008,
+        1955
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        689,
+        28,
+        814,
+        222
+      ],
+      "native_RGB_sha256": "72520414c06125d79f77ed76c7f7e6427b42267af12391e898d970936e67c0d7",
+      "native_PNG_encoding_sha256": "104436b19e24db9ec34e770080097c05e436a41ef2389b9e8fb338fdcf9696b6",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A87",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1020,
+        1761,
+        1160,
+        1955
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        814,
+        28,
+        954,
+        222
+      ],
+      "native_RGB_sha256": "0d5a6fb9e66227afa84f0f1c348de7717000f24fe5eb3ced4cca1e2b6c0004b7",
+      "native_PNG_encoding_sha256": "7eb7547027f20896397352eb77125b436387a2391c9cef1eb46fe31e139d2c9b",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "A88",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1178,
+        1761,
+        1355,
+        1955
+      ],
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        954,
+        28,
+        1131,
+        222
+      ],
+      "native_RGB_sha256": "c4b1e5186052f25e2af1e2fb65921bf77ed027e676dc5f873c6d24ef3c5463c7",
+      "native_PNG_encoding_sha256": "7c9d0c4fc3d16e9f31c9b7a55df506fa3bdfc8d7e01c3a16b03b8512ba69b333",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C01",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1444,
+        1080,
+        1518,
+        1193
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_01.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        74,
+        141
+      ],
+      "native_RGB_sha256": "f54d7a6238cebd6159724e94db5b31b46271f43a538297c35fd890ae05a1a2d0",
+      "native_PNG_encoding_sha256": "2de66f2f5470b1782442a2ff96376b32b5e16e8ff616e775abe9835fdc72eca3",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C02",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1524,
+        1080,
+        1598,
+        1193
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_01.png",
+      "atlas_native_tile_xyxy": [
+        74,
+        28,
+        148,
+        141
+      ],
+      "native_RGB_sha256": "1eb9d48ec73a197ff85a688078217445d97a980024845f973b0980319b512990",
+      "native_PNG_encoding_sha256": "03e5749bdf4fb8a70d22cbc8232ab98b1bb059f6fe3156bc5249c48a05913321",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C03",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1604,
+        1080,
+        1678,
+        1193
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_01.png",
+      "atlas_native_tile_xyxy": [
+        148,
+        28,
+        222,
+        141
+      ],
+      "native_RGB_sha256": "2beca8aa89f71442e7d786a0a2f1ec9a33d52a281042e9b22443ed35fae96ff6",
+      "native_PNG_encoding_sha256": "996eced01872bc6773eebfb700385165b00bf3129932a9d3b69c29f012456ef8",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C04",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1674,
+        1080,
+        1748,
+        1193
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_01.png",
+      "atlas_native_tile_xyxy": [
+        222,
+        28,
+        296,
+        141
+      ],
+      "native_RGB_sha256": "e47d40946b75f5542fd26777953dc7c20962b790b188d989de56f8329992a272",
+      "native_PNG_encoding_sha256": "2c6b35c94c5e74328999857a55f39f166f741d932aaf82b7be7a4acc42856675",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C05",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1754,
+        1080,
+        1828,
+        1193
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_01.png",
+      "atlas_native_tile_xyxy": [
+        296,
+        28,
+        370,
+        141
+      ],
+      "native_RGB_sha256": "0b2dc2ee8e3166a33311afbbe86510ef45cebeb820a730806f07e08c2fa054d8",
+      "native_PNG_encoding_sha256": "294a151d63aca8d554f354e4893439fc0a2fbec1728acd09c366aa7f264b939c",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C06",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1894,
+        1080,
+        1968,
+        1193
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_01.png",
+      "atlas_native_tile_xyxy": [
+        370,
+        28,
+        444,
+        141
+      ],
+      "native_RGB_sha256": "73700ba9aa045267ec9d106bbe737628e7d71d49407d6c8a910ccfe36e0e4b4b",
+      "native_PNG_encoding_sha256": "1caf1059e60a2f90636af4fc9e3e2bc0e944ec2352a8071dd4c5f2ce891bcc57",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C07",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1974,
+        1080,
+        2048,
+        1193
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_01.png",
+      "atlas_native_tile_xyxy": [
+        444,
+        28,
+        518,
+        141
+      ],
+      "native_RGB_sha256": "24d19cac0a49865de5d29f33ccff8a642b8425720ef02b9d61e8af1cc69c65bc",
+      "native_PNG_encoding_sha256": "68d5c0f7d22ca8bfcddc8af82fd4eed91a820d681d23e9880caba1095d81e37b",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C08",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2044,
+        1080,
+        2118,
+        1193
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_01.png",
+      "atlas_native_tile_xyxy": [
+        518,
+        28,
+        592,
+        141
+      ],
+      "native_RGB_sha256": "f47c52712e6788bddb4d785a246d01664e1db11c90a75f24503ca691cb55389c",
+      "native_PNG_encoding_sha256": "a3e847cbda6ffa443bf354a6350431a6bf17f27523d4444fac924e672f46cb98",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C09",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2114,
+        1080,
+        2188,
+        1193
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_02.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        74,
+        141
+      ],
+      "native_RGB_sha256": "5dae55632ba208832dafbdcb147cc8757decd71455357ea1fd816b9952c11ac9",
+      "native_PNG_encoding_sha256": "690015676576bfa91feb583586b9599a89c35800fb48c772963ea6977c36bf7b",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C10",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2184,
+        1080,
+        2258,
+        1193
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_02.png",
+      "atlas_native_tile_xyxy": [
+        74,
+        28,
+        148,
+        141
+      ],
+      "native_RGB_sha256": "d3883d05497458255dc84f2eebbe6516f9f992dba7b1b066bb3991648b9fd95a",
+      "native_PNG_encoding_sha256": "51c9059b60fb2d4cd2078ffe418d10d11c554f212cadd159ba956c9e0bf3af4b",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C11",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2304,
+        1080,
+        2378,
+        1193
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_02.png",
+      "atlas_native_tile_xyxy": [
+        148,
+        28,
+        222,
+        141
+      ],
+      "native_RGB_sha256": "0f48b137992f3c89b0397a9a4c468545cbee204f5d62f6f3d1f4b827092cca86",
+      "native_PNG_encoding_sha256": "b4a399feb5a0102c1ee6c417e385f7c56b9fae32c3352473df49f3fc293a3448",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C12",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2394,
+        1080,
+        2468,
+        1193
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_02.png",
+      "atlas_native_tile_xyxy": [
+        222,
+        28,
+        296,
+        141
+      ],
+      "native_RGB_sha256": "a5b913e9ec4944bc424f04f5404224813fd0aded18cbc1e7d07a1bdca026f76b",
+      "native_PNG_encoding_sha256": "044a3698a8f6e203cfda16e32ead566b9be4140c990224eb7515e91a8d7d33bb",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C13",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2474,
+        1080,
+        2548,
+        1193
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_02.png",
+      "atlas_native_tile_xyxy": [
+        296,
+        28,
+        370,
+        141
+      ],
+      "native_RGB_sha256": "555d3f23cd716e39f5ba31d9265588ffbad68969aebc6a2c3229fb8f21977e59",
+      "native_PNG_encoding_sha256": "e530020350f71e67fd06f5fa95d0d83c7f6d9c24e77ecf90bafebd1ca86dfd02",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C14",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2539,
+        1080,
+        2613,
+        1193
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_02.png",
+      "atlas_native_tile_xyxy": [
+        370,
+        28,
+        444,
+        141
+      ],
+      "native_RGB_sha256": "13182e3742893e4af83f0e63a2574d5cc3da268fe329f3679a79f0cf2ed290a4",
+      "native_PNG_encoding_sha256": "09cffafd62eef4419b6088fb7a1daf81ce1c76fc171529eed9ecbb9e3f3a2850",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C15",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2609,
+        1080,
+        2683,
+        1193
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_02.png",
+      "atlas_native_tile_xyxy": [
+        444,
+        28,
+        518,
+        141
+      ],
+      "native_RGB_sha256": "9972e51303910353dfb207d562f5e5c54df09343ba60ccf4e0a25852aa9b771a",
+      "native_PNG_encoding_sha256": "567da50c391c96ea7ad89e46ca706996c3f7352f370d3b0f76d4aa9940aa3732",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C16",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1464,
+        1165,
+        1539,
+        1250
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_02.png",
+      "atlas_native_tile_xyxy": [
+        518,
+        28,
+        593,
+        113
+      ],
+      "native_RGB_sha256": "7b4f6cc80f24c0953143448f4020830d71ef10c995290075e57c742d8e087b3b",
+      "native_PNG_encoding_sha256": "156e93da74f65a1ee2a733062860ebc5d65e64c94e5a3f5cce94ee6015ee5404",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C17",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1670,
+        1165,
+        1745,
+        1250
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_03.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        75,
+        113
+      ],
+      "native_RGB_sha256": "7708e92f70e71e845ef91dfc3e7f3f8dd4646b850e16bbff26fa830281ea4cca",
+      "native_PNG_encoding_sha256": "b5f9aab0121552ae5a0a9744a90ea662f17029e3acdd49ad09afa27e3beb7b76",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C18",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1750,
+        1165,
+        1825,
+        1250
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_03.png",
+      "atlas_native_tile_xyxy": [
+        75,
+        28,
+        150,
+        113
+      ],
+      "native_RGB_sha256": "bc8e167154e49376b4883cd28c54b34059cfec473c1d029995076d97526c0b21",
+      "native_PNG_encoding_sha256": "665a7b684f39b473f08c983e3b5a4d83647902aeeee4856862631122cfc96db0",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C19",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1899,
+        1240,
+        1973,
+        1370
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_03.png",
+      "atlas_native_tile_xyxy": [
+        150,
+        28,
+        224,
+        158
+      ],
+      "native_RGB_sha256": "515d47467cf5ff2f9793bd25a1a25c424a41cdb57c32d0d5c9f182b7b393e17c",
+      "native_PNG_encoding_sha256": "cb16399d7e3199a673fba782e0f4692471fc657a85b7f99edf302f04f4231cea",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C20",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1958,
+        1240,
+        2032,
+        1370
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_03.png",
+      "atlas_native_tile_xyxy": [
+        224,
+        28,
+        298,
+        158
+      ],
+      "native_RGB_sha256": "9bd4933f369d28df4ff4f19eed016780bb8b9dffc9b47524afb56caafea13067",
+      "native_PNG_encoding_sha256": "594d35a4b93368023d1c39dc5b722315f9e78ced195ab2b3640642528712f06b",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C21",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2028,
+        1240,
+        2102,
+        1370
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_03.png",
+      "atlas_native_tile_xyxy": [
+        298,
+        28,
+        372,
+        158
+      ],
+      "native_RGB_sha256": "2cbc1601993cd3c4e0f49e62969614000dda55ffc900482297fb15832b6a70ec",
+      "native_PNG_encoding_sha256": "255ba3d667b57e76285cf674a76205d89b652e7efc3339c7df2e7a11f55c3448",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C22",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2099,
+        1240,
+        2173,
+        1370
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_03.png",
+      "atlas_native_tile_xyxy": [
+        372,
+        28,
+        446,
+        158
+      ],
+      "native_RGB_sha256": "b33bdda95428f128037e770984df566e6d6086367f6f6b729b76a4eb07885903",
+      "native_PNG_encoding_sha256": "4de2320b44aaa644dccc8bec508b72e1cad733ddac2fcb9263af735d4629ae3d",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C23",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2170,
+        1240,
+        2244,
+        1370
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_03.png",
+      "atlas_native_tile_xyxy": [
+        446,
+        28,
+        520,
+        158
+      ],
+      "native_RGB_sha256": "18dfed383b3bb1796e866304ed3b98c7090236c549824bb8dc4611d1ab56b63a",
+      "native_PNG_encoding_sha256": "b24298c9e9ac00bc8c8e69390f2a136e297c9557ca64c0adbdaf9948cb601715",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C24",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2319,
+        1240,
+        2393,
+        1370
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_03.png",
+      "atlas_native_tile_xyxy": [
+        520,
+        28,
+        594,
+        158
+      ],
+      "native_RGB_sha256": "274b6587a21bbac8b9d0b8b4e0bf24faa7592bb677d2cd89ff21fcad90a006db",
+      "native_PNG_encoding_sha256": "ca02d4e1d8c0b407cf478bb937842eb2ba7ebe24f8d93e7ea842093fe8a2548e",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C25",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2389,
+        1240,
+        2463,
+        1370
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_04.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        74,
+        158
+      ],
+      "native_RGB_sha256": "74c6d0d3f23fec1936cb37dedcca8b90f940a068251197982cd7401cd694a9a0",
+      "native_PNG_encoding_sha256": "6c5ae973bc4b619c4a274c42bfcd45a34b4f25984ea2ac4c7ec76b542b9b985b",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C26",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2464,
+        1240,
+        2538,
+        1370
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_04.png",
+      "atlas_native_tile_xyxy": [
+        74,
+        28,
+        148,
+        158
+      ],
+      "native_RGB_sha256": "f23564e42804a8d02e52524c9f8249effb540d94a2aff005c185977429f98dcf",
+      "native_PNG_encoding_sha256": "83bc60871858d3d63e40ee953c9deeffa37869c0ff9a11d598325c2ad8c77f57",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C27",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2540,
+        1240,
+        2614,
+        1370
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_04.png",
+      "atlas_native_tile_xyxy": [
+        148,
+        28,
+        222,
+        158
+      ],
+      "native_RGB_sha256": "ddf19f0534e2688a5fd18b94a266cfe2a422016e425f967e68af78074f1d3214",
+      "native_PNG_encoding_sha256": "e84bca0bc0882467c6a6bdb7b3e05c3e6e7f07cc201bec9af9211d6bf786eb0d",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C28",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2610,
+        1240,
+        2684,
+        1370
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_04.png",
+      "atlas_native_tile_xyxy": [
+        222,
+        28,
+        296,
+        158
+      ],
+      "native_RGB_sha256": "0c495cdd9bd6af7ccf5333a56d81f43e109f5cd9b4cb94f1d8ff239a7ecef4e2",
+      "native_PNG_encoding_sha256": "4d7b46781355cc8500486f57cb831dd9edf5c4cd4011ae5488290bb9c41837bb",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C29",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1459,
+        1360,
+        1533,
+        1496
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_04.png",
+      "atlas_native_tile_xyxy": [
+        296,
+        28,
+        370,
+        164
+      ],
+      "native_RGB_sha256": "2bfeba644aa39b77637cd74b9cc09e63acc2e3d444d8d1d964892cdaa6d8c678",
+      "native_PNG_encoding_sha256": "1bc587c4018ede190ef60bc65824d71763a3806212723ece6e8442170fb4ce11",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C30",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1529,
+        1360,
+        1603,
+        1496
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_04.png",
+      "atlas_native_tile_xyxy": [
+        370,
+        28,
+        444,
+        164
+      ],
+      "native_RGB_sha256": "2a540059465ea78ef48295952ae4ea5bef64f998a62d076f3542d1f8dce5d7c9",
+      "native_PNG_encoding_sha256": "aced6b5c195d003a334324723b5bb4f58d7edb9e69525dc3b5cb1a0954033787",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C31",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1604,
+        1360,
+        1678,
+        1496
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_04.png",
+      "atlas_native_tile_xyxy": [
+        444,
+        28,
+        518,
+        164
+      ],
+      "native_RGB_sha256": "bc4ead234b6906c8753e166aec628fd548ae05f3f806e6820bff60dd3c0bb306",
+      "native_PNG_encoding_sha256": "16af27cb95d752f8cf2b9edd3aad3bf7090d639d4455f6543bf5ed9f57b39fcd",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C32",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1670,
+        1360,
+        1744,
+        1496
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_04.png",
+      "atlas_native_tile_xyxy": [
+        518,
+        28,
+        592,
+        164
+      ],
+      "native_RGB_sha256": "78a77bcc88fe52f2d2d944bf868272b1f57ce77aab4a1849ff57ef619ac1f3f0",
+      "native_PNG_encoding_sha256": "0070265484a5a346037cbcc546a6696e16d9f3953a5e107128e444729dbcb49b",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C33",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1742,
+        1360,
+        1816,
+        1496
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_05.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        74,
+        164
+      ],
+      "native_RGB_sha256": "09b42f819e18f5cff0afc8680754c838858afc9945d99b1279e4e7858e983839",
+      "native_PNG_encoding_sha256": "2d5665a6b7ce4c878b16e4dae4f2527eb6e184b1af298e9c6d087d7f67e42b4c",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C34",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1899,
+        1360,
+        1973,
+        1496
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_05.png",
+      "atlas_native_tile_xyxy": [
+        74,
+        28,
+        148,
+        164
+      ],
+      "native_RGB_sha256": "0f84c9751c6ad1a0c7270fbe8bd066c795df840d22fbac4dc7c2f2cebab616ef",
+      "native_PNG_encoding_sha256": "e6339dd0fe97d1f11335c7d4603698490fc84c02b3d339db2e27f639213b4f62",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C35",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1961,
+        1360,
+        2035,
+        1496
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_05.png",
+      "atlas_native_tile_xyxy": [
+        148,
+        28,
+        222,
+        164
+      ],
+      "native_RGB_sha256": "fb18f34ca30cbc3339c33f584bcb91a725bf200b54ab8a2d3176aff31d09b7f3",
+      "native_PNG_encoding_sha256": "8dda53b36c935f81ef2c8121aa6058635987cc9f2da5e6de9ede73cb5ef38c9e",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C36",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2034,
+        1360,
+        2108,
+        1496
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_05.png",
+      "atlas_native_tile_xyxy": [
+        222,
+        28,
+        296,
+        164
+      ],
+      "native_RGB_sha256": "20bac809c1564098d86850418919b4d25999d0125fd76963b3daa6d48fa98724",
+      "native_PNG_encoding_sha256": "ded485345d9b23d9925031240155dd2e9ef13e742bf676845e78e438bb73936f",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C37",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2104,
+        1360,
+        2178,
+        1496
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_05.png",
+      "atlas_native_tile_xyxy": [
+        296,
+        28,
+        370,
+        164
+      ],
+      "native_RGB_sha256": "36e575fd6ce1f47e6638a2737a577ba9c032e2c608ec67c5992a0569334bed6a",
+      "native_PNG_encoding_sha256": "37f646a42e179ed36d930d7c3c995a5718c2b71349eab390b657a4a591261510",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C38",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2179,
+        1360,
+        2253,
+        1496
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_05.png",
+      "atlas_native_tile_xyxy": [
+        370,
+        28,
+        444,
+        164
+      ],
+      "native_RGB_sha256": "a83c89f745c0276ed121131068b983786ec107259f6a8d0efc148f8875925c8b",
+      "native_PNG_encoding_sha256": "6a3a6756ccd0472f37f708231dd57855b03cdd5d6bf17b66850684a987ff3e2d",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C39",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2324,
+        1360,
+        2398,
+        1496
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_05.png",
+      "atlas_native_tile_xyxy": [
+        444,
+        28,
+        518,
+        164
+      ],
+      "native_RGB_sha256": "29d1e6c63a5c523903cc3ac6e5c09c4476da359e507300d25b27a05de08f952a",
+      "native_PNG_encoding_sha256": "5a221275af6cb34405806ff6b76c2697421bfd54fc02f75636e06cc71cb604ec",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C40",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2384,
+        1360,
+        2458,
+        1496
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_05.png",
+      "atlas_native_tile_xyxy": [
+        518,
+        28,
+        592,
+        164
+      ],
+      "native_RGB_sha256": "8d9d160d33e4230ebaf584327f15da4c507875964bb04a5a4b81724e8e6f8892",
+      "native_PNG_encoding_sha256": "8800ab697b393f8bd0bdeacbcacec69859dd2455fc0c241cbc6499894769660a",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C41",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2444,
+        1360,
+        2518,
+        1496
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_06.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        74,
+        164
+      ],
+      "native_RGB_sha256": "8be36b8c7113bc19504d3dc800a346a44c13ce1b0edeeda7ad1a3706942e8eb4",
+      "native_PNG_encoding_sha256": "7cd15afb0bd8c5a1a7151882d9fcc3800e11ee969f5f4104a85754d2723a3a94",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C42",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2544,
+        1360,
+        2618,
+        1496
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_06.png",
+      "atlas_native_tile_xyxy": [
+        74,
+        28,
+        148,
+        164
+      ],
+      "native_RGB_sha256": "cd2dc7f45fceb044320a1f4990ea0233667321593b50ee43818c5b2663c1c9e4",
+      "native_PNG_encoding_sha256": "57e7074a2da624ecd4ab2fa7ead8ef006e637663ad33456441f5fe7afe13edc6",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C43",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2604,
+        1360,
+        2678,
+        1496
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_06.png",
+      "atlas_native_tile_xyxy": [
+        148,
+        28,
+        222,
+        164
+      ],
+      "native_RGB_sha256": "566245de09df59bc05955138e6fe5065f69c5617070bfd9cfb4c1d42ad60c002",
+      "native_PNG_encoding_sha256": "70b1e19ef5bf81b4e0d654dde25d62cda56b09f1803441c6588f09c894fd0810",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C44",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1454,
+        1510,
+        1528,
+        1648
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_06.png",
+      "atlas_native_tile_xyxy": [
+        222,
+        28,
+        296,
+        166
+      ],
+      "native_RGB_sha256": "2642812a391518cebead00802327fd4aefac3f39582e74cb63f1f3345d822bc8",
+      "native_PNG_encoding_sha256": "1e2503a7a4811fa93e9dc95caf8b0b051a3fef2b6f7bd9f2ef92c42bc84d7a58",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C45",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1534,
+        1510,
+        1608,
+        1648
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_06.png",
+      "atlas_native_tile_xyxy": [
+        296,
+        28,
+        370,
+        166
+      ],
+      "native_RGB_sha256": "810ccc50b39383a027ecfbdf367bd706fe8590a73dbde739fe937760f6766a80",
+      "native_PNG_encoding_sha256": "15ed74faf4eabb0abec03c49653d5e32c36bbb85c5e52e9c00b2e43fa952dc40",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C46",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1604,
+        1510,
+        1678,
+        1648
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_06.png",
+      "atlas_native_tile_xyxy": [
+        370,
+        28,
+        444,
+        166
+      ],
+      "native_RGB_sha256": "633db39d233fb7c8fe38094b3aab366ab523e65f21725dfed1f2cd04b39e9d49",
+      "native_PNG_encoding_sha256": "f5139ebc7f161afbd0cfe75e85cc16aef6aec9caac900e39189d7d382f24bb3c",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C47",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1674,
+        1510,
+        1748,
+        1648
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_06.png",
+      "atlas_native_tile_xyxy": [
+        444,
+        28,
+        518,
+        166
+      ],
+      "native_RGB_sha256": "71b1b550d16333f15e752235bf0a2ce1089abcdff8ab4dec7ff6beeb327d7936",
+      "native_PNG_encoding_sha256": "d9e90f0cc1680b4627c052be0bf5cf9e79685dbc85c8d37d976f19b3f22913db",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C48",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1754,
+        1510,
+        1828,
+        1648
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_06.png",
+      "atlas_native_tile_xyxy": [
+        518,
+        28,
+        592,
+        166
+      ],
+      "native_RGB_sha256": "7c6939dc4b0a2e741dd735ac4d6a39b47c05351aa14d0e10a775e92d3efe0d7a",
+      "native_PNG_encoding_sha256": "daaf2574922226a2ae4c0db41b2b3ffa0b91143d9e782c3db854f3668feebbb3",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C49",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1894,
+        1510,
+        1968,
+        1648
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_07.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        74,
+        166
+      ],
+      "native_RGB_sha256": "bd8a2f90ba91c171ff7fadfe80fde1dcdacf657dba01047ab4e31449577b8193",
+      "native_PNG_encoding_sha256": "5e010fd8bcbbeee2039ccc446c769d9f167af8ed0ef041a470a430bdf6239035",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C50",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1969,
+        1510,
+        2043,
+        1648
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_07.png",
+      "atlas_native_tile_xyxy": [
+        74,
+        28,
+        148,
+        166
+      ],
+      "native_RGB_sha256": "95e84755616613a2128a8d9cb24f4aae55122e3151c2c957bcb98598bdf18b47",
+      "native_PNG_encoding_sha256": "68f460e31909f13b08aa8b036915dd2a2bee16b67f6bffa317c753663c688cfc",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C51",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2039,
+        1510,
+        2113,
+        1648
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_07.png",
+      "atlas_native_tile_xyxy": [
+        148,
+        28,
+        222,
+        166
+      ],
+      "native_RGB_sha256": "9a8ab637e1e4d2b29a92801954379263173cb9a426d0394fa7392788070dd029",
+      "native_PNG_encoding_sha256": "25569409dae19a2880e576a62521291c669db15ac85dde654f0a189ac3418bc8",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C52",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2109,
+        1510,
+        2183,
+        1648
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_07.png",
+      "atlas_native_tile_xyxy": [
+        222,
+        28,
+        296,
+        166
+      ],
+      "native_RGB_sha256": "70658d56a32b9de51a506b7c9900e590e37717f177077cd2ee3777024bd6900e",
+      "native_PNG_encoding_sha256": "81e5e237cb63947ec871067dfec3353590bf7270231b73d22dfb931fae34aa29",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C53",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2184,
+        1510,
+        2258,
+        1648
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_07.png",
+      "atlas_native_tile_xyxy": [
+        296,
+        28,
+        370,
+        166
+      ],
+      "native_RGB_sha256": "be4cb45b595cee810e2fca3e4b26ffc1fcb59d98ca819bf19d51ae113b53b164",
+      "native_PNG_encoding_sha256": "224104126a5e897e8f791788d266734de36b44f4439f3f2ebeec2e1058d98142",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C54",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2314,
+        1510,
+        2388,
+        1648
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_07.png",
+      "atlas_native_tile_xyxy": [
+        370,
+        28,
+        444,
+        166
+      ],
+      "native_RGB_sha256": "ecfb7d079cb5854a3e06562dd209dbca9a79be3a3934ad83b7e81ba8c91e960c",
+      "native_PNG_encoding_sha256": "61518e4cec163b2461f90a65896275a4d84c0532ff70092bd299eb091360dea2",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C55",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2394,
+        1510,
+        2468,
+        1648
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_07.png",
+      "atlas_native_tile_xyxy": [
+        444,
+        28,
+        518,
+        166
+      ],
+      "native_RGB_sha256": "5b8b343ffbb8c1e7c50e24dae5a7be5c5509499e8aeb32bc52bac60a0e7e9b13",
+      "native_PNG_encoding_sha256": "a90096e765d4f9d99db2b7fbbb7b34b5a78ba34f7cead3dd32e24a1cfce583bb",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C56",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2474,
+        1510,
+        2548,
+        1648
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_07.png",
+      "atlas_native_tile_xyxy": [
+        518,
+        28,
+        592,
+        166
+      ],
+      "native_RGB_sha256": "5192e30b020fffdd0f0f40f096edd7e68abd16152293f05b3f0cefb9dc3f9f2f",
+      "native_PNG_encoding_sha256": "3c7592300a7607f2f185e2a59335d42f68ad44c6de4308cdff9ac4ada3ef26d7",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C57",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2544,
+        1510,
+        2618,
+        1648
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_08.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        74,
+        166
+      ],
+      "native_RGB_sha256": "94ccacbfc688a594fa4070ec8fe0b07a95b354dc7766bd6f5d811c966bde6905",
+      "native_PNG_encoding_sha256": "bf81a7ed6f91d45f8c9c464bdab7e6b005c0d1421071820e98e6ede3ff06eee3",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C58",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        2614,
+        1510,
+        2688,
+        1648
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_08.png",
+      "atlas_native_tile_xyxy": [
+        74,
+        28,
+        148,
+        166
+      ],
+      "native_RGB_sha256": "4245f96e6adc3e6dce1bf181947a21c3eee8b8ca7d71322b1b507206cfe49f6e",
+      "native_PNG_encoding_sha256": "616c34bd4dc6b15ae0e0377d713cedf018b0bab7a9ade6927c363dfd7db411a8",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C59",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1454,
+        1660,
+        1528,
+        1795
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_08.png",
+      "atlas_native_tile_xyxy": [
+        148,
+        28,
+        222,
+        163
+      ],
+      "native_RGB_sha256": "fd263bd5cad85c268ec4fc8731055aec5712739e6d746c334cf1f6181ea9b180",
+      "native_PNG_encoding_sha256": "8396423ae9ddcb63f4191d838ae2776d5940e2436d47b64bbe03ffef1e44bbd8",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C60",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1544,
+        1660,
+        1618,
+        1795
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_08.png",
+      "atlas_native_tile_xyxy": [
+        222,
+        28,
+        296,
+        163
+      ],
+      "native_RGB_sha256": "68c174c16350876007c5f42079848a33b92acd8c045207e4e9dc71b81cc0196c",
+      "native_PNG_encoding_sha256": "7c4eacf47c16e4b9701087c351999eb61c5dfdaffda378ca35d9c55152354164",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C61",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1624,
+        1660,
+        1698,
+        1795
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_08.png",
+      "atlas_native_tile_xyxy": [
+        296,
+        28,
+        370,
+        163
+      ],
+      "native_RGB_sha256": "a2f9e3650d2bfa730eb439208668fbceda560930b02e72f52ef2eb33b4c9e375",
+      "native_PNG_encoding_sha256": "50a870081e10e5fc238f6b97b90e4bd7219f3c48e609e04f0d3eaad763be326a",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C62",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1694,
+        1660,
+        1768,
+        1795
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_08.png",
+      "atlas_native_tile_xyxy": [
+        370,
+        28,
+        444,
+        163
+      ],
+      "native_RGB_sha256": "2064d185ee7d23618601a1454c4f366ae2df1308bf494da823c78a37a26f244f",
+      "native_PNG_encoding_sha256": "f7905a537d67fcca29025c34ae7daf368dcb66436d55844fd3fb4e649a864690",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C63",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1764,
+        1660,
+        1838,
+        1795
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_08.png",
+      "atlas_native_tile_xyxy": [
+        444,
+        28,
+        518,
+        163
+      ],
+      "native_RGB_sha256": "e092ee719455c26989ac0cd4034f586c2ca32b0bdfd9c067ce69c626b83012a9",
+      "native_PNG_encoding_sha256": "7a0204cef788ac432e54ff87a82407ee4f8b6e218a3218a0966a10391daa2f36",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "C64",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1904,
+        1660,
+        1978,
+        1795
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_08.png",
+      "atlas_native_tile_xyxy": [
+        518,
+        28,
+        592,
+        163
+      ],
+      "native_RGB_sha256": "c7380fba8ec867f45c8d64573d49c64f1787098fc612c37db8df116cc528c0fa",
+      "native_PNG_encoding_sha256": "85a3c4ae073db8dd7c843658343d125f77e7aacd591339c97813f086b956eb06",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "X1",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1445,
+        1240,
+        1520,
+        1370
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CANCELLED_NATIVE_ATLAS_01.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        75,
+        158
+      ],
+      "native_RGB_sha256": "16a57ac93ad7abf47d42f69603b3857df792670c9d3df9872d8256a95bf1ac71",
+      "native_PNG_encoding_sha256": "6a1b7e55e9f75af676f3f8960ef9dd053ffa2ba8e38ac6cef0d04085fe000e9d",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "X2",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1529,
+        1240,
+        1604,
+        1370
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CANCELLED_NATIVE_ATLAS_01.png",
+      "atlas_native_tile_xyxy": [
+        75,
+        28,
+        150,
+        158
+      ],
+      "native_RGB_sha256": "1e0253ce3c4876c0b9465ce16c51b735e01c7706ffe84f4c97a4009402847e0e",
+      "native_PNG_encoding_sha256": "44b1864b83b12f4c521b6f388f3338a1c2b3113357b1338e181450db4269acc9",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "X3",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1599,
+        1240,
+        1674,
+        1370
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CANCELLED_NATIVE_ATLAS_01.png",
+      "atlas_native_tile_xyxy": [
+        150,
+        28,
+        225,
+        158
+      ],
+      "native_RGB_sha256": "24b1bcd4bddbba7a97521b108c3ca2469d1480c0c624a702a7f059f0df83f422",
+      "native_PNG_encoding_sha256": "500e9094759e1c1b7cad22647eff86de9ed0b087aa8093bdb0f8d60d53f27e60",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "X4",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1669,
+        1240,
+        1744,
+        1370
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CANCELLED_NATIVE_ATLAS_01.png",
+      "atlas_native_tile_xyxy": [
+        225,
+        28,
+        300,
+        158
+      ],
+      "native_RGB_sha256": "15f7a86d70107dec30cc9fb796d59bcaa51ee57712ce59e41c8745f947ef0413",
+      "native_PNG_encoding_sha256": "a1e05b435a8f9676396803981be72d6fbf94b0060d26efe1b6e5df31dcf03a2e",
+      "atlas_tile_pixel_match": true
+    },
+    {
+      "id": "X5",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1751,
+        1240,
+        1826,
+        1370
+      ],
+      "atlas": "sources/inspection/cold_source_v1/GROUPED_CANCELLED_NATIVE_ATLAS_01.png",
+      "atlas_native_tile_xyxy": [
+        300,
+        28,
+        375,
+        158
+      ],
+      "native_RGB_sha256": "62657aacbb86a574c740b10e83a45d6c5dcf8b9d3f63cb6bb2f4395d7a0559d1",
+      "native_PNG_encoding_sha256": "7d7e3c3ce7079ab1ca9b22f9ab8acf35ec09f54d460b87babd1f379aba30a4e5",
+      "atlas_tile_pixel_match": true
+    }
+  ],
+  "actual_visual_views": [
+    {
+      "path": "sources/raw/HC852_original_1.jpg",
+      "sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+      "native_dimensions": [
+        3024,
+        973
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": [
+        2048,
+        659
+      ],
+      "atlas_display_resize_notice": null
+    },
+    {
+      "path": "sources/raw/HC852_original_2.jpg",
+      "sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_dimensions": [
+        3024,
+        4032
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": [
+        1368,
+        1824
+      ],
+      "atlas_display_resize_notice": null
+    },
+    {
+      "path": "sources/raw/HC852_original_3.jpg",
+      "sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_dimensions": [
+        1789,
+        1474
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": [
+        1747,
+        1440
+      ],
+      "atlas_display_resize_notice": null
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_01.png",
+      "sha256": "12b12542378fb5e799afb05b812912c83c225e86fb1d2029cd2dbc6ee38b0d89",
+      "native_dimensions": [
+        1131,
+        213
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_02.png",
+      "sha256": "34b8af1cd218c54cc003665606e9aa24af17970f88c0fea09b9180adec627665",
+      "native_dimensions": [
+        1131,
+        220
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_03.png",
+      "sha256": "c147c9064bf442f55af3e24c6d717987d831821a018adc1ecbec4632b8a284db",
+      "native_dimensions": [
+        1131,
+        224
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_04.png",
+      "sha256": "266c4adf561ed40cf50dfb027f08e020c9200f7e17ff25799b4b0eb353ae0189",
+      "native_dimensions": [
+        1131,
+        227
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_05.png",
+      "sha256": "f7cfa26949b21121f526feb191339c9ceb408e509c5433b11073dc1e6026056c",
+      "native_dimensions": [
+        1131,
+        231
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_06.png",
+      "sha256": "47ee5fdad284a1682488c677683a0257d529c824e5ba11db1123c8232f02eba2",
+      "native_dimensions": [
+        1131,
+        222
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_07.png",
+      "sha256": "3eb614396213a383615b58aa0ea59efdaf45bc96c1499cc628df6a3a738164bd",
+      "native_dimensions": [
+        1131,
+        230
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_08.png",
+      "sha256": "a96f5bdf167ccfa36f9e2f7954fa075f1191175ec7a0a27c77bcd69826ab5c07",
+      "native_dimensions": [
+        1131,
+        222
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/GROUPED_CANCELLED_NATIVE_ATLAS_01.png",
+      "sha256": "200632945ae7db36ccd4d63cc809446190b7c44a21eff6a55938954396b4c8c6",
+      "native_dimensions": [
+        375,
+        158
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_01.png",
+      "sha256": "83ad12e2c657cdd63fca4ac28dee795afc1c71fcae8f5f62ced4277e61d4d346",
+      "native_dimensions": [
+        592,
+        141
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_02.png",
+      "sha256": "430b5b83e81543bb36adab7cb08f6e516342845193e78402f4b6d6700bcf5022",
+      "native_dimensions": [
+        593,
+        141
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_03.png",
+      "sha256": "d104dc21da3f3839d183fc476666bc4f37ee8b9a5d774b7c663518084b5678c7",
+      "native_dimensions": [
+        594,
+        158
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_04.png",
+      "sha256": "829ece97b5854ae06c6ce8c03785d5787127b06d693504674b65ece5f3bf02f2",
+      "native_dimensions": [
+        592,
+        164
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_05.png",
+      "sha256": "767c92998e091137d6b90cd8c0a6e2633b97df908190ea3aa5aa0dec5bde9901",
+      "native_dimensions": [
+        592,
+        164
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_06.png",
+      "sha256": "1b1f50fe53c28d156e1f3583327795896f19160a6b4b604570be79b622c29e8e",
+      "native_dimensions": [
+        592,
+        166
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_07.png",
+      "sha256": "a96b8f859a835054439f429ee853b1ef7b922e4050001e8d19190d9c0bcf5707",
+      "native_dimensions": [
+        592,
+        166
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/GROUPED_CURRENT_NATIVE_ATLAS_08.png",
+      "sha256": "13a791f458873a1fd58ecce001189f10ced55579b0da941c1d97658b716f475b",
+      "native_dimensions": [
+        592,
+        166
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_01.png",
+      "sha256": "da85ed61067b91eb115625af54e9da4b667d6cbe95fc1b46b6d34b0fd1e63365",
+      "native_dimensions": [
+        1146,
+        172
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_02.png",
+      "sha256": "676f9aabf2f6dcc644cd6f5e5f2b77f61b2861d3573b4adc8bde415e6adc7281",
+      "native_dimensions": [
+        1146,
+        170
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_03.png",
+      "sha256": "4c3c3151bd6b263837c2c2eaa0be24cee561407c5a325f752e6e06dae49ef00d",
+      "native_dimensions": [
+        1146,
+        170
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_04.png",
+      "sha256": "5bfe0cc64c2dca1b84fb0bfac530856ca973aaaad7f78ecb5a979f5014b3c3f0",
+      "native_dimensions": [
+        1146,
+        170
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_05.png",
+      "sha256": "8fde6b8ff526e676ec34c1681f0f71b93272acf7fde4c4877d1b5c4da24200a5",
+      "native_dimensions": [
+        1146,
+        169
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_06.png",
+      "sha256": "94c798d67dc957af0deb918a92bbb2eacc04c68042665820cc5ec0e486164338",
+      "native_dimensions": [
+        1146,
+        170
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_07.png",
+      "sha256": "0a737543094f467b88a638dcd9bfdbac19ed63c1529d7d5c5681d4abf540c168",
+      "native_dimensions": [
+        1146,
+        171
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_08.png",
+      "sha256": "cd09a42a2e2ff9b022b0b47767b855dfafbc1144b84a25eea86815ab4b8dc8de",
+      "native_dimensions": [
+        1146,
+        170
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_01.png",
+      "sha256": "03734be9f09b7beaebab6f7c0d8b7ae0a8b8f093eaae2b77d35d7c49d15f8444",
+      "native_dimensions": [
+        520,
+        193
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_02.png",
+      "sha256": "cdabe7c76f00963bbaa461b2206530a1640aac0df97d39ac18f2354aa866e21a",
+      "native_dimensions": [
+        520,
+        193
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_03.png",
+      "sha256": "154cb1f73f5204d9028a43950fec9708746cc40c5049dde0f55490749d67505c",
+      "native_dimensions": [
+        497,
+        193
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_04.png",
+      "sha256": "a5621323583a91693b314d7ce39a76be2189c684356914d3e32c5552a361d86c",
+      "native_dimensions": [
+        520,
+        193
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_05.png",
+      "sha256": "448f614fb470680049e5c74b4bd2a0fcde6495a22e6539fc5f409fbf1d47c0ef",
+      "native_dimensions": [
+        520,
+        190
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_06.png",
+      "sha256": "923eb8581dfcb8b1a8cc87ce9aa21d79311aeaab1e0382ccc436148b421851f5",
+      "native_dimensions": [
+        520,
+        190
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_07.png",
+      "sha256": "804107da30dcba181c0a056589a40f674418db9f751ef521a07acf7eb8496942",
+      "native_dimensions": [
+        520,
+        190
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/TYPED_NATIVE_ATLAS_08.png",
+      "sha256": "99538a98c34c03075eb0916e910fc4d594bc80b9260f98d89b7b4ba2d5b50bc4",
+      "native_dimensions": [
+        520,
+        190
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/typed_end_dot_native.png",
+      "sha256": "8f123c608c4bd967b0e62fbff86566c4cb617c681e13058e25f16f11a8d1b310",
+      "native_dimensions": [
+        100,
+        105
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/typed_lower_comma_native.png",
+      "sha256": "a7e89904a83d3b3cf4c2ad060f99040e5e218fadc4ded05161189d34d54ce3a2",
+      "native_dimensions": [
+        190,
+        145
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/notebook_caption_native.png",
+      "sha256": "6fa1140ccc019647328dfeddf99a47bb459b78ec04568e6ac4eadb8846c6c90e",
+      "native_dimensions": [
+        1500,
+        300
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/key_orientation_overwrites_native.png",
+      "sha256": "9947ca97ce2eca54fc7a904e6487da4846662f52408a381b21b6b2fa95cc1060",
+      "native_dimensions": [
+        1165,
+        315
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/notebook_cancellation_dividers_native.png",
+      "sha256": "4191c007dc2701f6097ef03baac11b907cc60e015ab7cbed1652c94469bd722d",
+      "native_dimensions": [
+        1355,
+        640
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/notebook_caption_numerals_native.png",
+      "sha256": "4321a81a734b950dc7814d4137a6da20936f2972fadf8378584897e083bf695c",
+      "native_dimensions": [
+        1550,
+        380
+      ],
+      "actually_seen_pixels": true,
+      "display_resize_notice": null,
+      "atlas_display_resize_notice": false
+    }
+  ],
+  "actual_images_seen": 42,
+  "manual_typed_rows_native_observation": [
+    "THEUEITHDMAISMSRPRKTISTTSZINWT",
+    "EUEENSSRDEITIIELAKALODHIEZCEMM",
+    "TSCT"
+  ],
+  "manual_physical_cut_columns_one_based_per_row": [
+    [
+      2,
+      6
+    ],
+    [
+      5
+    ],
+    [
+      3,
+      7,
+      8
+    ],
+    [
+      1,
+      4,
+      6
+    ],
+    [
+      2
+    ],
+    [
+      4,
+      7
+    ],
+    [
+      2,
+      8
+    ],
+    [
+      1,
+      5
+    ]
+  ],
+  "manual_all128_primary_cells_agree_with_freeze": true,
+  "source_native_boundaries_remain_approximate": true,
+  "secondary_modifier_metadata_issue": {
+    "id": "C11",
+    "preferred_current_ascii": "A",
+    "frozen_modifier_text": "detached dot; explicit ASCII case base I",
+    "observed": "C11 native base is A. Nearby detached dot is in the A/following-I context; attribution and boilerplate I text are held. This is not a primary letter or physical-cut change.",
+    "resolution": "Frozen record preserved, source-only description issue explicitly reported; do not reinterpret A as I from metadata or words."
+  }
+}

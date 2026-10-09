@@ -1,0 +1,350 @@
+{
+  "case": "HC849",
+  "annotations": [
+    {
+      "id": "typed_heading",
+      "role": "typed ordinary heading",
+      "literal_observer": "Český text čís. 3",
+      "certainty": "high",
+      "note": "Czech text no. 3. Literal ordinary label, not decoded text.",
+      "crop": "sources/inspection/cold_source_v1/ann_typed_heading.png",
+      "crop_sha256": "6ca3fdbfc1d43c4456cc9184f0e72ae82c53368090085ef65cc5bc73a409f280",
+      "native_xyxy": [
+        360,
+        145,
+        1030,
+        290
+      ],
+      "parent": "sources/raw/HC849_original_1.jpg",
+      "parent_sha256": "0b06c69eb1db23fd216aac4f389c5119eb5e2d64669f07b1b403d374a690c061",
+      "rotation_degrees": 0,
+      "resampling": "none"
+    },
+    {
+      "id": "typed_heading_underline",
+      "role": "typed dashed underline",
+      "literal_observer": null,
+      "certainty": "high",
+      "note": "Separate nonbody divider.",
+      "crop": "sources/inspection/cold_source_v1/ann_typed_heading_underline.png",
+      "crop_sha256": "ef5e44f138b957d5391839b108f83cb85f37b64ad88d7dd0cb4df25501458a17",
+      "native_xyxy": [
+        380,
+        246,
+        1000,
+        285
+      ],
+      "parent": "sources/raw/HC849_original_1.jpg",
+      "parent_sha256": "0b06c69eb1db23fd216aac4f389c5119eb5e2d64669f07b1b403d374a690c061",
+      "rotation_degrees": 0,
+      "resampling": "none"
+    },
+    {
+      "id": "typed_between_Es",
+      "role": "thin dark curved stroke between adjacent typed units",
+      "literal_observer": null,
+      "certainty": "held",
+      "note": "Not counted as an extra alphabetic unit; ink/mark role unassigned.",
+      "crop": "sources/inspection/cold_source_v1/ann_typed_between_Es.png",
+      "crop_sha256": "262adb47f934f69424c595936385916a104a3907625da6f099b3e1dc9a405fa6",
+      "native_xyxy": [
+        1807,
+        548,
+        1850,
+        603
+      ],
+      "parent": "sources/raw/HC849_original_1.jpg",
+      "parent_sha256": "0b06c69eb1db23fd216aac4f389c5119eb5e2d64669f07b1b403d374a690c061",
+      "rotation_degrees": 0,
+      "resampling": "none"
+    },
+    {
+      "id": "typed_clipped_bottom",
+      "role": "clipped dark off-body pen traces at bottom frame",
+      "literal_observer": null,
+      "certainty": "held",
+      "note": "Cannot recover complete characters or assign cipher/source role; frame extent hold.",
+      "crop": "sources/inspection/cold_source_v1/ann_typed_clipped_bottom.png",
+      "crop_sha256": "ea3cf410bf89909abd9d2c9763da2138a57748580492d2812d96d9d75ce78560",
+      "native_xyxy": [
+        470,
+        789,
+        820,
+        809
+      ],
+      "parent": "sources/raw/HC849_original_1.jpg",
+      "parent_sha256": "0b06c69eb1db23fd216aac4f389c5119eb5e2d64669f07b1b403d374a690c061",
+      "rotation_degrees": 0,
+      "resampling": "none"
+    },
+    {
+      "id": "notebook_top_caption",
+      "role": "ordinary handwritten caption",
+      "literal_observer": "Český příklad",
+      "certainty": "high",
+      "note": "Czech example. Diacritics visible; original case convention not consequential.",
+      "crop": "sources/inspection/cold_source_v1/ann_notebook_top_caption.png",
+      "crop_sha256": "df3b7a3b099cfcc498d54821df712918b5bfa6321a8f47b04548c8a3c6f485cf",
+      "native_xyxy": [
+        1740,
+        1050,
+        2590,
+        1235
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none"
+    },
+    {
+      "id": "notebook_vertical_note",
+      "role": "writing orientation annotation",
+      "literal_observer": "psáno svisle.",
+      "certainty": "high",
+      "note": "Conservative translation: written vertically. Supports vertical/column-oriented writing as source evidence only; starting corner, column direction, rotation and hole scan are not specified.",
+      "crop": "sources/inspection/cold_source_v1/ann_notebook_vertical_note.png",
+      "crop_sha256": "a1149535a06b8bc11020f5ab9355025a7f9a619467569f0a60dd3fab71e6ae1c",
+      "native_xyxy": [
+        1740,
+        1230,
+        2575,
+        1410
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none"
+    },
+    {
+      "id": "notebook_number_marks",
+      "role": "coloured/dark numeric annotations",
+      "literal_observer": "6; circled 3; crossed dark 55-like; green numeral-like trace",
+      "certainty": "mixed",
+      "note": "6 and circled 3 are clear. Crossed dark/green values uncertain; no operational value assigned.",
+      "crop": "sources/inspection/cold_source_v1/ann_notebook_number_marks.png",
+      "crop_sha256": "0a4fa3d0698056f42ee951e9452ca78596b832200cd5d60c6f7cd7a320c6eb79",
+      "native_xyxy": [
+        2540,
+        970,
+        2970,
+        1450
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none"
+    },
+    {
+      "id": "notebook_bracket_UL",
+      "role": "upper-left array corner bracket",
+      "literal_observer": null,
+      "certainty": "high",
+      "note": "Array delimiter, not a body glyph.",
+      "crop": "sources/inspection/cold_source_v1/ann_notebook_bracket_UL.png",
+      "crop_sha256": "f4480ace44e1e92f4fcc6f3236059cfdb6a39a55e633bea6663b0aa4bc5a695d",
+      "native_xyxy": [
+        170,
+        1090,
+        220,
+        1160
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none"
+    },
+    {
+      "id": "notebook_bracket_UR",
+      "role": "upper-right array corner bracket",
+      "literal_observer": null,
+      "certainty": "high",
+      "note": "Array delimiter, not a body glyph.",
+      "crop": "sources/inspection/cold_source_v1/ann_notebook_bracket_UR.png",
+      "crop_sha256": "550b09aa1ceab12d914728f0d4ba428fb89658c942d8a8c172dcbe6989ec77ef",
+      "native_xyxy": [
+        1350,
+        1090,
+        1435,
+        1160
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none"
+    },
+    {
+      "id": "notebook_bracket_LL",
+      "role": "lower-left array corner bracket",
+      "literal_observer": null,
+      "certainty": "high",
+      "note": "Array delimiter, not a body glyph.",
+      "crop": "sources/inspection/cold_source_v1/ann_notebook_bracket_LL.png",
+      "crop_sha256": "b65c016e57fb398066160cb3086ec2227803578978a057d25cf2bccddac9223b",
+      "native_xyxy": [
+        170,
+        2260,
+        280,
+        2335
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none"
+    },
+    {
+      "id": "notebook_bracket_LR",
+      "role": "lower-right array corner bracket",
+      "literal_observer": null,
+      "certainty": "high",
+      "note": "Array delimiter, not a body glyph.",
+      "crop": "sources/inspection/cold_source_v1/ann_notebook_bracket_LR.png",
+      "crop_sha256": "6ac1bfd5099ec57d466a22b07eee45b9ffa5c9bbb166a654e50e2b6253e73b64",
+      "native_xyxy": [
+        1350,
+        2250,
+        1450,
+        2340
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none"
+    },
+    {
+      "id": "notebook_red_monogram",
+      "role": "red monogram/flourish with detached red dot",
+      "literal_observer": null,
+      "certainty": "held",
+      "note": "Exact letters and role unassigned. No message body extension inferred.",
+      "crop": "sources/inspection/cold_source_v1/ann_notebook_red_monogram.png",
+      "crop_sha256": "222212235be3bfecf634483775d8da9e6eef9121108e52b781aa932f491490be",
+      "native_xyxy": [
+        1540,
+        2240,
+        1770,
+        2450
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none"
+    },
+    {
+      "id": "notebook_faint_lower",
+      "role": "faint violet impression at lower notebook edge",
+      "literal_observer": null,
+      "certainty": "held",
+      "note": "Incomplete source mark/stamp-like trace; no letters reconstructed.",
+      "crop": "sources/inspection/cold_source_v1/ann_notebook_faint_lower.png",
+      "crop_sha256": "f41a2f1e26a1e67d150664507663e9dfd5e7408388f03c590928fa4d87e63e3e",
+      "native_xyxy": [
+        2520,
+        2920,
+        2750,
+        3130
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none"
+    },
+    {
+      "id": "key_top_orientation",
+      "role": "dark top orientation mark",
+      "literal_observer": "I-like with dot and short bars",
+      "certainty": "high",
+      "note": "Physical position/literal shape only; operational order unassigned.",
+      "crop": "sources/inspection/cold_source_v1/ann_key_top_orientation.png",
+      "crop_sha256": "d58b388d78573b3b17faed0e11b7860139aaae68440d4a526556608abab8cf41",
+      "native_xyxy": [
+        720,
+        115,
+        820,
+        265
+      ],
+      "parent": "sources/raw/HC849_original_3.jpg",
+      "parent_sha256": "c3751e509ee34ab5a934d19912adfd22c24daee46fad6e8ee921a6dd127032bb",
+      "rotation_degrees": 0,
+      "resampling": "none"
+    },
+    {
+      "id": "key_left_orientation",
+      "role": "dark left orientation mark",
+      "literal_observer": "two parallel near-horizontal strokes and dot (II-like rotated)",
+      "certainty": "high",
+      "note": "Physical position/literal shape only; operational order unassigned.",
+      "crop": "sources/inspection/cold_source_v1/ann_key_left_orientation.png",
+      "crop_sha256": "2a42eec3adc61c2dc43d3d8c1898b13984e27854e4eaeac920fe9cd7618f5f39",
+      "native_xyxy": [
+        185,
+        542,
+        285,
+        636
+      ],
+      "parent": "sources/raw/HC849_original_3.jpg",
+      "parent_sha256": "c3751e509ee34ab5a934d19912adfd22c24daee46fad6e8ee921a6dd127032bb",
+      "rotation_degrees": 0,
+      "resampling": "none"
+    },
+    {
+      "id": "key_bottom_orientation",
+      "role": "dark bottom orientation mark",
+      "literal_observer": "III-like three slant/upright strokes",
+      "certainty": "high",
+      "note": "Physical position/literal shape only; operational order unassigned.",
+      "crop": "sources/inspection/cold_source_v1/ann_key_bottom_orientation.png",
+      "crop_sha256": "3dce1f960360fd6391d52717720c578d4c24151f7f43bc072c6d25011af4f3fc",
+      "native_xyxy": [
+        653,
+        1050,
+        750,
+        1160
+      ],
+      "parent": "sources/raw/HC849_original_3.jpg",
+      "parent_sha256": "c3751e509ee34ab5a934d19912adfd22c24daee46fad6e8ee921a6dd127032bb",
+      "rotation_degrees": 0,
+      "resampling": "none"
+    },
+    {
+      "id": "key_cursive_caption",
+      "role": "dark cursive and numeral/slash caption",
+      "literal_observer": "Česk?-like word; 3/-like ending",
+      "certainty": "partial/held",
+      "note": "3 and slash-like stroke clear, exact word ending and meaning held; no operational centre annotation inferred.",
+      "crop": "sources/inspection/cold_source_v1/ann_key_cursive_caption.png",
+      "crop_sha256": "49eb3212158879f1188476f116faf3c81a2080a083bc623fc677bf83abfcf219",
+      "native_xyxy": [
+        385,
+        675,
+        875,
+        845
+      ],
+      "parent": "sources/raw/HC849_original_3.jpg",
+      "parent_sha256": "c3751e509ee34ab5a934d19912adfd22c24daee46fad6e8ee921a6dd127032bb",
+      "rotation_degrees": 0,
+      "resampling": "none"
+    },
+    {
+      "id": "key_right_crease",
+      "role": "diagonal physical crease/curl and shadow",
+      "literal_observer": null,
+      "certainty": "high",
+      "note": "Not read as a dark IV annotation or extra cut.",
+      "crop": "sources/inspection/cold_source_v1/ann_key_right_crease.png",
+      "crop_sha256": "ada90942a3262ebfcce7eb5d6c1b0bf63f6067ea18ada9fb36f74c9ae88a957e",
+      "native_xyxy": [
+        970,
+        390,
+        1290,
+        560
+      ],
+      "parent": "sources/raw/HC849_original_3.jpg",
+      "parent_sha256": "c3751e509ee34ab5a934d19912adfd22c24daee46fad6e8ee921a6dd127032bb",
+      "rotation_degrees": 0,
+      "resampling": "none"
+    }
+  ],
+  "other_photo_regions": "Full faces and native blank/margin tiles inspected. Paper fibres, foxing, book-edge perforations, folds, shadows and fine grid are retained in originals and are noncipher areas. No other secure complete alphabetic body outside the inventories identified. Off-frame completeness not inferred.",
+  "full_plaintext_exposure": "No full plaintext/answer spotted in finite inspection. Ordinary source labels are separate.",
+  "source_roles": "Typed 64 main current body; handwritten 64 grid and 64 grouped recopy are separate witnesses; orientation/captions/red marks/clipped ink are not silently added as cipher letters."
+}

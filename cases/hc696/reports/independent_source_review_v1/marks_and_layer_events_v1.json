@@ -1,0 +1,407 @@
+{
+  "events": [
+    {
+      "event_id": "E01",
+      "kind": "dark_uppercase_overlay",
+      "cipher_occurrence_ids": [
+        "C023"
+      ],
+      "noncipher_occurrence_ids": [],
+      "crop_id": "E01_P_overwrite",
+      "bbox_original_xyxy": [
+        2160,
+        690,
+        2260,
+        825
+      ],
+      "observation": "Final P has one upper bowl and a descending left stem; black/dark strokes occlude the earlier violet site. It may be correction or reinforcement; chronology/earlier identity is not recoverable.",
+      "earlier_letter_candidates": [],
+      "role_or_temporal_order_status": "not_inferred",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "event_id": "E02",
+      "kind": "dark_uppercase_overlay",
+      "cipher_occurrence_ids": [
+        "C066"
+      ],
+      "noncipher_occurrence_ids": [],
+      "crop_id": "E02_N_overwrite",
+      "bbox_original_xyxy": [
+        640,
+        1180,
+        745,
+        1290
+      ],
+      "observation": "Final N has two upright strokes connected by a descending diagonal; earlier typed identity is occluded and held.",
+      "earlier_letter_candidates": [],
+      "role_or_temporal_order_status": "not_inferred",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "event_id": "E03",
+      "kind": "ambiguous_crossing_or_print_irregularity",
+      "cipher_occurrence_ids": [
+        "C077"
+      ],
+      "noncipher_occurrence_ids": [],
+      "crop_id": "E03_W_crossing",
+      "bbox_original_xyxy": [
+        1660,
+        1160,
+        1770,
+        1290
+      ],
+      "observation": "Violet W remains readable. A small darker diagonal/top crossing may be extraneous pencil, ink irregularity, or part of the printed impression; no second alphabetic identity is supported.",
+      "earlier_letter_candidates": [],
+      "role_or_temporal_order_status": "not_inferred",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "event_id": "E04",
+      "kind": "dark_uppercase_overlay",
+      "cipher_occurrence_ids": [
+        "C080"
+      ],
+      "noncipher_occurrence_ids": [],
+      "crop_id": "E04_B_overwrite",
+      "bbox_original_xyxy": [
+        1865,
+        1145,
+        1965,
+        1280
+      ],
+      "observation": "Final B has a left stem and two right bowls. Violet fragments remain within/beside it but do not uniquely identify the earlier typed letter.",
+      "earlier_letter_candidates": [],
+      "role_or_temporal_order_status": "not_inferred",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "event_id": "E05",
+      "kind": "dark_uppercase_overlay",
+      "cipher_occurrence_ids": [
+        "C132"
+      ],
+      "noncipher_occurrence_ids": [],
+      "crop_id": "E05_H_overwrite",
+      "bbox_original_xyxy": [
+        1180,
+        1595,
+        1290,
+        1745
+      ],
+      "observation": "Final H has two upright strokes and one crossbar. Violet residue is insufficient to recover the earlier typed identity.",
+      "earlier_letter_candidates": [],
+      "role_or_temporal_order_status": "not_inferred",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "event_id": "E06",
+      "kind": "dark_uppercase_overlay",
+      "cipher_occurrence_ids": [
+        "C172"
+      ],
+      "noncipher_occurrence_ids": [],
+      "crop_id": "E06_W_overwrite",
+      "bbox_original_xyxy": [
+        2090,
+        1800,
+        2210,
+        1940
+      ],
+      "observation": "Final W has two lower vertices and three upper endpoints. Earlier typed identity remains occluded and held.",
+      "earlier_letter_candidates": [],
+      "role_or_temporal_order_status": "not_inferred",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "event_id": "E07",
+      "kind": "dark_underline",
+      "cipher_occurrence_ids": [
+        "C005",
+        "C006"
+      ],
+      "noncipher_occurrence_ids": [],
+      "crop_id": "E07_line1_W_I_underline",
+      "bbox_original_xyxy": [
+        470,
+        760,
+        715,
+        875
+      ],
+      "observation": "One rising dark underline spans W at the end of group 1, the intergroup blank, and I at the start of group 2; both visible identities stay fixed.",
+      "earlier_letter_candidates": [],
+      "role_or_temporal_order_status": "not_inferred",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "event_id": "E08",
+      "kind": "dark_underline",
+      "cipher_occurrence_ids": [
+        "C011",
+        "C012"
+      ],
+      "noncipher_occurrence_ids": [],
+      "crop_id": "E08_line1_E_R_underline",
+      "bbox_original_xyxy": [
+        1090,
+        740,
+        1260,
+        850
+      ],
+      "observation": "Dark underline below E and R, with short downward excess at the E side; no letter replacement.",
+      "earlier_letter_candidates": [],
+      "role_or_temporal_order_status": "not_inferred",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "event_id": "E09",
+      "kind": "dark_underline",
+      "cipher_occurrence_ids": [
+        "C101",
+        "C102"
+      ],
+      "noncipher_occurrence_ids": [],
+      "crop_id": "E09_line4_W_I_underline",
+      "bbox_original_xyxy": [
+        1090,
+        1430,
+        1280,
+        1550
+      ],
+      "observation": "Broad multi-stroke dark underline beneath W and I; overlaps their lower vicinity without obscuring identity.",
+      "earlier_letter_candidates": [],
+      "role_or_temporal_order_status": "not_inferred",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "event_id": "E10",
+      "kind": "dark_underline",
+      "cipher_occurrence_ids": [
+        "C107",
+        "C108"
+      ],
+      "noncipher_occurrence_ids": [],
+      "crop_id": "E10_line4_E_Q_underline",
+      "bbox_original_xyxy": [
+        1630,
+        1400,
+        1830,
+        1510
+      ],
+      "observation": "Dark underline beneath E and Q; Q tail remains visible. Underline is not a letter.",
+      "earlier_letter_candidates": [],
+      "role_or_temporal_order_status": "not_inferred",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "event_id": "E11",
+      "kind": "red_margin_stroke",
+      "cipher_occurrence_ids": [
+        "C001"
+      ],
+      "noncipher_occurrence_ids": [
+        "S002"
+      ],
+      "crop_id": "E11_left_red_stroke",
+      "bbox_original_xyxy": [
+        0,
+        710,
+        110,
+        910
+      ],
+      "observation": "Red rising stroke near left margin, plus a faint branch toward the edge; only spatially adjacent to C001. No semantic link or replacement asserted.",
+      "earlier_letter_candidates": [],
+      "role_or_temporal_order_status": "not_inferred",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "event_id": "E12",
+      "kind": "blue_vertical_margin_stroke",
+      "cipher_occurrence_ids": [
+        "C153"
+      ],
+      "noncipher_occurrence_ids": [
+        "S003"
+      ],
+      "crop_id": "E12_below_cipher_blue_stroke",
+      "bbox_original_xyxy": [
+        350,
+        2000,
+        460,
+        2240
+      ],
+      "observation": "Isolated narrow blue vertical stroke below the cipher, spatially below C153's column. No semantic connection or extra cipher site asserted.",
+      "earlier_letter_candidates": [],
+      "role_or_temporal_order_status": "not_inferred",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "event_id": "E13",
+      "kind": "noncipher_header_text",
+      "cipher_occurrence_ids": [],
+      "noncipher_occurrence_ids": [
+        "H001",
+        "H002",
+        "H003",
+        "H004",
+        "H005",
+        "H006",
+        "H007",
+        "H008",
+        "H009",
+        "H010",
+        "H011",
+        "H012",
+        "H013",
+        "H014",
+        "H015",
+        "H016",
+        "H017"
+      ],
+      "crop_id": "E13_header_text",
+      "bbox_original_xyxy": [
+        120,
+        440,
+        985,
+        560
+      ],
+      "observation": "Ordinary mixed-case typewritten header, visually transcribed as Anglický text čís. 7. Diacritic styling is less clear than the cipher; see header record.",
+      "earlier_letter_candidates": [],
+      "role_or_temporal_order_status": "not_inferred",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "event_id": "E14",
+      "kind": "violet_dashed_header_rule",
+      "cipher_occurrence_ids": [],
+      "noncipher_occurrence_ids": [
+        "R001"
+      ],
+      "crop_id": "E14_header_dashed_rule",
+      "bbox_original_xyxy": [
+        120,
+        553,
+        960,
+        610
+      ],
+      "observation": "Series of small violet horizontal impressions below the heading. A rule, not cipher letters; exact dash count is not used.",
+      "earlier_letter_candidates": [],
+      "role_or_temporal_order_status": "not_inferred",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "event_id": "E15",
+      "kind": "red_heading_stroke",
+      "cipher_occurrence_ids": [],
+      "noncipher_occurrence_ids": [
+        "H001",
+        "H002",
+        "H003",
+        "H004",
+        "H005",
+        "H006",
+        "H007",
+        "H008",
+        "H009",
+        "H010",
+        "H011",
+        "H012",
+        "H013",
+        "H014",
+        "H015",
+        "H016",
+        "H017",
+        "S001",
+        "R001"
+      ],
+      "crop_id": "E15_header_red_stroke",
+      "bbox_original_xyxy": [
+        75,
+        395,
+        1240,
+        610
+      ],
+      "observation": "Long red stroke rises from left below the heading and crosses the right-hand heading/7 region. It is separate from violet text and dashed rule.",
+      "earlier_letter_candidates": [],
+      "role_or_temporal_order_status": "not_inferred",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "event_id": "E16",
+      "kind": "magenta_header_digit",
+      "cipher_occurrence_ids": [],
+      "noncipher_occurrence_ids": [
+        "M001"
+      ],
+      "crop_id": "E16_header_magenta_4",
+      "bbox_original_xyxy": [
+        2490,
+        95,
+        2710,
+        360
+      ],
+      "observation": "Large handwritten magenta 4 near upper right; separate from cipher and typewritten heading.",
+      "earlier_letter_candidates": [],
+      "role_or_temporal_order_status": "not_inferred",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "event_id": "E17",
+      "kind": "dark_check_like_mark",
+      "cipher_occurrence_ids": [],
+      "noncipher_occurrence_ids": [
+        "M002"
+      ],
+      "crop_id": "E17_header_check_mark",
+      "bbox_original_xyxy": [
+        2120,
+        470,
+        2250,
+        600
+      ],
+      "observation": "Dark check/V-like two-segment handwritten mark to the right of the heading; identity recorded as shape, not a cipher V.",
+      "earlier_letter_candidates": [],
+      "role_or_temporal_order_status": "not_inferred",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "event_id": "E18",
+      "kind": "terminal_I_ink_extension",
+      "cipher_occurrence_ids": [
+        "C150"
+      ],
+      "noncipher_occurrence_ids": [],
+      "crop_id": "E18_line5_terminal_I_ink",
+      "bbox_original_xyxy": [
+        2830,
+        1585,
+        2915,
+        1740
+      ],
+      "observation": "Visible I has extra violet ink extending below/beside its lower serif. I remains directly legible; no extra character site.",
+      "earlier_letter_candidates": [],
+      "role_or_temporal_order_status": "not_inferred",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    }
+  ],
+  "policy": "Events refer to occurrences or explicit noncipher marks. Spatial links for E11/E12 do not imply semantic relations. Incidental paper fibers and stains are not inventoried as deliberate annotation."
+}

@@ -1,0 +1,27 @@
+{
+  "files": [
+    {
+      "path": "reports/independent_source_review_v1/source_ledger_v1.json",
+      "sha256": "ce61b3011b69e846b123b49e873806fca6fb5e36467dfe20f3d3093696bce375"
+    },
+    {
+      "path": "reports/independent_source_review_v1/visible_final_stream_v1.txt",
+      "sha256": "e7989be832d640b751a486bb17462b7d28c2811fe42fed1c9354464199a60784"
+    },
+    {
+      "path": "reports/independent_source_review_v1/marks_and_layer_events_v1.json",
+      "sha256": "4cb5e74beb288bb04b02767b73e263ab03fa7872fa3da2ab1c5342e73a556f62"
+    },
+    {
+      "path": "experiments/target_first_v1/SEARCH_RESULTS_v1.tsv",
+      "sha256": "95a509064fe5a189908fa58a719ebd2f3357a00b083bb32aca7d5c5302029b5f"
+    }
+  ],
+  "input_hashes_before_and_after_unchanged": true,
+  "source_image": {
+    "path": "sources/raw/HC696_original.jpg",
+    "sha256_verified": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+  },
+  "target_access_authorisation": "Parent CP040 task after source freeze and preregistered first attack",
+  "decoder_imported": "scripts/portax_v1.py only; no root C++/decoder imported or read"
+}

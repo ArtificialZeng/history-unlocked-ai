@@ -1,0 +1,7 @@
+{
+  "created_utc": "2026-10-06T04:35:46.704005+00:00",
+  "comparison_manifest_sha256": "f7b704d0e08aeb050357413b8b7e9c40355ff3c022a91ef70511380fae97ef2b",
+  "audit_sha256": "63a4e509e5f9e6085f4837efaf5d1a3531583d270bb35f04e0995ceef5b4cf6b",
+  "source_preferences_unchanged": true,
+  "status": "COMPLETE_SOURCE_ACCOUNTING_COMPARISON_WITH_ONE_RAW_CLASS_DISAGREEMENT"
+}

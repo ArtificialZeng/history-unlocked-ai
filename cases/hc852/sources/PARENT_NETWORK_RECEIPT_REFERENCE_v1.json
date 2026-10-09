@@ -1,0 +1,27 @@
+{
+  "parent_path": "/Users/zeng/Documents/\u89e3\u8c1c/historical_cipher_scout/reports/hc850_hc852_given_key_source_gate_2026-10-06_v1/ALL_8_GET_RECEIPTS_v1.json",
+  "parent_sha256": "dcb4faf1e639ef95ff58b401e21a7e67b18449c9995dce2c5e2d7e5817e8dba6",
+  "source850not_adopted_here": true,
+  "originals_source_urls": [
+    "https://api.hcportal.eu/media/2515/95211685310282.jpg",
+    "https://api.hcportal.eu/media/2516/51771685310282.jpg",
+    "https://api.hcportal.eu/media/2517/72361685310282.jpg"
+  ],
+  "source_bytes": [
+    {
+      "path": "sources/raw/HC852_original_1.jpg",
+      "bytes": 818126,
+      "sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811"
+    },
+    {
+      "path": "sources/raw/HC852_original_2.jpg",
+      "bytes": 3231167,
+      "sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915"
+    },
+    {
+      "path": "sources/raw/HC852_original_3.jpg",
+      "bytes": 716208,
+      "sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb"
+    }
+  ]
+}

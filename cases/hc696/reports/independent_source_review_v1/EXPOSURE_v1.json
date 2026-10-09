@@ -1,0 +1,28 @@
+{
+  "role": "fresh cold source observer",
+  "target": "HC696",
+  "explicitly_read_preexisting_files": [
+    "AGENTS.md",
+    "sources/SOURCE_ONLY_SCOPE_v1.md",
+    "sources/SOURCE_ADOPTION_RECEIPT_v1.json",
+    "sources/raw/HC696_original.jpg"
+  ],
+  "permitted_file_metadata_exposure": "The adoption receipt contains the public HC696 PORTAX/English/Not solved catalogue labels, source URL, access date, upstream gate path, and network-call records referring incidentally to HC725/HC770 URLs/hashes. The upstream gate and other puzzle sources/images were not opened.",
+  "conversation_exposure": "The parent assigned a source-only audit naming HC696, provisional geometry, PORTAX/English labels, and prohibited target inference. A later parent status said target-free calibration was ready but included no target key/plaintext/candidate or method details. The inherited top-level message contained another project's path/instructions; no files from it were read.",
+  "image_views": {
+    "whole_original": "view_image original detail, automatic display resize reported from 3024x4032 to 2752x3669",
+    "native_row_crops": ["line_01", "line_02", "line_03", "line_04", "line_05", "line_06"],
+    "native_header_crop": "header",
+    "nearest_neighbor_event_crops_viewed": ["E01", "E02", "E03", "E04", "E05", "E06", "E07", "E08", "E09", "E10", "E11", "E12", "E13", "E14", "E15", "E16", "E17", "E18"],
+    "transforms": "native crop only; event views exactly 3x nearest-neighbor duplication; no enhancement or OCR"
+  },
+  "own_generated_files": "Read/written only files under reports/independent_source_review_v1/ for source ledger, crop generation, manifest, report, and verification.",
+  "target_plaintext_or_key_exposure": false,
+  "solver_method_or_search_exposure": false,
+  "root_answer_bearing_file_exposure": false,
+  "other_puzzle_image_exposure": false,
+  "network_calls": 0,
+  "root_state_changes": false,
+  "git_mutations": false,
+  "linguistic_selection": "No header word, English fluency, catalogue language, cipher method label, plaintext expectation, or algorithm was used to select cipher letters. Five hidden typed forms remain unknown."
+}

@@ -1,0 +1,13 @@
+{
+  "recorded_utc": "2026-10-05T20:00:21.884201+00:00",
+  "attempt": 1,
+  "stage": "known-vector oracle",
+  "status": "FAILED before synthetic controls",
+  "exception": "TypeError: unhashable type: list",
+  "location": "_oracle_route: hole_set = set(holes)",
+  "cause": "Published fixture holes deserialize as coordinate lists; oracle failed to convert pair representation. Production accepts lists and tuples.",
+  "repair": "Convert each supplied pair to a tuple locally in oracle. No algorithm, registered scope, quotas, seed or target input changed.",
+  "failed_code_sha256": "0b61fe65764266fc7bb9df1b33951a6d788daafd982d382258aa5597b45f562a",
+  "target_exposure": "none",
+  "retained_original_code": "FAILED_RUN_CODE_CAPTURE_v1.py"
+}

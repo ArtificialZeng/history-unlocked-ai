@@ -1,0 +1,11 @@
+{
+  "registered_before_first_own_target_run_utc": "2026-10-05T21:54:25.435072+00:00",
+  "script_sha256": "effd002ee8b01d945c44cf159f6c7d7ffde8c3f31832bbdbaa240cd46e1fea40",
+  "registration_sha256": "0761b7f1cac674f238676db1cbb1de06c06b31fca4ff5ee3497bcbe72d3336f7",
+  "command": [
+    "python3",
+    "scripts/independent_candidate_check_v1.py"
+  ],
+  "candidate_already_exposed": true,
+  "root_implementation_unread": true
+}

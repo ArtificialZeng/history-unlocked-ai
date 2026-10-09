@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the scoped source-assisted current-layer research note."
+type: dataset
+title: "HC852: Reading a German course cryptogram with its public grille"
+version: 1.0.0
+date-released: 2026-10-06
+authors:
+  - family-names: Zeng
+    given-names: Zijian
+    affiliation: "Institute of Computer Science and Digital Innovation, UCSI University, Kuala Lumpur, 56000, MALAYSIA"
+    email: zijianzeng@foxmail.com
+abstract: "Exact current64 reading using the publicly supplied physical grille, with independent forward certificates and explicit source holds. Historical priority, external acceptance, original operation and unknown-key recovery are not claimed. Original software is MIT; original documentation is CC BY 4.0; third-party sources retain their rights."

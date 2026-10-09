@@ -1,0 +1,8 @@
+{
+  "verified_utc": "2026-10-05T20:16:55.092905+00:00",
+  "own_method_manifest_sha256": "5cfbb7eceb3f217ad94dd56bf776df1ea06b5ed82bc34cd5c162a40388ff11f8",
+  "own_method_artifacts_unchanged": 13,
+  "source_manifest_sha256": "b41a1f59b7ab5f624f339abc80cfa1608fa2044515ca52e3eabff4133779c818",
+  "source_references_unchanged": 365,
+  "root_implementation_body_read_or_imported": false
+}

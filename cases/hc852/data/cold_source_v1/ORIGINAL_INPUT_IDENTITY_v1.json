@@ -1,0 +1,29 @@
+[
+  {
+    "path": "sources/raw/HC852_original_1.jpg",
+    "bytes": 818126,
+    "native_dimensions": [
+      3024,
+      973
+    ],
+    "sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811"
+  },
+  {
+    "path": "sources/raw/HC852_original_2.jpg",
+    "bytes": 3231167,
+    "native_dimensions": [
+      3024,
+      4032
+    ],
+    "sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915"
+  },
+  {
+    "path": "sources/raw/HC852_original_3.jpg",
+    "bytes": 716208,
+    "native_dimensions": [
+      1789,
+      1474
+    ],
+    "sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb"
+  }
+]

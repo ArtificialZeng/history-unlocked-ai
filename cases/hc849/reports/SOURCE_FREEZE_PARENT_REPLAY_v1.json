@@ -1,0 +1,11 @@
+{
+  "replayed_utc": "2026-10-05T20:01:41.932016+00:00",
+  "source_manifest_entries_verified": 365,
+  "typed_current_root_vs_cold_exact": true,
+  "root_current_counts": [
+    30,
+    30,
+    4
+  ],
+  "no_target_decode_yet": true
+}

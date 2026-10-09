@@ -1,0 +1,6 @@
+{
+  "stage": "Console schema inspection before checker implementation",
+  "error": "Root source certificate JSON is a list, not a dictionary; an overly verbose list-key print preceded AttributeError on items().",
+  "effect": "No frozen files or candidate values changed; no checker execution yet.",
+  "repair": "Inspect only top type/count and first record keys."
+}

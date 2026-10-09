@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "started_at_utc": "2026-10-05T21:23:19.413016+00:00",
+  "completed_at_utc": "2026-10-05T21:23:19.559793+00:00",
+  "core_sha256": "5c2d8c3bbf1f54ecf8c43583e0f7e8f875a167050ab12d7e4a393f230f095e16",
+  "fresh_seed": 8521952,
+  "known_primary_vectors": 1,
+  "distinct_synthetic_keys": 4,
+  "settings_per_key": 32,
+  "blocks": [
+    1,
+    2
+  ],
+  "synthetic_trials": 256,
+  "expected_invalid_rejections": 26,
+  "assertions": 1832,
+  "failures": [],
+  "target_inputs_read": 0,
+  "network_requests": 0,
+  "prior_broad_self_test_called": false,
+  "target_historical_claim": false
+}

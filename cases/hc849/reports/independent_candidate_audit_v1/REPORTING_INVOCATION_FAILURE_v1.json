@@ -1,0 +1,7 @@
+{
+  "stage": "Post-write concise summary of all_derivative_provenance_v1.json",
+  "error": "TypeError: object of type int has no len()",
+  "cause": "Console summary tried len() on scalar count field after successful native-audit and hash-replay artifacts were already written.",
+  "effect": "No source/method/candidate inputs or output records changed; no target codec run yet.",
+  "fix": "Read scalar count directly and list sample only for derivatives field."
+}

@@ -1,0 +1,17 @@
+{
+  "case_id": "hcportal:1446",
+  "evidence_level": "audited_partial_only",
+  "scope": "64 base sites+4 unassigned marks=68physical sites;two base-identity alternatives produce6variants;156historical candidates and99permutations saved. No complete68site reading.",
+  "facts": {
+    "Physical source": "64 base sites and 4 unassigned marks; 68 physical sites",
+    "Frozen alternatives": "Two base-identity alternatives; six variants",
+    "Saved experiment": "156 historical candidate configurations and 99 permutations",
+    "Whole reading": "Not established; the four marks are undecoded"
+  },
+  "complete_solution": false,
+  "expert_confirmation": false,
+  "new_target_operations": 0,
+  "source_url": "https://api.hcportal.eu/api/cryptograms/1446",
+  "public_derivative": "Image-free original explanatory note; not the old evidence-package manifest",
+  "source_pixels_redistributed": false
+}

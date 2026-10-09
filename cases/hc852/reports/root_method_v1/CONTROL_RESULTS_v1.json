@@ -1,0 +1,16 @@
+{
+  "utc": "2026-10-05T21:21:47.344341+00:00",
+  "status": "PASS_REUSED_GENERIC_CORE_FOCUSED_CONTROLS",
+  "synthetic_trials": 320,
+  "distinct_keys": 5,
+  "settings": 32,
+  "block_counts": [
+    1,
+    2
+  ],
+  "ACA_known_vectors": 1,
+  "invalid_case_rejections": 8,
+  "target_file_reads": 0,
+  "root_fully_blind": false,
+  "fresh_code_implementation": false
+}

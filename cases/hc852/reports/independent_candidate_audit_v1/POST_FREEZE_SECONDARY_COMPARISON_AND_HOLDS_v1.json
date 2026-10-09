@@ -1,0 +1,24 @@
+{
+  "comparison_after_both_source_freezes": true,
+  "grouped_current64_matches_typed": true,
+  "array_preferred_column_serialization_differences": [
+    {
+      "source_position": 4,
+      "typed_current": "U",
+      "notebook_array_id": "A41",
+      "array_preferred": "W",
+      "array_alternatives": [
+        "W",
+        "U"
+      ],
+      "unchanged_source_note": "No language/array-fit correction."
+    }
+  ],
+  "variants_preserved": true,
+  "secondary_sources_not_used_to_repair_primary": true,
+  "cancelled_source_locations": 5,
+  "wholly_hidden_earlier_values": [
+    "C31"
+  ],
+  "C11_modifier_description_issue_held": true
+}

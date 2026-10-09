@@ -1,0 +1,547 @@
+{
+  "target": "HC1619/pc_hcp_300",
+  "exposure_declaration": {
+    "HC1619_key_or_plaintext_exposed": false,
+    "HC1760_key_or_plaintext_exposed": false,
+    "HC1600_key_or_plaintext_exposed": false,
+    "HC615_old_solution_exposed": true,
+    "cross_target_keys_or_models_read": false
+  },
+  "sources": [
+    {
+      "path": "sources/raw/HC1619_picture_original.jpg",
+      "bytes": 1111132,
+      "sha256": "7dad53cab1fc133d1e17d7512cd0ef53d135a57b7cd8897a63aa6fb044734df5"
+    },
+    {
+      "path": "reports/independent_source_review_v1/HC1619_address_original.jpg",
+      "bytes": 1000739,
+      "sha256": "ed905b986e02c435fb6aab7af6d7302e49a25988ce801a767c12f534d287f46a"
+    }
+  ],
+  "manual_spec_sha256": "d1cb32dd9e907bfab0a46faec729df2f2ac65a3c17b7c835665ce0f7f276507a",
+  "occurrence_ledger_sha256": "f6d8ce91e53da3a9b521e1da623aec225844ecbe5604a8a6ecf509b56025a8d9",
+  "visual_inventory_sha256": "9a97f3c11b7cb5c962f3ef432351f29a3c66633d74267739c55f0b01ccd2bbfe",
+  "physical_group_ledger_sha256": "7e1db57e5c0b289e18e6539d19669d102054492310d157c086e96a5d2496bb59",
+  "cipher_groups": [
+    {
+      "line": 1,
+      "group_in_line": 1,
+      "group_id": "L01G01",
+      "source_labels": [
+        "c",
+        "f",
+        "5"
+      ],
+      "navigation_rectangle": [
+        119,
+        1005,
+        190,
+        1065
+      ],
+      "group_boundary_type": "physical gap; not asserted linguistic word boundary"
+    },
+    {
+      "line": 1,
+      "group_in_line": 2,
+      "group_id": "L01G02",
+      "source_labels": [
+        "8",
+        "4",
+        "p",
+        "5",
+        "g",
+        "m",
+        "5"
+      ],
+      "navigation_rectangle": [
+        201,
+        1007,
+        369,
+        1065
+      ],
+      "group_boundary_type": "physical gap; not asserted linguistic word boundary"
+    },
+    {
+      "line": 1,
+      "group_in_line": 3,
+      "group_id": "L01G03",
+      "source_labels": [
+        "c",
+        "8",
+        "6",
+        "t",
+        "g",
+        "5"
+      ],
+      "navigation_rectangle": [
+        384,
+        1007,
+        511,
+        1065
+      ],
+      "group_boundary_type": "physical gap; not asserted linguistic word boundary"
+    },
+    {
+      "line": 1,
+      "group_in_line": 4,
+      "group_id": "L01G04",
+      "source_labels": [
+        "n",
+        "4",
+        "8",
+        "5",
+        "m",
+        "DELTA",
+        "5"
+      ],
+      "navigation_rectangle": [
+        514,
+        1007,
+        681,
+        1065
+      ],
+      "group_boundary_type": "physical gap; not asserted linguistic word boundary"
+    },
+    {
+      "line": 1,
+      "group_in_line": 5,
+      "group_id": "L01G05",
+      "source_labels": [
+        "t",
+        "8",
+        "3",
+        "2",
+        "r",
+        "3",
+        "2"
+      ],
+      "navigation_rectangle": [
+        684,
+        1007,
+        831,
+        1065
+      ],
+      "group_boundary_type": "physical gap; not asserted linguistic word boundary"
+    },
+    {
+      "line": 1,
+      "group_in_line": 6,
+      "group_id": "L01G06",
+      "source_labels": [
+        "f",
+        "h",
+        "5",
+        "8",
+        "3",
+        "2"
+      ],
+      "navigation_rectangle": [
+        842,
+        1007,
+        986,
+        1065
+      ],
+      "group_boundary_type": "physical gap; not asserted linguistic word boundary"
+    },
+    {
+      "line": 1,
+      "group_in_line": 7,
+      "group_id": "L01G07",
+      "source_labels": [
+        "f",
+        "6",
+        "c",
+        "m",
+        "4",
+        "f",
+        "3",
+        "2"
+      ],
+      "navigation_rectangle": [
+        996,
+        1007,
+        1178,
+        1065
+      ],
+      "group_boundary_type": "physical gap; not asserted linguistic word boundary"
+    },
+    {
+      "line": 1,
+      "group_in_line": 8,
+      "group_id": "L01G08",
+      "source_labels": [
+        "b",
+        "2",
+        "c",
+        "2"
+      ],
+      "navigation_rectangle": [
+        1187,
+        1007,
+        1290,
+        1065
+      ],
+      "group_boundary_type": "physical gap; not asserted linguistic word boundary"
+    },
+    {
+      "line": 1,
+      "group_in_line": 9,
+      "group_id": "L01G09",
+      "source_labels": [
+        "b",
+        "3",
+        "c",
+        "4",
+        "8",
+        "6"
+      ],
+      "navigation_rectangle": [
+        1298,
+        1007,
+        1444,
+        1065
+      ],
+      "group_boundary_type": "physical gap; not asserted linguistic word boundary"
+    },
+    {
+      "line": 1,
+      "group_in_line": 10,
+      "group_id": "L01G10",
+      "source_labels": [
+        "d",
+        "3",
+        "2",
+        "g",
+        "5",
+        "p",
+        "m",
+        "5"
+      ],
+      "navigation_rectangle": [
+        1450,
+        1007,
+        1659,
+        1065
+      ],
+      "group_boundary_type": "physical gap; not asserted linguistic word boundary"
+    },
+    {
+      "line": 2,
+      "group_in_line": 1,
+      "group_id": "L02G01",
+      "source_labels": [
+        "f",
+        "g",
+        "b",
+        "3",
+        "n",
+        "4",
+        "m",
+        "6",
+        "7",
+        "4",
+        "DELTA",
+        "4"
+      ],
+      "navigation_rectangle": [
+        1066,
+        1064,
+        1336,
+        1116
+      ],
+      "group_boundary_type": "physical gap; not asserted linguistic word boundary"
+    },
+    {
+      "line": 2,
+      "group_in_line": 2,
+      "group_id": "L02G02",
+      "source_labels": [
+        "b",
+        "5",
+        "b",
+        "3",
+        "2",
+        "O0"
+      ],
+      "navigation_rectangle": [
+        1352,
+        1064,
+        1504,
+        1116
+      ],
+      "group_boundary_type": "physical gap; not asserted linguistic word boundary"
+    }
+  ],
+  "classes": [
+    {
+      "source_class_id": "V001",
+      "source_label": "c",
+      "kind": "letter_like",
+      "shape_description": "small open right-facing curved c-like body",
+      "alternatives": [],
+      "occurrence_count": 5
+    },
+    {
+      "source_class_id": "V002",
+      "source_label": "f",
+      "kind": "letter_like",
+      "shape_description": "tall looped ascender, cross-stroke and descending loop; f-like",
+      "alternatives": [],
+      "occurrence_count": 5
+    },
+    {
+      "source_class_id": "V003",
+      "source_label": "5",
+      "kind": "numeral_like",
+      "shape_description": "5-like short top stroke and curved lower bowl",
+      "alternatives": [],
+      "occurrence_count": 10
+    },
+    {
+      "source_class_id": "V004",
+      "source_label": "8",
+      "kind": "numeral_like",
+      "shape_description": "8-like double-loop body, distinct from the small triangular loop",
+      "alternatives": [],
+      "occurrence_count": 6
+    },
+    {
+      "source_class_id": "V005",
+      "source_label": "4",
+      "kind": "numeral_like",
+      "shape_description": "open angular four-like mark with crossbar/bottom foot; not an inferred numerical value",
+      "alternatives": [
+        "four-like numeral body",
+        "one-like angular manuscript body; descriptive label is not a decipherment value"
+      ],
+      "occurrence_count": 7
+    },
+    {
+      "source_class_id": "V006",
+      "source_label": "p",
+      "kind": "letter_like",
+      "shape_description": "p-like upright and right-hand shoulder/bowl with descender",
+      "alternatives": [],
+      "occurrence_count": 2
+    },
+    {
+      "source_class_id": "V007",
+      "source_label": "g",
+      "kind": "letter_like",
+      "shape_description": "g/9-like rounded upper loop with left-turning descending stroke",
+      "alternatives": [
+        "cursive-g-like",
+        "numeral-9-like graphic identity; identical observed shape kept one source class"
+      ],
+      "occurrence_count": 4
+    },
+    {
+      "source_class_id": "V008",
+      "source_label": "m",
+      "kind": "letter_like",
+      "shape_description": "m-like low multi-hump body",
+      "alternatives": [],
+      "occurrence_count": 5
+    },
+    {
+      "source_class_id": "V009",
+      "source_label": "6",
+      "kind": "numeral_like",
+      "shape_description": "6-like curved upper stroke and closed lower bowl",
+      "alternatives": [],
+      "occurrence_count": 4
+    },
+    {
+      "source_class_id": "V010",
+      "source_label": "t",
+      "kind": "letter_like",
+      "shape_description": "t-like short ascender and cross-stroke, rightward terminal",
+      "alternatives": [],
+      "occurrence_count": 2
+    },
+    {
+      "source_class_id": "V011",
+      "source_label": "n",
+      "kind": "letter_like",
+      "shape_description": "n-like single low arch/hump",
+      "alternatives": [],
+      "occurrence_count": 2
+    },
+    {
+      "source_class_id": "V012",
+      "source_label": "DELTA",
+      "kind": "marked_or_letter_like",
+      "shape_description": "small triangular/teardrop closed loop with short upper hook; visually distinct from double-loop 8",
+      "alternatives": [
+        "closed cursive s-like form",
+        "small delta-like loop; not identified as a plaintext letter",
+        "not merged with 8"
+      ],
+      "occurrence_count": 2
+    },
+    {
+      "source_class_id": "V013",
+      "source_label": "3",
+      "kind": "numeral_like",
+      "shape_description": "3-like two right-hand lobes",
+      "alternatives": [],
+      "occurrence_count": 8
+    },
+    {
+      "source_class_id": "V014",
+      "source_label": "2",
+      "kind": "numeral_like",
+      "shape_description": "2-like curved/diagonal top and lower rightward terminal",
+      "alternatives": [],
+      "occurrence_count": 8
+    },
+    {
+      "source_class_id": "V015",
+      "source_label": "r",
+      "kind": "letter_like",
+      "shape_description": "r-like small upright/shoulder and rightward short terminal",
+      "alternatives": [],
+      "occurrence_count": 1
+    },
+    {
+      "source_class_id": "V016",
+      "source_label": "h",
+      "kind": "letter_like",
+      "shape_description": "h-like tall looped left ascender and low right arch",
+      "alternatives": [
+        "h-like tall loop plus right arch",
+        "not merged with b-like bowl-bearing class"
+      ],
+      "occurrence_count": 1
+    },
+    {
+      "source_class_id": "V017",
+      "source_label": "b",
+      "kind": "letter_like",
+      "shape_description": "b-like tall looped ascender and lower right bowl",
+      "alternatives": [],
+      "occurrence_count": 5
+    },
+    {
+      "source_class_id": "V018",
+      "source_label": "d",
+      "kind": "letter_like",
+      "shape_description": "d-like rounded lower body with a taller right-side ascending stroke",
+      "alternatives": [],
+      "occurrence_count": 1
+    },
+    {
+      "source_class_id": "V019",
+      "source_label": "7",
+      "kind": "numeral_like",
+      "shape_description": "7-like angled descending stroke with top/head stroke",
+      "alternatives": [],
+      "occurrence_count": 1
+    },
+    {
+      "source_class_id": "V020",
+      "source_label": "O0",
+      "kind": "letter_or_numeral_like",
+      "shape_description": "final rounded o/0-like loop with upper right entry/terminal; no g-like descender",
+      "alternatives": [
+        "letter-o-like loop",
+        "numeral-0-like loop; class retained separately"
+      ],
+      "occurrence_count": 1
+    }
+  ],
+  "format_marks": [
+    {
+      "event_id": "M001",
+      "line": 1,
+      "after_group_id": "L01G02",
+      "visible_mark": ",",
+      "navigation_rectangle": [
+        367,
+        1034,
+        386,
+        1067
+      ],
+      "count_as_cipher_glyph": false
+    },
+    {
+      "event_id": "M002",
+      "line": 1,
+      "after_group_id": "L01G05",
+      "visible_mark": ",",
+      "navigation_rectangle": [
+        827,
+        1038,
+        844,
+        1068
+      ],
+      "count_as_cipher_glyph": false
+    },
+    {
+      "event_id": "M003",
+      "line": 1,
+      "after_group_id": "L01G06",
+      "visible_mark": ",",
+      "navigation_rectangle": [
+        982,
+        1042,
+        1000,
+        1068
+      ],
+      "count_as_cipher_glyph": false
+    },
+    {
+      "event_id": "M004",
+      "line": 2,
+      "after_group_id": "L02G02",
+      "visible_mark": ".",
+      "navigation_rectangle": [
+        1502,
+        1081,
+        1525,
+        1109
+      ],
+      "count_as_cipher_glyph": false
+    }
+  ],
+  "source_uncertainties": [
+    {
+      "id": "U001",
+      "occurrence_locator": [
+        "L01G04 position 6",
+        "L02G01 position 11"
+      ],
+      "description": "small triangular/teardrop DELTA class differs visibly from double-loop 8; retained separately before transfer"
+    },
+    {
+      "id": "U002",
+      "occurrence_locator": [
+        "L02G02 position 6"
+      ],
+      "description": "round final O0 class cannot be named uniquely as o versus 0 from its graphic appearance; one fixed separate visual class retained"
+    },
+    {
+      "id": "U003",
+      "description": "g-like and four-like mnemonic labels admit glyph-name alternatives. Source glyph shapes and positions are retained; names do not encode plaintext or numerical values."
+    },
+    {
+      "id": "U004",
+      "description": "grey digital watermark overlaps writing. No cleaned/synthesized image used; original high-resolution crops support target glyph classes."
+    },
+    {
+      "id": "U005",
+      "description": "printed verse, ordinary date/address and postmarks are deliberately outside 80-glyph ciphertext count, all separately located; no complete postmark transcription manufactured."
+    }
+  ],
+  "ciphertext_counts": {
+    "glyphs": 80,
+    "classes": 20,
+    "groups": 12,
+    "lines": 2,
+    "separate_punctuation_events": 4
+  },
+  "cipher_key_read": false,
+  "candidate_plaintext_inferred": false,
+  "freeze_scope": "complete source-only two-image inspection and occurrence ledger before any transferred-key application"
+}

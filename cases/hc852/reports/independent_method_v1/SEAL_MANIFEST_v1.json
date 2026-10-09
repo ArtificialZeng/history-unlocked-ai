@@ -1,0 +1,64 @@
+{
+  "sealed_at_utc": "2026-10-05T21:24:39.111346+00:00",
+  "scope": "Generic method reuse and finite synthetic controls only; no actual HC852 source/key/target certificate",
+  "status": "PASS_GENERIC_ONLY",
+  "artifacts": [
+    {
+      "path": "scripts/independent_grille_v1.py",
+      "bytes": 19484,
+      "sha256": "5c2d8c3bbf1f54ecf8c43583e0f7e8f875a167050ab12d7e4a393f230f095e16"
+    },
+    {
+      "path": "scripts/independent_method_controls_v1.py",
+      "bytes": 8945,
+      "sha256": "8fadf644ae1a21a288ddbad0fd8152980058a0340aaa33ce031eac0d0a7447cb"
+    },
+    {
+      "path": "reports/independent_method_v1/BEFORE_FIRST_CONTROL_RUN_v1.json",
+      "bytes": 412,
+      "sha256": "29e7eade1e71a642b08b398eae0ace190da6047317147b051516989a0cfa6742"
+    },
+    {
+      "path": "reports/independent_method_v1/CONTROL_RESULTS_v1.json",
+      "bytes": 600,
+      "sha256": "fad892e8858fd213f4f353074be17b69e0843ed2ab9c2b6ee4a38e4790f85569"
+    },
+    {
+      "path": "reports/independent_method_v1/CORE_REUSE_PROVENANCE_v1.json",
+      "bytes": 370,
+      "sha256": "a2e8c0df249097d1af65c4488db2e5732a7d36f100d0000b60d15d3c90b0cc87"
+    },
+    {
+      "path": "reports/independent_method_v1/INVALID_CONTROLS_v1.json",
+      "bytes": 5056,
+      "sha256": "ac2ddf93081f3ac1acaa79b95333582d575960d3737188fbfd89ad622b05dca5"
+    },
+    {
+      "path": "reports/independent_method_v1/METHOD_EXPOSURE_AND_CHRONOLOGY_v1.json",
+      "bytes": 1720,
+      "sha256": "54702957f0c8198a2bb64d10f23226be879d2c236f7eb4132694c7296ee54205"
+    },
+    {
+      "path": "reports/independent_method_v1/METHOD_VERIFICATION_REPORT_v1.md",
+      "bytes": 3400,
+      "sha256": "71a68204d2eece2318d4c7b352c67fc3eb74561f5bcf9fa266eac4d440665a04"
+    },
+    {
+      "path": "reports/independent_method_v1/MODEL_API_AND_LIMITS_v1.json",
+      "bytes": 1518,
+      "sha256": "5f0a6fd0d33fe5bbc343b0382c0ad1622bd44786edbdfe68c9d679b9da6d3e18"
+    },
+    {
+      "path": "reports/independent_method_v1/REGISTRATION_v1.json",
+      "bytes": 2609,
+      "sha256": "92cb99cb9b8e2fef2453a69ce1389816bc8da1b792443c859680d78493f8da6c"
+    },
+    {
+      "path": "reports/independent_method_v1/SYNTHETIC_FIXTURES_v1.json",
+      "bytes": 118993,
+      "sha256": "f523f33ce00200bc6f203b9ebaf635c7c16026ed74dbdda78abc42e527252e3b"
+    }
+  ],
+  "self_excluded": true,
+  "prior_seals_unchanged": true
+}

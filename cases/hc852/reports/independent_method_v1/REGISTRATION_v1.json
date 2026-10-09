@@ -1,0 +1,89 @@
+{
+  "registered_at_utc": "2026-10-05T21:21:45.874875+00:00",
+  "scope": "HC852 generic method only; no source, key, ledger, target or root codec access",
+  "reuse": "Unchanged previously independently implemented even-square matrix codec, not fresh independent discovery; separate from root codec",
+  "prior_generic_module_path": "/Users/zeng/Documents/解谜/hcportal849_1952_grille_decipherment/scripts/independent_grille_v1.py",
+  "prior_generic_module_sha256": "5c2d8c3bbf1f54ecf8c43583e0f7e8f875a167050ab12d7e4a393f230f095e16",
+  "copy_path": "scripts/independent_grille_v1.py",
+  "copy_byte_identity_required": true,
+  "fresh_seed": 8521952,
+  "synthetic_side": 8,
+  "distinct_generic_keys": 4,
+  "blocks": [
+    1,
+    2
+  ],
+  "start_quarters": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "directions": [
+    "clockwise",
+    "counterclockwise"
+  ],
+  "hole_scans": [
+    "row-major",
+    "column-major"
+  ],
+  "cipher_serializations": [
+    "row-major",
+    "column-major"
+  ],
+  "planned_synthetic_trials": 256,
+  "synthetic_payload": "Random literal characters from ASCII letters/digits plus spaces, newline, X, accented e, CJK and NUL; never target input",
+  "oracle": "Copied generic loop/matrix oracle; no root implementation imported",
+  "known_vector": {
+    "name": "ACA public 4x4 turning grille",
+    "source_url": "https://www.cryptogram.org/downloads/aca.info/ciphers/Grille.pdf",
+    "source_basis": "Primary ACA vector verified in prior generic-method task; not a new PDF or pixel fetch",
+    "side": 4,
+    "holes": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "payload": "THETURNINGGRILLE",
+    "ciphertext": "TILUNRGHGELTENIR",
+    "start_quarters": 0,
+    "direction": "clockwise",
+    "hole_scan": "row-major",
+    "cipher_serialization": "row-major"
+  },
+  "invalid_controls": [
+    "odd_side",
+    "side_bool",
+    "duplicate_cut",
+    "missing_cut",
+    "out_of_bounds_cut",
+    "same_orbit_overlap",
+    "empty_literal",
+    "short_literal",
+    "nonstring_literal",
+    "bad_start",
+    "bad_direction",
+    "bad_hole_scan",
+    "bad_cipher_serialization"
+  ],
+  "key_generation_bound": 32,
+  "no_network": true,
+  "historical_limits": [
+    "Generic even-square model does not establish HC852 geometry, cuts, orientation, scan, serialization, actual coverage, body order or historical meaning",
+    "No cleaning, padding, filtering, old-layer repair or target source changes",
+    "Prior broad 9600-trial controls are not rerun or counted as fresh controls"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "utc": "2026-10-06T04:57:58.609927+00:00",
+  "entries": [
+    {
+      "path": "ACTUAL_NATIVE_VIEW_RECEIPT_v1.json",
+      "bytes": 772,
+      "sha256": "b8f4d3ca41b78d1c4973f366b5d1e4e87d9bec569f0d8273e64ca2245d76dd5d"
+    },
+    {
+      "path": "INDEPENDENT_METHOD_AND_NATIVE_QA_v1.json",
+      "bytes": 11208,
+      "sha256": "0e9058827e4b9c9671eb08e625cbc306350565a0434650ab953ddb1328b707ba"
+    },
+    {
+      "path": "INFORMED_CONTENT_METHOD_AUDIT_v1.json",
+      "bytes": 3208,
+      "sha256": "565f801c12b65071276f5e6771ec523649c9ac16d3285f2d58af0e492a05c230"
+    },
+    {
+      "path": "INFORMED_FULL_READING_REPORT_v1.md",
+      "bytes": 3586,
+      "sha256": "4e4125990bfd6405a01335fa274a0fa0a16f5c2f05794d58ac17c69c30b38721"
+    },
+    {
+      "path": "INFORMED_REGISTRATION_AND_FIRST_ACCESS_v1.json",
+      "bytes": 1084,
+      "sha256": "20b672c645bc6fbb3c356a10b7ee706e3f518fb970143b875ac9039c7e2d165d"
+    },
+    {
+      "path": "LIMITED_LANGUAGE_REFERENCE_LOG_v1.json",
+      "bytes": 572,
+      "sha256": "d84cd73a0f84a31c3004cb94fa0dfac889b0e14837811b40d389f25707443cb0"
+    },
+    {
+      "path": "TIMESTAMP_PRECISION_QUALIFICATION_v1.json",
+      "bytes": 464,
+      "sha256": "a22551baed23521b409a9d4ad19f60d911da494c2de69a2bfcdd41baa7a4e854"
+    },
+    {
+      "path": "seal_informed_review_v1.py",
+      "bytes": 11395,
+      "sha256": "ae5275c33f204e5eac13e4dfa2e45fd7304f757af2e8375efa41d124178178b6"
+    }
+  ],
+  "external_allowed_pins": [
+    {
+      "path": "/Users/zeng/Documents/解谜/hcportal1615_1901_decipherment/config/MARK_CARRY_MODEL_v1.json",
+      "bytes": 2583,
+      "sha256": "d6158ec6c3b5a67651d995fbe7783da783baa01c9c286b84206cab873066d3ee"
+    },
+    {
+      "path": "/Users/zeng/Documents/解谜/hcportal1615_1901_decipherment/RESEARCH_PROTOCOL_v2_MARK_CARRY.md",
+      "bytes": 2399,
+      "sha256": "d82e7b9fecddb02e245a17dc14eeefd7b121c1d787eec75e655abb88ea090c3a"
+    },
+    {
+      "path": "/Users/zeng/Documents/解谜/hcportal1615_1901_decipherment/data/mark_carry_projection_v1/MARK_CARRY_CANDIDATE_v1.json",
+      "bytes": 29445,
+      "sha256": "adee6e527cd54586462d1fccc67b8fb8c9c941a784fcce1c943171f50f11f0ec"
+    },
+    {
+      "path": "/Users/zeng/Documents/解谜/hcportal1615_1901_decipherment/data/mark_carry_projection_v1/LITERAL_ROWS_v1.txt",
+      "bytes": 99,
+      "sha256": "a3a2dda48101e87303beee1500dcfbee1b861131202bd13decace1108d60b0b1"
+    },
+    {
+      "path": "/Users/zeng/Documents/解谜/hcportal1615_1901_decipherment/data/fixed_projection_v1/CONDITIONAL_CANDIDATE_v1.json",
+      "bytes": 22516,
+      "sha256": "aeb34f93888c91e237a03d084049aa1af0bb5d2e20af46d8aeafe52ee75ef3a1"
+    },
+    {
+      "path": "/Users/zeng/Documents/解谜/hcportal1615_1901_decipherment/data/source_v1/SOURCE_UNITS_v1.json",
+      "bytes": 117147,
+      "sha256": "5ba6e38987a59adcd95c090c283c24b8621cf53323231d6568544d4797bc91d1"
+    },
+    {
+      "path": "/Users/zeng/Documents/解谜/hcportal1615_1901_decipherment/data/source_v1/SOURCE_ROWS_v1.json",
+      "bytes": 7842,
+      "sha256": "13702387965484a9e27f34f0cd1c9698618d55a36a6c74dbfae1e4fd9af61003"
+    },
+    {
+      "path": "/Users/zeng/Documents/解谜/hcportal1615_1901_decipherment/data/source_v1/SOURCE_PRIMITIVES_v1.json",
+      "bytes": 43055,
+      "sha256": "42dcb9af453a0f87ff3add9a85d5407d830057e5da940675272dffcd9f515380"
+    },
+    {
+      "path": "/Users/zeng/Documents/解谜/hcportal1615_1901_decipherment/reports/independent_source_v1/SEALED_PRIMARY_COMPARISON_v1.json",
+      "bytes": 83408,
+      "sha256": "63a4e509e5f9e6085f4837efaf5d1a3531583d270bb35f04e0995ceef5b4cf6b"
+    },
+    {
+      "path": "/Users/zeng/Documents/解谜/hcportal1615_1901_decipherment/sources/raw/HC1615_picture_original.jpg",
+      "bytes": 1053373,
+      "sha256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3"
+    },
+    {
+      "path": "/Users/zeng/Documents/解谜/hcportal1615_1901_decipherment/sources/raw/HC1615_address_original.jpg",
+      "bytes": 1053796,
+      "sha256": "f1f50546c921d524f58780c5013547419038c1e120bf4022baf7cad6167bb1be"
+    }
+  ],
+  "scope": "Informedcontent/methodconditionalproposaleligibility; finalfullforward/packagegates remain"
+}

@@ -1,0 +1,45 @@
+{
+  "registered_utc": "2026-10-06T04:44:05.865919+00:00",
+  "mode": "DECLARED_FIXED_PRIOR_ALPHABET_PLUS_MARK_HYPOTHESIS",
+  "revision_number": 1,
+  "source_pins": {
+    "data/source_v1/SOURCE_UNITS_v1.json": "5ba6e38987a59adcd95c090c283c24b8621cf53323231d6568544d4797bc91d1",
+    "data/source_v1/SOURCE_PRIMITIVES_v1.json": "42dcb9af453a0f87ff3add9a85d5407d830057e5da940675272dffcd9f515380",
+    "data/source_v1/SOURCE_GROUPS_v1.json": "f7c8ea68bd3a4ba420ac3271f7c8cc2bfd955dd41dde610dd43f4a23444e498e",
+    "data/source_v1/SOURCE_ROWS_v1.json": "13702387965484a9e27f34f0cd1c9698618d55a36a6c74dbfae1e4fd9af61003",
+    "data/source_v1/SOURCE_EVENTS_v1.json": "c8b39aca77e8ad48b69c34076739b5a85a2f7c1b0bdefff6fcfbfaaa47c3cc06",
+    "data/source_v1/SOURCE_CLASSES_v1.json": "51bbf64249530cc48effaa9b17ca4ed5cc36b91f2cc02f2d8b66ed401c2544cc",
+    "reports/source_v1/SOURCE_ONLY_MANIFEST_v1.json": "454047da4ec5ff2f98fdeaa877a151410be6dee45f61f226f8b8535158691ae6",
+    "reports/source_v1/SOURCE_ONLY_SEAL_v1.json": "9477a9386be65178bc7bca99387ec1d0797cbd1e5a5fea6844e0d72b45306306",
+    "reports/independent_source_v1/SOURCE_COMPARISON_MANIFEST_v1.json": "f7b704d0e08aeb050357413b8b7e9c40355ff3c022a91ef70511380fae97ef2b",
+    "reports/independent_source_v1/SOURCE_COMPARISON_SEAL_v1.json": "4c84d1c1ca2242790a4a4bc5c4bef4b93930c2d33affff0ad89f973b07df0540"
+  },
+  "donor_key_path": "/Users/zeng/Documents/解谜/hcportal1760_1901_decipherment/data/FIXED_OBSERVED_KEY_v2.json",
+  "donor_key_sha256": "267fac542b3cc9b3fbb5d788b8d867a0c37de0fa1f4ffefe16776256e1835273",
+  "independent_cold_source_audit_complete": true,
+  "punctuation_emission_roles": [
+    "comma/terminalpunctuation"
+  ],
+  "existing_table_entries_unchanged": true,
+  "additional_arbitrary_letter_values": 0,
+  "additional_structural_operator": {
+    "name": "preserve_visible_caron_after_base_map",
+    "scope": "Only source-uncovered wholeunits",
+    "required_mark_count": 1,
+    "required_raw_shape": "detachedtwo-strokeupperchevron",
+    "required_literal_source_type": "CARON_LIKE shape only",
+    "required_mark_strokes": 2,
+    "required_base_value_length": 1,
+    "plaintext_combining_mark": "U+030C",
+    "plaintext_normalization": "NFC explicit",
+    "known_whole_unit_precedence": true
+  },
+  "source_edits": 0,
+  "per_position_exceptions": 0,
+  "post_baseline_rule_proposal": true,
+  "root_prior_values_and_partial_output_seen": true,
+  "no_blind_or_heldout_claim": true,
+  "physical_mark_function_is_hypothesis": true,
+  "no_official_solved_or_priority_claim": true,
+  "success_criteria_unchanged": true
+}

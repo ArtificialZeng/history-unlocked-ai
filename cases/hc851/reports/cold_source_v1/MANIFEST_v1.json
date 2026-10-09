@@ -1,0 +1,443 @@
+{
+  "created_utc": "2026-10-05T17:49:56.774744+00:00",
+  "scope": "HC851 cold source only; three authorized write directories",
+  "input_originals": [
+    {
+      "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/raw/HC851_typed_original.jpg",
+      "bytes": 1081684,
+      "sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c"
+    },
+    {
+      "path": "/Users/zeng/Documents/解谜/hcportal851_1952_grille_decipherment/sources/raw/HC851_public_grille_original.jpg",
+      "bytes": 3520525,
+      "sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7"
+    }
+  ],
+  "files": [
+    {
+      "path": "data/cold_source_v1/ADDITIONAL_GROUPED_WITNESS_SOURCE_v1.json",
+      "bytes": 1976,
+      "sha256": "ca78db18f7da442b4d284846908465adb3c37bece8402c9b69928c017c9f9f7f"
+    },
+    {
+      "path": "data/cold_source_v1/AUTHOR_NOTATIONS_AND_EXTENT_v1.json",
+      "bytes": 2923,
+      "sha256": "ba040a523b5852faab852857e788bfe23cdee51a27caac11c20d5abc5db9344a"
+    },
+    {
+      "path": "data/cold_source_v1/PHYSICAL_PUBLIC_GRILLE_CELLS_v1.csv",
+      "bytes": 10404,
+      "sha256": "1f8367c1c39c44e6e30d436e97cf9f4d84c20826588f95e7e2f215bdebf31095"
+    },
+    {
+      "path": "data/cold_source_v1/PHYSICAL_PUBLIC_GRILLE_GEOMETRY_v1.json",
+      "bytes": 36225,
+      "sha256": "87de8f96b8ccd3dfe2dd9b7203d0cf672a752a02dac8c12f42aa2e3307fab40f"
+    },
+    {
+      "path": "data/cold_source_v1/PRIMARY_TYPED_ACTIVE_STREAM_v1.txt",
+      "bytes": 145,
+      "sha256": "a0da353f8cc58e5e3ed2e6b4c06d7e2f60b46ac37398357575288f01d4b1969e"
+    },
+    {
+      "path": "data/cold_source_v1/PRIMARY_TYPED_ALL_PLACEMENTS_v1.csv",
+      "bytes": 19949,
+      "sha256": "eb54a2d7144ea44cba9a7c98e6756ee1d68d63488667e17fca0ee2ab4d4232c8"
+    },
+    {
+      "path": "data/cold_source_v1/PRIMARY_TYPED_ALL_PLACEMENTS_v1.json",
+      "bytes": 75634,
+      "sha256": "cdaa1850e45215d12c21b490966ad2c40f20109ff09697c030fb8ca565c26fa6"
+    },
+    {
+      "path": "data/cold_source_v1/PRIMARY_TYPED_OCCURRENCES_COORDINATE_AUDIT_v2.csv",
+      "bytes": 28367,
+      "sha256": "ce7b7169437e2762f0c811164467b2feac09d18b904e5bd1bfda3d6e7b5e2cb6"
+    },
+    {
+      "path": "data/cold_source_v1/PRIMARY_TYPED_OCCURRENCES_v1.csv",
+      "bytes": 28365,
+      "sha256": "0d9a9760959a4501c930865050f74adbdf21179fb136296ca52f5c6373fea758"
+    },
+    {
+      "path": "data/cold_source_v1/PRIMARY_TYPED_SOURCE_v1.json",
+      "bytes": 3373,
+      "sha256": "258fac995db019833d5716c276a7ebc6034e4dea9ac2a3b53df4d546c24c72f7"
+    },
+    {
+      "path": "data/cold_source_v1/SECONDARY_HAND_ARRAY_OCCURRENCES_v1.csv",
+      "bytes": 27179,
+      "sha256": "517cbf02b579c3957130866f0f2dc9be4199ef4ca5990348b0296e142135a4a0"
+    },
+    {
+      "path": "data/cold_source_v1/SECONDARY_HAND_ARRAY_SOURCE_v1.json",
+      "bytes": 2156,
+      "sha256": "e0c4c2d7dbad512032e75cef49120db78c3230184dc0ddcc91674112a6f654df"
+    },
+    {
+      "path": "reports/cold_source_v1/EXPOSURE_AND_SCOPE_AUDIT_v1.json",
+      "bytes": 1428,
+      "sha256": "25d4c59847db515b73b2c2c48b3dc7eea8a6441ecf5b813bd7e02215c91d8355"
+    },
+    {
+      "path": "reports/cold_source_v1/GRILLE_CELL_ATLAS_GEOMETRY_v1.json",
+      "bytes": 18145,
+      "sha256": "51f8ba5dad8eb2cf18b2516b986355c5a8f861b06b398704d5da6d070baa35fe"
+    },
+    {
+      "path": "reports/cold_source_v1/NATIVE_CROP_RECEIPTS_v1.json",
+      "bytes": 47225,
+      "sha256": "feea03917dc1b7ec6bdb5ec8ebd89f761bba1fbeeabc12379ce3d8f21ceea752"
+    },
+    {
+      "path": "reports/cold_source_v1/PHYSICAL_GRILLE_SEAL_v1.json",
+      "bytes": 699,
+      "sha256": "1e0fcf7f568090eca1daf8aa3874b8c2cc07996f65db3788d8827023fcb301ed"
+    },
+    {
+      "path": "reports/cold_source_v1/POST_FREEZE_ADDITIONAL_GROUPED_COMPARISON_v1.json",
+      "bytes": 228,
+      "sha256": "dad97b50225ab954b44d1ca929cb0309ada80ecc135c2321783c2fe8852f74f1"
+    },
+    {
+      "path": "reports/cold_source_v1/POST_FREEZE_PRIMARY_SECONDARY_COMPARISON_v1.json",
+      "bytes": 1863,
+      "sha256": "7f21d0527495a8d50adf3e7772c57f20d89a52a10f3b39f6e1c5d319a0462b0a"
+    },
+    {
+      "path": "reports/cold_source_v1/PRIMARY_COORDINATE_AUDIT_v2.json",
+      "bytes": 695,
+      "sha256": "5e3781c158f255d49a5b2a4f5fb38dcc97f52d486302efffa1ae2f0c25f7b960"
+    },
+    {
+      "path": "reports/cold_source_v1/PRIMARY_FULL_PLACEMENT_AUDIT_SEAL_v1.json",
+      "bytes": 723,
+      "sha256": "f99803f8d4df7a16e8b97d125a99d2aa261592e4811175014e1723e842f044f3"
+    },
+    {
+      "path": "reports/cold_source_v1/PRIMARY_TYPED_SEAL_v1.json",
+      "bytes": 724,
+      "sha256": "2c05613fa80d7143305386ae3692563f68ad5ca8b34b8f8a96d4fe2d2e6639a0"
+    },
+    {
+      "path": "reports/cold_source_v1/RAW_SOURCE_HASH_VIEW_RECEIPTS_v1.json",
+      "bytes": 888,
+      "sha256": "90f9d57094dd0280f3c3ad8f8b857854a93dc9d69852ee21bebebfb386bb758c"
+    },
+    {
+      "path": "reports/cold_source_v1/SEALED_COLD_SOURCE_REPORT_v1.md",
+      "bytes": 9627,
+      "sha256": "aa46dbd9b0f102ea34a8811eab4d425c95771ead13536b6a2c2c2dc1986948e5"
+    },
+    {
+      "path": "reports/cold_source_v1/SECONDARY_HAND_ARRAY_SEAL_v1.json",
+      "bytes": 540,
+      "sha256": "a26e1f3cdb65de30e98e023d58d4902628c9acf0e4979a51bbf4ba4ec8b7dae4"
+    },
+    {
+      "path": "reports/cold_source_v1/SOURCE_FREEZE_SCOPE_REGISTRATION_v1.json",
+      "bytes": 940,
+      "sha256": "6e81b331360d85c87ee18ed2136e8f4c26565ebab0d73501306ef85a9912474c"
+    },
+    {
+      "path": "reports/cold_source_v1/SOURCE_METADATA_SAFE_CAPTURE_v1.json",
+      "bytes": 1703,
+      "sha256": "d68cfe9aef33c1c20f1f01e0be9ab826863804881a2a1579ab7cb70fd5cb4893"
+    },
+    {
+      "path": "reports/cold_source_v1/SOURCE_ONLY_VALIDATION_v1.json",
+      "bytes": 1370,
+      "sha256": "185a7a4a990b2d5d307bd67e8686505b33e346195652b15681927c30d19a855e"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/bottom_arithmetic_notes_native.png",
+      "bytes": 1493891,
+      "sha256": "72ddbe4d3db23f64c90d19bef151c9a84a47271b65deba176a6f2b0ed2bf284b"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_36_cell_atlas_native.png",
+      "bytes": 1235626,
+      "sha256": "c8d1a5ee1f6590034f865198f67dc6fecc6d6ea190f1bbb99fafbbe0e0ed3c3d"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_bottom_III_ROT180.png",
+      "bytes": 37296,
+      "sha256": "2a4eb04bca87556c954e256bbe415dd8bb92e9b5ffbdf4ffa6099165f2c0c994"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r1_c1_native.png",
+      "bytes": 28983,
+      "sha256": "39b3e1f1272dfea02c5d48c6bec1f72641bec7fbb255b1d99169465028e92984"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r1_c2_native.png",
+      "bytes": 34646,
+      "sha256": "8bd47aa4f7e94257b78050409aa7c79fcc90d084dbdcac14856de9edc854df52"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r1_c3_native.png",
+      "bytes": 40430,
+      "sha256": "be27ed8b5c522a93665dc5c87e8816cd254f71722865c3f6a3e41000ce80f1ef"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r1_c4_native.png",
+      "bytes": 31578,
+      "sha256": "cf775e1433cd5a08a665769023f596203634d233e30463c4c2be4c0b3a6432cd"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r1_c5_native.png",
+      "bytes": 33403,
+      "sha256": "76631f9269e805a68afae386860adeaa2f0bc90d0902d56e809319650df22636"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r1_c6_native.png",
+      "bytes": 34265,
+      "sha256": "090e1420d2c72ddc5da84f7d5d30d46b09e24fa7267b4ebebfc13139d09a64e6"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r2_c1_native.png",
+      "bytes": 33532,
+      "sha256": "ffeb2498dd1773a28b3b6c2036f12325562907a298864019bc0075f2ea54c8fe"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r2_c2_native.png",
+      "bytes": 32810,
+      "sha256": "fb0c67b3aab3fa5dd18ed0bfccb39632d934abddea0532f0beb47faa2def31b4"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r2_c3_native.png",
+      "bytes": 35795,
+      "sha256": "03c8239dc511dec0964f54a0b2c104873cf7f2e687604e0abc6375bec747f7a7"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r2_c4_native.png",
+      "bytes": 42313,
+      "sha256": "283d0e3d9464ac7ddd032b6e0ba72e4271d0a2601dca9448c9d806913148502a"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r2_c5_native.png",
+      "bytes": 33820,
+      "sha256": "e94f6a78eef4769a69fff46aba60812ea2ccca1f9d9ac0b9d2d1f9aceb47919a"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r2_c6_native.png",
+      "bytes": 29641,
+      "sha256": "2df6f7c26017246ea82281ed066cd8bcecab5777ebc432ea40ca6247da90969f"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r3_c1_native.png",
+      "bytes": 32976,
+      "sha256": "16253ac39a2fdad85d43d987bcc65df3c7e56945e81782f216651c05dea5a8df"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r3_c2_native.png",
+      "bytes": 32598,
+      "sha256": "b4356515ef3fe3a195c12c66bc53f4f3f5e7eb5c60bb95a2ab4eda89752b45b7"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r3_c3_native.png",
+      "bytes": 39171,
+      "sha256": "e08e3cec09dcd21d41fefba975904d0037fc69e20245979cffff2013a2f91935"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r3_c4_native.png",
+      "bytes": 41895,
+      "sha256": "43b0429260d8dd436cc9b99c93bc82cfdee2c64c08a7ad6523e920c189f89a9a"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r3_c5_native.png",
+      "bytes": 31248,
+      "sha256": "1ef01b22acab7afa0df8851d8d317ae88bb238301bea1b772f5c7eb1193fd379"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r3_c6_native.png",
+      "bytes": 35540,
+      "sha256": "4f8b768c5354059789cd72f3d46b4401f2da2678d05572d46735c2c650cdcfea"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r4_c1_native.png",
+      "bytes": 36511,
+      "sha256": "a1244bc94e26a59406fe83043f9cd0c7c75048be66e174487a6072a21e98f988"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r4_c2_native.png",
+      "bytes": 33737,
+      "sha256": "4595f9ff5351b25a96fc0af92a19fbd9aa8f7fe03ba9bbf9356c15c47bda2bf7"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r4_c3_native.png",
+      "bytes": 35326,
+      "sha256": "669dacc9fb887a53b2b56b5dbe043016d3997df7ddeb4a60f7da394b67aca0d1"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r4_c4_native.png",
+      "bytes": 33479,
+      "sha256": "f9b877bb4e1670dc5b9b2f03fa38d9f8af474e25b912e86f27bf31060db203b8"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r4_c5_native.png",
+      "bytes": 35142,
+      "sha256": "b860a904166887ce30bd7b910aa85c02f75db5f29b32eeb772565cc27cfdedf1"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r4_c6_native.png",
+      "bytes": 40821,
+      "sha256": "221911f02dabfd350d0d6931bfde876bf0fff91287353a36824858d30ee836f7"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r5_c1_native.png",
+      "bytes": 35152,
+      "sha256": "6769b15399375ba6437f9e911a0745bea62586aa8026569ce82052c68a1c8c14"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r5_c2_native.png",
+      "bytes": 34372,
+      "sha256": "899c87ebd5bf8217056fed42e96188898171670e3e1c7c835a30ccbbd55430cb"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r5_c3_native.png",
+      "bytes": 33831,
+      "sha256": "644f9a3d23e6ec8b338cd123ee3b564cda6e870d62cb5b05003fe5f320f25d6a"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r5_c4_native.png",
+      "bytes": 33968,
+      "sha256": "c7872bce4ddbf4b6871bdba04272eb36fd590bead8daaf3182956f848e81e490"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r5_c5_native.png",
+      "bytes": 35252,
+      "sha256": "b53a291a58845240b7442e32002cce9d8b6b5b4338b241ee5af39e7db4b97244"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r5_c6_native.png",
+      "bytes": 32755,
+      "sha256": "0a3fe10a0932a9c675c634b0542e7b313acad9679cf27e69a0afe5104626d36e"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r6_c1_native.png",
+      "bytes": 32574,
+      "sha256": "ba2c5f1f1211f3702c78f0b0630aa1e513f46e2edc30e1f528443fb682489efb"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r6_c2_native.png",
+      "bytes": 29811,
+      "sha256": "68243822594627e43d819dc8541e35bff414f4709c48a542759a9d160cbe5086"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r6_c3_native.png",
+      "bytes": 34072,
+      "sha256": "097e77a3b89b8379f93e637b679dbe7d7e6af4244bc4de29736f53b1e2843793"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r6_c4_native.png",
+      "bytes": 30384,
+      "sha256": "685a6440fa3f457e8ec87cb04f9acdf71ea622da698f5df6c1e3241c2e54d1ab"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r6_c5_native.png",
+      "bytes": 40918,
+      "sha256": "180b834118fcb43a9eee6c1dc554c6e25c9037b5754698a8c8a336a92e6ad810"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_cell_r6_c6_native.png",
+      "bytes": 33921,
+      "sha256": "7f7f3cc90131f2d4b852996b164f2215b86a1d12aea80a3236a009f21e686f2b"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_center_inscription_ROT180.png",
+      "bytes": 114820,
+      "sha256": "83c473f5a5164925155a6b4822caaec895a3eee435f039a4a24b86faa84956e8"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_full_native.png",
+      "bytes": 1289904,
+      "sha256": "3092f3ab51b9b266982bf1a876ca09ef24c14ac61546b94d3000a604882374f5"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_left_II_ROT90CW.png",
+      "bytes": 64725,
+      "sha256": "b65e300ec755e70400923a26a307b1120bf71eb68034fabc698b5ce85bdd2e1a"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_right_IV_ROT90CCW.png",
+      "bytes": 50181,
+      "sha256": "887c13ea865eecd8e714d6222d3b18150904b606a2572848ebcc54552801baa8"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/grille_top_I_native.png",
+      "bytes": 29680,
+      "sha256": "11e02b367b1b0cf96fc8bb04faf6178f302b534f831a2d90a262e1dfb9735f62"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/hand_array_1_native.png",
+      "bytes": 1071488,
+      "sha256": "95c7fa84e0cb9f727ac433c3cea6a9d55d90e8f517b7e2ee883b29d30cae39e9"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/hand_array_2_native.png",
+      "bytes": 1029588,
+      "sha256": "c3f799cf3f12adec27e74a2d9ffc8aa1076fe96ffc4d7bf3882b5cfac0a020a5"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/hand_array_3_native.png",
+      "bytes": 1152491,
+      "sha256": "da2559d41e558e3d0445956168f7d94f885e4a04f3fa24f5c9dcad368d303244"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/hand_array_4_native.png",
+      "bytes": 1104648,
+      "sha256": "8d19cd616b6ebc34a342904fc6f6b52ffc69d28e4002a57d6b009543ff8113c9"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/lower_grouped_witness_native.png",
+      "bytes": 2749075,
+      "sha256": "6f258d1da0b632b5a5cb793600f2280de965ccc4bd340ab88f316608f554a235"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/typed_first_row_black_overlay_native.png",
+      "bytes": 22280,
+      "sha256": "f3544b6ea6c897eba217a779e82d07a3485ee3d2c40f62fbf96cd67034941063"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/typed_heading_native.png",
+      "bytes": 230856,
+      "sha256": "8d73b6f3ff138a2e8a7bb58df5a4155d9a609f938ea6ae15abca0e92611da559"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/typed_last_row_group4_native.png",
+      "bytes": 116130,
+      "sha256": "fe1403e40a3011e6b61a07d8b9be544c5f835d19c16301fb8f55c03a7eae58bd"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/typed_row_01_native.png",
+      "bytes": 457603,
+      "sha256": "83e7d8cf3ad82ea6af3c549c45f9e5369d85f91cd28f37054a57d3671c45c30f"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/typed_row_02_native.png",
+      "bytes": 465396,
+      "sha256": "4f902e6acdf5cb4364246d2140dfd1b43e69ac7811c0ea057e5ac4443bc79b98"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/typed_row_03_native.png",
+      "bytes": 492686,
+      "sha256": "82bb63bc5d8ec706060cf5790a33498d43cdd173351d9f672453c48ef21b9a7c"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/typed_row_04_native.png",
+      "bytes": 572601,
+      "sha256": "86f62b762b28c22ca39119c3ab0c61e82cc9d0a1b3d3a8a710bfc1365d19e259"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/typed_row_05_native.png",
+      "bytes": 494215,
+      "sha256": "ac695dd39e86ed91eb3a166fb3f8f972fda4657273e28235ceca4e1324485efe"
+    },
+    {
+      "path": "sources/inspection/cold_source_v1/upper_author_notes_native.png",
+      "bytes": 809179,
+      "sha256": "061d83b86dd1746fcafad685b77ac31dadc16ecf83b3f37460ecb17c8ce74d75"
+    }
+  ]
+}

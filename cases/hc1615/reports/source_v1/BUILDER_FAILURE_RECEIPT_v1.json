@@ -1,0 +1,8 @@
+{
+  "utc": "2026-10-06T04:29:00.294176+00:00",
+  "initial_builder_SHA256": "9a324dd6ba9d832c9009f36991fdf6c9b48e88be1d888c8bfd1c6a5a03dc1228",
+  "failure": "KeyError source_native_row_box_xy in primitiveprovenance assignment; row schema field issource_native_row_box_xyxy",
+  "target_lookup_or_semantic_read": false,
+  "source_preferences_changed": false,
+  "correction": "Provenancefieldname only, nativepixels/raw labels unchanged; reruncompletebuilder"
+}

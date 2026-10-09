@@ -1,0 +1,10 @@
+{
+  "checked_utc": "2026-10-05T21:40:12.345090+00:00",
+  "status": "PASS",
+  "strict_payload_inventory": true,
+  "payload_count": 67,
+  "input_reference_count": 10,
+  "manifest_sha256": "a2dcab38ce4a18830cd4825ed1ea8c967d7ffba33500642dad30ee90e4d9c6e6",
+  "seal_sha256": "4d6a86a1f5a36a3bd816c0cec8218e223093d5fc53f7310c793f723e571073d6",
+  "native_replay_status": "PASS"
+}

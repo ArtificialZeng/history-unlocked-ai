@@ -1,0 +1,64 @@
+{
+  "registration_utc": "2026-10-05T19:57:30.606610+00:00",
+  "task": "HC849 independent generic even-square turning-grille method before target exposure",
+  "exposure": "Only AGENTS.md and DECIPHERMENT_PROTOCOL_v1.md read in this project; no target sources, data, root code, controls, output, or configuration read.",
+  "code_model": "Pure binary-mask matrix rotations; even square only; one hole per four-cell orbit; literal Unicode codepoints; no cleaning, padding, implicit filtering or source inference.",
+  "settings": {
+    "start_quarters": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "direction": [
+      "clockwise",
+      "counterclockwise"
+    ],
+    "hole_scan": [
+      "row-major",
+      "column-major"
+    ],
+    "cipher_serialization": [
+      "row-major",
+      "column-major"
+    ]
+  },
+  "start_definition": "Start quarter turns always measured clockwise from supplied mask; subsequent direction controls the other three orientations.",
+  "seed": 8491952,
+  "key_quotas": {
+    "2": 4,
+    "4": 24,
+    "6": 24,
+    "8": 24,
+    "10": 24
+  },
+  "blocks": [
+    1,
+    2,
+    3
+  ],
+  "planned_synthetic_trials": 9600,
+  "oracle": "Separately coded nested-loop matrix rotation/scan/fill oracle, with no production helpers.",
+  "primary_reference": {
+    "url": "https://www.cryptogram.org/downloads/aca.info/ciphers/Grille.pdf",
+    "title": "GRILLE",
+    "source_kind": "ACA public worked example supplied by parent and personally verified in prior generic-method task; no new current fetch or PDF-pixel claim",
+    "published_print_page": 47,
+    "holes_one_based": [
+      1,
+      8,
+      10,
+      12
+    ],
+    "plaintext_fixture": "THETURNINGGRILLE",
+    "ciphertext_fixture": "TILUNRGHGELTENIR",
+    "fixture_preparation": "Published phrase spaces removed and case uppercased explicitly outside the codec; parent P prefix treated as plaintext label, not an added character."
+  },
+  "limits": [
+    "Generic model does not establish historical source orientation or array order.",
+    "Permutation has no content authentication: a same-length content change remains mechanically valid.",
+    "No target decode, key selection, source changes or linguistic scoring permitted."
+  ],
+  "network_budget_used": 0,
+  "no_target_access_until": "Own code, fixtures, controls and report sealed; subsequent target access requires fresh parent instruction."
+}

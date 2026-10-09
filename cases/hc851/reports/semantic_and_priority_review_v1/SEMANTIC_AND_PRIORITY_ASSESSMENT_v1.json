@@ -1,0 +1,143 @@
+{
+  "scope": "Bounded source-priority and semantic audit, not a candidate edit, source correction, fresh unknown-key cryptanalysis or publication.",
+  "preferred_registered_decode": {
+    "start": 0,
+    "direction": 1,
+    "literal": "DIESCHWERENANGRIFFERICHTETENSICHGEGENDIELONDONUNDSONSTIGEHAFENANLAGEDERBRITISCHENHAUPTSTADTXFERNERWURDENGASWERKEUNDBAHNHOEFEMITLBOMBENBELEGTSTOP",
+    "length": 144,
+    "mechanical_input_record": "reports/target_decode_v1/ALL_EIGHT_REGISTERED_DECODES_v1.json",
+    "all_eight_input_forward_ciphertexts_identical": true,
+    "all_eight_input_match_count": [
+      144
+    ],
+    "physical_key_public": true,
+    "public_key_url": "https://api.hcportal.eu/media/2512/29041685310199.jpg",
+    "claim_limit": "Input reports 144 active letters under supplied public physical grille. This audit does not rederive key geometry or certify the earlier cancelled/source layer."
+  },
+  "phrases": [
+    {
+      "literal": "DIELONDONUNDSONSTIGEHAFENANLAGE",
+      "offset_zero_based": 37,
+      "positions_one_based_inclusive": [
+        38,
+        68
+      ],
+      "length": 31,
+      "unchanged": true
+    },
+    {
+      "literal": "MITLBOMBEN",
+      "offset_zero_based": 124,
+      "positions_one_based_inclusive": [
+        125,
+        134
+      ],
+      "length": 10,
+      "unchanged": true
+    }
+  ],
+  "literal_assessment": {
+    "London_phrase": {
+      "spaced_literal_observation": "die London und sonstige Hafenanlage",
+      "grammar_status": "Anomalous under ordinary city-name and noun-coordination reading; London is unrepaired and Hafenanlage is singular. Spaces alone are editorial segmentation.",
+      "certainty": "Mechanical substring certain relative to the supplied decode; word division/intended syntax uncertain.",
+      "source_correction_established": false,
+      "possible_typo_or_copying_error": "Possible hypothesis only; no independent historical antecedent or original answer establishes it.",
+      "prohibited_repair": "Do not insert, replace, pluralize or reconstruct any letter."
+    },
+    "L_phrase": {
+      "spaced_literal_observation": "mit L Bomben",
+      "L_status": "Unexpanded L retained. No primary terminology definition or exact antecedent established by the bounded search.",
+      "bomb_type_inferred": false,
+      "replacement_or_repair": false
+    },
+    "brief_english_gloss_editorial": "Heavy attacks were directed against [the unresolved London/other-harbour-installation phrase] of the British capital; gasworks and railway stations were bombed with “L bombs” (L unresolved).",
+    "gloss_limit": "Broad editorial sense only; it supplies neither the intended London phrase nor an expansion of L. No attack date is inferred."
+  },
+  "external_search": {
+    "queries_registered_before_execution": 3,
+    "queries_executed": 3,
+    "search_calls": 1,
+    "returned_capture": "reports/semantic_and_priority_review_v1/captures/REGISTERED_SEARCH_RESPONSE_v1.json",
+    "per_query_result_attribution": "The tool returned one combined batch response; do not claim separate exhaustive coverage for each query.",
+    "exact_HC851_prior_reading_found": false,
+    "exact_historical_antecedent_found": false,
+    "primary_L_Bomben_definition_found": false,
+    "primary_context_limit": "Search returned broadly similar wartime attack-report language in primary newspaper scans. It did not establish this exact literal as their text. Full direct PDF opens failed or were size-limited.",
+    "negative_scope": "Finite three-query negative only. No worldwide priority, absence-of-original-answer or exhaustive literature claim."
+  },
+  "catalogue_snapshot": {
+    "input_file": "sources/raw/HC851_detail_2026-10-06.json",
+    "input_sha256": "b2dec41d3dfe7bf29c470d230b236d2cbe8a60ff0c7b8b47114eeb46ef0f4960",
+    "snapshot_date_from_filename": "2026-10-06",
+    "id": 851,
+    "name": "Cryptogram n. 4b in 13 149",
+    "solution": "Not solved",
+    "cipher_key_id": null,
+    "language": "German",
+    "category": "Transposition",
+    "date": null,
+    "date_around": "1952",
+    "updated_at": "2025-11-20 10:03:11",
+    "folder": {
+      "id": 22,
+      "name": "box BF388a, 27-19/6-099",
+      "fond_id": 14,
+      "fond": {
+        "id": 14,
+        "name": "ZSGS",
+        "archive_id": 5,
+        "archive": {
+          "id": 5,
+          "name": "Archiv bezpečnostních složek"
+        }
+      }
+    },
+    "tags": [
+      "Czechoslovakia",
+      "Cryptanalysis course"
+    ],
+    "fresh_independent_http_recheck": "failed HTTP 466; no current-state override inferred",
+    "null_key_id_limit": "Null catalogue foreign-key field does not deny the public attached key image.",
+    "status_limit": "Catalogue snapshot only, not a historical-priority or external-acceptance certificate."
+  },
+  "historical_priority": {
+    "claim": "Unestablished",
+    "known_key_assisted": "Yes: grille key is publicly attached to HC851.",
+    "original_archive_answer_checked": false,
+    "unindexed_or_unpublished_prior_readings_ruled_out": false,
+    "worldwide_first_solution_claim_allowed": false
+  },
+  "input_hashes": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "e62ba7d98be946ca97be1d6ac2907a849cd802e546abaef2d4d95b5fd459ba31"
+    },
+    {
+      "path": "reports/target_decode_v1/ALL_EIGHT_REGISTERED_DECODES_v1.json",
+      "sha256": "a2f9601cdb4bd1fec3d0b384f18762aa496c6621b7894b6750ca1951763d6e56"
+    },
+    {
+      "path": "sources/raw/HC851_detail_2026-10-06.json",
+      "sha256": "b2dec41d3dfe7bf29c470d230b236d2cbe8a60ff0c7b8b47114eeb46ef0f4960"
+    }
+  ],
+  "capture_hashes": [
+    {
+      "path": "reports/semantic_and_priority_review_v1/captures/DIRECT_OPEN_RESPONSE_v1.json",
+      "sha256": "1703dc86cdaf13e8d3d7e536597927eb4ebbbc352986e89b487a8f425429f99d",
+      "bytes": 1556
+    },
+    {
+      "path": "reports/semantic_and_priority_review_v1/captures/PUBLIC_API_RECHECK_RECEIPT_v1.json",
+      "sha256": "1dfb141e592b622e4bbe47d9ee3abde608533a9c3378673afc83701e78e3b13b",
+      "bytes": 258
+    },
+    {
+      "path": "reports/semantic_and_priority_review_v1/captures/REGISTERED_SEARCH_RESPONSE_v1.json",
+      "sha256": "a527ce9157103b2c03c5dc701489954cd9bda67a44a6a37a396991f16e4b2c21",
+      "bytes": 31625
+    }
+  ],
+  "mutations": "Only reports/semantic_and_priority_review_v1 artifacts written; target candidate, state, Git and source files not edited."
+}

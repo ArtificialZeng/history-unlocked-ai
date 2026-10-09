@@ -1,0 +1,15 @@
+{
+  "final_layer_letter_holds": [],
+  "earlier_layer_holds": [
+    "D01",
+    "D02",
+    "D03",
+    "D04",
+    "D05"
+  ],
+  "mark_holds": [
+    "M01",
+    "M05"
+  ],
+  "requirement": "Neither an original violet character nor correction history may be inferred from a readable final dark letter."
+}

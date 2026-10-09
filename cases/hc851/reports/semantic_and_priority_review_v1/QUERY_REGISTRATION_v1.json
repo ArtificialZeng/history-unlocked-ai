@@ -1,0 +1,28 @@
+{
+  "registered_utc": "2026-10-05T17:50:15.990273+00:00",
+  "max_search_queries": 3,
+  "queries": [
+    {
+      "id": "Q1_PRIOR_CASE",
+      "query": "(\"HC851\" OR \"Cryptogram n. 4b in 13 149\" OR \"DNEIRENESANSICICHHGCRWHITGEFEGEETRFENNIDG\")",
+      "purpose": "Exact catalogue identifier/title/cipher prefix: bounded prior casework check."
+    },
+    {
+      "id": "Q2_HISTORICAL_PREFIX",
+      "query": "\"Die schweren Angriffe richteten sich gegen\" \"London\" \"Hafen\"",
+      "purpose": "Unmodified long grammatical prefix from mechanical literal; seek primary historical report/newspaper antecedent."
+    },
+    {
+      "id": "Q3_L_BOMBEN",
+      "query": "\"L-Bomben\" (site:deutsche-digitale-bibliothek.de OR site:deutsches-zeitungsportal.de OR site:digi.ub.uni-heidelberg.de OR site:dwds.de OR site:de.wikisource.org)",
+      "purpose": "Primary newspaper/archive or historical lexicon terminology; no inferred bomb type."
+    }
+  ],
+  "literal_preferred_start_direction": [
+    0,
+    1
+  ],
+  "candidate_editing": false,
+  "source_key_public": true,
+  "scope": "Semantic/source-priority audit only; no state, Git, PDF or other-case work."
+}

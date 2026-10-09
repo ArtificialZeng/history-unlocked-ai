@@ -1,0 +1,25 @@
+{
+  "created_utc": "2026-10-05T18:05:38.544871+00:00",
+  "files": [
+    {
+      "path": "PROJECT_STATE.json",
+      "bytes": 1472,
+      "sha256": "2603a599a8462efe573fb4f6be6a76c45c9b3fbadd26b90f05812b0c08233f7e"
+    },
+    {
+      "path": "scripts/check_hc851_v1.py",
+      "bytes": 7268,
+      "sha256": "9fc40a3959e32d0a14da9680b98941b1b0d65b0cb851d6313069546d00c4cdbc"
+    },
+    {
+      "path": "reports/ROOT_CANDIDATE_MANIFEST_REPLAY_v1.json",
+      "bytes": 223,
+      "sha256": "45bf1bcce56a495969928303acf62d7ea97b52623efc40510b9371d11b46a643"
+    },
+    {
+      "path": "output/pdf/HC851_Source_Assisted_Grille_Reading_v1.pdf",
+      "bytes": 13894,
+      "sha256": "b62d1fbb3f4d8b6938b9b8824db3b0d4c322d5e6d5028c08b12c0e1b59e2e406"
+    }
+  ]
+}

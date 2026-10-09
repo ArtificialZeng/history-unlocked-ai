@@ -1,0 +1,145 @@
+array,row,column,array_index_1based,ASCII_observation,ASCII_alternatives,native_box_xyxy,source_sha256,array_crop,glyph_form_note,extra_ink_layer_note,source_letter_replaced_from_primary
+1,1,1,1,D,"[""D""]","[165, 135, 300, 293]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,1,2,2,N,"[""N""]","[325, 135, 460, 293]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,1,3,3,E,"[""E""]","[483, 135, 618, 293]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,1,4,4,I,"[""I""]","[630, 135, 765, 293]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,Dotted i-like handwritten form rendered as uppercase ASCII I.,,False
+1,1,5,5,R,"[""R""]","[798, 135, 933, 293]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,1,6,6,E,"[""E""]","[930, 135, 1065, 293]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,2,1,7,N,"[""N""]","[165, 285, 300, 443]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,2,2,8,E,"[""E""]","[325, 285, 460, 443]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,2,3,9,S,"[""S""]","[483, 285, 618, 443]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,2,4,10,A,"[""A""]","[630, 285, 765, 443]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,2,5,11,N,"[""N""]","[798, 285, 933, 443]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,2,6,12,S,"[""S""]","[930, 285, 1065, 443]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,3,1,13,I,"[""I""]","[165, 430, 300, 588]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,Dotted i-like handwritten form rendered as uppercase ASCII I.,,False
+1,3,2,14,C,"[""C""]","[325, 430, 460, 588]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,3,3,15,I,"[""I""]","[483, 430, 618, 588]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,Dotted i-like handwritten form rendered as uppercase ASCII I.,,False
+1,3,4,16,C,"[""C""]","[630, 430, 765, 588]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,3,5,17,H,"[""H""]","[798, 430, 933, 588]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,3,6,18,H,"[""H""]","[930, 430, 1065, 588]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,4,1,19,G,"[""G""]","[165, 591, 300, 749]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,4,2,20,C,"[""C""]","[325, 591, 460, 749]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,4,3,21,R,"[""R""]","[483, 591, 618, 749]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,4,4,22,W,"[""W""]","[630, 591, 765, 749]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,4,5,23,H,"[""H""]","[798, 591, 933, 749]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,4,6,24,I,"[""I""]","[930, 591, 1065, 749]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,Dotted i-like handwritten form rendered as uppercase ASCII I.,,False
+1,5,1,25,T,"[""T""]","[165, 736, 300, 894]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,5,2,26,G,"[""G""]","[325, 736, 460, 894]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,5,3,27,E,"[""E""]","[483, 736, 618, 894]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,5,4,28,F,"[""F""]","[630, 736, 765, 894]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,5,5,29,E,"[""E""]","[798, 736, 933, 894]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,5,6,30,G,"[""G""]","[930, 736, 1065, 894]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,6,1,31,E,"[""E""]","[165, 874, 300, 1032]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,6,2,32,E,"[""E""]","[325, 874, 460, 1032]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,6,3,33,T,"[""T""]","[483, 874, 618, 1032]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,6,4,34,R,"[""R""]","[630, 874, 765, 1032]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,6,5,35,F,"[""F""]","[798, 874, 933, 1032]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+1,6,6,36,E,"[""E""]","[930, 874, 1065, 1032]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_1_native.png,,,False
+2,1,1,1,N,"[""N""]","[1188, 120, 1323, 278]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,1,2,2,N,"[""N""]","[1360, 120, 1495, 278]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,1,3,3,I,"[""I""]","[1515, 120, 1650, 278]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,Dotted i-like handwritten form rendered as uppercase ASCII I.,,False
+2,1,4,4,D,"[""D""]","[1666, 120, 1801, 278]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,1,5,5,G,"[""G""]","[1815, 120, 1950, 278]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,1,6,6,N,"[""N""]","[1957, 120, 2092, 278]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,2,1,7,U,"[""U"", ""W""]","[1188, 268, 1323, 426]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,Cursive u/w-like form; source-only U/W ambiguity retained.,,False
+2,2,2,8,I,"[""I""]","[1360, 268, 1495, 426]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,Dotted i-like handwritten form rendered as uppercase ASCII I.,,False
+2,2,3,9,L,"[""L""]","[1515, 268, 1650, 426]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,2,4,10,N,"[""N""]","[1666, 268, 1801, 426]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,2,5,11,D,"[""D""]","[1815, 268, 1950, 426]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,2,6,12,E,"[""E""]","[1957, 268, 2092, 426]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,3,1,13,A,"[""A""]","[1188, 418, 1323, 576]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,3,2,14,L,"[""L""]","[1360, 418, 1495, 576]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,3,3,15,E,"[""E""]","[1515, 418, 1650, 576]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,3,4,16,G,"[""G""]","[1666, 418, 1801, 576]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,3,5,17,O,"[""O""]","[1815, 418, 1950, 576]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,3,6,18,E,"[""E""]","[1957, 418, 2092, 576]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,4,1,19,S,"[""S""]","[1188, 584, 1323, 742]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,Small comma-like mark to right of S.,False
+2,4,2,20,H,"[""H""]","[1360, 584, 1495, 742]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,4,3,21,O,"[""O""]","[1515, 584, 1650, 742]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,4,4,22,N,"[""N""]","[1666, 584, 1801, 742]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,4,5,23,A,"[""A""]","[1815, 584, 1950, 742]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,4,6,24,N,"[""N""]","[1957, 584, 2092, 742]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,Small upright annotation to right of N.,False
+2,5,1,25,F,"[""F""]","[1188, 736, 1323, 894]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,5,2,26,D,"[""D""]","[1360, 736, 1495, 894]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,5,3,27,E,"[""E""]","[1515, 736, 1650, 894]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,5,4,28,S,"[""S""]","[1666, 736, 1801, 894]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,5,5,29,E,"[""E""]","[1815, 736, 1950, 894]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,5,6,30,R,"[""R""]","[1957, 736, 2092, 894]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,Short bar beside R.,False
+2,6,1,31,B,"[""B""]","[1188, 869, 1323, 1027]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,6,2,32,D,"[""D""]","[1360, 869, 1495, 1027]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,6,3,33,N,"[""N""]","[1515, 869, 1650, 1027]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,6,4,34,O,"[""O""]","[1666, 869, 1801, 1027]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,Pencil tick below-right of O.,False
+2,6,5,35,T,"[""T""]","[1815, 869, 1950, 1027]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+2,6,6,36,A,"[""A""]","[1957, 869, 2092, 1027]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_2_native.png,,,False
+3,1,1,1,R,"[""R""]","[210, 1155, 345, 1313]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,1,2,2,W,"[""W"", ""U""]","[365, 1155, 500, 1313]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,Cursive u/w-like form; source-only U/W ambiguity retained.,,False
+3,1,3,3,T,"[""T""]","[517, 1155, 652, 1313]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,Short pencil/bar mark below-right of T.,False
+3,1,4,4,I,"[""I""]","[670, 1155, 805, 1313]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,Dotted i-like handwritten form rendered as uppercase ASCII I.,,False
+3,1,5,5,X,"[""X""]","[834, 1155, 969, 1313]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,1,6,6,H,"[""H""]","[969, 1155, 1104, 1313]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,2,1,7,A,"[""A""]","[210, 1304, 345, 1462]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,2,2,8,T,"[""T""]","[365, 1304, 500, 1462]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,Pencil separator below-right of T.,False
+3,2,3,9,R,"[""R""]","[517, 1304, 652, 1462]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,2,4,10,U,"[""U"", ""W""]","[670, 1304, 805, 1462]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,Cursive u/w-like form; source-only U/W ambiguity retained.,,False
+3,2,5,11,P,"[""P""]","[834, 1304, 969, 1462]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,2,6,12,I,"[""I""]","[969, 1304, 1104, 1462]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,Dotted i-like handwritten form rendered as uppercase ASCII I.,,False
+3,3,1,13,D,"[""D""]","[210, 1444, 345, 1602]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,Pencil separator right of D.,False
+3,3,2,14,S,"[""S""]","[365, 1444, 500, 1602]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,3,3,15,F,"[""F""]","[517, 1444, 652, 1602]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,3,4,16,E,"[""E""]","[670, 1444, 805, 1602]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,3,5,17,C,"[""C""]","[834, 1444, 969, 1602]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,3,6,18,N,"[""N""]","[969, 1444, 1104, 1602]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,4,1,19,T,"[""T""]","[210, 1605, 345, 1763]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,4,2,20,E,"[""E""]","[365, 1605, 500, 1763]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,4,3,21,S,"[""S""]","[517, 1605, 652, 1763]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,4,4,22,H,"[""H""]","[670, 1605, 805, 1763]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,4,5,23,R,"[""R""]","[834, 1605, 969, 1763]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,Pencil bar right of R.,False
+3,4,6,24,T,"[""T""]","[969, 1605, 1104, 1763]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,5,1,25,N,"[""N""]","[210, 1749, 345, 1907]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,5,2,26,G,"[""G""]","[365, 1749, 500, 1907]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,5,3,27,A,"[""A""]","[517, 1749, 652, 1907]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,5,4,28,A,"[""A""]","[670, 1749, 805, 1907]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,Pencil separator between A and E.,False
+3,5,5,29,E,"[""E""]","[834, 1749, 969, 1907]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,5,6,30,S,"[""S""]","[969, 1749, 1104, 1907]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,6,1,31,W,"[""W""]","[210, 1899, 345, 2057]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,6,2,32,E,"[""E""]","[365, 1899, 500, 2057]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,6,3,33,R,"[""R""]","[517, 1899, 652, 2057]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,Pencil bar between R and N.,False
+3,6,4,34,N,"[""N""]","[670, 1899, 805, 2057]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,6,5,35,D,"[""D""]","[834, 1899, 969, 2057]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+3,6,6,36,W,"[""W""]","[969, 1899, 1104, 2057]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_3_native.png,,,False
+4,1,1,1,E,"[""E""]","[1225, 1147, 1360, 1305]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,1,2,2,E,"[""E""]","[1384, 1147, 1519, 1305]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,Pencil stroke below-right of E.,False
+4,1,3,3,T,"[""T""]","[1525, 1147, 1660, 1305]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,1,4,4,R,"[""R""]","[1685, 1147, 1820, 1305]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,1,5,5,L,"[""L""]","[1844, 1147, 1979, 1305]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,1,6,6,H,"[""H""]","[2012, 1147, 2147, 1305]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,2,1,7,N,"[""N""]","[1225, 1297, 1360, 1455]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,Faint stroke right of N.,False
+4,2,2,8,K,"[""K""]","[1384, 1297, 1519, 1455]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,2,3,9,L,"[""L""]","[1525, 1297, 1660, 1455]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,2,4,10,H,"[""H""]","[1685, 1297, 1820, 1455]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,2,5,11,O,"[""O""]","[1844, 1297, 1979, 1455]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,2,6,12,E,"[""E""]","[2012, 1297, 2147, 1455]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,Small mark right of E.,False
+4,3,1,13,E,"[""E""]","[1225, 1452, 1360, 1610]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,3,2,14,U,"[""U"", ""W""]","[1384, 1452, 1519, 1610]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,Cursive u/w-like form; source-only U/W ambiguity retained.,,False
+4,3,3,15,B,"[""B""]","[1525, 1452, 1660, 1610]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,3,4,16,G,"[""G""]","[1685, 1452, 1820, 1610]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,3,5,17,N,"[""N""]","[1844, 1452, 1979, 1610]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,Pencil/bar right of N.,False
+4,3,6,18,T,"[""T""]","[2012, 1452, 2147, 1610]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,4,1,19,E,"[""E""]","[1225, 1610, 1360, 1768]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,4,2,20,O,"[""O""]","[1384, 1610, 1519, 1768]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,4,3,21,F,"[""F""]","[1525, 1610, 1660, 1768]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,4,4,22,D,"[""D""]","[1685, 1610, 1820, 1768]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,Pencil separator below-right of D.,False
+4,4,5,23,M,"[""M""]","[1844, 1610, 1979, 1768]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,4,6,24,E,"[""E""]","[2012, 1610, 2147, 1768]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,5,1,25,B,"[""B""]","[1225, 1754, 1360, 1912]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,5,2,26,S,"[""S""]","[1384, 1754, 1519, 1912]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,5,3,27,T,"[""T""]","[1525, 1754, 1660, 1912]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,Two faint pencil crosses flank the foreground T.,False
+4,5,4,28,M,"[""M""]","[1685, 1754, 1820, 1912]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,5,5,29,E,"[""E""]","[1844, 1754, 1979, 1912]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,5,6,30,O,"[""O""]","[2012, 1754, 2147, 1912]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,6,1,31,P,"[""P""]","[1225, 1905, 1360, 2063]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,6,2,32,B,"[""B""]","[1384, 1905, 1519, 2063]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,Pencil separator right of B.,False
+4,6,3,33,N,"[""N""]","[1525, 1905, 1660, 2063]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,6,4,34,A,"[""A""]","[1685, 1905, 1820, 2063]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,,False
+4,6,5,35,I,"[""I""]","[1844, 1905, 1979, 2063]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,Dotted i-like handwritten form rendered as uppercase ASCII I.,,False
+4,6,6,36,B,"[""B""]","[2012, 1905, 2147, 2063]",4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7,sources/inspection/cold_source_v1/hand_array_4_native.png,,Small upright pencil/bar annotation right of B.,False

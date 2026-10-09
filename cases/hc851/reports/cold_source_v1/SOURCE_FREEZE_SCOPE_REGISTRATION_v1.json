@@ -1,0 +1,25 @@
+{
+  "created_utc": "2026-10-05T17:29:15.999477+00:00",
+  "scope": "HC851 independent cold primary typed occurrence ledger, separate handwritten secondary witness and physical supplied grille geometry; no decode/model/plaintext inference.",
+  "allowed_reads": [
+    "AGENTS.md",
+    "sources/SOURCE_ONLY_SCOPE_v1.md",
+    "sources/adoption/SOURCE_COPY_RECEIPT_v1.json",
+    "sources/raw/HC851_detail_2026-10-06.json",
+    "sources/raw/HC851_typed_original.jpg",
+    "sources/raw/HC851_public_grille_original.jpg"
+  ],
+  "allowed_write_paths": [
+    "data/cold_source_v1",
+    "reports/cold_source_v1",
+    "sources/inspection/cold_source_v1"
+  ],
+  "no_network_Git_state_nested_old_case_imports": true,
+  "freeze_order": [
+    "primary typed ledger and own seal",
+    "secondary handwritten arrays and own seal",
+    "compare only after both source seals",
+    "physical grille cold geometry seal"
+  ],
+  "known_public_key_assisted": true
+}

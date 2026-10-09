@@ -1,0 +1,68 @@
+{
+  "status": "PASS_CURRENT_ACTIVE_144_SOURCE_FORWARD_AUDIT_WITH_EXPLICIT_SOURCE_HOLDS",
+  "completed_at_utc": "2026-10-05T18:01:26.064430+00:00",
+  "primary_active_positions_certified": 144,
+  "raw_placements_preserved": 145,
+  "primary_active_bytes_match_root_preferred": true,
+  "primary_active_bytes_match_cold_source": true,
+  "key_nine_holes_match_root_and_cold_geometry": true,
+  "literal_plaintext_unchanged": "DIESCHWERENANGRIFFERICHTETENSICHGEGENDIELONDONUNDSONSTIGEHAFENANLAGEDERBRITISCHENHAUPTSTADTXFERNERWURDENGASWERKEUNDBAHNHOEFEMITLBOMBENBELEGTSTOP",
+  "literal_semantic_intent": "HELD; retain DIELONDON and MITLBOMBEN exactly",
+  "all_eight_registered_decodes_independently_checked": true,
+  "all_eight_roundtrip_active144": true,
+  "fixed_literal_exact_registered_conventions": [
+    {
+      "start_turn": 0,
+      "direction": 1
+    }
+  ],
+  "single_orbit_legal_key_modifications": 27,
+  "equal_neighbors": 0,
+  "equal_neighbor_output_groups": 0,
+  "source_F_overlay_28_original_underlay": null,
+  "source_cancelled_raw139_original_letter": null,
+  "secondary_74_U_W_and_grouped_copy_100_A_H_preserved": true,
+  "cold_source_manifest_sha256": "79b54fb37f7d5e651c641fcb18aded8154a5477289b484b1b70c2ae981731307",
+  "cold85artifacts_and2source_original_hashes_verified": true,
+  "independent_codec_sha256": "94b5e3d7a34f60fad1262f8467b67d8a5915cca9c355590b2564d98c58ac35e1",
+  "checker_sha256": "27a9abfe8e1b380536d369bf5f9c6b75578f34df03a2d2964c5a072ce0b5ea5c",
+  "checker_imports_root_grille_code": false,
+  "chronology": {
+    "root_source_and_key_freeze_utc": "2026-10-05T17:39:40.168492+00:00",
+    "root_first_all_eight_output_utc": "2026-10-05T17:41:36.713799+00:00",
+    "cold_primary_record_freeze_utc": "2026-10-05T17:31:59.953929+00:00",
+    "cold_secondary_record_freeze_utc": "2026-10-05T17:35:41.298825+00:00",
+    "cold_physical_key_record_freeze_utc": "2026-10-05T17:44:29.957489+00:00",
+    "cold_full_145_placement_record_freeze_utc": "2026-10-05T17:48:47.440486+00:00",
+    "cold_final_manifest_utc": "2026-10-05T17:49:56.774744+00:00",
+    "cold_final_seal_utc": "2026-10-05T17:49:56.775489+00:00",
+    "independent_codec_precomparison_seal_utc": "2026-10-05T17:39:00.115179+00:00",
+    "scope_note": "Root source/key freeze precedes root first output. Cold final geometry/placement/manifest seals follow root first output, but the cold worker reports no candidate exposure or decoding. This candidate audit is exposed to the approved candidate records. No global before-any-candidate or fully blinded source-observer claim."
+  },
+  "visual_source_audit": {
+    "full_typed_original_view": "3024x1545 native view",
+    "full_notebook_original_view": "whole 3024x4032 source displayed with provider resize to2752x3669; detailed claims use native retained crops",
+    "native_detailed_views": [
+      "all5 typed rows",
+      "black F correction crop",
+      "last-row physical six-placement group",
+      "complete physical grille",
+      "all36 native grille-cell atlas",
+      "array3 native crop with position74 shape",
+      "lower grouped-copy native crop with position100 H"
+    ],
+    "literal_source_values_unchanged": true,
+    "visual_target_candidate_exposure": true,
+    "cold_observer_candidate_exposure_reported": false,
+    "native_row_and_key_provenance_checked": true
+  },
+  "claim_scope": "Known-key-assisted exact mechanical reading of the 144 current active primary letters under explicit cancellation role; no uncorrected145 recovery, semantic repair, exhaustive uniqueness, unknown-key discovery, priority or external acceptance claim.",
+  "remaining_source_holds": [
+    "unknown violet underlay at current F28",
+    "unknown cancelled glyph raw139 and explicitly conditional cancellation role",
+    "four handwritten U/W source alternatives",
+    "secondary literal W versus primary U at74",
+    "additional grouped-copy H versus primary A at100",
+    "geometric boundary context \u00b110px and unreadable stencil pencil notations"
+  ]
+}

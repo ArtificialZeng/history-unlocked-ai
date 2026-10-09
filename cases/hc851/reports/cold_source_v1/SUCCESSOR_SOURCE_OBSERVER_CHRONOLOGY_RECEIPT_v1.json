@@ -1,0 +1,37 @@
+{
+  "created_utc": "2026-10-05T17:59:11.027603+00:00",
+  "successor_note": "SUCCESSOR_SOURCE_OBSERVER_CHRONOLOGY_v1.md",
+  "successor_sha256": "368f05d12559cb829e79aad44b972f9fce29b5b69dea7a59b627684d534b2699",
+  "component_seal_timestamps": [
+    {
+      "file": "PRIMARY_TYPED_SEAL_v1.json",
+      "sealed_utc": "2026-10-05T17:31:59.954580+00:00",
+      "sha256": "2c05613fa80d7143305386ae3692563f68ad5ca8b34b8f8a96d4fe2d2e6639a0"
+    },
+    {
+      "file": "SECONDARY_HAND_ARRAY_SEAL_v1.json",
+      "sealed_utc": "2026-10-05T17:35:41.299307+00:00",
+      "sha256": "a26e1f3cdb65de30e98e023d58d4902628c9acf0e4979a51bbf4ba4ec8b7dae4"
+    },
+    {
+      "file": "PHYSICAL_GRILLE_SEAL_v1.json",
+      "sealed_utc": "2026-10-05T17:44:29.960204+00:00",
+      "sha256": "1e0fcf7f568090eca1daf8aa3874b8c2cc07996f65db3788d8827023fcb301ed"
+    },
+    {
+      "file": "PRIMARY_FULL_PLACEMENT_AUDIT_SEAL_v1.json",
+      "sealed_utc": "2026-10-05T17:48:47.443130+00:00",
+      "sha256": "f99803f8d4df7a16e8b97d125a99d2aa261592e4811175014e1723e842f044f3"
+    },
+    {
+      "file": "SEAL_v1.json",
+      "sealed_utc": "2026-10-05T17:49:56.775489+00:00",
+      "sha256": "d1c8382474ed090b700bd7482170cff9fae7565d0f22034ea6602fecd7683435"
+    }
+  ],
+  "original_manifest_sha256_unchanged": "79b54fb37f7d5e651c641fcb18aded8154a5477289b484b1b70c2ae981731307",
+  "original_report_sha256_unchanged": "aa46dbd9b0f102ea34a8811eab4d425c95771ead13536b6a2c2c2dc1986948e5",
+  "order_provenance": "Trusted root task message: final observer freeze after root mechanical candidate, before observer candidate exposure",
+  "root_candidate_exact_timestamp": null,
+  "candidate_plaintext_read_for_note": false
+}

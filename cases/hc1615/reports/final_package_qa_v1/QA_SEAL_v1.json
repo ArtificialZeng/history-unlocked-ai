@@ -1,0 +1,23 @@
+{
+  "sealed_utc": "2026-10-06T05:23:00.617958+00:00",
+  "manifest_sha256": "54353b1a5a2a71c3603d779eea670350b5106b3874bfb97ddaa019e5f486e3ca",
+  "payload_files": 20,
+  "reference_pins": 8,
+  "clean_staging_QA_PASS": true,
+  "tested_staging_payload_files": 113,
+  "default_offline_checker_PASS": true,
+  "both_certificates_and_literals_byte_equal": true,
+  "external_temp_CWD_PASS": true,
+  "tamper_rejections": 48,
+  "synthetic_rule_checks": 11,
+  "native_RGB_rows_PASS": 7,
+  "regenerated_PNG_byte_matches": 0,
+  "strict_optional_native_checker_run": false,
+  "image_payload_before_optional_replay": 0,
+  "network_GETs": 0,
+  "temporary_copy_removed": true,
+  "original_staging_source_data_mutated": false,
+  "final_ZIP_audited": false,
+  "material_defects": [],
+  "known_documented_limit": "PNG encoding differs though allRGBpinsmatch; optional strictPNGverifier notrun"
+}

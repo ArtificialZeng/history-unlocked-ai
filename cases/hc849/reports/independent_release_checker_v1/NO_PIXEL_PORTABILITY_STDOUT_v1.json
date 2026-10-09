@@ -1,0 +1,1999 @@
+{
+  "status": "PASS SCOPED CURRENT-BODY READ-ONLY CHECK",
+  "checked_utc": "2026-10-05T20:46:33.804219+00:00",
+  "required_frozen_artifacts_verified": 24,
+  "counts": {
+    "current_letters": 64,
+    "physical_cells": 64,
+    "physical_cuts": 16,
+    "conventions": 32,
+    "own_source_certificates": 2048,
+    "root_source_certificates": 2048,
+    "bounded_fixed_literal_controls": 79,
+    "root_synthetic_fixtures": 3200,
+    "root_fixture_distinct_keys": 100,
+    "root_fixture_block_counts": [
+      3
+    ]
+  },
+  "integrity_tests": [
+    {
+      "counterfactual": "changed preferred P",
+      "status": "REJECTED",
+      "reason": "changed preferred P or key: preferred literal no longer matches current source",
+      "mutation_scope": "deep-copied in-memory objects only"
+    },
+    {
+      "counterfactual": "changed current C",
+      "status": "REJECTED",
+      "reason": "changed preferred P or key: preferred literal no longer matches current source",
+      "mutation_scope": "deep-copied in-memory objects only"
+    },
+    {
+      "counterfactual": "changed native current coordinate",
+      "status": "REJECTED",
+      "reason": "own native current-coordinate or physical-cut provenance differs",
+      "mutation_scope": "deep-copied in-memory objects only"
+    },
+    {
+      "counterfactual": "changed physical cut with valid orbit coverage",
+      "status": "REJECTED",
+      "reason": "changed preferred P or key: preferred literal no longer matches current source",
+      "mutation_scope": "deep-copied in-memory objects only"
+    },
+    {
+      "counterfactual": "invented previous source layer",
+      "status": "REJECTED",
+      "reason": "invented previous source layer at position 30",
+      "mutation_scope": "deep-copied in-memory objects only"
+    }
+  ],
+  "read_only_frozen_hashes_unchanged": true,
+  "historical_present_reference_checks": 17,
+  "historical_omissions": [
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "data/cold_source_v1/all_derivative_provenance_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "data/cold_source_v1/initial_crop_provenance_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "data/cold_source_v1/native_unit_crop_provenance_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "data/cold_source_v1/original_inventory_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "reports/cold_source_v1/EXPOSURE_CHRONOLOGY_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "reports/cold_source_v1/LOCAL_SOURCE_INTEGRITY_CHECK_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "reports/cold_source_v1/SCOPE_REGISTRATION_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "reports/cold_source_v1/SOURCE_FREEZE_REPORT_v1.md",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "reports/cold_source_v1/build_cold_source_records_v1.py",
+      "reason": "historical code reference outside checker scope; no code read/import"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/ann_key_bottom_orientation.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/ann_key_cursive_caption.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/ann_key_left_orientation.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/ann_key_right_crease.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/ann_key_top_orientation.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/ann_notebook_bracket_LL.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/ann_notebook_bracket_LR.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/ann_notebook_bracket_UL.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/ann_notebook_bracket_UR.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/ann_notebook_faint_lower.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/ann_notebook_number_marks.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/ann_notebook_red_monogram.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/ann_notebook_top_caption.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/ann_notebook_vertical_note.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/ann_typed_between_Es.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/ann_typed_clipped_bottom.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/ann_typed_heading.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/ann_typed_heading_underline.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_block_shapes.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_bottom.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_coordinate_reference.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_native_atlas_01.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_native_atlas_02.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_native_atlas_03.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_native_atlas_04.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_native_atlas_05.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_native_atlas_06.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_native_atlas_07.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_native_atlas_08.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r1_c1.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r1_c2.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r1_c3.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r1_c4.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r1_c5.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r1_c6.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r1_c7.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r1_c8.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r2_c1.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r2_c2.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r2_c3.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r2_c4.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r2_c5.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r2_c6.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r2_c7.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r2_c8.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r3_c1.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r3_c2.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r3_c3.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r3_c4.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r3_c5.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r3_c6.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r3_c7.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r3_c8.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r3_marked.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r4_c1.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r4_c2.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r4_c3.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r4_c4.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r4_c5.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r4_c6.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r4_c7.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r4_c8.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r5_c1.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r5_c2.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r5_c3.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r5_c4.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r5_c5.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r5_c6.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r5_c7.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r5_c8.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r6_c1.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r6_c2.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r6_c3.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r6_c4.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r6_c5.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r6_c6.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r6_c7.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r6_c8.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r7_c1.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r7_c2.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r7_c3.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r7_c4.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r7_c5.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r7_c6.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r7_c7.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r7_c8.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r8_c1.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r8_c2.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r8_c3.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r8_c4.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r8_c5.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r8_c6.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r8_c7.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_r8_c8.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/array_top.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_coordinate_reference.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_copy_bottom.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_copy_top.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_native_atlas_01.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_native_atlas_02.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_native_atlas_03.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_native_atlas_04.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_native_atlas_05.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_native_atlas_06.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_native_atlas_07.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_native_atlas_08.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p01.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p02.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p03.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p04.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p05.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p06.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p07.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p08.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p09.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p10.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p11.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p12.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p13.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p14.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p15.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p16.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p17.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p18.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p19.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p20.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p21.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p22.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p23.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p24.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p25.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p26.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p27.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p28.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p29.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p30.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p31.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p32.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p33.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p34.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p35.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p36.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p37.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p38.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p39.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p40.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p41.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p42.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p43.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p44.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p45.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p46.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p47.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p48.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p49.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p50.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p51.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p52.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p53.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p54.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p55.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p56.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p57.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p58.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p59.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p60.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p61.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p62.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p63.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/grouped_p64.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_bottom.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_caption.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_coordinate_reference.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_middle.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_native_atlas_01.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_native_atlas_02.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_native_atlas_03.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_native_atlas_04.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_native_atlas_05.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_native_atlas_06.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_native_atlas_07.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_native_atlas_08.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r1_c1.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r1_c2.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r1_c3.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r1_c4.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r1_c5.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r1_c6.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r1_c7.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r1_c8.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r2_c1.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r2_c2.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r2_c3.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r2_c4.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r2_c5.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r2_c6.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r2_c7.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r2_c8.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r3_c1.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r3_c2.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r3_c3.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r3_c4.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r3_c5.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r3_c6.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r3_c7.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r3_c8.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r4_c1.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r4_c2.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r4_c3.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r4_c4.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r4_c5.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r4_c6.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r4_c7.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r4_c8.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r5_c1.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r5_c2.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r5_c3.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r5_c4.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r5_c5.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r5_c6.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r5_c7.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r5_c8.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r6_c1.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r6_c2.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r6_c3.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r6_c4.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r6_c5.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r6_c6.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r6_c7.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r6_c8.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r7_c1.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r7_c2.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r7_c3.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r7_c4.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r7_c5.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r7_c6.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r7_c7.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r7_c8.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r8_c1.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r8_c2.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r8_c3.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r8_c4.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r8_c5.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r8_c6.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r8_c7.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_r8_c8.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_right_edge.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/key_top.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/notebook_caption.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/notebook_faint_lower_mark.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/notebook_lower_left.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/notebook_lower_right.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/notebook_red_monogram.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/notebook_right_number.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/notebook_top_blank_left.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/notebook_top_blank_right.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_bottom_marks.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_bottomedge.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_coordinate_reference.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_dark30.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_dark60.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_heading.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_left_margin.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_native_atlas_01.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_native_atlas_02.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_native_atlas_03.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_native_atlas_04.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_native_atlas_05.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_native_atlas_06.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_native_atlas_07.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_native_atlas_08.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p01.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p02.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p03.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p04.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p05.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p06.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p07.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p08.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p09.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p10.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p11.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p12.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p13.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p14.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p15.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p16.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p17.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p18.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p19.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p20.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p21.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p22.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p23.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p24.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p25.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p26.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p27.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p28.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p29.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p30.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p31.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p32.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p33.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p34.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p35.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p36.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p37.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p38.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p39.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p40.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p41.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p42.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p43.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p44.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p45.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p46.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p47.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p48.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p49.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p50.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p51.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p52.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p53.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p54.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p55.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p56.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p57.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p58.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p59.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p60.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p61.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p62.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p63.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_p64.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_r1_left.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_r1_right.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_r2_coordinate_check.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_r2_left.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_r2_right.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_r3.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_right_margin.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_top_left.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/inspection/cold_source_v1/typed_top_right.png",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "AGENTS.md",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/SOURCE_ONLY_SCOPE_v1.md",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "DECIPHERMENT_PROTOCOL_v1.md",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/raw/HC849_original_1.jpg",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/raw/HC849_original_2.jpg",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "path": "sources/raw/HC849_original_3.jpg",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/independent_method_v1/SEAL_MANIFEST_v1.json",
+      "path": "reports/independent_method_v1/CONTROL_RESULTS_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/independent_method_v1/SEAL_MANIFEST_v1.json",
+      "path": "reports/independent_method_v1/EXPOSURE_LOG_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/independent_method_v1/SEAL_MANIFEST_v1.json",
+      "path": "reports/independent_method_v1/FAILED_RUN_CODE_CAPTURE_v1.py",
+      "reason": "historical code reference outside checker scope; no code read/import"
+    },
+    {
+      "manifest": "reports/independent_method_v1/SEAL_MANIFEST_v1.json",
+      "path": "reports/independent_method_v1/FAILED_RUN_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/independent_method_v1/SEAL_MANIFEST_v1.json",
+      "path": "reports/independent_method_v1/METHOD_REPORT_v1.md",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/independent_method_v1/SEAL_MANIFEST_v1.json",
+      "path": "reports/independent_method_v1/PUBLIC_API_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/independent_method_v1/SEAL_MANIFEST_v1.json",
+      "path": "reports/independent_method_v1/REGISTRATION_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/independent_method_v1/SEAL_MANIFEST_v1.json",
+      "path": "reports/independent_method_v1/REJECTION_CONTROLS_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/independent_method_v1/SEAL_MANIFEST_v1.json",
+      "path": "reports/independent_method_v1/SYNTHETIC_KEYS_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/independent_method_v1/SEAL_MANIFEST_v1.json",
+      "path": "reports/independent_method_v1/SYNTHETIC_REPRESENTATIVE_VECTORS_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/independent_method_v1/SEAL_MANIFEST_v1.json",
+      "path": "reports/independent_method_v1/SYNTHETIC_TRIAL_RECEIPTS_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/independent_candidate_audit_v1/SEAL_MANIFEST_v1.json",
+      "path": "reports/independent_candidate_audit_v1/AUDIT_CHRONOLOGY_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/independent_candidate_audit_v1/SEAL_MANIFEST_v1.json",
+      "path": "reports/independent_candidate_audit_v1/AUDIT_RESULTS_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/independent_candidate_audit_v1/SEAL_MANIFEST_v1.json",
+      "path": "reports/independent_candidate_audit_v1/AUDIT_SCOPE_REGISTRATION_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/independent_candidate_audit_v1/SEAL_MANIFEST_v1.json",
+      "path": "reports/independent_candidate_audit_v1/FIRST_AUTHORIZED_FILE_READS_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/independent_candidate_audit_v1/SEAL_MANIFEST_v1.json",
+      "path": "reports/independent_candidate_audit_v1/INDEPENDENT_CANDIDATE_AUDIT_REPORT_v1.md",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/independent_candidate_audit_v1/SEAL_MANIFEST_v1.json",
+      "path": "reports/independent_candidate_audit_v1/PRIOR_FREEZES_UNCHANGED_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/independent_candidate_audit_v1/SEAL_MANIFEST_v1.json",
+      "path": "reports/independent_candidate_audit_v1/REPORTING_INVOCATION_FAILURE_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/independent_candidate_audit_v1/SEAL_MANIFEST_v1.json",
+      "path": "reports/independent_candidate_audit_v1/ROOT_LITERAL_COMPARISON_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/independent_candidate_audit_v1/SEAL_MANIFEST_v1.json",
+      "path": "reports/independent_candidate_audit_v1/SECONDARY_WITNESS_ROLE_HOLDS_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/independent_candidate_audit_v1/SEAL_MANIFEST_v1.json",
+      "path": "reports/independent_candidate_audit_v1/SOURCE_FREEZE_REPLAY_v1.json",
+      "reason": "not present in chosen package; retained hash/reference does not replace file or pixels"
+    },
+    {
+      "manifest": "reports/independent_candidate_audit_v1/SEAL_MANIFEST_v1.json",
+      "path": "scripts/independent_candidate_check_v1.py",
+      "reason": "historical code reference outside checker scope; no code read/import"
+    },
+    {
+      "manifest": "reports/registered_target_v1/TARGET_RESULT_SEAL_v1.json",
+      "path": "scripts/run_registered_target_v1.py",
+      "reason": "historical code reference outside checker scope; no code read/import"
+    }
+  ],
+  "omitted_archival_image_count": 347,
+  "pixels_required_for_portable_pass": false,
+  "new_pixel_inspection": false,
+  "original_source_references": [
+    {
+      "kind": "original1",
+      "url": "https://api.hcportal.eu/media/2503/59451685309807.jpg",
+      "sha256": "0b06c69eb1db23fd216aac4f389c5119eb5e2d64669f07b1b403d374a690c061",
+      "bytes": 704837
+    },
+    {
+      "kind": "original2",
+      "url": "https://api.hcportal.eu/media/2504/89001685309807.jpg",
+      "sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "bytes": 3149977
+    },
+    {
+      "kind": "original3",
+      "url": "https://api.hcportal.eu/media/2505/93691685309807.jpg",
+      "sha256": "c3751e509ee34ab5a934d19912adfd22c24daee46fad6e8ee921a6dd127032bb",
+      "bytes": 673572
+    }
+  ],
+  "limits": [
+    "Stored native coordinates/URL/SHA do not substitute for omitted original pixels; independent native audit receipts remain historical evidence.",
+    "Current 64-body given-public-grille mechanical scope only; older layers30/60 and all secondary/nonbody/source-order holds persist.",
+    "DO KORE and terminal XXX remain literal and unassigned where noted; no JE insertion.",
+    "79 finite fixed-literal controls do not prove global4^16 uniqueness or historical operation.",
+    "No current catalogue/world solvedness, priority, unknown-key recovery or original war-dispatch claim.",
+    "This expectation snapshot is not an actual RELEASE_MANIFEST or a PDF/publication audit."
+  ],
+  "network_requests": 0,
+  "files_written": 0,
+  "root_implementation_imported_or_read": false
+}

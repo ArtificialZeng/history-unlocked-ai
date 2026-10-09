@@ -1,0 +1,80 @@
+{
+  "id": 851,
+  "name": "Cryptogram n. 4b in 13 149",
+  "date": null,
+  "date_around": "1952",
+  "language": {
+    "id": 8,
+    "name": "German"
+  },
+  "category": {
+    "id": 3,
+    "name": "Transposition",
+    "children": []
+  },
+  "sub_category": null,
+  "cipher_key_id": null,
+  "solution": {
+    "id": 1,
+    "name": "Not solved"
+  },
+  "availability_type": "archive",
+  "availability": null,
+  "folder": {
+    "id": 22,
+    "name": "box BF388a, 27-19/6-099",
+    "fond_id": 14,
+    "fond": {
+      "id": 14,
+      "name": "ZSGS",
+      "archive_id": 5,
+      "archive": {
+        "id": 5,
+        "name": "Archiv bezpečnostních složek"
+      }
+    }
+  },
+  "location": {
+    "id": 3,
+    "continent": "Europe",
+    "name": null
+  },
+  "tags": [
+    {
+      "id": 18,
+      "name": "Czechoslovakia",
+      "type": "cryptogram"
+    },
+    {
+      "id": 17,
+      "name": "Cryptanalysis course",
+      "type": "cryptogram"
+    }
+  ],
+  "note_present_nonempty": false,
+  "description_present_nonempty": true,
+  "source_metadata_sha256": "b2dec41d3dfe7bf29c470d230b236d2cbe8a60ff0c7b8b47114eeb46ef0f4960",
+  "attachments": [
+    {
+      "id": 1898,
+      "title": "Cryptogram image",
+      "type": "image",
+      "link": null,
+      "image_original": "https://api.hcportal.eu/media/2511/87581685310199.jpg"
+    },
+    {
+      "id": 1899,
+      "title": "Cryptogram image, key",
+      "type": "image",
+      "link": null,
+      "image_original": "https://api.hcportal.eu/media/2512/29041685310199.jpg"
+    },
+    {
+      "id": 1900,
+      "title": "Attachment 1",
+      "type": "image",
+      "link": null,
+      "image_original": "https://api.hcportal.eu/media/2513/12121685310199.jpg"
+    }
+  ]
+}

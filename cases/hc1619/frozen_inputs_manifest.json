@@ -1,0 +1,68 @@
+{
+  "scope": "Ten unchanged saved scientific JSON inputs required by the unchanged HC1619 checker. Reduced publication-core inventory; not the original 72-file evidence inventory or renewed source qualification.",
+  "files": [
+    {
+      "path": "frozen/reports/independent_source_review_v1/FROZEN_SOURCE.json",
+      "bytes": 13742,
+      "sha256": "5d889f826604a1f996d1792815dc89f9e40196781de74a67277a2f12eb15444a",
+      "original_case_relative_path": "reports/independent_source_review_v1/FROZEN_SOURCE.json"
+    },
+    {
+      "path": "frozen/reports/independent_source_review_v1/GLYPH_OCCURRENCES.json",
+      "bytes": 76501,
+      "sha256": "f6d8ce91e53da3a9b521e1da623aec225844ecbe5604a8a6ecf509b56025a8d9",
+      "original_case_relative_path": "reports/independent_source_review_v1/GLYPH_OCCURRENCES.json"
+    },
+    {
+      "path": "frozen/config/FROZEN_TRANSFER_KEY_v1.json",
+      "bytes": 1260,
+      "sha256": "267fac542b3cc9b3fbb5d788b8d867a0c37de0fa1f4ffefe16776256e1835273",
+      "original_case_relative_path": "config/FROZEN_TRANSFER_KEY_v1.json"
+    },
+    {
+      "path": "frozen/config/TWO_PACKET_APPLICATION_REGISTRATION_v1.json",
+      "bytes": 1244,
+      "sha256": "2c7292c52f0f73a1b4b616cdc9590625ce5457e10ab221ceeffdaf516f33a25c",
+      "original_case_relative_path": "config/TWO_PACKET_APPLICATION_REGISTRATION_v1.json"
+    },
+    {
+      "path": "frozen/config/PRE_APPLICATION_BRIDGE_PACKET_v1.json",
+      "bytes": 2039,
+      "sha256": "4e48ddd52d358b21a79d570372e2c4a3bb37535670e5d54820abed65b4cea5be",
+      "original_case_relative_path": "config/PRE_APPLICATION_BRIDGE_PACKET_v1.json"
+    },
+    {
+      "path": "frozen/config/PRE_APPLICATION_BRIDGE_PACKET_v1p1.json",
+      "bytes": 2591,
+      "sha256": "160eef664df505b7de83c75b83a4c38d9a112527d3cc84a1ece9dbb785154d4d",
+      "original_case_relative_path": "config/PRE_APPLICATION_BRIDGE_PACKET_v1p1.json"
+    },
+    {
+      "path": "frozen/experiments/fixed_transfer_v1/CONSERVATIVE_FIRST_OUTPUT.json",
+      "bytes": 26380,
+      "sha256": "2d2cf592f415134d54b495bcf393a4d15ad7bff94148f89c007e3528f7ab7234",
+      "original_case_relative_path": "experiments/fixed_transfer_v1/CONSERVATIVE_FIRST_OUTPUT.json"
+    },
+    {
+      "path": "frozen/experiments/fixed_transfer_v1/PREFERRED_FIRST_OUTPUT.json",
+      "bytes": 26319,
+      "sha256": "7432e57ce1010e0a0a02f03d183b96d6b35dd29df746e195efa9dfcd3783332f",
+      "original_case_relative_path": "experiments/fixed_transfer_v1/PREFERRED_FIRST_OUTPUT.json"
+    },
+    {
+      "path": "frozen/reports/independent_transfer_review_v1/REPLAY_CONSERVATIVE.json",
+      "bytes": 58737,
+      "sha256": "2fd45385a46a13cf2c7f7570da791ee6ffe95d40dff4af5fdf0e399f10514532",
+      "original_case_relative_path": "reports/independent_transfer_review_v1/REPLAY_CONSERVATIVE.json"
+    },
+    {
+      "path": "frozen/reports/independent_transfer_review_v1/REPLAY_PREFERRED.json",
+      "bytes": 58663,
+      "sha256": "52d9bd6afc707e281c65a9c2067dab7bd0e0c8732657b2bd2fbca39e6ea0b8f9",
+      "original_case_relative_path": "reports/independent_transfer_review_v1/REPLAY_PREFERRED.json"
+    }
+  ],
+  "count": 10,
+  "parent_manifest_sha256": "f3ec85a3240a16aeea244fdb51c7aff35a8ca45b0005b6bdf16c4bf18ec641ff",
+  "parent_manifest_count": 72
+}

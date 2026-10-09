@@ -1,0 +1,29 @@
+{
+  "registered_utc": "2026-10-06T04:21:15.498474+00:00",
+  "mode": "DECLARED_FIXED_PRIOR_ALPHABET_TRANSFER",
+  "target": "HC1615",
+  "source_admission": "CONDITIONAL_COLD_UNIT_LEDGER_REQUIRED",
+  "source_date": "1901-12-31",
+  "date_distance_days": 20,
+  "shared_recipient": 403,
+  "source_gate_sha256": "765d7a0bf94e02d1336fe468a7896067c14ce7521d8d66b32df5a35edada7064",
+  "root_prior_key_values_known": true,
+  "root_current_target_P_or_codedpixels_seen": false,
+  "source_observers_current_key_P_unexposed": true,
+  "donor_key_path": "/Users/zeng/Documents/解谜/hcportal1760_1901_decipherment/data/FIXED_OBSERVED_KEY_v2.json",
+  "donor_key_sha256": "267fac542b3cc9b3fbb5d788b8d867a0c37de0fa1f4ffefe16776256e1835273",
+  "key_size_entries": 22,
+  "key_refit_or_extension": false,
+  "source_minimum_graphical_count_not_exact": 61,
+  "source_observed_rough_range_not_exact": [
+    70,
+    85
+  ],
+  "source_observed_rows_not_final_certified": 7,
+  "watermark_visible_glyph_collisions": "Primary raw gate found0 wholly hiddencentres in bounded native review, not certified unit-levelabsence",
+  "graphic_marker": "Known rawr+clearly detached CARON may be declared R_MARK by graphic evidence BEFORE lookup; meaning withheld from source observers. Other marks/roles held, no guessing from words.",
+  "source_provenance": "Full nativeROW plus localordinal; no exclusiveglyph masks",
+  "source_values_held_from_observers": true,
+  "no_remote_actions_or_editor_changes": true,
+  "historic_source_accuracy_not_unique": true
+}

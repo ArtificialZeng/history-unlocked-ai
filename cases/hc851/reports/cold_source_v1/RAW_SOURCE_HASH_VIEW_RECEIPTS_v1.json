@@ -1,0 +1,24 @@
+[
+  {
+    "path": "/Users/zeng/Documents/\u89e3\u8c1c/hcportal851_1952_grille_decipherment/sources/raw/HC851_typed_original.jpg",
+    "bytes": 1081684,
+    "sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+    "dimensions": [
+      3024,
+      1545
+    ],
+    "whole_image_actual_view": true,
+    "whole_image_display_notice": "Typed photo shown at native extent"
+  },
+  {
+    "path": "/Users/zeng/Documents/\u89e3\u8c1c/hcportal851_1952_grille_decipherment/sources/raw/HC851_public_grille_original.jpg",
+    "bytes": 3520525,
+    "sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+    "dimensions": [
+      3024,
+      4032
+    ],
+    "whole_image_actual_view": true,
+    "whole_image_display_notice": "Whole photo displayed after provider resize from3024x4032 to2752x3669; native crops will be used for source/cell readings"
+  }
+]

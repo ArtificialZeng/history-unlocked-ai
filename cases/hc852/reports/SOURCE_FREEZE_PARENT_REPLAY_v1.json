@@ -1,0 +1,8 @@
+{
+  "utc": "2026-10-05T21:43:25.723310+00:00",
+  "manifest_sha256": "a2dcab38ce4a18830cd4825ed1ea8c967d7ffba33500642dad30ee90e4d9c6e6",
+  "payload_refs": 67,
+  "context_refs": 10,
+  "all77hashes_pass": true,
+  "new_pixel_observation_claim": false
+}

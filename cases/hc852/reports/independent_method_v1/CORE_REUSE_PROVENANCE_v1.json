@@ -1,0 +1,9 @@
+{
+  "copied_at_utc": "2026-10-05T21:21:45.875733+00:00",
+  "source_sha256": "5c2d8c3bbf1f54ecf8c43583e0f7e8f875a167050ab12d7e4a393f230f095e16",
+  "destination_sha256": "5c2d8c3bbf1f54ecf8c43583e0f7e8f875a167050ab12d7e4a393f230f095e16",
+  "bytes": 19484,
+  "byte_identical": true,
+  "target_data_included": false,
+  "prior_self_test_seed_retained_but_not_run": 8491952
+}

@@ -1,0 +1,13 @@
+{
+  "sealed_utc": "2026-10-06T04:57:58.611639+00:00",
+  "manifest_SHA256": "4350777d180926e3f4c5afadc5397cb4938bd87f99898f0bcf27de31807cc8f0",
+  "entries_replayed": 8,
+  "external_allowed_pins_replayed": 11,
+  "all7_native_row_RGB_replay": true,
+  "elapsed_after_registration_seconds": 414.157496,
+  "elapsed_first_required_read_seconds": 456.611639,
+  "within7min_since_firstread": false,
+  "recommendation": "Conditionalnoteeligible; independentfullforward/profile andpackagechecks required",
+  "uniquehistorical_confirmation": false,
+  "no_shared_mutations": true
+}

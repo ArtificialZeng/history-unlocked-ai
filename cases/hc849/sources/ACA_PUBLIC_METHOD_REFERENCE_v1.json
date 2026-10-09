@@ -1,0 +1,20 @@
+{
+  "access_utc": "2026-10-05T19:40:56.598955+00:00",
+  "url": "https://www.cryptogram.org/downloads/aca.info/ciphers/Grille.pdf",
+  "tool": "web.open",
+  "status": "success text extraction",
+  "pages": 1,
+  "raw_pdf_saved": false,
+  "known_vector": {
+    "side": 4,
+    "holes_1indexed_rowmajor": [
+      1,
+      8,
+      10,
+      12
+    ],
+    "plaintext": "THETURNINGGRILLE",
+    "ciphertext_rowmajor": "TILUNRGHGELTENIR"
+  },
+  "scope": "modern documented generic mechanical convention and known-vector validation, not proof of1952historicalorder"
+}

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the research note and distinguish supplied-key reading from unknown-key cryptanalysis."
+type: software
+title: "HC851: A reproducible source-assisted grille reading"
+version: 1.0.0
+date-released: 2026-10-06
+authors:
+  - family-names: Zeng
+    given-names: Zijian
+    affiliation: "Institute of Computer Science and Digital Innovation, UCSI University, Kuala Lumpur, 56000, MALAYSIA"
+    email: zijianzeng@foxmail.com
+license: MIT

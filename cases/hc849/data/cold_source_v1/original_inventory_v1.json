@@ -1,0 +1,29 @@
+[
+  {
+    "path": "sources/raw/HC849_original_1.jpg",
+    "dimensions": [
+      3024,
+      809
+    ],
+    "bytes": 704837,
+    "sha256": "0b06c69eb1db23fd216aac4f389c5119eb5e2d64669f07b1b403d374a690c061"
+  },
+  {
+    "path": "sources/raw/HC849_original_2.jpg",
+    "dimensions": [
+      3024,
+      4032
+    ],
+    "bytes": 3149977,
+    "sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a"
+  },
+  {
+    "path": "sources/raw/HC849_original_3.jpg",
+    "dimensions": [
+      1581,
+      1533
+    ],
+    "bytes": 673572,
+    "sha256": "c3751e509ee34ab5a934d19912adfd22c24daee46fad6e8ee921a6dd127032bb"
+  }
+]

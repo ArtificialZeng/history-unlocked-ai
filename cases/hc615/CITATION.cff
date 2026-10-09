@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Cite this attributed local evidence package. External expert review and historical priority remain unconfirmed."
+type: software
+title: "HC615: an exact and reproducible complete observed Czech reconstruction"
+version: "1.1.0-research-local"
+authors:
+  - family-names: "Zeng"
+    given-names: "Zijian"
+    affiliation: "Institute of Computer Science and Digital Innovation, UCSI University, Kuala Lumpur, 56000, MALAYSIA"
+    email: "zijianzeng@foxmail.com"
+abstract: "One fixed 22-glyph substitution reproduces all 220 observed symbols, 32 segments and eight lines. Local attributed release includes executable evidence and a research PDF. No global priority, unique-answer theorem or external endorsement is asserted."
+license:
+  - MIT
+  - CC-BY-4.0
+  - CC-BY-NC-SA-4.0
+keywords:
+  - historical cryptology
+  - Czech
+  - reproducibility
+  - HC Portal

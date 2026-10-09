@@ -1,0 +1,41 @@
+{
+  "Pillow": "12.3.0",
+  "row_RGB_replays": [
+    {
+      "row_id": "R01",
+      "RGB_match": true,
+      "PNG_encoding_byte_match": false
+    },
+    {
+      "row_id": "R02",
+      "RGB_match": true,
+      "PNG_encoding_byte_match": false
+    },
+    {
+      "row_id": "R03",
+      "RGB_match": true,
+      "PNG_encoding_byte_match": false
+    },
+    {
+      "row_id": "R04",
+      "RGB_match": true,
+      "PNG_encoding_byte_match": false
+    },
+    {
+      "row_id": "R05",
+      "RGB_match": true,
+      "PNG_encoding_byte_match": false
+    },
+    {
+      "row_id": "R06",
+      "RGB_match": true,
+      "PNG_encoding_byte_match": false
+    },
+    {
+      "row_id": "R07",
+      "RGB_match": true,
+      "PNG_encoding_byte_match": false
+    }
+  ],
+  "scope": "Native whole-row pixels, not exclusive glyph masks or proof of source identity. PNG encoding can differ across library versions even when RGB matches."
+}

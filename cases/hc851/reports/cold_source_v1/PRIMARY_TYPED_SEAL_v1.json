@@ -1,0 +1,21 @@
+{
+  "sealed_utc": "2026-10-05T17:31:59.954580+00:00",
+  "independent_source": "primary typed",
+  "files": [
+    {
+      "path": "data/cold_source_v1/PRIMARY_TYPED_OCCURRENCES_v1.csv",
+      "sha256": "0d9a9760959a4501c930865050f74adbdf21179fb136296ca52f5c6373fea758"
+    },
+    {
+      "path": "data/cold_source_v1/PRIMARY_TYPED_SOURCE_v1.json",
+      "sha256": "258fac995db019833d5716c276a7ebc6034e4dea9ac2a3b53df4d546c24c72f7"
+    },
+    {
+      "path": "data/cold_source_v1/PRIMARY_TYPED_ACTIVE_STREAM_v1.txt",
+      "sha256": "a0da353f8cc58e5e3ed2e6b4c06d7e2f60b46ac37398357575288f01d4b1969e"
+    }
+  ],
+  "letter_count": 144,
+  "cancelled_extra_placement": 1,
+  "comparison_with_handwritten_witness_performed": false
+}

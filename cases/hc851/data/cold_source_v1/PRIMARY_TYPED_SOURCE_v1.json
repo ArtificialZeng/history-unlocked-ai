@@ -1,0 +1,132 @@
+{
+  "frozen_utc": "2026-10-05T17:31:59.953929+00:00",
+  "basis": "Typed original and native typed row/correction crops only; handwritten witness not used to choose primary letters. Whole second photo had been viewed for extent, so observer blinding is not claimed.",
+  "source_path": "sources/raw/HC851_typed_original.jpg",
+  "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+  "native_dimensions": [
+    3024,
+    1545
+  ],
+  "reading_order": "Rows top to bottom; groups and glyphs left to right",
+  "rows_grouped": [
+    [
+      "DNEIR",
+      "ENESA",
+      "NSICI",
+      "CHHGC",
+      "RWHIT",
+      "GEFEG"
+    ],
+    [
+      "EETRF",
+      "ENNID",
+      "GNUIL",
+      "NDEAL",
+      "EGOES",
+      "HONAN"
+    ],
+    [
+      "FDESE",
+      "RBDNO",
+      "TARUT",
+      "IXHAT",
+      "RUPID",
+      "SFECN"
+    ],
+    [
+      "TESHR",
+      "TNGAA",
+      "ESWER",
+      "NDWEE",
+      "TRLHN",
+      "KLHOE"
+    ],
+    [
+      "EUBGN",
+      "TEOFD",
+      "MEBST",
+      "MEOPB",
+      "NAIB"
+    ]
+  ],
+  "row_active_counts": [
+    30,
+    30,
+    30,
+    30,
+    24
+  ],
+  "active_stream": "DNEIRENESANSICICHHGCRWHITGEFEGEETRFENNIDGNUILNDEALEGOESHONANFDESERBDNOTARUTIXHATRUPIDSFECNTESHRTNGAAESWERNDWEETRLHNKLHOEEUBGNTEOFDMEBSTMEOPBNAIB",
+  "active_letter_count": 144,
+  "visible_letter_placement_count_including_cancelled": 145,
+  "groups_count": 29,
+  "last_group_length": 4,
+  "primary_corrections": [
+    {
+      "active_index_1based": 28,
+      "row": 1,
+      "group": 6,
+      "offset": 3,
+      "native_box_xyxy": [
+        2610,
+        552,
+        2670,
+        661
+      ],
+      "final_visible_ASCII": "F",
+      "underlying_violet_ASCII": null,
+      "underlay_hold": "Violet ink is present under the black correction; original letter not recovered.",
+      "observed_ink_layers": "black F-shaped overlay over violet typewriter placement"
+    },
+    {
+      "active_index_1based": null,
+      "physical_extra_placement_after_active_index": 138,
+      "row": 5,
+      "group": 4,
+      "native_box_xyxy": [
+        1814,
+        1290,
+        1883,
+        1420
+      ],
+      "cancelled_original_ASCII": null,
+      "role": "Extra violet placement crossed by two dark vertical strokes; retained as cancelled source layer, not an active ASCII symbol.",
+      "alternative_role_hold": "If subsequent audit disputes cancellation, primary active length must reopen explicitly; no silent 144-letter assumption."
+    }
+  ],
+  "ordinary_notations": [
+    {
+      "native_box_xyxy": [
+        260,
+        355,
+        1010,
+        453
+      ],
+      "literal": "Německý text čís. 4",
+      "meaning_not_used": "heading only; no plaintext inference"
+    },
+    {
+      "native_box_xyxy": [
+        74,
+        295,
+        260,
+        433
+      ],
+      "literal_uncertain": "Př. 6 [?]",
+      "hold": "Faint pencil abbreviation, uncertain; image retained"
+    },
+    {
+      "native_box_xyxy": [
+        2560,
+        95,
+        2768,
+        327
+      ],
+      "literal": "2",
+      "ink": "magenta",
+      "role": "page/source marking, not cipher letter"
+    }
+  ],
+  "complete_extent_observation": "Full typed page including upper/lower margins and all five text rows viewed. No full plaintext passage visible.",
+  "freeze_status": "PRIMARY_SOURCE_FROZEN_WITH_EXPLICIT_UNDERLAY_AND_CANCELLED_SLOT_HOLDS"
+}

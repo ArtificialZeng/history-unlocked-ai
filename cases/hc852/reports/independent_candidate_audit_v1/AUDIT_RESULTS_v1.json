@@ -1,0 +1,23 @@
+{
+  "status": "PASS_CURRENT_PRIMARY_COMPONENT_WITH_SOURCE_HOLDS",
+  "started_at_utc": "2026-10-05T21:54:25.518439+00:00",
+  "completed_at_utc": "2026-10-05T21:54:25.717964+00:00",
+  "current_source_letters": 64,
+  "physical_cells": 64,
+  "public_physical_cuts": 16,
+  "own_projection_count": 32,
+  "exact_full64_forwards": 32,
+  "own_and_root_literal_agreements": 32,
+  "independent_source_certificate_records": 2048,
+  "exact_root_certificate_agreements": 2048,
+  "other_convention_controls": 31,
+  "single_orbit_key_neighbors": 48,
+  "finite_exact_source_matches": [],
+  "finite_duplicate_output_groups": [],
+  "global_uniqueness_claim": false,
+  "root_implementation_read_or_imported": false,
+  "candidate_preexposed": true,
+  "source_or_method_seal_edits": 0,
+  "unchanged_codec_sha256": "5c2d8c3bbf1f54ecf8c43583e0f7e8f875a167050ab12d7e4a393f230f095e16",
+  "independent_wrapper_sha256": "effd002ee8b01d945c44cf159f6c7d7ffde8c3f31832bbdbaa240cd46e1fea40"
+}

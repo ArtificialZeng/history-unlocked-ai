@@ -1,0 +1,14 @@
+name: Reproduce cipher evidence
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  offline-replay:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check repository boundary, scientific hashes and case certificates
+        run: python -B scripts/verify_portfolio.py --replay
+      - name: Check accidental-publication rejection
+        run: python -B -m unittest discover -s tests

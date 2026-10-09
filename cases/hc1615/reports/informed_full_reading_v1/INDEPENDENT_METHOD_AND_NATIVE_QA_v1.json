@@ -1,0 +1,477 @@
+{
+  "utc": "2026-10-06T04:54:34.670031+00:00",
+  "77_unit_recompute": [
+    {
+      "unit_id": "R01G01U01",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R01G01U02",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R01G02U01",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R01G02U02",
+      "rule": "base_map_plus_preserved_caron_HYPOTHESIS",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R01G02U03",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R01G02U04",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R01G02U05",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R01G02U06",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R01G02U07",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R01G03U01",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R01G03U02",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R02G01U01",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R02G01U02",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R02G01U03",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R02G01U04",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R02G01U05",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R02G02U01",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R02G03U01",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R02G04U01",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R02G04U02",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R02G04U03",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R02G04U04",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R03G01U01",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R03G01U02",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R03G02U01",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R03G02U02",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R03G02U03",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R03G02U04",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R03G02U05",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R03G02U06",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R03G03U01",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R03G03U02",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R03G03U03",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R03G03U04",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R04G01U01",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R04G01U02",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R04G01U03",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R04G01U04",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R04G01U05",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R04G02U01",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R04G02U02",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R04G02U03",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R04G02U04",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R04G02U05",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R04G02U06",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R05G01U01",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R05G01U02",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R05G01U03",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R05G01U04",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R05G01U05",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R05G01U06",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R05G01U07",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R05G02U01",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R05G02U02",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R05G02U03",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R05G02U04",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R06G01U01",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R06G01U02",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R06G01U03",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R06G01U04",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R06G01U05",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R06G01U06",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R06G02U01",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R06G02U02",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R06G02U03",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R06G02U04",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R06G02U05",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R07G01U01",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R07G01U02",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R07G01U03",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R07G01U04",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R07G02U01",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R07G02U02",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R07G02U03",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R07G02U04",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R07G02U05",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    },
+    {
+      "unit_id": "R07G02U06",
+      "rule": "known_whole_unit_table",
+      "computed_matches": true
+    }
+  ],
+  "whole_table_units": 76,
+  "caron_rule_units": 1,
+  "baseline_known76values_unchanged": true,
+  "model_config_SHA_matches": true,
+  "fixed22key_SHA_matches": true,
+  "allsourcepins_unchanged": true,
+  "seven_native_row_original_RGB_replays": [
+    {
+      "row": "R01",
+      "source_raw_box": [
+        1391,
+        750,
+        1467,
+        1105
+      ],
+      "RGB_SHA256": "b362ca636b09f5f9b23f15a9017da648fd44aa96c6547789178f5a2e746af2a5",
+      "native_original_replay": true
+    },
+    {
+      "row": "R02",
+      "source_raw_box": [
+        1325,
+        750,
+        1415,
+        1105
+      ],
+      "RGB_SHA256": "dbe7e6942d2ae9162727bf87252ad2925b2d3a9b61ad9ede6f75826cddc57226",
+      "native_original_replay": true
+    },
+    {
+      "row": "R03",
+      "source_raw_box": [
+        1256,
+        750,
+        1355,
+        1105
+      ],
+      "RGB_SHA256": "fd5aaef99eca76e18187513275dffa7e7f07cd2f7def0b9bfcd22b177e5cb48e",
+      "native_original_replay": true
+    },
+    {
+      "row": "R04",
+      "source_raw_box": [
+        1189,
+        750,
+        1297,
+        1105
+      ],
+      "RGB_SHA256": "959c99e1e06ddd5f7d7e45f44ec6638af5f53718472622505355b9ec69db93bb",
+      "native_original_replay": true
+    },
+    {
+      "row": "R05",
+      "source_raw_box": [
+        1128,
+        750,
+        1228,
+        1105
+      ],
+      "RGB_SHA256": "9e38bb38ac7cdd4f66f4bcd104c434aa8fac76b4a4f94cff66a3412145fb4b63",
+      "native_original_replay": true
+    },
+    {
+      "row": "R06",
+      "source_raw_box": [
+        1064,
+        750,
+        1171,
+        1105
+      ],
+      "RGB_SHA256": "fe0758157e3fbf43e9df0db039191a92ec4e9cd94973867bc94e9344b434d86d",
+      "native_original_replay": true
+    },
+    {
+      "row": "R07",
+      "source_raw_box": [
+        1018,
+        750,
+        1111,
+        1105
+      ],
+      "RGB_SHA256": "c6242b4177e9360bee0bea97d2752eab2223e58b9555fab9c1aceb4d6f1ef751",
+      "native_original_replay": true
+    }
+  ],
+  "source_row_group_event_literal_restore": true,
+  "exactforward_inverseprofile_audit_scope": "Separateindependentmarkmodel audit owns completecanonicalprofile/inverse certificate; thisaudit confirms all77semanticrulevalues, sourceimmutability, rowpixels, group/rowstrings andeventcarry. Re-encryption conditionalmodel doesnotprovehistoricaluniqueness."
+}

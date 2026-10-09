@@ -1,0 +1,25 @@
+{
+  "created_utc": "2026-10-05T17:49:56.759750+00:00",
+  "checks": [
+    "Both original hashes match authorized copy receipt",
+    "144 active ASCII letters plus all145 raw placements including unknown cancelled glyph",
+    "Rows30,30,30,30,24; final group4",
+    "All frozen primary/secondary/key/full-placement seal file hashes unchanged",
+    "Four arrays144 occurrences; comparison only after primary/secondary seals",
+    "6x6 coarse key36 cells and nine visually frozen cut cells; coordinate/mask consistency",
+    "All native crop/atlas receipts match saved pixels",
+    "No source-letter replacement after witness comparison",
+    "No candidate, model or plaintext computation"
+  ],
+  "unresolved_holds": [
+    "Unknown correction underlay at active28",
+    "Unknown cancelled extra violet placement after active138 and cancellation-role hold",
+    "Four handwritten U/W shape alternatives, literal mismatch74",
+    "Additional grouped witnessH versus typedA at100",
+    "Approximate native coarse lattice bounds\u00b110px; fine ruling distinct",
+    "Faint pencil notations unassigned",
+    "Operational write/read/turn order not inferred",
+    "Third catalogue image and metadata description uninspected"
+  ],
+  "passed_scope": "Cold source capture, occurrence counting, geometry locking and provenance/hash integrity; no decryption or solution status pass"
+}

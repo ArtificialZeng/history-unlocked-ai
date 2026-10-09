@@ -1,0 +1,32 @@
+{
+  "receipt_version": "1",
+  "source_role": "primary published PORTAX description and calibration examples",
+  "publisher": "American Cryptogram Association",
+  "title_as_printed": "PORTAX",
+  "url": "https://www.cryptogram.org/downloads/aca.info/ciphers/Portax.pdf",
+  "access_date": "2026-10-05",
+  "accessed_utc": "2026-10-05 15:11:00 UTC",
+  "download_method": "curl -fL; public HTTPS PDF",
+  "local_pdf": "reports/method_primary_work_v1/source/aca_Portax.pdf",
+  "pdf_bytes": 32619,
+  "pdf_sha256": "a1f3c69955306e0986737b88a6fbf977d84c99add0883dea69e9e3674e3e38c2",
+  "page_count": 1,
+  "publication_year": null,
+  "publication_year_note": "No date is printed in the one-page source; none inferred",
+  "visual_inspection": {
+    "complete_page_inspected": true,
+    "render_tool": "pdftoppm, 160 dpi",
+    "render_path": "reports/method_primary_work_v1/source/aca_Portax_page1.png",
+    "observations": [
+      "The fixed A1 row A-M aligns over two sliding alphabets, N-Z and paired A2 letters",
+      "First slide diagram aligns fixed A above U/V in A2",
+      "Second slide diagram aligns fixed A above E/F in A2",
+      "Published plaintext/ciphertext are displayed in six horizontal rows of width four",
+      "Published final partial layout at period seven has row lengths 7, 7, 5, 5"
+    ],
+    "render_warning": "Poppler printed: Invalid least number of objects reading page offset hints table. The page rendered completely and was inspected visually."
+  },
+  "scope_restriction": "No target image, target transcription/ledger, target letters, candidate, or answer-bearing files opened",
+  "secondary_sources_used": [],
+  "rights_note": "Public access retained for local research; no redistribution licence inferred"
+}

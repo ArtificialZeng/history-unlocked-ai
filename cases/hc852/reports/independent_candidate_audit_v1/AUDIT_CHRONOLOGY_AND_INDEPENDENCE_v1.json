@@ -1,0 +1,20 @@
+{
+  "documented_at_utc": "2026-10-05T21:56:21.064973+00:00",
+  "own_generic_method_seal_utc": "2026-10-05T21:24:39.111346+00:00",
+  "cold_source_observer_seal_utc": "2026-10-05T21:40:12.329727+00:00",
+  "root_target_registration_utc": "2026-10-05T21:43:25.724651+00:00",
+  "root_first_full_tool_projection_utc": "2026-10-05T21:45:52.691157+00:00",
+  "audit_scope_registration_utc": "2026-10-05T21:47:35.558394+00:00",
+  "audit_target_literal_exposure": "Exact preferred literal supplied in parent task before audit registration; not a blind target audit",
+  "first_target_file_read_interval_utc": [
+    "2026-10-05T21:47:35.558394+00:00",
+    "2026-10-05T21:48:46.398707+00:00"
+  ],
+  "first_target_file_read_precision": "Actual post-registration schema-read tool event occurred in this interval; no individually instrumented exact timestamp invented",
+  "own_first_full_projection_started_utc": "2026-10-05T21:54:25.518439+00:00",
+  "own_projection_and_controls_completed_utc": "2026-10-05T21:54:25.717964+00:00",
+  "source_observer_content_unexposed": "Frozen exposure ledger says no candidate/route read; independent auditor later exposed",
+  "root_partial_exposure": "D before cold freeze; DI after freeze before formal registration, as explicitly retained by root",
+  "preprojection_root_failure": "Initial adapter assertion at old PROJECT_STATE context hash, before full targetstream parse/projection; exactCP000snapshot and failure receipt retained; root code not read by auditor",
+  "source_or_key_or_method_revision": false
+}

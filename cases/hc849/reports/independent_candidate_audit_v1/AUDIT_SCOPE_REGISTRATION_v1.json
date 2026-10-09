@@ -1,0 +1,51 @@
+{
+  "registration_utc": "2026-10-05T20:08:25.849875+00:00",
+  "task": "HC849 independent given-physical-grille current-body candidate audit",
+  "codec_path": "/Users/zeng/Documents/解谜/hcportal849_1952_grille_decipherment/scripts/independent_grille_v1.py",
+  "codec_sha256": "5c2d8c3bbf1f54ecf8c43583e0f7e8f875a167050ab12d7e4a393f230f095e16",
+  "code_import_scope": "Only own presealed independent_grille_v1.py; no root code or adapters read/imported.",
+  "prior_method_seal_utc": "2026-10-05T20:01:47.802998+00:00",
+  "parent_source_freeze_claim": "365 source references root-verified before registered target run; independent source manifest replay and pixel checks now required.",
+  "permitted_target_reads": [
+    "sourcetyped_current_v1.json",
+    "physical_key_v1.json",
+    "source freeze and referenced native photographs/atlases",
+    "config/TARGET_METHOD_REGISTRATION_v1.json",
+    "reports/registered_target_v1 projections after this registration"
+  ],
+  "pre_audit_target_exposure": {
+    "channel": "parent task message",
+    "literal_preferred_P64": "FRANCOUZSKAVLADASEROZHODLAODESLATDOKOREJEDENINTERVENCNIPRAPORXXX",
+    "time": "Parent message before this registration; exact message-receipt UTC unavailable. No claim this observer was blind to the preferred reading at audit registration.",
+    "claimed_preferred_setting": {
+      "start": "source I top",
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major"
+    }
+  },
+  "projection_controls": {
+    "own_settings": 32,
+    "own_forward_certificate_positions": 2048,
+    "full_positions_per_projection": 64,
+    "fixed_literal_other_conventions": 31,
+    "valid_single_orbit_key_neighbors": 48,
+    "neighbor_definition": "Each of 16 frozen four-cell cut orbits gets the other three possible hole cells, one orbit changed at a time.",
+    "retain": "Every outcome, duplicate, mismatch position and exact forward result; no global uniqueness claim."
+  },
+  "pixel_scope": "Whole native typed-current page and physical grille, all current 64 cells and 64 lattice cells; native/crop provenance, old layers and secondary/nonbody holds preserved. No source revision based on words.",
+  "limits": [
+    "Known supplied physical grille, not unknown-key recovery.",
+    "Invertible roundtrip certifies literal permutation only, not historical truth.",
+    "Current body only; old layers 30/60, secondary A/H/U/W/X/Y, clipped nonbody/caption and historical orientation/face/order roles held.",
+    "Catalogue NotSolved cached/unrefreshed; no global unsolved, priority, breakthrough or original war-dispatch claim.",
+    "Editorial spaces-only gloss optional; XXX, accent/punctuation/X-role uncertainty retained."
+  ],
+  "network_budget": 0,
+  "forbidden": [
+    "root implementation reads/imports",
+    "source or method-seal mutation",
+    "Git/state/PDF/contact/publication",
+    "language-score or key search beyond declared finite controls"
+  ]
+}

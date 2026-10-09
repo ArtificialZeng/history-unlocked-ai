@@ -1,0 +1,386 @@
+{
+  "checked_utc": "2026-10-05T20:16:55.054909+00:00",
+  "own_native_observed_preferred_rows": [
+    "RTFSVDER",
+    "AEONNRCC",
+    "OONKZUIH",
+    "ORZPSROE",
+    "KADJLEAV",
+    "PADOLOER",
+    "DNXEIASN",
+    "TXDLXEAA"
+  ],
+  "preferred_notebook_column_serialization": "RAOOKPDTTEORAANXFONZDDXDSNKPJOELVNZSLLIXDRUREOAEECIOAESARCHEVRNA",
+  "column_preferred_matches_typed_current_64": true,
+  "grouped_current_source_64_matches_typed_current": true,
+  "source_body_position_count": 64,
+  "important_limit": "Agreement of preferred ASCII secondary readings supplies corroboration, not an adjudication of paleographic alternatives. Current typed letters remain primary.",
+  "all_secondary_shape_or_modifier_holds": [
+    {
+      "placement_id": "A21",
+      "row": 2,
+      "column": 1,
+      "observer_preferred_ascii": "A",
+      "raw_graphic": "closed-top block form with mid crossbar",
+      "alternatives": [
+        "A",
+        "H"
+      ],
+      "certainty": "preferred A, alternative H held",
+      "modifiers": [],
+      "notes": "Closed top supports the observer preferred A; unusual H form not silently excluded. No word or source-fit adjudication.",
+      "crop": "sources/inspection/cold_source_v1/array_r2_c1.png",
+      "crop_sha256": "4a39983ee433ff42337ec1eb6947d52cdbfd0451de99f7dadd3531a7c5195869",
+      "native_xyxy": [
+        200,
+        1280,
+        340,
+        1412
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A35",
+      "row": 3,
+      "column": 5,
+      "observer_preferred_ascii": "Z",
+      "raw_graphic": "looped/cursive z-like form with crossing stroke",
+      "alternatives": [
+        "Z"
+      ],
+      "certainty": "high",
+      "modifiers": [
+        "crossing/upper loop retained"
+      ],
+      "notes": "Observer base reading Z; upper loop is not silently treated as an added language-specific diacritic.",
+      "crop": "sources/inspection/cold_source_v1/array_r3_c5.png",
+      "crop_sha256": "8bdb4de09ccb93c8005d30963670439793c001ea601960e6319908e262fb9be5",
+      "native_xyxy": [
+        795,
+        1425,
+        935,
+        1568
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A36",
+      "row": 3,
+      "column": 6,
+      "observer_preferred_ascii": "U",
+      "raw_graphic": "cursive u-like form with detached short overbar",
+      "alternatives": [
+        "U",
+        "W"
+      ],
+      "certainty": "preferred U, W held",
+      "modifiers": [
+        "detached horizontal overbar"
+      ],
+      "notes": "Macron-like mark retained as visible modifier, semantic role unassigned; ASCII base preferred U is explicit.",
+      "crop": "sources/inspection/cold_source_v1/array_r3_c6.png",
+      "crop_sha256": "61641e7f799604b7932ab41cbddedd25b4129d26c11fe7df707ff605b5836152",
+      "native_xyxy": [
+        945,
+        1425,
+        1090,
+        1568
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A43",
+      "row": 4,
+      "column": 3,
+      "observer_preferred_ascii": "Z",
+      "raw_graphic": "looped/cursive z-like form with crossing stroke",
+      "alternatives": [
+        "Z"
+      ],
+      "certainty": "high",
+      "modifiers": [
+        "crossing/upper loop retained"
+      ],
+      "notes": "Observer base reading Z; upper loop is not silently treated as an added language-specific diacritic.",
+      "crop": "sources/inspection/cold_source_v1/array_r4_c3.png",
+      "crop_sha256": "1d02575d7f3abe4cd05f5fd25e4fe66202e2ba272b02a7fe35147267f4919383",
+      "native_xyxy": [
+        505,
+        1580,
+        640,
+        1715
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A52",
+      "row": 5,
+      "column": 2,
+      "observer_preferred_ascii": "A",
+      "raw_graphic": "closed-top block form with mid crossbar",
+      "alternatives": [
+        "A",
+        "H"
+      ],
+      "certainty": "preferred A, alternative H held",
+      "modifiers": [],
+      "notes": "Closed top supports the observer preferred A; unusual H form not silently excluded. No word or source-fit adjudication.",
+      "crop": "sources/inspection/cold_source_v1/array_r5_c2.png",
+      "crop_sha256": "a0153a52af0f5708e30d64b283058ee201aad6a0cb0bf295f7567c6cc1a341b9",
+      "native_xyxy": [
+        360,
+        1730,
+        495,
+        1868
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A57",
+      "row": 5,
+      "column": 7,
+      "observer_preferred_ascii": "A",
+      "raw_graphic": "closed-top block form with mid crossbar",
+      "alternatives": [
+        "A",
+        "H"
+      ],
+      "certainty": "preferred A, alternative H held",
+      "modifiers": [],
+      "notes": "Closed top supports the observer preferred A; unusual H form not silently excluded. No word or source-fit adjudication.",
+      "crop": "sources/inspection/cold_source_v1/array_r5_c7.png",
+      "crop_sha256": "dd625f9f44c01f41f44cd512ba56b8ea5f1c4df1f6192b901e5145fd247fe3b5",
+      "native_xyxy": [
+        1100,
+        1730,
+        1238,
+        1868
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A62",
+      "row": 6,
+      "column": 2,
+      "observer_preferred_ascii": "A",
+      "raw_graphic": "closed-top block form with mid crossbar",
+      "alternatives": [
+        "A",
+        "H"
+      ],
+      "certainty": "preferred A, alternative H held",
+      "modifiers": [],
+      "notes": "Closed top supports the observer preferred A; unusual H form not silently excluded. No word or source-fit adjudication.",
+      "crop": "sources/inspection/cold_source_v1/array_r6_c2.png",
+      "crop_sha256": "f3ee4e1bd657bbff59ff4c3581b7fd6df09a6a6434db6d72212b0642837b83b0",
+      "native_xyxy": [
+        360,
+        1875,
+        495,
+        2013
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A76",
+      "row": 7,
+      "column": 6,
+      "observer_preferred_ascii": "A",
+      "raw_graphic": "closed-top block form with mid crossbar",
+      "alternatives": [
+        "A",
+        "H"
+      ],
+      "certainty": "preferred A, alternative H held",
+      "modifiers": [],
+      "notes": "Closed top supports the observer preferred A; unusual H form not silently excluded. No word or source-fit adjudication.",
+      "crop": "sources/inspection/cold_source_v1/array_r7_c6.png",
+      "crop_sha256": "11de60aa8ac4c831644b1f21447edf7364a2257ee376b8fc163976e62524bac2",
+      "native_xyxy": [
+        945,
+        2020,
+        1090,
+        2165
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A85",
+      "row": 8,
+      "column": 5,
+      "observer_preferred_ascii": "X",
+      "raw_graphic": "crossed upper strokes with long lower stroke",
+      "alternatives": [
+        "X",
+        "Y"
+      ],
+      "certainty": "preferred X, Y held",
+      "modifiers": [],
+      "notes": "Extended lower stroke makes Y a retained paleographic alternative; no stream fitting.",
+      "crop": "sources/inspection/cold_source_v1/array_r8_c5.png",
+      "crop_sha256": "34d008671671149c454d4ad839bd3426552804e8f68d7dd5ee5df69a01f35f3a",
+      "native_xyxy": [
+        795,
+        2170,
+        935,
+        2315
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A87",
+      "row": 8,
+      "column": 7,
+      "observer_preferred_ascii": "A",
+      "raw_graphic": "closed-top block form with mid crossbar",
+      "alternatives": [
+        "A",
+        "H"
+      ],
+      "certainty": "preferred A, alternative H held",
+      "modifiers": [],
+      "notes": "Closed top supports the observer preferred A; unusual H form not silently excluded. No word or source-fit adjudication.",
+      "crop": "sources/inspection/cold_source_v1/array_r8_c7.png",
+      "crop_sha256": "a637424dafce6d79126e55eb8215f0a0f3720819855615688e48f85d7440c908",
+      "native_xyxy": [
+        1100,
+        2170,
+        1238,
+        2315
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    },
+    {
+      "placement_id": "A88",
+      "row": 8,
+      "column": 8,
+      "observer_preferred_ascii": "A",
+      "raw_graphic": "closed-top block form with mid crossbar",
+      "alternatives": [
+        "A",
+        "H"
+      ],
+      "certainty": "preferred A, alternative H held",
+      "modifiers": [],
+      "notes": "Closed top supports the observer preferred A; unusual H form not silently excluded. No word or source-fit adjudication.",
+      "crop": "sources/inspection/cold_source_v1/array_r8_c8.png",
+      "crop_sha256": "de9e58512b6d7a19af7c4b0464565c62b0bbb4d5353e7e421d9ab0cbdab6e690",
+      "native_xyxy": [
+        1250,
+        2170,
+        1395,
+        2315
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "handwritten grid placement"
+    }
+  ],
+  "grouped_holds": [
+    {
+      "position": 7,
+      "row": 1,
+      "row_position": 7,
+      "group": 2,
+      "position_in_group": 2,
+      "current": "D",
+      "alternatives": [
+        "D"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "red retrace over dark handwritten glyph",
+      "unknown_earlier_layer": true,
+      "earlier_value": null,
+      "modifiers": [
+        "red retrace/overmark"
+      ],
+      "crop": "sources/inspection/cold_source_v1/grouped_p07.png",
+      "crop_sha256": "47177ad0496f28bbadb70fd9f3d74180ca3c49a0ad7c887312da75469397126f",
+      "native_xyxy": [
+        2116,
+        1455,
+        2185,
+        1585
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    },
+    {
+      "position": 49,
+      "row": 4,
+      "row_position": 4,
+      "group": 1,
+      "position_in_group": 4,
+      "current": "E",
+      "alternatives": [
+        "E"
+      ],
+      "certainty": "high directly legible handwritten glyph",
+      "current_medium": "dark handwriting",
+      "unknown_earlier_layer": false,
+      "earlier_value": null,
+      "modifiers": [
+        "short detached stroke below E"
+      ],
+      "crop": "sources/inspection/cold_source_v1/grouped_p49.png",
+      "crop_sha256": "fff3ea7876d377129f1b6122268042f8988795e33fd518c29326298b36b00610",
+      "native_xyxy": [
+        1826,
+        1915,
+        1895,
+        2015
+      ],
+      "parent": "sources/raw/HC849_original_2.jpg",
+      "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+      "rotation_degrees": 0,
+      "resampling": "none",
+      "role": "independent grouped handwritten recopy"
+    }
+  ],
+  "writing_annotation": "psáno svisle. visually corroborated; written vertically, not an explicit start/face/scan/rotation/column-end rule."
+}

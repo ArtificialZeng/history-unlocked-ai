@@ -1,0 +1,11 @@
+{
+  "utc": "2026-10-06T05:02:06.412714+00:00",
+  "new_audit_manifest_entries_verified": 93,
+  "original_source_edits": 0,
+  "fixed_key_entries_refitted": 0,
+  "model_revisions": 1,
+  "historical_target_projections": 2,
+  "source_scope": "Conditionalpreferred77units; cold4/s,H/Randothermarkedrolesheld",
+  "release_scope": "Completeproposedreadingunderdeclaredmarkmodel, notofficial/uniquehistoricalSolved",
+  "open_1760_manuscript_sha256": "a8b61ae747657236b215b5468329dcc06f6276c63f387798194e047c2e0ef2b6"
+}

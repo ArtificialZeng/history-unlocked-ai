@@ -1,0 +1,18 @@
+{
+  "frozen_utc": "2026-10-06T04:28:27.235918+00:00",
+  "phase": "GENERIC_CODE_AND_SYNTHETIC_ONLY",
+  "historical_source_value_or_P_access": false,
+  "actual_release_required": true,
+  "payload": {
+    "reports/independent_arithmetic_v1/PRE_RELEASE_REGISTRATION_v1.json": "0465a47e7d711092e5411494166d620ba1f6d013d08b19d2f276a434969756d9",
+    "reports/independent_arithmetic_v1/check_certificate_independent_v1.py": "a31ace0d72e7b31f568f05a730b43b955c94d7bf4c87516d37ea5ff57641c1cf",
+    "reports/independent_arithmetic_v1/synthetic_checks_v1.py": "fc06182ca6129be302956bcaba83dbdb4aabd7402109941573968b68baeff5a6",
+    "reports/independent_arithmetic_v1/PRE_RELEASE_SYNTHETIC_CHECKS_v1.json": "d0b1ffce592d8cebaaa1864995e5ffe07905f8120a16318f2ab214805c242629"
+  },
+  "generic_fixture_units": 6,
+  "generic_fixture_primitives": 7,
+  "negative_cases": 32,
+  "source_counts_not_assumed": true,
+  "known_current_source_body_or_key_not_opened": true,
+  "parent_instructions": "No root decoder import, no old source/C/P/candidate, no hints to cold observers"
+}

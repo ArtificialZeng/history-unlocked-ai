@@ -1,0 +1,345 @@
+{
+  "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4",
+  "crops": [
+    {
+      "file": "crops/row_1.png",
+      "source": "sources/raw/HC696_original.jpg",
+      "bbox_original_px": [
+        140,
+        670,
+        2970,
+        870
+      ],
+      "transform": "native crop",
+      "dimensions_px": [
+        2830,
+        200
+      ],
+      "pixel_equality_to_transform": true,
+      "sha256": "20c6d1822b07b68384a924f1435e218edda274d4379c98aaccf487a317875bef"
+    },
+    {
+      "file": "crops/row_2.png",
+      "source": "sources/raw/HC696_original.jpg",
+      "bbox_original_px": [
+        140,
+        900,
+        2990,
+        1090
+      ],
+      "transform": "native crop",
+      "dimensions_px": [
+        2850,
+        190
+      ],
+      "pixel_equality_to_transform": true,
+      "sha256": "755ecf2f54353095ad5b095bcfd80f89210b55f38eeae6d02784efa40992591d"
+    },
+    {
+      "file": "crops/row_3.png",
+      "source": "sources/raw/HC696_original.jpg",
+      "bbox_original_px": [
+        160,
+        1120,
+        2990,
+        1320
+      ],
+      "transform": "native crop",
+      "dimensions_px": [
+        2830,
+        200
+      ],
+      "pixel_equality_to_transform": true,
+      "sha256": "a021d3973c9cbc92d66825914e0cb868aa3a8998080b13fcb639bb2f29d68b21"
+    },
+    {
+      "file": "crops/row_4.png",
+      "source": "sources/raw/HC696_original.jpg",
+      "bbox_original_px": [
+        170,
+        1350,
+        2970,
+        1540
+      ],
+      "transform": "native crop",
+      "dimensions_px": [
+        2800,
+        190
+      ],
+      "pixel_equality_to_transform": true,
+      "sha256": "21d101c8c2bcbfd39eaf09c6974de96224d3807537ff62d0a4a108d15ed3398f"
+    },
+    {
+      "file": "crops/row_5.png",
+      "source": "sources/raw/HC696_original.jpg",
+      "bbox_original_px": [
+        170,
+        1560,
+        2970,
+        1760
+      ],
+      "transform": "native crop",
+      "dimensions_px": [
+        2800,
+        200
+      ],
+      "pixel_equality_to_transform": true,
+      "sha256": "2d17b82e1ccdff98f45a2c6543a5f72b1623add125e41a40c541b36dccacdb62"
+    },
+    {
+      "file": "crops/row_6.png",
+      "source": "sources/raw/HC696_original.jpg",
+      "bbox_original_px": [
+        180,
+        1780,
+        2970,
+        1980
+      ],
+      "transform": "native crop",
+      "dimensions_px": [
+        2790,
+        200
+      ],
+      "pixel_equality_to_transform": true,
+      "sha256": "985cc17f0e34b51a9d6d9bfc5d7b19332927989ffc5f0e77ef1a2a8cc703f5b2"
+    },
+    {
+      "file": "crops/r1g5_2x.png",
+      "source": "sources/raw/HC696_original.jpg",
+      "bbox_original_px": [
+        1970,
+        700,
+        2450,
+        830
+      ],
+      "transform": "native crop then 2x nearest-neighbor pixel replication",
+      "dimensions_px": [
+        960,
+        260
+      ],
+      "pixel_equality_to_transform": true,
+      "sha256": "b929e8fe3f210643d00242dc237c47777d6b77814ce9f45be1de38ee613c1c9d"
+    },
+    {
+      "file": "crops/r3g2_2x.png",
+      "source": "sources/raw/HC696_original.jpg",
+      "bbox_original_px": [
+        630,
+        1160,
+        1080,
+        1300
+      ],
+      "transform": "native crop then 2x nearest-neighbor pixel replication",
+      "dimensions_px": [
+        900,
+        280
+      ],
+      "pixel_equality_to_transform": true,
+      "sha256": "97c4254eca356361760e4a6da729c8ebfe1f422e38610ba120707ec389e0b234"
+    },
+    {
+      "file": "crops/r3g4_2x.png",
+      "source": "sources/raw/HC696_original.jpg",
+      "bbox_original_px": [
+        1550,
+        1140,
+        1970,
+        1280
+      ],
+      "transform": "native crop then 2x nearest-neighbor pixel replication",
+      "dimensions_px": [
+        840,
+        280
+      ],
+      "pixel_equality_to_transform": true,
+      "sha256": "ca711e09492acea0f10976af0a12078c8f536f7a6930a572c4b076ee65811737"
+    },
+    {
+      "file": "crops/r5g3_2x.png",
+      "source": "sources/raw/HC696_original.jpg",
+      "bbox_original_px": [
+        1090,
+        1600,
+        1530,
+        1750
+      ],
+      "transform": "native crop then 2x nearest-neighbor pixel replication",
+      "dimensions_px": [
+        880,
+        300
+      ],
+      "pixel_equality_to_transform": true,
+      "sha256": "ecfdc428fbef85658416fe2f41f1735f0c7e2b5481b7f10207b3fc7ef485567e"
+    },
+    {
+      "file": "crops/r6g5_2x.png",
+      "source": "sources/raw/HC696_original.jpg",
+      "bbox_original_px": [
+        2020,
+        1780,
+        2440,
+        1920
+      ],
+      "transform": "native crop then 2x nearest-neighbor pixel replication",
+      "dimensions_px": [
+        840,
+        280
+      ],
+      "pixel_equality_to_transform": true,
+      "sha256": "fe65348c806d716d37a05337be3a2fb6781f84924bc068000e13a25c4ed3a906"
+    },
+    {
+      "file": "crops/header_2x.png",
+      "source": "sources/raw/HC696_original.jpg",
+      "bbox_original_px": [
+        90,
+        400,
+        1270,
+        630
+      ],
+      "transform": "native crop then 2x nearest-neighbor pixel replication",
+      "dimensions_px": [
+        2360,
+        460
+      ],
+      "pixel_equality_to_transform": true,
+      "sha256": "8a8c07caf8f24ccb4d75380849df96bd5349e34c73aaf67bb3580e19e709616e"
+    },
+    {
+      "file": "crops/row2_lastblocks_2x.png",
+      "source": "sources/raw/HC696_original.jpg",
+      "bbox_original_px": [
+        2000,
+        900,
+        3020,
+        1060
+      ],
+      "transform": "native crop then 2x nearest-neighbor pixel replication",
+      "dimensions_px": [
+        2040,
+        320
+      ],
+      "pixel_equality_to_transform": true,
+      "sha256": "d31f56c1c7b32d3a9f5bc8af19550c4320fdd705e77727d5256375227f39883c"
+    },
+    {
+      "file": "crops/row5_lastblock_2x.png",
+      "source": "sources/raw/HC696_original.jpg",
+      "bbox_original_px": [
+        2470,
+        1580,
+        2960,
+        1740
+      ],
+      "transform": "native crop then 2x nearest-neighbor pixel replication",
+      "dimensions_px": [
+        980,
+        320
+      ],
+      "pixel_equality_to_transform": true,
+      "sha256": "d000f5e0f40381fd5d47a3be339273d8742f02cb0077227f636874d17b4ee55c"
+    },
+    {
+      "file": "crops/r1underline1_2x.png",
+      "source": "sources/raw/HC696_original.jpg",
+      "bbox_original_px": [
+        440,
+        740,
+        735,
+        885
+      ],
+      "transform": "native crop then 2x nearest-neighbor pixel replication",
+      "dimensions_px": [
+        590,
+        290
+      ],
+      "pixel_equality_to_transform": true,
+      "sha256": "1937de1b74ff40b45242a12512b544d041631e589d913762608f06b2c4ae94b8"
+    },
+    {
+      "file": "crops/r1underline2_2x.png",
+      "source": "sources/raw/HC696_original.jpg",
+      "bbox_original_px": [
+        1060,
+        740,
+        1300,
+        850
+      ],
+      "transform": "native crop then 2x nearest-neighbor pixel replication",
+      "dimensions_px": [
+        480,
+        220
+      ],
+      "pixel_equality_to_transform": true,
+      "sha256": "2c7dcf07475ede21cc368565cbb75cc82d90d6aa17fc20640126ef602ebce3c2"
+    },
+    {
+      "file": "crops/r4underline1_2x.png",
+      "source": "sources/raw/HC696_original.jpg",
+      "bbox_original_px": [
+        1110,
+        1400,
+        1280,
+        1510
+      ],
+      "transform": "native crop then 2x nearest-neighbor pixel replication",
+      "dimensions_px": [
+        340,
+        220
+      ],
+      "pixel_equality_to_transform": true,
+      "sha256": "072bb52dc555f5ba50a820ac5088de79131899504bd29ab2c4a90d79f27ba7f4"
+    },
+    {
+      "file": "crops/r4underline2_2x.png",
+      "source": "sources/raw/HC696_original.jpg",
+      "bbox_original_px": [
+        1620,
+        1390,
+        1810,
+        1490
+      ],
+      "transform": "native crop then 2x nearest-neighbor pixel replication",
+      "dimensions_px": [
+        380,
+        200
+      ],
+      "pixel_equality_to_transform": true,
+      "sha256": "205b1c96f4549a8eeb6152483909a22894c7d9782b2424102e54f8e1083ab5f0"
+    },
+    {
+      "file": "crops/postfreeze_r3g6_spacing_2x.png",
+      "source": "sources/raw/HC696_original.jpg",
+      "bbox_original_px": [
+        2500,
+        1120,
+        2980,
+        1280
+      ],
+      "transform": "native crop then 2x nearest-neighbor pixel replication",
+      "dimensions_px": [
+        960,
+        320
+      ],
+      "pixel_equality_to_transform": true,
+      "sha256": "b829043a20892bac02b2fd93156ccb035d65fafb1557020600c354e0cf62ed90"
+    },
+    {
+      "file": "crops/postfreeze_r3g4p2_crossing_4x.png",
+      "source": "sources/raw/HC696_original.jpg",
+      "bbox_original_px": [
+        1600,
+        1160,
+        1740,
+        1250
+      ],
+      "transform": "native crop then 4x nearest-neighbor pixel replication",
+      "dimensions_px": [
+        560,
+        360
+      ],
+      "pixel_equality_to_transform": true,
+      "sha256": "85dd0a0694ec5eeb95bcb6f87ae53c086157334c1f64da7b30d31f8c2330539d"
+    }
+  ]
+}

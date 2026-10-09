@@ -1,0 +1,23 @@
+{
+  "registered_utc": "2026-10-06T04:51:04.454143+00:00",
+  "deadline_utc": "2026-10-06T04:58:04.454143+00:00",
+  "scope": "SeparateHC1615 informed whole-source/content/methodaudit, after two prospectiveprojectionversions",
+  "prior_key_semantics_known": true,
+  "prior_key_first_access": "2026-10-06T04:10:49.685454+00:00 in previouslyauthorizedHC1617informedaudit",
+  "first_HC1615_current_candidate_read_utc": "2026-10-06T04:51:04.454143+00:00",
+  "first_HC1615_coded_original_view_utc": null,
+  "first_preread_utc": "2026-10-06T04:50:22+00:00",
+  "not_blind": "Dictionaryknown, rawfirstrowrecognitionpossible, revisionafterbaselinepartial, printedheaderordinarycontext exposure disclosed; no1519semanticimports",
+  "allowed": [
+    "Targetcandidate/literal/baseline/config/source/nativeimages",
+    "Priorfixedkeyartifactalreadyknown"
+  ],
+  "prohibited": [
+    "Sourcev1/state/log/Gitwrites",
+    "Fluency/cipherrepair",
+    "Positionexceptions/newfittedvalues",
+    "Officialexpertpriorityclaim",
+    "Externalpublication/editor/contact"
+  ],
+  "cold_sources_preserved": true
+}

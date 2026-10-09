@@ -1,0 +1,33 @@
+{
+  "registration_utc": "2026-10-05T20:36:42.552387+00:00",
+  "scope": "HC849 portable read-only current-body mechanical/integrity checker; no PDF or package-content audit until exact later artifacts exist",
+  "script": "scripts/check_hc849_release_v1.py",
+  "default": "Pure stdlib, read-only; import only own prior sealed codec after exact SHA256 verification; never rerun writing wrappers, fetch images, write data or depend on raw image/crop availability",
+  "packaged_source": "Frozen manual source ledgers retain native coordinates/URL and SHA provenance. Omitted source pixels are expressly not independently re-inspected by portable checker.",
+  "permitted_reading": "Prior frozen source/config/target outputs, own audit/results/certificates/finite controls, root generic fixture output JSON if needed; no root implementation",
+  "integrity_tests": [
+    "changed preferred P",
+    "changed current cipher C",
+    "changed current native coordinate",
+    "changed physical cut membership",
+    "invented earlier-layer letter"
+  ],
+  "counterfactual_policy": "Deep copied objects only; original frozen files never altered",
+  "no_new_release_manifest": "Root will create actual RELEASE_MANIFEST later; do not invent or imply a sealed release package now",
+  "holds": [
+    "DO KORE literal destination uncertainty",
+    "XXX literal role unassigned",
+    "unknown older layers30/60 remain None",
+    "secondary shape/modifier/caption/nonbody/source-order uncertainty",
+    "given-key current-body scope only",
+    "no global 4^16 uniqueness/history/priority claim"
+  ],
+  "prior_codec_sha256": "5c2d8c3bbf1f54ecf8c43583e0f7e8f875a167050ab12d7e4a393f230f095e16",
+  "network_budget": 0,
+  "forbidden": [
+    "prior sealed artifact edits",
+    "Git/state/PDF authoring",
+    "outreach/publication",
+    "raw photo requirements in default checker"
+  ]
+}

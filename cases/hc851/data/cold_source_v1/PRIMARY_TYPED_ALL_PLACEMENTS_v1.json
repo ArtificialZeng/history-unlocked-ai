@@ -1,0 +1,2626 @@
+{
+  "frozen_utc": "2026-10-05T17:48:47.440486+00:00",
+  "raw_placement_count": 145,
+  "active_count_under_explicit_cancellation_role": 144,
+  "records": [
+    {
+      "raw_placement_index_1based": 1,
+      "active_index_1based": 1,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "D",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        257,
+        545,
+        342,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "D",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 2,
+      "active_index_1based": 2,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "N",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        330,
+        545,
+        415,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "N",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 3,
+      "active_index_1based": 3,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "E",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        400,
+        545,
+        485,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "E",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 4,
+      "active_index_1based": 4,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "I",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        474,
+        545,
+        559,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "I",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 5,
+      "active_index_1based": 5,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "R",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        549,
+        545,
+        634,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "R",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 6,
+      "active_index_1based": 6,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "E",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        699,
+        545,
+        784,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "E",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 7,
+      "active_index_1based": 7,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "N",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        775,
+        545,
+        860,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "N",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 8,
+      "active_index_1based": 8,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "E",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        846,
+        545,
+        931,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "E",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 9,
+      "active_index_1based": 9,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "S",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        921,
+        545,
+        1006,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "S",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 10,
+      "active_index_1based": 10,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "A",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        995,
+        545,
+        1080,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "A",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 11,
+      "active_index_1based": 11,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "N",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1139,
+        545,
+        1224,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "N",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 12,
+      "active_index_1based": 12,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "S",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1210,
+        545,
+        1295,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "S",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 13,
+      "active_index_1based": 13,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "I",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1285,
+        545,
+        1370,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "I",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 14,
+      "active_index_1based": 14,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "C",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1357,
+        545,
+        1442,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "C",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 15,
+      "active_index_1based": 15,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "I",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1435,
+        545,
+        1520,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "I",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 16,
+      "active_index_1based": 16,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "C",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1576,
+        545,
+        1661,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "C",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 17,
+      "active_index_1based": 17,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "H",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1656,
+        545,
+        1741,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "H",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 18,
+      "active_index_1based": 18,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "H",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1730,
+        545,
+        1815,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "H",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 19,
+      "active_index_1based": 19,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "G",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1805,
+        545,
+        1890,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "G",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 20,
+      "active_index_1based": 20,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "C",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1877,
+        545,
+        1962,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "C",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 21,
+      "active_index_1based": 21,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 5,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "R",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2015,
+        545,
+        2100,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "R",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 22,
+      "active_index_1based": 22,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 5,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "W",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2089,
+        545,
+        2174,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "W",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 23,
+      "active_index_1based": 23,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 5,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "H",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2164,
+        545,
+        2249,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "H",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 24,
+      "active_index_1based": 24,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 5,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "I",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2237,
+        545,
+        2322,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "I",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 25,
+      "active_index_1based": 25,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 5,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "T",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2312,
+        545,
+        2397,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "T",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 26,
+      "active_index_1based": 26,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 6,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "G",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2455,
+        545,
+        2540,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "G",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 27,
+      "active_index_1based": 27,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 6,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "E",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2532,
+        545,
+        2617,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "E",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 28,
+      "active_index_1based": 28,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 6,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "F",
+      "source_role": "visible_black_F_overlay_over_violet_unknown",
+      "native_box_xyxy": [
+        2603,
+        545,
+        2688,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": null,
+      "uncertainty": "Previous violet character under the black F is not independently identifiable; final visible F is legible."
+    },
+    {
+      "raw_placement_index_1based": 29,
+      "active_index_1based": 29,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 6,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "E",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2680,
+        545,
+        2765,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "E",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 30,
+      "active_index_1based": 30,
+      "typed_row_1based": 1,
+      "source_group_in_row_1based": 6,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "G",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2752,
+        545,
+        2837,
+        690
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "G",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 31,
+      "active_index_1based": 31,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "E",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        260,
+        735,
+        345,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "E",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 32,
+      "active_index_1based": 32,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "E",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        333,
+        735,
+        418,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "E",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 33,
+      "active_index_1based": 33,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "T",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        403,
+        735,
+        488,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "T",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 34,
+      "active_index_1based": 34,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "R",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        477,
+        735,
+        562,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "R",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 35,
+      "active_index_1based": 35,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "F",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        552,
+        735,
+        637,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "F",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 36,
+      "active_index_1based": 36,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "E",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        702,
+        735,
+        787,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "E",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 37,
+      "active_index_1based": 37,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "N",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        778,
+        735,
+        863,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "N",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 38,
+      "active_index_1based": 38,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "N",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        849,
+        735,
+        934,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "N",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 39,
+      "active_index_1based": 39,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "I",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        924,
+        735,
+        1009,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "I",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 40,
+      "active_index_1based": 40,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "D",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        998,
+        735,
+        1083,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "D",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 41,
+      "active_index_1based": 41,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "G",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1142,
+        735,
+        1227,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "G",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 42,
+      "active_index_1based": 42,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "N",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1213,
+        735,
+        1298,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "N",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 43,
+      "active_index_1based": 43,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "U",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1288,
+        735,
+        1373,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "U",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 44,
+      "active_index_1based": 44,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "I",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1360,
+        735,
+        1445,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "I",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 45,
+      "active_index_1based": 45,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "L",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1438,
+        735,
+        1523,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "L",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 46,
+      "active_index_1based": 46,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "N",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1579,
+        735,
+        1664,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "N",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 47,
+      "active_index_1based": 47,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "D",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1659,
+        735,
+        1744,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "D",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 48,
+      "active_index_1based": 48,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "E",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1733,
+        735,
+        1818,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "E",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 49,
+      "active_index_1based": 49,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "A",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1808,
+        735,
+        1893,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "A",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 50,
+      "active_index_1based": 50,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "L",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1880,
+        735,
+        1965,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "L",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 51,
+      "active_index_1based": 51,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 5,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "E",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2018,
+        735,
+        2103,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "E",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 52,
+      "active_index_1based": 52,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 5,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "G",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2092,
+        735,
+        2177,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "G",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 53,
+      "active_index_1based": 53,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 5,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "O",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2167,
+        735,
+        2252,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "O",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 54,
+      "active_index_1based": 54,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 5,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "E",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2240,
+        735,
+        2325,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "E",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 55,
+      "active_index_1based": 55,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 5,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "S",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2315,
+        735,
+        2400,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "S",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 56,
+      "active_index_1based": 56,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 6,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "H",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2458,
+        735,
+        2543,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "H",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 57,
+      "active_index_1based": 57,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 6,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "O",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2535,
+        735,
+        2620,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "O",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 58,
+      "active_index_1based": 58,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 6,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "N",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2606,
+        735,
+        2691,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "N",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 59,
+      "active_index_1based": 59,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 6,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "A",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2683,
+        735,
+        2768,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "A",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 60,
+      "active_index_1based": 60,
+      "typed_row_1based": 2,
+      "source_group_in_row_1based": 6,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "N",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2755,
+        735,
+        2840,
+        875
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "N",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 61,
+      "active_index_1based": 61,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "F",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        263,
+        920,
+        348,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "F",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 62,
+      "active_index_1based": 62,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "D",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        336,
+        920,
+        421,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "D",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 63,
+      "active_index_1based": 63,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "E",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        406,
+        920,
+        491,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "E",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 64,
+      "active_index_1based": 64,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "S",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        480,
+        920,
+        565,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "S",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 65,
+      "active_index_1based": 65,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "E",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        555,
+        920,
+        640,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "E",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 66,
+      "active_index_1based": 66,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "R",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        705,
+        920,
+        790,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "R",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 67,
+      "active_index_1based": 67,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "B",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        781,
+        920,
+        866,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "B",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 68,
+      "active_index_1based": 68,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "D",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        852,
+        920,
+        937,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "D",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 69,
+      "active_index_1based": 69,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "N",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        927,
+        920,
+        1012,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "N",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 70,
+      "active_index_1based": 70,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "O",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1001,
+        920,
+        1086,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "O",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 71,
+      "active_index_1based": 71,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "T",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1145,
+        920,
+        1230,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "T",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 72,
+      "active_index_1based": 72,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "A",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1216,
+        920,
+        1301,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "A",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 73,
+      "active_index_1based": 73,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "R",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1291,
+        920,
+        1376,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "R",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 74,
+      "active_index_1based": 74,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "U",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1363,
+        920,
+        1448,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "U",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 75,
+      "active_index_1based": 75,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "T",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1441,
+        920,
+        1526,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "T",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 76,
+      "active_index_1based": 76,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "I",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1582,
+        920,
+        1667,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "I",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 77,
+      "active_index_1based": 77,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "X",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1662,
+        920,
+        1747,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "X",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 78,
+      "active_index_1based": 78,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "H",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1736,
+        920,
+        1821,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "H",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 79,
+      "active_index_1based": 79,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "A",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1811,
+        920,
+        1896,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "A",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 80,
+      "active_index_1based": 80,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "T",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1883,
+        920,
+        1968,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "T",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 81,
+      "active_index_1based": 81,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 5,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "R",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2021,
+        920,
+        2106,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "R",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 82,
+      "active_index_1based": 82,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 5,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "U",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2095,
+        920,
+        2180,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "U",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 83,
+      "active_index_1based": 83,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 5,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "P",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2170,
+        920,
+        2255,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "P",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 84,
+      "active_index_1based": 84,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 5,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "I",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2243,
+        920,
+        2328,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "I",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 85,
+      "active_index_1based": 85,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 5,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "D",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2318,
+        920,
+        2403,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "D",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 86,
+      "active_index_1based": 86,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 6,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "S",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2461,
+        920,
+        2546,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "S",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 87,
+      "active_index_1based": 87,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 6,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "F",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2538,
+        920,
+        2623,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "F",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 88,
+      "active_index_1based": 88,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 6,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "E",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2609,
+        920,
+        2694,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "E",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 89,
+      "active_index_1based": 89,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 6,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "C",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2686,
+        920,
+        2771,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "C",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 90,
+      "active_index_1based": 90,
+      "typed_row_1based": 3,
+      "source_group_in_row_1based": 6,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "N",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2758,
+        920,
+        2843,
+        1060
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "N",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 91,
+      "active_index_1based": 91,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "T",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        266,
+        1100,
+        351,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "T",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 92,
+      "active_index_1based": 92,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "E",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        339,
+        1100,
+        424,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "E",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 93,
+      "active_index_1based": 93,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "S",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        409,
+        1100,
+        494,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "S",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 94,
+      "active_index_1based": 94,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "H",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        483,
+        1100,
+        568,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "H",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 95,
+      "active_index_1based": 95,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "R",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        558,
+        1100,
+        643,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "R",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 96,
+      "active_index_1based": 96,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "T",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        708,
+        1100,
+        793,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "T",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 97,
+      "active_index_1based": 97,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "N",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        784,
+        1100,
+        869,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "N",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 98,
+      "active_index_1based": 98,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "G",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        855,
+        1100,
+        940,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "G",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 99,
+      "active_index_1based": 99,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "A",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        930,
+        1100,
+        1015,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "A",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 100,
+      "active_index_1based": 100,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "A",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1004,
+        1100,
+        1089,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "A",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 101,
+      "active_index_1based": 101,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "E",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1148,
+        1100,
+        1233,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "E",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 102,
+      "active_index_1based": 102,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "S",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1219,
+        1100,
+        1304,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "S",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 103,
+      "active_index_1based": 103,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "W",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1294,
+        1100,
+        1379,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "W",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 104,
+      "active_index_1based": 104,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "E",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1366,
+        1100,
+        1451,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "E",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 105,
+      "active_index_1based": 105,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "R",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1444,
+        1100,
+        1529,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "R",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 106,
+      "active_index_1based": 106,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "N",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1585,
+        1100,
+        1670,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "N",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 107,
+      "active_index_1based": 107,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "D",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1665,
+        1100,
+        1750,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "D",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 108,
+      "active_index_1based": 108,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "W",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1739,
+        1100,
+        1824,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "W",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 109,
+      "active_index_1based": 109,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "E",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1814,
+        1100,
+        1899,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "E",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 110,
+      "active_index_1based": 110,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "E",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1886,
+        1100,
+        1971,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "E",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 111,
+      "active_index_1based": 111,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 5,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "T",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2024,
+        1100,
+        2109,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "T",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 112,
+      "active_index_1based": 112,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 5,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "R",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2098,
+        1100,
+        2183,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "R",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 113,
+      "active_index_1based": 113,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 5,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "L",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2173,
+        1100,
+        2258,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "L",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 114,
+      "active_index_1based": 114,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 5,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "H",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2246,
+        1100,
+        2331,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "H",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 115,
+      "active_index_1based": 115,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 5,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "N",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2321,
+        1100,
+        2406,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "N",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 116,
+      "active_index_1based": 116,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 6,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "K",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2464,
+        1100,
+        2549,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "K",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 117,
+      "active_index_1based": 117,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 6,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "L",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2541,
+        1100,
+        2626,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "L",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 118,
+      "active_index_1based": 118,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 6,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "H",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2612,
+        1100,
+        2697,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "H",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 119,
+      "active_index_1based": 119,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 6,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "O",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2689,
+        1100,
+        2774,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "O",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 120,
+      "active_index_1based": 120,
+      "typed_row_1based": 4,
+      "source_group_in_row_1based": 6,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "E",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2761,
+        1100,
+        2846,
+        1260
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "E",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 121,
+      "active_index_1based": 121,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "E",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        269,
+        1270,
+        354,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "E",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 122,
+      "active_index_1based": 122,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "U",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        342,
+        1270,
+        427,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "U",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 123,
+      "active_index_1based": 123,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "B",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        412,
+        1270,
+        497,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "B",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 124,
+      "active_index_1based": 124,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "G",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        486,
+        1270,
+        571,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "G",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 125,
+      "active_index_1based": 125,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 1,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "N",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        561,
+        1270,
+        646,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "N",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 126,
+      "active_index_1based": 126,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "T",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        711,
+        1270,
+        796,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "T",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 127,
+      "active_index_1based": 127,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "E",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        787,
+        1270,
+        872,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "E",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 128,
+      "active_index_1based": 128,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "O",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        858,
+        1270,
+        943,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "O",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 129,
+      "active_index_1based": 129,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "F",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        933,
+        1270,
+        1018,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "F",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 130,
+      "active_index_1based": 130,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 2,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "D",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1007,
+        1270,
+        1092,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "D",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 131,
+      "active_index_1based": 131,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "M",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1151,
+        1270,
+        1236,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "M",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 132,
+      "active_index_1based": 132,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "E",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1222,
+        1270,
+        1307,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "E",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 133,
+      "active_index_1based": 133,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "B",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1297,
+        1270,
+        1382,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "B",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 134,
+      "active_index_1based": 134,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "S",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1369,
+        1270,
+        1454,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "S",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 135,
+      "active_index_1based": 135,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 3,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "T",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1447,
+        1270,
+        1532,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "T",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 136,
+      "active_index_1based": 136,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "M",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1590,
+        1270,
+        1675,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "M",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 137,
+      "active_index_1based": 137,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "E",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1663,
+        1270,
+        1748,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "E",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 138,
+      "active_index_1based": 138,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "O",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1734,
+        1270,
+        1819,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "O",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 139,
+      "active_index_1based": null,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": null,
+      "source_role": "violet_placement_crossed_by_two_dark_vertical_strokes",
+      "native_box_xyxy": [
+        1810,
+        1270,
+        1889,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": null,
+      "uncertainty": "Glyph unknown. Frozen active stream treats placement as cancelled; raw placement always retained. Alternative non-cancelled role would require explicit source-length amendment."
+    },
+    {
+      "raw_placement_index_1based": 140,
+      "active_index_1based": 139,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 5,
+      "ASCII_final_visible": "P",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1878,
+        1270,
+        1963,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "P",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 141,
+      "active_index_1based": 140,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 4,
+      "physical_offset_in_group_1based": 6,
+      "ASCII_final_visible": "B",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        1951,
+        1270,
+        2036,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "B",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 142,
+      "active_index_1based": 141,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 5,
+      "physical_offset_in_group_1based": 1,
+      "ASCII_final_visible": "N",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2094,
+        1270,
+        2179,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "N",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 143,
+      "active_index_1based": 142,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 5,
+      "physical_offset_in_group_1based": 2,
+      "ASCII_final_visible": "A",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2170,
+        1270,
+        2255,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "A",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 144,
+      "active_index_1based": 143,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 5,
+      "physical_offset_in_group_1based": 3,
+      "ASCII_final_visible": "I",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2240,
+        1270,
+        2325,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "I",
+      "uncertainty": null
+    },
+    {
+      "raw_placement_index_1based": 145,
+      "active_index_1based": 144,
+      "typed_row_1based": 5,
+      "source_group_in_row_1based": 5,
+      "physical_offset_in_group_1based": 4,
+      "ASCII_final_visible": "B",
+      "source_role": "violet_typewritten_ASCII",
+      "native_box_xyxy": [
+        2311,
+        1270,
+        2396,
+        1435
+      ],
+      "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+      "underlay_ASCII": "B",
+      "uncertainty": null
+    }
+  ],
+  "group4_last_row_physical_layout": [
+    "M",
+    "E",
+    "O",
+    null,
+    "P",
+    "B"
+  ],
+  "null_policy": "Unknown/cancelled source position is retained; null is not a recovered letter."
+}

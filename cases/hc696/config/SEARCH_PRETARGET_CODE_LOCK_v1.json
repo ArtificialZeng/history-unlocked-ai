@@ -1,0 +1,33 @@
+{
+  "target_read_before_lock": false,
+  "files": [
+    {
+      "path": "scripts/portax_search_v1.cpp",
+      "sha256": "384878057389910ca351f2d2eb552272df1653e1bc6afda92fe1ed3135efe970"
+    },
+    {
+      "path": "scripts/portax_search_v1",
+      "sha256": "ea26281c10fa362c73e79b998889634d07767ad8f156bb82906aa005a92e5131"
+    },
+    {
+      "path": "scripts/build_quadgrams_v1.py",
+      "sha256": "83d01e9565bae88baf2c35050ba34c8d7db04ea6e1caa95f59f51885ee879d2f"
+    },
+    {
+      "path": "config/SEARCH_REGISTRATION_v1.json",
+      "sha256": "ede6eda90de07b43c7ad479f10ec717fe73e3fc670f477c8f7abaab257934d38"
+    },
+    {
+      "path": "config/quadgrams_v1.bin",
+      "sha256": "a24b990c5223ac711dada379f35e17050073ffcd8cec0772c8198a432466dbf8"
+    },
+    {
+      "path": "config/MODEL_RECEIPT_v1.json",
+      "sha256": "4370da52b4a60dcd26e43b5d496538767c69036d4cd4feadeae7a003c63714a9"
+    },
+    {
+      "path": "sources/LANGUAGE_CORPORA_v1.json",
+      "sha256": "4e86d4a820d9768706ae5f54ca63c7ae490ec89469f2e8ee40b45879aafffdcc"
+    }
+  ]
+}

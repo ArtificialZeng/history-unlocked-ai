@@ -1,0 +1,76 @@
+{
+  "seal_utc": "2026-10-05T20:01:47.802998+00:00",
+  "status": "SEALED PRETARGET GENERIC METHOD PASS",
+  "scope": "Independent even-square codec, generic oracle, ACA/synthetic vectors and finite controls only",
+  "target_exposure_at_seal": "none",
+  "root_code_data_control_comparison_before_seal": false,
+  "artifact_count": 13,
+  "artifacts": [
+    {
+      "relative_path": "reports/independent_method_v1/CONTROL_RESULTS_v1.json",
+      "bytes": 1106,
+      "sha256": "4c6dc2f7c4c098d6b2ba9642e9354fc790828242bf6e5a343949af0c67d406f2"
+    },
+    {
+      "relative_path": "reports/independent_method_v1/EXPOSURE_LOG_v1.json",
+      "bytes": 1218,
+      "sha256": "5e27a72097148459900cf39c90ac9a983b9e785044c6127441fc27f306e8712e"
+    },
+    {
+      "relative_path": "reports/independent_method_v1/FAILED_RUN_CODE_CAPTURE_v1.py",
+      "bytes": 19463,
+      "sha256": "0b61fe65764266fc7bb9df1b33951a6d788daafd982d382258aa5597b45f562a"
+    },
+    {
+      "relative_path": "reports/independent_method_v1/FAILED_RUN_v1.json",
+      "bytes": 738,
+      "sha256": "272043fc5b6a7033f29aa4d285acb165c83d9054cf119325f867d0afb76bc8ec"
+    },
+    {
+      "relative_path": "reports/independent_method_v1/KNOWN_VECTORS_v1.json",
+      "bytes": 2807,
+      "sha256": "5f82685aadb493a913d168672561388874da43b31d8118a1fdc98e0743e6e4e2"
+    },
+    {
+      "relative_path": "reports/independent_method_v1/METHOD_REPORT_v1.md",
+      "bytes": 4655,
+      "sha256": "6a3e8a02b69e0b455ed5d90ee404a16acafd26e2769a83fa8b88c4d22169d3a8"
+    },
+    {
+      "relative_path": "reports/independent_method_v1/PUBLIC_API_v1.json",
+      "bytes": 1703,
+      "sha256": "04de70c6ad3fb4de13b04c4b9f341b5ce5467117f3a2a7e4e5acb95c734da6a9"
+    },
+    {
+      "relative_path": "reports/independent_method_v1/REGISTRATION_v1.json",
+      "bytes": 2379,
+      "sha256": "03b1a68a8af0b3967ad960b0deb5a69dda4165e9a495eaec966c269c437c97ec"
+    },
+    {
+      "relative_path": "reports/independent_method_v1/REJECTION_CONTROLS_v1.json",
+      "bytes": 14698,
+      "sha256": "9d0ea8ab31f436e50eb36566fa4f089f27072cbbcff917d9901a2e37cf474035"
+    },
+    {
+      "relative_path": "reports/independent_method_v1/SYNTHETIC_KEYS_v1.json",
+      "bytes": 70083,
+      "sha256": "5cfb51e8dde70c9d6cb4a68db68e217a6d483da57990a0665c12ade48396fc54"
+    },
+    {
+      "relative_path": "reports/independent_method_v1/SYNTHETIC_REPRESENTATIVE_VECTORS_v1.json",
+      "bytes": 137219,
+      "sha256": "9ecf3e68d10138f265b6ab1406f24154e4b3e7144124173dd323b0b33836377f"
+    },
+    {
+      "relative_path": "reports/independent_method_v1/SYNTHETIC_TRIAL_RECEIPTS_v1.json",
+      "bytes": 4406207,
+      "sha256": "d8153dd0f27090b7091d93f8ad3fc140b12ed481e83abb98f1ae709277949357"
+    },
+    {
+      "relative_path": "scripts/independent_grille_v1.py",
+      "bytes": 19484,
+      "sha256": "5c2d8c3bbf1f54ecf8c43583e0f7e8f875a167050ab12d7e4a393f230f095e16"
+    }
+  ],
+  "self_hash_policy": "Manifest does not include itself; its final SHA-256 is reported separately to parent."
+}

@@ -1,0 +1,21 @@
+{
+  "project": "HC852_public_key_assisted_current_German_grille_reading",
+  "status": "CONDITIONAL_SOURCE_ADMISSION_COLD_LEDGER_NEXT",
+  "current_checkpoint": "CP000",
+  "next": "CP010_COLD_NATIVE_OCCURRENCE_AND_GEOMETRY_FREEZE",
+  "source_key_publicly_supplied": true,
+  "fresh_catalogue_status": "Not solved",
+  "fresh_catalogue_access_utc": "2026-10-05T21:06:10.701111+00:00",
+  "cipher_solved": false,
+  "unknown_key_recovery": false,
+  "external_confirmation": false,
+  "target_full_decode_runs": 0,
+  "root_preliminary_partial_mental_projection": true,
+  "fully_blind_claim": false,
+  "one_puzzle_one_folder": true,
+  "author": {
+    "name": "Zijian Zeng",
+    "affiliation": "Institute of Computer Science and Digital Innovation, UCSI University, Kuala Lumpur, 56000, MALAYSIA",
+    "email": "zijianzeng@foxmail.com"
+  }
+}

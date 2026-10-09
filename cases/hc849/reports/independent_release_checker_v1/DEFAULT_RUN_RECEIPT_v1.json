@@ -1,0 +1,29 @@
+{
+  "started_utc": "2026-10-05T20:45:52.052293+00:00",
+  "finished_utc": "2026-10-05T20:45:52.960988+00:00",
+  "exit_code": 0,
+  "command": [
+    "python3",
+    "scripts/check_hc849_release_v1.py"
+  ],
+  "checker_sha256": "18214dce4b8a5a4bb744d0ed50a9510801b662c161ce01eef98b1945b2995541",
+  "status": "PASS SCOPED CURRENT-BODY READ-ONLY CHECK",
+  "counts": {
+    "current_letters": 64,
+    "physical_cells": 64,
+    "physical_cuts": 16,
+    "conventions": 32,
+    "own_source_certificates": 2048,
+    "root_source_certificates": 2048,
+    "bounded_fixed_literal_controls": 79,
+    "root_synthetic_fixtures": 3200,
+    "root_fixture_distinct_keys": 100,
+    "root_fixture_block_counts": [
+      3
+    ]
+  },
+  "integrity_tests": [],
+  "error": null,
+  "stdout_sha256": "e5410579bb415a2283b65a481ab69c9a05b28a100e220d2a428fcd66157c667a",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

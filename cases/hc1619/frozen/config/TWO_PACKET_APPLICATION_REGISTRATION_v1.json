@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-05",
+  "two_source_packets_before_target_application": [
+    {
+      "name": "conservative",
+      "path": "config/PRE_APPLICATION_BRIDGE_PACKET_v1.json",
+      "sha256": "4e48ddd52d358b21a79d570372e2c4a3bb37535670e5d54820abed65b4cea5be"
+    },
+    {
+      "name": "preferred_c_family_with_terminal_uncertainty",
+      "path": "config/PRE_APPLICATION_BRIDGE_PACKET_v1p1.json",
+      "sha256": "160eef664df505b7de83c75b83a4c38d9a112527d3cc84a1ece9dbb785154d4d"
+    }
+  ],
+  "selected_preferred_before_target_output": true,
+  "basis": "Independentkey-values-unexposedsourcekeeperconfirmedg-topologyandO0openCfamily; nocandidateplaintextorLMscoreused.",
+  "source_freeze_sha256": "5d889f826604a1f996d1792815dc89f9e40196781de74a67277a2f12eb15444a",
+  "key_sha256": "267fac542b3cc9b3fbb5d788b8d867a0c37de0fa1f4ffefe16776256e1835273",
+  "script_sha256": "18aa0fa6b7bfe625930e466f3d5d75bfc938a07b2f516416754e07a3d9c8f27c",
+  "key_refit": false,
+  "coldsourceoverwrite": false,
+  "glyph_alias_metadata_required_for_raw_neutral_label_reconstruction": [
+    "c-familyterminalvariantatO0080"
+  ],
+  "forward_scope": "Canonicalclassandexplicitsourcealias/layout reconstruction; not rasterregeneration or independenthistoricaltruth."
+}

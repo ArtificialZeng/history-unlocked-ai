@@ -1,0 +1,34 @@
+{
+  "status": "PASS_VISIBLE_FINAL_EXACT_REPLAY",
+  "observed_letters": 180,
+  "accounted_positions": 180,
+  "vertical_pairs": 90,
+  "period": 6,
+  "effective_slides": [
+    7,
+    0,
+    8,
+    5,
+    2,
+    8
+  ],
+  "key_representative": "OAQKEQ",
+  "exact_forward_position_matches": 180,
+  "source_edits": 0,
+  "unassigned_replay_fields": 0,
+  "exceptions_used": 0,
+  "primary_method_hashes_unchanged": 8,
+  "input_hashes_before_and_after_unchanged": true,
+  "equivalent_key_spellings": 64,
+  "occluded_typed_underlayers_unidentified": 5,
+  "all_retained_search_candidates_independently_replayed": 175,
+  "single_slide_mutations_rejected_for_fixed_reading": 72,
+  "fixed_reading_compatible_periods_1_to_20": [
+    6
+  ],
+  "x_positions": [
+    95,
+    180
+  ],
+  "plaintext_sha256": "e76ff0546e96a2badb545e201804845d7e2d8f4b1bc11513d684b4e91f606f24"
+}

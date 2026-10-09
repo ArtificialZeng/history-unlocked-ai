@@ -1,0 +1,62 @@
+{
+  "source_excerpt_created_utc": "2026-10-05T19:40:56.598226+00:00",
+  "parent_source_path": "historical_cipher_scout/reports/printed_course_next_source_gate_2026-10-05_v1/RETAINED_METADATA_DISPOSITIONS_v1.json",
+  "parent_source_sha256": "9606e9ce32a51c4f3edbec133a32511a0ae81e646193e9e7311824c8906c2c89",
+  "capture_not_fresh_API": true,
+  "original_capture_time_uncertified_here": true,
+  "row": {
+    "id": 849,
+    "name": "Cryptogram n. 3 in 13 149",
+    "description": "<p>Plaintext encrypted with a transposition cipher, type: grille(orig. mřížka)</p>",
+    "retained_catalogue_status": "Not solved",
+    "language": "Czech",
+    "category": "Transposition",
+    "cipher_key_id": null,
+    "date": null,
+    "date_around": "1952",
+    "folder": {
+      "id": 22,
+      "name": "box BF388a, 27-19/6-099",
+      "fond_id": 14,
+      "fond": {
+        "id": 14,
+        "name": "ZSGS",
+        "archive_id": 5,
+        "archive": {
+          "id": 5,
+          "name": "Archiv bezpečnostních složek"
+        }
+      }
+    },
+    "official_detail_url": "https://api.hcportal.eu/api/cryptograms/849",
+    "attachments_metadata_only": [
+      {
+        "group_description": "Cryptogram",
+        "title": "Cryptogram image",
+        "type": "image",
+        "original_url": "https://api.hcportal.eu/media/2503/59451685309807.jpg"
+      },
+      {
+        "group_description": "Cryptogram",
+        "title": "Cryptogram image",
+        "type": "image",
+        "original_url": "https://api.hcportal.eu/media/2504/89001685309807.jpg"
+      },
+      {
+        "group_description": "Attachments",
+        "title": "Attachment 1",
+        "type": "image",
+        "original_url": "https://api.hcportal.eu/media/2505/93691685309807.jpg"
+      }
+    ],
+    "supplied_key_or_answer_attachment_title": false,
+    "eligibility_failures": [
+      "Catalogue language is not established English"
+    ],
+    "eligible": false,
+    "source_photograph_viewed_in_this_gate": false,
+    "writing_format": null,
+    "layout_count": null,
+    "source_quality_rank": null
+  }
+}

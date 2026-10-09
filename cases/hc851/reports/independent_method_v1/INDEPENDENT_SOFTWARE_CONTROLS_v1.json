@@ -1,0 +1,3688 @@
+{
+  "status": "PASS",
+  "seed": 85120261006,
+  "primary_known_vector": {
+    "official_source": "https://www.cryptogram.org/downloads/aca.info/ciphers/Grille.pdf",
+    "holes_1indexed": [
+      1,
+      8,
+      10,
+      12
+    ],
+    "plaintext": "THETURNINGGRILLE",
+    "ciphertext": "TILUNRGHGELTENIR",
+    "visit_order_1indexed": [
+      1,
+      8,
+      10,
+      12,
+      4,
+      6,
+      14,
+      15,
+      5,
+      7,
+      9,
+      16,
+      2,
+      3,
+      11,
+      13
+    ],
+    "start_angle_degrees": 0,
+    "quarter_turn_direction": "clockwise",
+    "each_orientation_reading": "row-major",
+    "exact_forward_pass": true,
+    "exact_decode_pass": true
+  },
+  "distinct_valid_grilles": 100,
+  "orientation_direction_controls": 800,
+  "blocks_per_control": 4,
+  "per_side": {
+    "2": {
+      "distinct_grilles": 4,
+      "orientation_direction_controls": 32,
+      "orbits": 1,
+      "blocks_per_control": 4,
+      "all_pass": true
+    },
+    "4": {
+      "distinct_grilles": 24,
+      "orientation_direction_controls": 192,
+      "orbits": 4,
+      "blocks_per_control": 4,
+      "all_pass": true
+    },
+    "6": {
+      "distinct_grilles": 24,
+      "orientation_direction_controls": 192,
+      "orbits": 9,
+      "blocks_per_control": 4,
+      "all_pass": true
+    },
+    "8": {
+      "distinct_grilles": 24,
+      "orientation_direction_controls": 192,
+      "orbits": 16,
+      "blocks_per_control": 4,
+      "all_pass": true
+    },
+    "10": {
+      "distinct_grilles": 24,
+      "orientation_direction_controls": 192,
+      "orbits": 25,
+      "blocks_per_control": 4,
+      "all_pass": true
+    }
+  },
+  "rejection_controls": 720,
+  "rejected_cases": [
+    {
+      "label": "invalid_side_0",
+      "exception": "GrilleError",
+      "reason": "side must be positive and even"
+    },
+    {
+      "label": "invalid_side_-2",
+      "exception": "GrilleError",
+      "reason": "side must be positive and even"
+    },
+    {
+      "label": "invalid_side_1",
+      "exception": "GrilleError",
+      "reason": "side must be positive and even"
+    },
+    {
+      "label": "invalid_side_3",
+      "exception": "GrilleError",
+      "reason": "side must be positive and even"
+    },
+    {
+      "label": "invalid_side_True",
+      "exception": "GrilleError",
+      "reason": "side must be an integer (not bool)"
+    },
+    {
+      "label": "invalid_side_4.0",
+      "exception": "GrilleError",
+      "reason": "side must be an integer (not bool)"
+    },
+    {
+      "label": "invalid_side_'4'",
+      "exception": "GrilleError",
+      "reason": "side must be an integer (not bool)"
+    },
+    {
+      "label": "invalid_start_-1",
+      "exception": "GrilleError",
+      "reason": "start_turn must be 0,1,2,3"
+    },
+    {
+      "label": "invalid_start_4",
+      "exception": "GrilleError",
+      "reason": "start_turn must be 0,1,2,3"
+    },
+    {
+      "label": "invalid_start_90",
+      "exception": "GrilleError",
+      "reason": "start_turn must be 0,1,2,3"
+    },
+    {
+      "label": "invalid_start_True",
+      "exception": "GrilleError",
+      "reason": "start_turn must be an integer (not bool)"
+    },
+    {
+      "label": "invalid_start_0.0",
+      "exception": "GrilleError",
+      "reason": "start_turn must be an integer (not bool)"
+    },
+    {
+      "label": "invalid_start_'0'",
+      "exception": "GrilleError",
+      "reason": "start_turn must be an integer (not bool)"
+    },
+    {
+      "label": "invalid_direction_0",
+      "exception": "GrilleError",
+      "reason": "direction must be -1 or +1"
+    },
+    {
+      "label": "invalid_direction_2",
+      "exception": "GrilleError",
+      "reason": "direction must be -1 or +1"
+    },
+    {
+      "label": "invalid_direction_True",
+      "exception": "GrilleError",
+      "reason": "direction must be an integer (not bool)"
+    },
+    {
+      "label": "invalid_direction_1.0",
+      "exception": "GrilleError",
+      "reason": "direction must be an integer (not bool)"
+    },
+    {
+      "label": "invalid_direction_'1'",
+      "exception": "GrilleError",
+      "reason": "direction must be an integer (not bool)"
+    },
+    {
+      "label": "invalid_hole_type_None",
+      "exception": "GrilleError",
+      "reason": "holes must be an iterable of integer cells"
+    },
+    {
+      "label": "invalid_hole_type_[True, 8, 10, 12]",
+      "exception": "GrilleError",
+      "reason": "hole must be an integer (not bool)"
+    },
+    {
+      "label": "invalid_hole_type_[1.0, 8, 10, 12]",
+      "exception": "GrilleError",
+      "reason": "hole must be an integer (not bool)"
+    },
+    {
+      "label": "invalid_hole_type_['1', 8, 10, 12]",
+      "exception": "GrilleError",
+      "reason": "hole must be an integer (not bool)"
+    },
+    {
+      "label": "non_string_encrypt",
+      "exception": "GrilleError",
+      "reason": "text must be a string"
+    },
+    {
+      "label": "non_string_decrypt",
+      "exception": "GrilleError",
+      "reason": "text must be a string"
+    },
+    {
+      "label": "2_(1,)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "2_(1,)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "2_(1,)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "2_(1,)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "2_(1,)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "2_(1,)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "2_(2,)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "2_(2,)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "2_(2,)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "2_(2,)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "2_(2,)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "2_(2,)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "2_(3,)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "2_(3,)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "2_(3,)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "2_(3,)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "2_(3,)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "2_(3,)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "2_(4,)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "2_(4,)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "2_(4,)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "2_(4,)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "2_(4,)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "2_(4,)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(1, 2, 3, 11)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "4_(1, 2, 3, 11)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(1, 2, 3, 11)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(1, 2, 3, 11)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "4_(1, 2, 3, 11)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(1, 2, 3, 11)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(1, 2, 3, 11)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "4_(1, 3, 7, 15)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "4_(1, 3, 7, 15)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(1, 3, 7, 15)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(1, 3, 7, 15)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "4_(1, 3, 7, 15)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(1, 3, 7, 15)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(1, 3, 7, 15)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "4_(1, 3, 9, 11)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "4_(1, 3, 9, 11)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(1, 3, 9, 11)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(1, 3, 9, 11)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "4_(1, 3, 9, 11)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(1, 3, 9, 11)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(1, 3, 9, 11)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "4_(1, 5, 7, 15)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "4_(1, 5, 7, 15)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(1, 5, 7, 15)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(1, 5, 7, 15)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "4_(1, 5, 7, 15)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(1, 5, 7, 15)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(1, 5, 7, 15)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "4_(1, 9, 11, 12)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "4_(1, 9, 11, 12)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(1, 9, 11, 12)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(1, 9, 11, 12)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "4_(1, 9, 11, 12)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(1, 9, 11, 12)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(1, 9, 11, 12)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "4_(2, 3, 7, 13)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "4_(2, 3, 7, 13)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(2, 3, 7, 13)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(2, 3, 7, 13)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "4_(2, 3, 7, 13)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(2, 3, 7, 13)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(2, 3, 7, 13)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "4_(2, 3, 7, 16)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "4_(2, 3, 7, 16)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(2, 3, 7, 16)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(2, 3, 7, 16)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "4_(2, 3, 7, 16)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(2, 3, 7, 16)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(2, 3, 7, 16)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "4_(2, 3, 11, 16)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "4_(2, 3, 11, 16)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(2, 3, 11, 16)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(2, 3, 11, 16)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "4_(2, 3, 11, 16)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(2, 3, 11, 16)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(2, 3, 11, 16)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "4_(2, 4, 6, 14)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "4_(2, 4, 6, 14)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(2, 4, 6, 14)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(2, 4, 6, 14)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "4_(2, 4, 6, 14)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(2, 4, 6, 14)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(2, 4, 6, 14)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "4_(2, 4, 10, 14)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "4_(2, 4, 10, 14)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(2, 4, 10, 14)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(2, 4, 10, 14)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "4_(2, 4, 10, 14)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(2, 4, 10, 14)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(2, 4, 10, 14)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "4_(2, 5, 7, 13)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "4_(2, 5, 7, 13)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(2, 5, 7, 13)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(2, 5, 7, 13)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "4_(2, 5, 7, 13)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(2, 5, 7, 13)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(2, 5, 7, 13)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "4_(2, 10, 13, 14)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "4_(2, 10, 13, 14)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(2, 10, 13, 14)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(2, 10, 13, 14)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "4_(2, 10, 13, 14)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(2, 10, 13, 14)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(2, 10, 13, 14)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "4_(3, 6, 13, 15)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "4_(3, 6, 13, 15)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(3, 6, 13, 15)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(3, 6, 13, 15)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "4_(3, 6, 13, 15)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(3, 6, 13, 15)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(3, 6, 13, 15)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "4_(3, 9, 11, 13)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "4_(3, 9, 11, 13)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(3, 9, 11, 13)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(3, 9, 11, 13)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "4_(3, 9, 11, 13)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(3, 9, 11, 13)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(3, 9, 11, 13)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "4_(4, 7, 9, 12)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "4_(4, 7, 9, 12)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(4, 7, 9, 12)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(4, 7, 9, 12)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "4_(4, 7, 9, 12)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(4, 7, 9, 12)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(4, 7, 9, 12)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "4_(4, 7, 9, 14)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "4_(4, 7, 9, 14)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(4, 7, 9, 14)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(4, 7, 9, 14)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "4_(4, 7, 9, 14)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(4, 7, 9, 14)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(4, 7, 9, 14)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "4_(4, 7, 14, 15)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "4_(4, 7, 14, 15)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(4, 7, 14, 15)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(4, 7, 14, 15)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "4_(4, 7, 14, 15)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(4, 7, 14, 15)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(4, 7, 14, 15)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "4_(4, 8, 11, 14)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "4_(4, 8, 11, 14)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(4, 8, 11, 14)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(4, 8, 11, 14)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "4_(4, 8, 11, 14)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(4, 8, 11, 14)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(4, 8, 11, 14)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "4_(4, 9, 11, 12)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "4_(4, 9, 11, 12)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(4, 9, 11, 12)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(4, 9, 11, 12)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "4_(4, 9, 11, 12)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(4, 9, 11, 12)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(4, 9, 11, 12)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "4_(5, 7, 9, 13)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "4_(5, 7, 9, 13)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(5, 7, 9, 13)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(5, 7, 9, 13)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "4_(5, 7, 9, 13)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(5, 7, 9, 13)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(5, 7, 9, 13)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "4_(5, 10, 13, 15)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "4_(5, 10, 13, 15)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(5, 10, 13, 15)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(5, 10, 13, 15)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "4_(5, 10, 13, 15)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(5, 10, 13, 15)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(5, 10, 13, 15)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "4_(7, 8, 13, 14)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "4_(7, 8, 13, 14)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(7, 8, 13, 14)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(7, 8, 13, 14)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "4_(7, 8, 13, 14)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(7, 8, 13, 14)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(7, 8, 13, 14)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "4_(11, 12, 13, 15)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "4_(11, 12, 13, 15)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(11, 12, 13, 15)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(11, 12, 13, 15)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "4_(11, 12, 13, 15)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(11, 12, 13, 15)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(11, 12, 13, 15)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "4_(11, 13, 14, 15)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "4_(11, 13, 14, 15)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(11, 13, 14, 15)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "4_(11, 13, 14, 15)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "4_(11, 13, 14, 15)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(11, 13, 14, 15)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "4_(11, 13, 14, 15)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "6_(1, 2, 4, 11, 14, 20, 21, 30, 34)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "6_(1, 2, 4, 11, 14, 20, 21, 30, 34)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(1, 2, 4, 11, 14, 20, 21, 30, 34)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(1, 2, 4, 11, 14, 20, 21, 30, 34)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "6_(1, 2, 4, 11, 14, 20, 21, 30, 34)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(1, 2, 4, 11, 14, 20, 21, 30, 34)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(1, 2, 4, 11, 14, 20, 21, 30, 34)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "6_(1, 3, 4, 5, 9, 11, 14, 16, 35)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "6_(1, 3, 4, 5, 9, 11, 14, 16, 35)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(1, 3, 4, 5, 9, 11, 14, 16, 35)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(1, 3, 4, 5, 9, 11, 14, 16, 35)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "6_(1, 3, 4, 5, 9, 11, 14, 16, 35)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(1, 3, 4, 5, 9, 11, 14, 16, 35)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(1, 3, 4, 5, 9, 11, 14, 16, 35)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "6_(1, 3, 8, 13, 22, 23, 28, 30, 35)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "6_(1, 3, 8, 13, 22, 23, 28, 30, 35)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(1, 3, 8, 13, 22, 23, 28, 30, 35)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(1, 3, 8, 13, 22, 23, 28, 30, 35)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "6_(1, 3, 8, 13, 22, 23, 28, 30, 35)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(1, 3, 8, 13, 22, 23, 28, 30, 35)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(1, 3, 8, 13, 22, 23, 28, 30, 35)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "6_(1, 3, 9, 11, 12, 15, 27, 30, 33)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "6_(1, 3, 9, 11, 12, 15, 27, 30, 33)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(1, 3, 9, 11, 12, 15, 27, 30, 33)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(1, 3, 9, 11, 12, 15, 27, 30, 33)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "6_(1, 3, 9, 11, 12, 15, 27, 30, 33)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(1, 3, 9, 11, 12, 15, 27, 30, 33)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(1, 3, 9, 11, 12, 15, 27, 30, 33)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "6_(1, 7, 10, 13, 16, 19, 20, 25, 26)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "6_(1, 7, 10, 13, 16, 19, 20, 25, 26)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(1, 7, 10, 13, 16, 19, 20, 25, 26)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(1, 7, 10, 13, 16, 19, 20, 25, 26)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "6_(1, 7, 10, 13, 16, 19, 20, 25, 26)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(1, 7, 10, 13, 16, 19, 20, 25, 26)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(1, 7, 10, 13, 16, 19, 20, 25, 26)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "6_(1, 9, 11, 13, 15, 23, 32, 34, 35)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "6_(1, 9, 11, 13, 15, 23, 32, 34, 35)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(1, 9, 11, 13, 15, 23, 32, 34, 35)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(1, 9, 11, 13, 15, 23, 32, 34, 35)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "6_(1, 9, 11, 13, 15, 23, 32, 34, 35)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(1, 9, 11, 13, 15, 23, 32, 34, 35)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(1, 9, 11, 13, 15, 23, 32, 34, 35)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "6_(2, 3, 4, 5, 8, 17, 22, 23, 36)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "6_(2, 3, 4, 5, 8, 17, 22, 23, 36)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(2, 3, 4, 5, 8, 17, 22, 23, 36)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(2, 3, 4, 5, 8, 17, 22, 23, 36)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "6_(2, 3, 4, 5, 8, 17, 22, 23, 36)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(2, 3, 4, 5, 8, 17, 22, 23, 36)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(2, 3, 4, 5, 8, 17, 22, 23, 36)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "6_(2, 3, 5, 8, 9, 15, 23, 24, 31)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "6_(2, 3, 5, 8, 9, 15, 23, 24, 31)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(2, 3, 5, 8, 9, 15, 23, 24, 31)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(2, 3, 5, 8, 9, 15, 23, 24, 31)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "6_(2, 3, 5, 8, 9, 15, 23, 24, 31)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(2, 3, 5, 8, 9, 15, 23, 24, 31)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(2, 3, 5, 8, 9, 15, 23, 24, 31)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "6_(2, 3, 6, 7, 13, 16, 23, 28, 29)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "6_(2, 3, 6, 7, 13, 16, 23, 28, 29)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(2, 3, 6, 7, 13, 16, 23, 28, 29)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(2, 3, 6, 7, 13, 16, 23, 28, 29)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "6_(2, 3, 6, 7, 13, 16, 23, 28, 29)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(2, 3, 6, 7, 13, 16, 23, 28, 29)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(2, 3, 6, 7, 13, 16, 23, 28, 29)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "6_(2, 3, 6, 11, 17, 21, 27, 32, 33)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "6_(2, 3, 6, 11, 17, 21, 27, 32, 33)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(2, 3, 6, 11, 17, 21, 27, 32, 33)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(2, 3, 6, 11, 17, 21, 27, 32, 33)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "6_(2, 3, 6, 11, 17, 21, 27, 32, 33)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(2, 3, 6, 11, 17, 21, 27, 32, 33)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(2, 3, 6, 11, 17, 21, 27, 32, 33)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "6_(2, 4, 6, 7, 8, 9, 19, 21, 27)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "6_(2, 4, 6, 7, 8, 9, 19, 21, 27)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(2, 4, 6, 7, 8, 9, 19, 21, 27)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(2, 4, 6, 7, 8, 9, 19, 21, 27)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "6_(2, 4, 6, 7, 8, 9, 19, 21, 27)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(2, 4, 6, 7, 8, 9, 19, 21, 27)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(2, 4, 6, 7, 8, 9, 19, 21, 27)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "6_(2, 6, 10, 11, 13, 16, 18, 28, 30)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "6_(2, 6, 10, 11, 13, 16, 18, 28, 30)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(2, 6, 10, 11, 13, 16, 18, 28, 30)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(2, 6, 10, 11, 13, 16, 18, 28, 30)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "6_(2, 6, 10, 11, 13, 16, 18, 28, 30)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(2, 6, 10, 11, 13, 16, 18, 28, 30)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(2, 6, 10, 11, 13, 16, 18, 28, 30)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "6_(2, 8, 9, 14, 16, 19, 32, 33, 36)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "6_(2, 8, 9, 14, 16, 19, 32, 33, 36)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(2, 8, 9, 14, 16, 19, 32, 33, 36)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(2, 8, 9, 14, 16, 19, 32, 33, 36)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "6_(2, 8, 9, 14, 16, 19, 32, 33, 36)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(2, 8, 9, 14, 16, 19, 32, 33, 36)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(2, 8, 9, 14, 16, 19, 32, 33, 36)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "6_(2, 16, 18, 23, 24, 28, 29, 32, 36)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "6_(2, 16, 18, 23, 24, 28, 29, 32, 36)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(2, 16, 18, 23, 24, 28, 29, 32, 36)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(2, 16, 18, 23, 24, 28, 29, 32, 36)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "6_(2, 16, 18, 23, 24, 28, 29, 32, 36)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(2, 16, 18, 23, 24, 28, 29, 32, 36)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(2, 16, 18, 23, 24, 28, 29, 32, 36)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "6_(3, 4, 5, 8, 10, 15, 17, 35, 36)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "6_(3, 4, 5, 8, 10, 15, 17, 35, 36)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(3, 4, 5, 8, 10, 15, 17, 35, 36)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(3, 4, 5, 8, 10, 15, 17, 35, 36)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "6_(3, 4, 5, 8, 10, 15, 17, 35, 36)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(3, 4, 5, 8, 10, 15, 17, 35, 36)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(3, 4, 5, 8, 10, 15, 17, 35, 36)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "6_(3, 4, 6, 8, 10, 12, 16, 17, 30)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "6_(3, 4, 6, 8, 10, 12, 16, 17, 30)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(3, 4, 6, 8, 10, 12, 16, 17, 30)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(3, 4, 6, 8, 10, 12, 16, 17, 30)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "6_(3, 4, 6, 8, 10, 12, 16, 17, 30)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(3, 4, 6, 8, 10, 12, 16, 17, 30)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(3, 4, 6, 8, 10, 12, 16, 17, 30)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "6_(3, 10, 12, 21, 28, 29, 32, 33, 36)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "6_(3, 10, 12, 21, 28, 29, 32, 33, 36)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(3, 10, 12, 21, 28, 29, 32, 33, 36)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(3, 10, 12, 21, 28, 29, 32, 33, 36)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "6_(3, 10, 12, 21, 28, 29, 32, 33, 36)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(3, 10, 12, 21, 28, 29, 32, 33, 36)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(3, 10, 12, 21, 28, 29, 32, 33, 36)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "6_(3, 12, 13, 20, 22, 26, 27, 30, 31)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "6_(3, 12, 13, 20, 22, 26, 27, 30, 31)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(3, 12, 13, 20, 22, 26, 27, 30, 31)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(3, 12, 13, 20, 22, 26, 27, 30, 31)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "6_(3, 12, 13, 20, 22, 26, 27, 30, 31)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(3, 12, 13, 20, 22, 26, 27, 30, 31)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(3, 12, 13, 20, 22, 26, 27, 30, 31)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "6_(4, 5, 6, 8, 18, 22, 23, 25, 28)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "6_(4, 5, 6, 8, 18, 22, 23, 25, 28)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(4, 5, 6, 8, 18, 22, 23, 25, 28)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(4, 5, 6, 8, 18, 22, 23, 25, 28)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "6_(4, 5, 6, 8, 18, 22, 23, 25, 28)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(4, 5, 6, 8, 18, 22, 23, 25, 28)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(4, 5, 6, 8, 18, 22, 23, 25, 28)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "6_(4, 5, 6, 17, 19, 22, 23, 26, 35)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "6_(4, 5, 6, 17, 19, 22, 23, 26, 35)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(4, 5, 6, 17, 19, 22, 23, 26, 35)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(4, 5, 6, 17, 19, 22, 23, 26, 35)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "6_(4, 5, 6, 17, 19, 22, 23, 26, 35)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(4, 5, 6, 17, 19, 22, 23, 26, 35)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(4, 5, 6, 17, 19, 22, 23, 26, 35)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "6_(5, 6, 12, 13, 15, 18, 26, 27, 28)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "6_(5, 6, 12, 13, 15, 18, 26, 27, 28)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(5, 6, 12, 13, 15, 18, 26, 27, 28)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(5, 6, 12, 13, 15, 18, 26, 27, 28)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "6_(5, 6, 12, 13, 15, 18, 26, 27, 28)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(5, 6, 12, 13, 15, 18, 26, 27, 28)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(5, 6, 12, 13, 15, 18, 26, 27, 28)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "6_(5, 6, 13, 18, 20, 21, 23, 26, 35)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "6_(5, 6, 13, 18, 20, 21, 23, 26, 35)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(5, 6, 13, 18, 20, 21, 23, 26, 35)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(5, 6, 13, 18, 20, 21, 23, 26, 35)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "6_(5, 6, 13, 18, 20, 21, 23, 26, 35)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(5, 6, 13, 18, 20, 21, 23, 26, 35)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(5, 6, 13, 18, 20, 21, 23, 26, 35)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "6_(6, 11, 13, 14, 15, 18, 28, 30, 35)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "6_(6, 11, 13, 14, 15, 18, 28, 30, 35)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(6, 11, 13, 14, 15, 18, 28, 30, 35)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(6, 11, 13, 14, 15, 18, 28, 30, 35)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "6_(6, 11, 13, 14, 15, 18, 28, 30, 35)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(6, 11, 13, 14, 15, 18, 28, 30, 35)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(6, 11, 13, 14, 15, 18, 28, 30, 35)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "6_(10, 11, 12, 16, 24, 28, 31, 32, 34)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "6_(10, 11, 12, 16, 24, 28, 31, 32, 34)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(10, 11, 12, 16, 24, 28, 31, 32, 34)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "6_(10, 11, 12, 16, 24, 28, 31, 32, 34)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "6_(10, 11, 12, 16, 24, 28, 31, 32, 34)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(10, 11, 12, 16, 24, 28, 31, 32, 34)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "6_(10, 11, 12, 16, 24, 28, 31, 32, 34)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "8_(1, 2, 3, 6, 10, 12, 32, 37, 38, 39, 42, 45, 46, 47, 58, 60)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "8_(1, 2, 3, 6, 10, 12, 32, 37, 38, 39, 42, 45, 46, 47, 58, 60)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(1, 2, 3, 6, 10, 12, 32, 37, 38, 39, 42, 45, 46, 47, 58, 60)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(1, 2, 3, 6, 10, 12, 32, 37, 38, 39, 42, 45, 46, 47, 58, 60)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "8_(1, 2, 3, 6, 10, 12, 32, 37, 38, 39, 42, 45, 46, 47, 58, 60)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(1, 2, 3, 6, 10, 12, 32, 37, 38, 39, 42, 45, 46, 47, 58, 60)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(1, 2, 3, 6, 10, 12, 32, 37, 38, 39, 42, 45, 46, 47, 58, 60)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "8_(1, 2, 4, 17, 19, 23, 27, 31, 35, 37, 39, 40, 41, 50, 51, 58)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "8_(1, 2, 4, 17, 19, 23, 27, 31, 35, 37, 39, 40, 41, 50, 51, 58)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(1, 2, 4, 17, 19, 23, 27, 31, 35, 37, 39, 40, 41, 50, 51, 58)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(1, 2, 4, 17, 19, 23, 27, 31, 35, 37, 39, 40, 41, 50, 51, 58)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "8_(1, 2, 4, 17, 19, 23, 27, 31, 35, 37, 39, 40, 41, 50, 51, 58)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(1, 2, 4, 17, 19, 23, 27, 31, 35, 37, 39, 40, 41, 50, 51, 58)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(1, 2, 4, 17, 19, 23, 27, 31, 35, 37, 39, 40, 41, 50, 51, 58)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "8_(1, 2, 9, 10, 11, 17, 18, 25, 26, 27, 30, 37, 41, 46, 53, 61)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "8_(1, 2, 9, 10, 11, 17, 18, 25, 26, 27, 30, 37, 41, 46, 53, 61)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(1, 2, 9, 10, 11, 17, 18, 25, 26, 27, 30, 37, 41, 46, 53, 61)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(1, 2, 9, 10, 11, 17, 18, 25, 26, 27, 30, 37, 41, 46, 53, 61)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "8_(1, 2, 9, 10, 11, 17, 18, 25, 26, 27, 30, 37, 41, 46, 53, 61)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(1, 2, 9, 10, 11, 17, 18, 25, 26, 27, 30, 37, 41, 46, 53, 61)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(1, 2, 9, 10, 11, 17, 18, 25, 26, 27, 30, 37, 41, 46, 53, 61)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "8_(1, 3, 14, 15, 16, 17, 23, 26, 27, 30, 32, 34, 37, 46, 58, 60)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "8_(1, 3, 14, 15, 16, 17, 23, 26, 27, 30, 32, 34, 37, 46, 58, 60)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(1, 3, 14, 15, 16, 17, 23, 26, 27, 30, 32, 34, 37, 46, 58, 60)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(1, 3, 14, 15, 16, 17, 23, 26, 27, 30, 32, 34, 37, 46, 58, 60)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "8_(1, 3, 14, 15, 16, 17, 23, 26, 27, 30, 32, 34, 37, 46, 58, 60)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(1, 3, 14, 15, 16, 17, 23, 26, 27, 30, 32, 34, 37, 46, 58, 60)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(1, 3, 14, 15, 16, 17, 23, 26, 27, 30, 32, 34, 37, 46, 58, 60)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "8_(1, 4, 10, 13, 14, 17, 21, 22, 24, 34, 36, 45, 49, 54, 58, 60)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "8_(1, 4, 10, 13, 14, 17, 21, 22, 24, 34, 36, 45, 49, 54, 58, 60)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(1, 4, 10, 13, 14, 17, 21, 22, 24, 34, 36, 45, 49, 54, 58, 60)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(1, 4, 10, 13, 14, 17, 21, 22, 24, 34, 36, 45, 49, 54, 58, 60)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "8_(1, 4, 10, 13, 14, 17, 21, 22, 24, 34, 36, 45, 49, 54, 58, 60)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(1, 4, 10, 13, 14, 17, 21, 22, 24, 34, 36, 45, 49, 54, 58, 60)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(1, 4, 10, 13, 14, 17, 21, 22, 24, 34, 36, 45, 49, 54, 58, 60)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "8_(1, 9, 17, 23, 27, 28, 32, 39, 40, 41, 45, 46, 47, 49, 53, 55)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "8_(1, 9, 17, 23, 27, 28, 32, 39, 40, 41, 45, 46, 47, 49, 53, 55)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(1, 9, 17, 23, 27, 28, 32, 39, 40, 41, 45, 46, 47, 49, 53, 55)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(1, 9, 17, 23, 27, 28, 32, 39, 40, 41, 45, 46, 47, 49, 53, 55)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "8_(1, 9, 17, 23, 27, 28, 32, 39, 40, 41, 45, 46, 47, 49, 53, 55)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(1, 9, 17, 23, 27, 28, 32, 39, 40, 41, 45, 46, 47, 49, 53, 55)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(1, 9, 17, 23, 27, 28, 32, 39, 40, 41, 45, 46, 47, 49, 53, 55)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "8_(2, 3, 5, 9, 11, 15, 18, 21, 26, 33, 36, 45, 46, 48, 53, 64)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "8_(2, 3, 5, 9, 11, 15, 18, 21, 26, 33, 36, 45, 46, 48, 53, 64)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(2, 3, 5, 9, 11, 15, 18, 21, 26, 33, 36, 45, 46, 48, 53, 64)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(2, 3, 5, 9, 11, 15, 18, 21, 26, 33, 36, 45, 46, 48, 53, 64)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "8_(2, 3, 5, 9, 11, 15, 18, 21, 26, 33, 36, 45, 46, 48, 53, 64)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(2, 3, 5, 9, 11, 15, 18, 21, 26, 33, 36, 45, 46, 48, 53, 64)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(2, 3, 5, 9, 11, 15, 18, 21, 26, 33, 36, 45, 46, 48, 53, 64)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "8_(2, 4, 11, 25, 27, 29, 35, 39, 41, 43, 47, 50, 53, 57, 58, 59)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "8_(2, 4, 11, 25, 27, 29, 35, 39, 41, 43, 47, 50, 53, 57, 58, 59)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(2, 4, 11, 25, 27, 29, 35, 39, 41, 43, 47, 50, 53, 57, 58, 59)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(2, 4, 11, 25, 27, 29, 35, 39, 41, 43, 47, 50, 53, 57, 58, 59)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "8_(2, 4, 11, 25, 27, 29, 35, 39, 41, 43, 47, 50, 53, 57, 58, 59)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(2, 4, 11, 25, 27, 29, 35, 39, 41, 43, 47, 50, 53, 57, 58, 59)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(2, 4, 11, 25, 27, 29, 35, 39, 41, 43, 47, 50, 53, 57, 58, 59)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "8_(2, 5, 9, 18, 20, 23, 26, 34, 37, 38, 43, 48, 50, 57, 61, 62)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "8_(2, 5, 9, 18, 20, 23, 26, 34, 37, 38, 43, 48, 50, 57, 61, 62)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(2, 5, 9, 18, 20, 23, 26, 34, 37, 38, 43, 48, 50, 57, 61, 62)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(2, 5, 9, 18, 20, 23, 26, 34, 37, 38, 43, 48, 50, 57, 61, 62)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "8_(2, 5, 9, 18, 20, 23, 26, 34, 37, 38, 43, 48, 50, 57, 61, 62)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(2, 5, 9, 18, 20, 23, 26, 34, 37, 38, 43, 48, 50, 57, 61, 62)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(2, 5, 9, 18, 20, 23, 26, 34, 37, 38, 43, 48, 50, 57, 61, 62)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "8_(2, 6, 9, 11, 12, 13, 15, 18, 20, 21, 25, 29, 33, 43, 57, 62)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "8_(2, 6, 9, 11, 12, 13, 15, 18, 20, 21, 25, 29, 33, 43, 57, 62)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(2, 6, 9, 11, 12, 13, 15, 18, 20, 21, 25, 29, 33, 43, 57, 62)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(2, 6, 9, 11, 12, 13, 15, 18, 20, 21, 25, 29, 33, 43, 57, 62)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "8_(2, 6, 9, 11, 12, 13, 15, 18, 20, 21, 25, 29, 33, 43, 57, 62)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(2, 6, 9, 11, 12, 13, 15, 18, 20, 21, 25, 29, 33, 43, 57, 62)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(2, 6, 9, 11, 12, 13, 15, 18, 20, 21, 25, 29, 33, 43, 57, 62)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "8_(2, 18, 33, 35, 36, 38, 41, 42, 43, 52, 53, 55, 56, 59, 60, 64)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "8_(2, 18, 33, 35, 36, 38, 41, 42, 43, 52, 53, 55, 56, 59, 60, 64)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(2, 18, 33, 35, 36, 38, 41, 42, 43, 52, 53, 55, 56, 59, 60, 64)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(2, 18, 33, 35, 36, 38, 41, 42, 43, 52, 53, 55, 56, 59, 60, 64)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "8_(2, 18, 33, 35, 36, 38, 41, 42, 43, 52, 53, 55, 56, 59, 60, 64)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(2, 18, 33, 35, 36, 38, 41, 42, 43, 52, 53, 55, 56, 59, 60, 64)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(2, 18, 33, 35, 36, 38, 41, 42, 43, 52, 53, 55, 56, 59, 60, 64)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "8_(3, 4, 6, 7, 23, 30, 31, 37, 44, 46, 47, 49, 50, 52, 60, 64)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "8_(3, 4, 6, 7, 23, 30, 31, 37, 44, 46, 47, 49, 50, 52, 60, 64)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(3, 4, 6, 7, 23, 30, 31, 37, 44, 46, 47, 49, 50, 52, 60, 64)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(3, 4, 6, 7, 23, 30, 31, 37, 44, 46, 47, 49, 50, 52, 60, 64)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "8_(3, 4, 6, 7, 23, 30, 31, 37, 44, 46, 47, 49, 50, 52, 60, 64)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(3, 4, 6, 7, 23, 30, 31, 37, 44, 46, 47, 49, 50, 52, 60, 64)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(3, 4, 6, 7, 23, 30, 31, 37, 44, 46, 47, 49, 50, 52, 60, 64)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "8_(3, 4, 9, 12, 15, 17, 18, 20, 21, 22, 26, 28, 42, 49, 60, 64)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "8_(3, 4, 9, 12, 15, 17, 18, 20, 21, 22, 26, 28, 42, 49, 60, 64)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(3, 4, 9, 12, 15, 17, 18, 20, 21, 22, 26, 28, 42, 49, 60, 64)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(3, 4, 9, 12, 15, 17, 18, 20, 21, 22, 26, 28, 42, 49, 60, 64)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "8_(3, 4, 9, 12, 15, 17, 18, 20, 21, 22, 26, 28, 42, 49, 60, 64)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(3, 4, 9, 12, 15, 17, 18, 20, 21, 22, 26, 28, 42, 49, 60, 64)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(3, 4, 9, 12, 15, 17, 18, 20, 21, 22, 26, 28, 42, 49, 60, 64)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "8_(3, 9, 10, 11, 16, 27, 30, 31, 33, 37, 39, 43, 48, 51, 60, 64)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "8_(3, 9, 10, 11, 16, 27, 30, 31, 33, 37, 39, 43, 48, 51, 60, 64)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(3, 9, 10, 11, 16, 27, 30, 31, 33, 37, 39, 43, 48, 51, 60, 64)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(3, 9, 10, 11, 16, 27, 30, 31, 33, 37, 39, 43, 48, 51, 60, 64)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "8_(3, 9, 10, 11, 16, 27, 30, 31, 33, 37, 39, 43, 48, 51, 60, 64)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(3, 9, 10, 11, 16, 27, 30, 31, 33, 37, 39, 43, 48, 51, 60, 64)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(3, 9, 10, 11, 16, 27, 30, 31, 33, 37, 39, 43, 48, 51, 60, 64)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "8_(4, 6, 16, 21, 26, 29, 34, 35, 40, 41, 43, 47, 50, 54, 57, 58)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "8_(4, 6, 16, 21, 26, 29, 34, 35, 40, 41, 43, 47, 50, 54, 57, 58)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(4, 6, 16, 21, 26, 29, 34, 35, 40, 41, 43, 47, 50, 54, 57, 58)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(4, 6, 16, 21, 26, 29, 34, 35, 40, 41, 43, 47, 50, 54, 57, 58)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "8_(4, 6, 16, 21, 26, 29, 34, 35, 40, 41, 43, 47, 50, 54, 57, 58)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(4, 6, 16, 21, 26, 29, 34, 35, 40, 41, 43, 47, 50, 54, 57, 58)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(4, 6, 16, 21, 26, 29, 34, 35, 40, 41, 43, 47, 50, 54, 57, 58)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "8_(4, 10, 12, 19, 23, 26, 27, 29, 30, 41, 47, 56, 59, 60, 63, 64)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "8_(4, 10, 12, 19, 23, 26, 27, 29, 30, 41, 47, 56, 59, 60, 63, 64)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(4, 10, 12, 19, 23, 26, 27, 29, 30, 41, 47, 56, 59, 60, 63, 64)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(4, 10, 12, 19, 23, 26, 27, 29, 30, 41, 47, 56, 59, 60, 63, 64)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "8_(4, 10, 12, 19, 23, 26, 27, 29, 30, 41, 47, 56, 59, 60, 63, 64)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(4, 10, 12, 19, 23, 26, 27, 29, 30, 41, 47, 56, 59, 60, 63, 64)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(4, 10, 12, 19, 23, 26, 27, 29, 30, 41, 47, 56, 59, 60, 63, 64)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "8_(5, 6, 9, 10, 12, 22, 27, 30, 37, 39, 47, 49, 54, 57, 61, 62)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "8_(5, 6, 9, 10, 12, 22, 27, 30, 37, 39, 47, 49, 54, 57, 61, 62)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(5, 6, 9, 10, 12, 22, 27, 30, 37, 39, 47, 49, 54, 57, 61, 62)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(5, 6, 9, 10, 12, 22, 27, 30, 37, 39, 47, 49, 54, 57, 61, 62)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "8_(5, 6, 9, 10, 12, 22, 27, 30, 37, 39, 47, 49, 54, 57, 61, 62)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(5, 6, 9, 10, 12, 22, 27, 30, 37, 39, 47, 49, 54, 57, 61, 62)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(5, 6, 9, 10, 12, 22, 27, 30, 37, 39, 47, 49, 54, 57, 61, 62)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "8_(5, 8, 14, 15, 16, 20, 23, 26, 34, 36, 38, 41, 46, 56, 59, 61)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "8_(5, 8, 14, 15, 16, 20, 23, 26, 34, 36, 38, 41, 46, 56, 59, 61)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(5, 8, 14, 15, 16, 20, 23, 26, 34, 36, 38, 41, 46, 56, 59, 61)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(5, 8, 14, 15, 16, 20, 23, 26, 34, 36, 38, 41, 46, 56, 59, 61)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "8_(5, 8, 14, 15, 16, 20, 23, 26, 34, 36, 38, 41, 46, 56, 59, 61)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(5, 8, 14, 15, 16, 20, 23, 26, 34, 36, 38, 41, 46, 56, 59, 61)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(5, 8, 14, 15, 16, 20, 23, 26, 34, 36, 38, 41, 46, 56, 59, 61)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "8_(6, 9, 24, 30, 32, 37, 38, 42, 46, 47, 49, 52, 53, 55, 60, 64)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "8_(6, 9, 24, 30, 32, 37, 38, 42, 46, 47, 49, 52, 53, 55, 60, 64)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(6, 9, 24, 30, 32, 37, 38, 42, 46, 47, 49, 52, 53, 55, 60, 64)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(6, 9, 24, 30, 32, 37, 38, 42, 46, 47, 49, 52, 53, 55, 60, 64)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "8_(6, 9, 24, 30, 32, 37, 38, 42, 46, 47, 49, 52, 53, 55, 60, 64)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(6, 9, 24, 30, 32, 37, 38, 42, 46, 47, 49, 52, 53, 55, 60, 64)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(6, 9, 24, 30, 32, 37, 38, 42, 46, 47, 49, 52, 53, 55, 60, 64)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "8_(6, 10, 11, 12, 16, 19, 29, 35, 38, 39, 41, 47, 58, 60, 61, 64)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "8_(6, 10, 11, 12, 16, 19, 29, 35, 38, 39, 41, 47, 58, 60, 61, 64)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(6, 10, 11, 12, 16, 19, 29, 35, 38, 39, 41, 47, 58, 60, 61, 64)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(6, 10, 11, 12, 16, 19, 29, 35, 38, 39, 41, 47, 58, 60, 61, 64)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "8_(6, 10, 11, 12, 16, 19, 29, 35, 38, 39, 41, 47, 58, 60, 61, 64)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(6, 10, 11, 12, 16, 19, 29, 35, 38, 39, 41, 47, 58, 60, 61, 64)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(6, 10, 11, 12, 16, 19, 29, 35, 38, 39, 41, 47, 58, 60, 61, 64)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "8_(6, 12, 13, 18, 23, 24, 27, 28, 40, 43, 45, 50, 56, 61, 63, 64)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "8_(6, 12, 13, 18, 23, 24, 27, 28, 40, 43, 45, 50, 56, 61, 63, 64)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(6, 12, 13, 18, 23, 24, 27, 28, 40, 43, 45, 50, 56, 61, 63, 64)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(6, 12, 13, 18, 23, 24, 27, 28, 40, 43, 45, 50, 56, 61, 63, 64)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "8_(6, 12, 13, 18, 23, 24, 27, 28, 40, 43, 45, 50, 56, 61, 63, 64)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(6, 12, 13, 18, 23, 24, 27, 28, 40, 43, 45, 50, 56, 61, 63, 64)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(6, 12, 13, 18, 23, 24, 27, 28, 40, 43, 45, 50, 56, 61, 63, 64)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "8_(8, 9, 15, 18, 19, 23, 26, 27, 30, 36, 53, 59, 60, 61, 62, 63)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "8_(8, 9, 15, 18, 19, 23, 26, 27, 30, 36, 53, 59, 60, 61, 62, 63)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(8, 9, 15, 18, 19, 23, 26, 27, 30, 36, 53, 59, 60, 61, 62, 63)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(8, 9, 15, 18, 19, 23, 26, 27, 30, 36, 53, 59, 60, 61, 62, 63)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "8_(8, 9, 15, 18, 19, 23, 26, 27, 30, 36, 53, 59, 60, 61, 62, 63)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(8, 9, 15, 18, 19, 23, 26, 27, 30, 36, 53, 59, 60, 61, 62, 63)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(8, 9, 15, 18, 19, 23, 26, 27, 30, 36, 53, 59, 60, 61, 62, 63)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "8_(10, 27, 33, 35, 36, 40, 41, 42, 46, 48, 49, 51, 52, 53, 56, 64)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "8_(10, 27, 33, 35, 36, 40, 41, 42, 46, 48, 49, 51, 52, 53, 56, 64)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(10, 27, 33, 35, 36, 40, 41, 42, 46, 48, 49, 51, 52, 53, 56, 64)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(10, 27, 33, 35, 36, 40, 41, 42, 46, 48, 49, 51, 52, 53, 56, 64)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "8_(10, 27, 33, 35, 36, 40, 41, 42, 46, 48, 49, 51, 52, 53, 56, 64)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(10, 27, 33, 35, 36, 40, 41, 42, 46, 48, 49, 51, 52, 53, 56, 64)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(10, 27, 33, 35, 36, 40, 41, 42, 46, 48, 49, 51, 52, 53, 56, 64)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "8_(11, 16, 18, 19, 32, 35, 36, 38, 48, 52, 53, 55, 58, 60, 62, 64)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "8_(11, 16, 18, 19, 32, 35, 36, 38, 48, 52, 53, 55, 58, 60, 62, 64)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(11, 16, 18, 19, 32, 35, 36, 38, 48, 52, 53, 55, 58, 60, 62, 64)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "8_(11, 16, 18, 19, 32, 35, 36, 38, 48, 52, 53, 55, 58, 60, 62, 64)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "8_(11, 16, 18, 19, 32, 35, 36, 38, 48, 52, 53, 55, 58, 60, 62, 64)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(11, 16, 18, 19, 32, 35, 36, 38, 48, 52, 53, 55, 58, 60, 62, 64)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "8_(11, 16, 18, 19, 32, 35, 36, 38, 48, 52, 53, 55, 58, 60, 62, 64)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "10_(1, 2, 3, 5, 7, 8, 13, 15, 25, 33, 39, 40, 46, 47, 58, 60, 65, 67, 77, 78, 79, 84, 85, 89, 92)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "10_(1, 2, 3, 5, 7, 8, 13, 15, 25, 33, 39, 40, 46, 47, 58, 60, 65, 67, 77, 78, 79, 84, 85, 89, 92)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(1, 2, 3, 5, 7, 8, 13, 15, 25, 33, 39, 40, 46, 47, 58, 60, 65, 67, 77, 78, 79, 84, 85, 89, 92)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(1, 2, 3, 5, 7, 8, 13, 15, 25, 33, 39, 40, 46, 47, 58, 60, 65, 67, 77, 78, 79, 84, 85, 89, 92)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "10_(1, 2, 3, 5, 7, 8, 13, 15, 25, 33, 39, 40, 46, 47, 58, 60, 65, 67, 77, 78, 79, 84, 85, 89, 92)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(1, 2, 3, 5, 7, 8, 13, 15, 25, 33, 39, 40, 46, 47, 58, 60, 65, 67, 77, 78, 79, 84, 85, 89, 92)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(1, 2, 3, 5, 7, 8, 13, 15, 25, 33, 39, 40, 46, 47, 58, 60, 65, 67, 77, 78, 79, 84, 85, 89, 92)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "10_(1, 2, 11, 13, 18, 27, 28, 30, 34, 42, 43, 44, 45, 53, 54, 63, 70, 80, 84, 86, 87, 89, 95, 96, 97)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "10_(1, 2, 11, 13, 18, 27, 28, 30, 34, 42, 43, 44, 45, 53, 54, 63, 70, 80, 84, 86, 87, 89, 95, 96, 97)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(1, 2, 11, 13, 18, 27, 28, 30, 34, 42, 43, 44, 45, 53, 54, 63, 70, 80, 84, 86, 87, 89, 95, 96, 97)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(1, 2, 11, 13, 18, 27, 28, 30, 34, 42, 43, 44, 45, 53, 54, 63, 70, 80, 84, 86, 87, 89, 95, 96, 97)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "10_(1, 2, 11, 13, 18, 27, 28, 30, 34, 42, 43, 44, 45, 53, 54, 63, 70, 80, 84, 86, 87, 89, 95, 96, 97)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(1, 2, 11, 13, 18, 27, 28, 30, 34, 42, 43, 44, 45, 53, 54, 63, 70, 80, 84, 86, 87, 89, 95, 96, 97)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(1, 2, 11, 13, 18, 27, 28, 30, 34, 42, 43, 44, 45, 53, 54, 63, 70, 80, 84, 86, 87, 89, 95, 96, 97)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "10_(1, 5, 7, 17, 21, 26, 30, 37, 41, 44, 53, 54, 56, 59, 61, 74, 77, 78, 81, 82, 83, 86, 87, 88, 92)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "10_(1, 5, 7, 17, 21, 26, 30, 37, 41, 44, 53, 54, 56, 59, 61, 74, 77, 78, 81, 82, 83, 86, 87, 88, 92)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(1, 5, 7, 17, 21, 26, 30, 37, 41, 44, 53, 54, 56, 59, 61, 74, 77, 78, 81, 82, 83, 86, 87, 88, 92)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(1, 5, 7, 17, 21, 26, 30, 37, 41, 44, 53, 54, 56, 59, 61, 74, 77, 78, 81, 82, 83, 86, 87, 88, 92)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "10_(1, 5, 7, 17, 21, 26, 30, 37, 41, 44, 53, 54, 56, 59, 61, 74, 77, 78, 81, 82, 83, 86, 87, 88, 92)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(1, 5, 7, 17, 21, 26, 30, 37, 41, 44, 53, 54, 56, 59, 61, 74, 77, 78, 81, 82, 83, 86, 87, 88, 92)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(1, 5, 7, 17, 21, 26, 30, 37, 41, 44, 53, 54, 56, 59, 61, 74, 77, 78, 81, 82, 83, 86, 87, 88, 92)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "10_(1, 7, 11, 13, 14, 16, 17, 21, 22, 23, 24, 33, 34, 40, 46, 47, 48, 51, 57, 75, 82, 86, 95, 98, 99)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "10_(1, 7, 11, 13, 14, 16, 17, 21, 22, 23, 24, 33, 34, 40, 46, 47, 48, 51, 57, 75, 82, 86, 95, 98, 99)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(1, 7, 11, 13, 14, 16, 17, 21, 22, 23, 24, 33, 34, 40, 46, 47, 48, 51, 57, 75, 82, 86, 95, 98, 99)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(1, 7, 11, 13, 14, 16, 17, 21, 22, 23, 24, 33, 34, 40, 46, 47, 48, 51, 57, 75, 82, 86, 95, 98, 99)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "10_(1, 7, 11, 13, 14, 16, 17, 21, 22, 23, 24, 33, 34, 40, 46, 47, 48, 51, 57, 75, 82, 86, 95, 98, 99)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(1, 7, 11, 13, 14, 16, 17, 21, 22, 23, 24, 33, 34, 40, 46, 47, 48, 51, 57, 75, 82, 86, 95, 98, 99)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(1, 7, 11, 13, 14, 16, 17, 21, 22, 23, 24, 33, 34, 40, 46, 47, 48, 51, 57, 75, 82, 86, 95, 98, 99)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "10_(1, 13, 17, 19, 21, 23, 31, 36, 37, 38, 40, 41, 43, 48, 49, 54, 56, 74, 81, 83, 85, 87, 90, 96, 98)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "10_(1, 13, 17, 19, 21, 23, 31, 36, 37, 38, 40, 41, 43, 48, 49, 54, 56, 74, 81, 83, 85, 87, 90, 96, 98)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(1, 13, 17, 19, 21, 23, 31, 36, 37, 38, 40, 41, 43, 48, 49, 54, 56, 74, 81, 83, 85, 87, 90, 96, 98)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(1, 13, 17, 19, 21, 23, 31, 36, 37, 38, 40, 41, 43, 48, 49, 54, 56, 74, 81, 83, 85, 87, 90, 96, 98)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "10_(1, 13, 17, 19, 21, 23, 31, 36, 37, 38, 40, 41, 43, 48, 49, 54, 56, 74, 81, 83, 85, 87, 90, 96, 98)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(1, 13, 17, 19, 21, 23, 31, 36, 37, 38, 40, 41, 43, 48, 49, 54, 56, 74, 81, 83, 85, 87, 90, 96, 98)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(1, 13, 17, 19, 21, 23, 31, 36, 37, 38, 40, 41, 43, 48, 49, 54, 56, 74, 81, 83, 85, 87, 90, 96, 98)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "10_(1, 14, 20, 23, 29, 32, 37, 41, 43, 49, 51, 55, 59, 65, 66, 68, 70, 76, 77, 80, 82, 83, 90, 97, 98)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "10_(1, 14, 20, 23, 29, 32, 37, 41, 43, 49, 51, 55, 59, 65, 66, 68, 70, 76, 77, 80, 82, 83, 90, 97, 98)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(1, 14, 20, 23, 29, 32, 37, 41, 43, 49, 51, 55, 59, 65, 66, 68, 70, 76, 77, 80, 82, 83, 90, 97, 98)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(1, 14, 20, 23, 29, 32, 37, 41, 43, 49, 51, 55, 59, 65, 66, 68, 70, 76, 77, 80, 82, 83, 90, 97, 98)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "10_(1, 14, 20, 23, 29, 32, 37, 41, 43, 49, 51, 55, 59, 65, 66, 68, 70, 76, 77, 80, 82, 83, 90, 97, 98)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(1, 14, 20, 23, 29, 32, 37, 41, 43, 49, 51, 55, 59, 65, 66, 68, 70, 76, 77, 80, 82, 83, 90, 97, 98)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(1, 14, 20, 23, 29, 32, 37, 41, 43, 49, 51, 55, 59, 65, 66, 68, 70, 76, 77, 80, 82, 83, 90, 97, 98)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "10_(2, 4, 8, 10, 12, 26, 30, 31, 32, 34, 44, 46, 51, 52, 54, 60, 62, 68, 72, 76, 77, 78, 83, 85, 90)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "10_(2, 4, 8, 10, 12, 26, 30, 31, 32, 34, 44, 46, 51, 52, 54, 60, 62, 68, 72, 76, 77, 78, 83, 85, 90)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(2, 4, 8, 10, 12, 26, 30, 31, 32, 34, 44, 46, 51, 52, 54, 60, 62, 68, 72, 76, 77, 78, 83, 85, 90)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(2, 4, 8, 10, 12, 26, 30, 31, 32, 34, 44, 46, 51, 52, 54, 60, 62, 68, 72, 76, 77, 78, 83, 85, 90)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "10_(2, 4, 8, 10, 12, 26, 30, 31, 32, 34, 44, 46, 51, 52, 54, 60, 62, 68, 72, 76, 77, 78, 83, 85, 90)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(2, 4, 8, 10, 12, 26, 30, 31, 32, 34, 44, 46, 51, 52, 54, 60, 62, 68, 72, 76, 77, 78, 83, 85, 90)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(2, 4, 8, 10, 12, 26, 30, 31, 32, 34, 44, 46, 51, 52, 54, 60, 62, 68, 72, 76, 77, 78, 83, 85, 90)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "10_(2, 5, 6, 8, 10, 11, 13, 16, 19, 22, 26, 27, 28, 30, 31, 35, 37, 46, 52, 53, 61, 63, 65, 69, 87)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "10_(2, 5, 6, 8, 10, 11, 13, 16, 19, 22, 26, 27, 28, 30, 31, 35, 37, 46, 52, 53, 61, 63, 65, 69, 87)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(2, 5, 6, 8, 10, 11, 13, 16, 19, 22, 26, 27, 28, 30, 31, 35, 37, 46, 52, 53, 61, 63, 65, 69, 87)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(2, 5, 6, 8, 10, 11, 13, 16, 19, 22, 26, 27, 28, 30, 31, 35, 37, 46, 52, 53, 61, 63, 65, 69, 87)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "10_(2, 5, 6, 8, 10, 11, 13, 16, 19, 22, 26, 27, 28, 30, 31, 35, 37, 46, 52, 53, 61, 63, 65, 69, 87)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(2, 5, 6, 8, 10, 11, 13, 16, 19, 22, 26, 27, 28, 30, 31, 35, 37, 46, 52, 53, 61, 63, 65, 69, 87)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(2, 5, 6, 8, 10, 11, 13, 16, 19, 22, 26, 27, 28, 30, 31, 35, 37, 46, 52, 53, 61, 63, 65, 69, 87)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "10_(3, 4, 5, 6, 7, 10, 17, 21, 24, 29, 36, 52, 53, 54, 55, 58, 62, 64, 68, 78, 81, 83, 85, 89, 90)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "10_(3, 4, 5, 6, 7, 10, 17, 21, 24, 29, 36, 52, 53, 54, 55, 58, 62, 64, 68, 78, 81, 83, 85, 89, 90)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(3, 4, 5, 6, 7, 10, 17, 21, 24, 29, 36, 52, 53, 54, 55, 58, 62, 64, 68, 78, 81, 83, 85, 89, 90)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(3, 4, 5, 6, 7, 10, 17, 21, 24, 29, 36, 52, 53, 54, 55, 58, 62, 64, 68, 78, 81, 83, 85, 89, 90)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "10_(3, 4, 5, 6, 7, 10, 17, 21, 24, 29, 36, 52, 53, 54, 55, 58, 62, 64, 68, 78, 81, 83, 85, 89, 90)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(3, 4, 5, 6, 7, 10, 17, 21, 24, 29, 36, 52, 53, 54, 55, 58, 62, 64, 68, 78, 81, 83, 85, 89, 90)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(3, 4, 5, 6, 7, 10, 17, 21, 24, 29, 36, 52, 53, 54, 55, 58, 62, 64, 68, 78, 81, 83, 85, 89, 90)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "10_(3, 4, 5, 9, 16, 18, 23, 24, 36, 37, 39, 43, 46, 48, 66, 68, 69, 72, 82, 86, 93, 94, 95, 99, 100)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "10_(3, 4, 5, 9, 16, 18, 23, 24, 36, 37, 39, 43, 46, 48, 66, 68, 69, 72, 82, 86, 93, 94, 95, 99, 100)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(3, 4, 5, 9, 16, 18, 23, 24, 36, 37, 39, 43, 46, 48, 66, 68, 69, 72, 82, 86, 93, 94, 95, 99, 100)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(3, 4, 5, 9, 16, 18, 23, 24, 36, 37, 39, 43, 46, 48, 66, 68, 69, 72, 82, 86, 93, 94, 95, 99, 100)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "10_(3, 4, 5, 9, 16, 18, 23, 24, 36, 37, 39, 43, 46, 48, 66, 68, 69, 72, 82, 86, 93, 94, 95, 99, 100)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(3, 4, 5, 9, 16, 18, 23, 24, 36, 37, 39, 43, 46, 48, 66, 68, 69, 72, 82, 86, 93, 94, 95, 99, 100)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(3, 4, 5, 9, 16, 18, 23, 24, 36, 37, 39, 43, 46, 48, 66, 68, 69, 72, 82, 86, 93, 94, 95, 99, 100)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "10_(3, 4, 6, 7, 8, 11, 12, 15, 17, 26, 38, 42, 44, 45, 51, 53, 54, 64, 68, 72, 73, 83, 87, 91, 99)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "10_(3, 4, 6, 7, 8, 11, 12, 15, 17, 26, 38, 42, 44, 45, 51, 53, 54, 64, 68, 72, 73, 83, 87, 91, 99)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(3, 4, 6, 7, 8, 11, 12, 15, 17, 26, 38, 42, 44, 45, 51, 53, 54, 64, 68, 72, 73, 83, 87, 91, 99)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(3, 4, 6, 7, 8, 11, 12, 15, 17, 26, 38, 42, 44, 45, 51, 53, 54, 64, 68, 72, 73, 83, 87, 91, 99)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "10_(3, 4, 6, 7, 8, 11, 12, 15, 17, 26, 38, 42, 44, 45, 51, 53, 54, 64, 68, 72, 73, 83, 87, 91, 99)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(3, 4, 6, 7, 8, 11, 12, 15, 17, 26, 38, 42, 44, 45, 51, 53, 54, 64, 68, 72, 73, 83, 87, 91, 99)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(3, 4, 6, 7, 8, 11, 12, 15, 17, 26, 38, 42, 44, 45, 51, 53, 54, 64, 68, 72, 73, 83, 87, 91, 99)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "10_(3, 4, 6, 9, 10, 15, 16, 18, 19, 38, 39, 44, 46, 51, 54, 58, 64, 68, 69, 72, 76, 78, 80, 94, 99)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "10_(3, 4, 6, 9, 10, 15, 16, 18, 19, 38, 39, 44, 46, 51, 54, 58, 64, 68, 69, 72, 76, 78, 80, 94, 99)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(3, 4, 6, 9, 10, 15, 16, 18, 19, 38, 39, 44, 46, 51, 54, 58, 64, 68, 69, 72, 76, 78, 80, 94, 99)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(3, 4, 6, 9, 10, 15, 16, 18, 19, 38, 39, 44, 46, 51, 54, 58, 64, 68, 69, 72, 76, 78, 80, 94, 99)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "10_(3, 4, 6, 9, 10, 15, 16, 18, 19, 38, 39, 44, 46, 51, 54, 58, 64, 68, 69, 72, 76, 78, 80, 94, 99)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(3, 4, 6, 9, 10, 15, 16, 18, 19, 38, 39, 44, 46, 51, 54, 58, 64, 68, 69, 72, 76, 78, 80, 94, 99)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(3, 4, 6, 9, 10, 15, 16, 18, 19, 38, 39, 44, 46, 51, 54, 58, 64, 68, 69, 72, 76, 78, 80, 94, 99)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "10_(3, 4, 9, 12, 16, 20, 28, 33, 38, 44, 48, 49, 54, 56, 58, 60, 64, 79, 80, 84, 87, 88, 94, 96, 100)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "10_(3, 4, 9, 12, 16, 20, 28, 33, 38, 44, 48, 49, 54, 56, 58, 60, 64, 79, 80, 84, 87, 88, 94, 96, 100)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(3, 4, 9, 12, 16, 20, 28, 33, 38, 44, 48, 49, 54, 56, 58, 60, 64, 79, 80, 84, 87, 88, 94, 96, 100)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(3, 4, 9, 12, 16, 20, 28, 33, 38, 44, 48, 49, 54, 56, 58, 60, 64, 79, 80, 84, 87, 88, 94, 96, 100)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "10_(3, 4, 9, 12, 16, 20, 28, 33, 38, 44, 48, 49, 54, 56, 58, 60, 64, 79, 80, 84, 87, 88, 94, 96, 100)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(3, 4, 9, 12, 16, 20, 28, 33, 38, 44, 48, 49, 54, 56, 58, 60, 64, 79, 80, 84, 87, 88, 94, 96, 100)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(3, 4, 9, 12, 16, 20, 28, 33, 38, 44, 48, 49, 54, 56, 58, 60, 64, 79, 80, 84, 87, 88, 94, 96, 100)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "10_(3, 5, 6, 7, 10, 18, 21, 24, 28, 36, 37, 39, 42, 43, 47, 49, 53, 56, 61, 68, 69, 72, 81, 89, 90)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "10_(3, 5, 6, 7, 10, 18, 21, 24, 28, 36, 37, 39, 42, 43, 47, 49, 53, 56, 61, 68, 69, 72, 81, 89, 90)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(3, 5, 6, 7, 10, 18, 21, 24, 28, 36, 37, 39, 42, 43, 47, 49, 53, 56, 61, 68, 69, 72, 81, 89, 90)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(3, 5, 6, 7, 10, 18, 21, 24, 28, 36, 37, 39, 42, 43, 47, 49, 53, 56, 61, 68, 69, 72, 81, 89, 90)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "10_(3, 5, 6, 7, 10, 18, 21, 24, 28, 36, 37, 39, 42, 43, 47, 49, 53, 56, 61, 68, 69, 72, 81, 89, 90)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(3, 5, 6, 7, 10, 18, 21, 24, 28, 36, 37, 39, 42, 43, 47, 49, 53, 56, 61, 68, 69, 72, 81, 89, 90)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(3, 5, 6, 7, 10, 18, 21, 24, 28, 36, 37, 39, 42, 43, 47, 49, 53, 56, 61, 68, 69, 72, 81, 89, 90)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "10_(3, 7, 18, 26, 32, 34, 38, 39, 40, 46, 47, 50, 52, 59, 65, 68, 76, 78, 80, 88, 89, 91, 92, 95, 99)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "10_(3, 7, 18, 26, 32, 34, 38, 39, 40, 46, 47, 50, 52, 59, 65, 68, 76, 78, 80, 88, 89, 91, 92, 95, 99)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(3, 7, 18, 26, 32, 34, 38, 39, 40, 46, 47, 50, 52, 59, 65, 68, 76, 78, 80, 88, 89, 91, 92, 95, 99)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(3, 7, 18, 26, 32, 34, 38, 39, 40, 46, 47, 50, 52, 59, 65, 68, 76, 78, 80, 88, 89, 91, 92, 95, 99)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "10_(3, 7, 18, 26, 32, 34, 38, 39, 40, 46, 47, 50, 52, 59, 65, 68, 76, 78, 80, 88, 89, 91, 92, 95, 99)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(3, 7, 18, 26, 32, 34, 38, 39, 40, 46, 47, 50, 52, 59, 65, 68, 76, 78, 80, 88, 89, 91, 92, 95, 99)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(3, 7, 18, 26, 32, 34, 38, 39, 40, 46, 47, 50, 52, 59, 65, 68, 76, 78, 80, 88, 89, 91, 92, 95, 99)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "10_(3, 10, 11, 12, 15, 16, 27, 29, 41, 53, 56, 58, 62, 65, 66, 67, 69, 70, 77, 78, 79, 80, 96, 97, 99)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "10_(3, 10, 11, 12, 15, 16, 27, 29, 41, 53, 56, 58, 62, 65, 66, 67, 69, 70, 77, 78, 79, 80, 96, 97, 99)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(3, 10, 11, 12, 15, 16, 27, 29, 41, 53, 56, 58, 62, 65, 66, 67, 69, 70, 77, 78, 79, 80, 96, 97, 99)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(3, 10, 11, 12, 15, 16, 27, 29, 41, 53, 56, 58, 62, 65, 66, 67, 69, 70, 77, 78, 79, 80, 96, 97, 99)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "10_(3, 10, 11, 12, 15, 16, 27, 29, 41, 53, 56, 58, 62, 65, 66, 67, 69, 70, 77, 78, 79, 80, 96, 97, 99)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(3, 10, 11, 12, 15, 16, 27, 29, 41, 53, 56, 58, 62, 65, 66, 67, 69, 70, 77, 78, 79, 80, 96, 97, 99)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(3, 10, 11, 12, 15, 16, 27, 29, 41, 53, 56, 58, 62, 65, 66, 67, 69, 70, 77, 78, 79, 80, 96, 97, 99)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "10_(4, 7, 16, 20, 32, 39, 50, 53, 54, 56, 65, 67, 68, 71, 75, 77, 78, 79, 86, 88, 89, 92, 93, 95, 100)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "10_(4, 7, 16, 20, 32, 39, 50, 53, 54, 56, 65, 67, 68, 71, 75, 77, 78, 79, 86, 88, 89, 92, 93, 95, 100)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(4, 7, 16, 20, 32, 39, 50, 53, 54, 56, 65, 67, 68, 71, 75, 77, 78, 79, 86, 88, 89, 92, 93, 95, 100)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(4, 7, 16, 20, 32, 39, 50, 53, 54, 56, 65, 67, 68, 71, 75, 77, 78, 79, 86, 88, 89, 92, 93, 95, 100)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "10_(4, 7, 16, 20, 32, 39, 50, 53, 54, 56, 65, 67, 68, 71, 75, 77, 78, 79, 86, 88, 89, 92, 93, 95, 100)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(4, 7, 16, 20, 32, 39, 50, 53, 54, 56, 65, 67, 68, 71, 75, 77, 78, 79, 86, 88, 89, 92, 93, 95, 100)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(4, 7, 16, 20, 32, 39, 50, 53, 54, 56, 65, 67, 68, 71, 75, 77, 78, 79, 86, 88, 89, 92, 93, 95, 100)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "10_(4, 10, 11, 14, 15, 16, 18, 25, 26, 31, 35, 45, 51, 57, 63, 67, 68, 71, 72, 78, 82, 84, 93, 95, 99)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "10_(4, 10, 11, 14, 15, 16, 18, 25, 26, 31, 35, 45, 51, 57, 63, 67, 68, 71, 72, 78, 82, 84, 93, 95, 99)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(4, 10, 11, 14, 15, 16, 18, 25, 26, 31, 35, 45, 51, 57, 63, 67, 68, 71, 72, 78, 82, 84, 93, 95, 99)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(4, 10, 11, 14, 15, 16, 18, 25, 26, 31, 35, 45, 51, 57, 63, 67, 68, 71, 72, 78, 82, 84, 93, 95, 99)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "10_(4, 10, 11, 14, 15, 16, 18, 25, 26, 31, 35, 45, 51, 57, 63, 67, 68, 71, 72, 78, 82, 84, 93, 95, 99)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(4, 10, 11, 14, 15, 16, 18, 25, 26, 31, 35, 45, 51, 57, 63, 67, 68, 71, 72, 78, 82, 84, 93, 95, 99)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(4, 10, 11, 14, 15, 16, 18, 25, 26, 31, 35, 45, 51, 57, 63, 67, 68, 71, 72, 78, 82, 84, 93, 95, 99)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "10_(5, 9, 12, 16, 18, 25, 26, 30, 31, 32, 34, 41, 44, 45, 61, 63, 66, 72, 74, 78, 81, 86, 87, 91, 93)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "10_(5, 9, 12, 16, 18, 25, 26, 30, 31, 32, 34, 41, 44, 45, 61, 63, 66, 72, 74, 78, 81, 86, 87, 91, 93)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(5, 9, 12, 16, 18, 25, 26, 30, 31, 32, 34, 41, 44, 45, 61, 63, 66, 72, 74, 78, 81, 86, 87, 91, 93)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(5, 9, 12, 16, 18, 25, 26, 30, 31, 32, 34, 41, 44, 45, 61, 63, 66, 72, 74, 78, 81, 86, 87, 91, 93)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "10_(5, 9, 12, 16, 18, 25, 26, 30, 31, 32, 34, 41, 44, 45, 61, 63, 66, 72, 74, 78, 81, 86, 87, 91, 93)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(5, 9, 12, 16, 18, 25, 26, 30, 31, 32, 34, 41, 44, 45, 61, 63, 66, 72, 74, 78, 81, 86, 87, 91, 93)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(5, 9, 12, 16, 18, 25, 26, 30, 31, 32, 34, 41, 44, 45, 61, 63, 66, 72, 74, 78, 81, 86, 87, 91, 93)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "10_(7, 10, 12, 18, 30, 32, 40, 41, 44, 47, 48, 51, 52, 56, 59, 63, 64, 72, 73, 74, 75, 80, 81, 87, 90)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "10_(7, 10, 12, 18, 30, 32, 40, 41, 44, 47, 48, 51, 52, 56, 59, 63, 64, 72, 73, 74, 75, 80, 81, 87, 90)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(7, 10, 12, 18, 30, 32, 40, 41, 44, 47, 48, 51, 52, 56, 59, 63, 64, 72, 73, 74, 75, 80, 81, 87, 90)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(7, 10, 12, 18, 30, 32, 40, 41, 44, 47, 48, 51, 52, 56, 59, 63, 64, 72, 73, 74, 75, 80, 81, 87, 90)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "10_(7, 10, 12, 18, 30, 32, 40, 41, 44, 47, 48, 51, 52, 56, 59, 63, 64, 72, 73, 74, 75, 80, 81, 87, 90)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(7, 10, 12, 18, 30, 32, 40, 41, 44, 47, 48, 51, 52, 56, 59, 63, 64, 72, 73, 74, 75, 80, 81, 87, 90)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(7, 10, 12, 18, 30, 32, 40, 41, 44, 47, 48, 51, 52, 56, 59, 63, 64, 72, 73, 74, 75, 80, 81, 87, 90)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "10_(7, 18, 19, 30, 37, 38, 41, 47, 49, 50, 53, 56, 57, 58, 59, 61, 62, 68, 69, 73, 88, 90, 91, 93, 99)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "10_(7, 18, 19, 30, 37, 38, 41, 47, 49, 50, 53, 56, 57, 58, 59, 61, 62, 68, 69, 73, 88, 90, 91, 93, 99)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(7, 18, 19, 30, 37, 38, 41, 47, 49, 50, 53, 56, 57, 58, 59, 61, 62, 68, 69, 73, 88, 90, 91, 93, 99)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(7, 18, 19, 30, 37, 38, 41, 47, 49, 50, 53, 56, 57, 58, 59, 61, 62, 68, 69, 73, 88, 90, 91, 93, 99)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "10_(7, 18, 19, 30, 37, 38, 41, 47, 49, 50, 53, 56, 57, 58, 59, 61, 62, 68, 69, 73, 88, 90, 91, 93, 99)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(7, 18, 19, 30, 37, 38, 41, 47, 49, 50, 53, 56, 57, 58, 59, 61, 62, 68, 69, 73, 88, 90, 91, 93, 99)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(7, 18, 19, 30, 37, 38, 41, 47, 49, 50, 53, 56, 57, 58, 59, 61, 62, 68, 69, 73, 88, 90, 91, 93, 99)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "10_(8, 11, 23, 26, 32, 38, 44, 45, 47, 50, 53, 59, 61, 64, 68, 70, 71, 83, 86, 87, 88, 89, 91, 95, 99)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "10_(8, 11, 23, 26, 32, 38, 44, 45, 47, 50, 53, 59, 61, 64, 68, 70, 71, 83, 86, 87, 88, 89, 91, 95, 99)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(8, 11, 23, 26, 32, 38, 44, 45, 47, 50, 53, 59, 61, 64, 68, 70, 71, 83, 86, 87, 88, 89, 91, 95, 99)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(8, 11, 23, 26, 32, 38, 44, 45, 47, 50, 53, 59, 61, 64, 68, 70, 71, 83, 86, 87, 88, 89, 91, 95, 99)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "10_(8, 11, 23, 26, 32, 38, 44, 45, 47, 50, 53, 59, 61, 64, 68, 70, 71, 83, 86, 87, 88, 89, 91, 95, 99)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(8, 11, 23, 26, 32, 38, 44, 45, 47, 50, 53, 59, 61, 64, 68, 70, 71, 83, 86, 87, 88, 89, 91, 95, 99)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(8, 11, 23, 26, 32, 38, 44, 45, 47, 50, 53, 59, 61, 64, 68, 70, 71, 83, 86, 87, 88, 89, 91, 95, 99)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "10_(11, 13, 16, 20, 21, 22, 37, 47, 49, 50, 55, 58, 60, 62, 63, 65, 69, 70, 73, 74, 76, 82, 97, 98, 100)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "10_(11, 13, 16, 20, 21, 22, 37, 47, 49, 50, 55, 58, 60, 62, 63, 65, 69, 70, 73, 74, 76, 82, 97, 98, 100)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(11, 13, 16, 20, 21, 22, 37, 47, 49, 50, 55, 58, 60, 62, 63, 65, 69, 70, 73, 74, 76, 82, 97, 98, 100)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(11, 13, 16, 20, 21, 22, 37, 47, 49, 50, 55, 58, 60, 62, 63, 65, 69, 70, 73, 74, 76, 82, 97, 98, 100)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "10_(11, 13, 16, 20, 21, 22, 37, 47, 49, 50, 55, 58, 60, 62, 63, 65, 69, 70, 73, 74, 76, 82, 97, 98, 100)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(11, 13, 16, 20, 21, 22, 37, 47, 49, 50, 55, 58, 60, 62, 63, 65, 69, 70, 73, 74, 76, 82, 97, 98, 100)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(11, 13, 16, 20, 21, 22, 37, 47, 49, 50, 55, 58, 60, 62, 63, 65, 69, 70, 73, 74, 76, 82, 97, 98, 100)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    },
+    {
+      "label": "10_(15, 16, 23, 26, 29, 31, 34, 45, 47, 53, 60, 61, 62, 65, 69, 74, 77, 79, 81, 89, 91, 92, 93, 96, 98)_duplicate",
+      "exception": "GrilleError",
+      "reason": "duplicate hole"
+    },
+    {
+      "label": "10_(15, 16, 23, 26, 29, 31, 34, 45, 47, 53, 60, 61, 62, 65, 69, 74, 77, 79, 81, 89, 91, 92, 93, 96, 98)_below_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(15, 16, 23, 26, 29, 31, 34, 45, 47, 53, 60, 61, 62, 65, 69, 74, 77, 79, 81, 89, 91, 92, 93, 96, 98)_above_bounds",
+      "exception": "GrilleError",
+      "reason": "hole outside square"
+    },
+    {
+      "label": "10_(15, 16, 23, 26, 29, 31, 34, 45, 47, 53, 60, 61, 62, 65, 69, 74, 77, 79, 81, 89, 91, 92, 93, 96, 98)_missing_hole",
+      "exception": "GrilleError",
+      "reason": "wrong number of holes for full four-turn coverage"
+    },
+    {
+      "label": "10_(15, 16, 23, 26, 29, 31, 34, 45, 47, 53, 60, 61, 62, 65, 69, 74, 77, 79, 81, 89, 91, 92, 93, 96, 98)_partial_encrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(15, 16, 23, 26, 29, 31, 34, 45, 47, 53, 60, 61, 62, 65, 69, 74, 77, 79, 81, 89, 91, 92, 93, 96, 98)_partial_decrypt",
+      "exception": "GrilleError",
+      "reason": "text extent must contain whole square blocks"
+    },
+    {
+      "label": "10_(15, 16, 23, 26, 29, 31, 34, 45, 47, 53, 60, 61, 62, 65, 69, 74, 77, 79, 81, 89, 91, 92, 93, 96, 98)_same_orbit_overlap",
+      "exception": "GrilleError",
+      "reason": "rotation coverage overlaps or leaves cells missing"
+    }
+  ],
+  "empty_payload_policy": "allowed as zero whole blocks; non-string and partial blocks rejected",
+  "new_known_control_method": "rotation-orbit construction plus primary vector, distinct cell-symbol placement and independent block calls",
+  "target_inputs": 0,
+  "root_code_read_or_imported_before_this_run": false,
+  "limits": "Software and primary worked-example control only; no target source/key geometry or historical plaintext assessed.",
+  "completed_at_utc": "2026-10-05T17:37:27.142468+00:00",
+  "independent_code_sha256": "94b5e3d7a34f60fad1262f8467b67d8a5915cca9c355590b2564d98c58ac35e1"
+}

@@ -1,0 +1,11 @@
+{
+  "utc": "2026-10-06T04:40:59.826132+00:00",
+  "case": "HC1615",
+  "target_projection_audit_released": true,
+  "released_by": "root explicit message after primary+independentcoldsource seals and CP010/CP020 lock",
+  "root_manifest_replay": "45primary+17independent files as reported byroot; not retroactively ownreplay",
+  "source_preferred_not_unique": true,
+  "old_generic_key_known": true,
+  "current_target_source_labels_or_projection_seen_before_release": false,
+  "root_decoder_imported": false
+}

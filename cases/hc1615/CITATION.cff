@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the proposed reading and its explicit model qualifications."
+title: "A New Year's kiss in cipher: a reproducible proposed reading of HC Portal1615 (1901)"
+version: "1.0"
+type: software
+authors: 
+  - family-names: "Zeng"
+    given-names: "Zijian"
+    affiliation: "Institute of Computer Science and Digital Innovation, UCSI University, Kuala Lumpur, 56000, MALAYSIA"
+    email: "zijianzeng@foxmail.com"
+license: MIT

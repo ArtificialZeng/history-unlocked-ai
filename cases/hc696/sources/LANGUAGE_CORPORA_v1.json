@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1661,
+    "url": "https://www.gutenberg.org/ebooks/1661.txt.utf-8",
+    "access_date": "2026-10-05",
+    "path": "sources/language/training_doyle1892.txt",
+    "sha256": "922e2a12ccb43a4c9544c260b2166c6ad2097aeb5957faeee113f173bb857cd0",
+    "purpose": "training",
+    "public_source": "Project Gutenberg public-domain US edition; source header retained",
+    "bytecopy_from": "/Users/zeng/Documents/\u89e3\u8c1c/dagapeyeff_decipherment/data/raw/language/training_doyle1892.txt",
+    "scope": "Shared public literary training/control corpus only; no other-project target ciphertext/key/results copied."
+  },
+  {
+    "id": 84,
+    "url": "https://www.gutenberg.org/ebooks/84.txt.utf-8",
+    "access_date": "2026-10-05",
+    "path": "sources/language/validation_shelley1818.txt",
+    "sha256": "7810cd483cffcf2cc8a1d8f0d5807931e69d4f48cd14149b8c76f88af82fead3",
+    "purpose": "held_out_synthetic_controls",
+    "public_source": "Project Gutenberg public-domain US edition; source header retained",
+    "bytecopy_from": "/Users/zeng/Documents/\u89e3\u8c1c/dagapeyeff_decipherment/data/raw/language/validation_shelley1818.txt",
+    "scope": "Shared public literary training/control corpus only; no other-project target ciphertext/key/results copied."
+  }
+]

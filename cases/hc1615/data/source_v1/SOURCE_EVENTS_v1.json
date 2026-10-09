@@ -1,0 +1,92 @@
+{
+  "events": [
+    {
+      "event_id": "R01G02U02_MARK",
+      "row_id": "R01",
+      "group_id": "R01G02",
+      "associated_unit_id": "R01G02U02",
+      "raw_shape": "detachedtwo-strokeupperchevron",
+      "primitive_component_ids": [
+        "R01G02C02M01",
+        "R01G02C02M02"
+      ],
+      "preferred_role": "unitattachedgraphmark",
+      "semantic_role": null,
+      "source_native_row_box_xyxy": [
+        1391,
+        750,
+        1467,
+        1105
+      ],
+      "native_row_crop": "reports/source_v1/R01_FULL_NATIVE_ROW_v1.png",
+      "row_RGB_SHA256": "b362ca636b09f5f9b23f15a9017da648fd44aa96c6547789178f5a2e746af2a5"
+    },
+    {
+      "event_id": "R02G04U03_MARK",
+      "row_id": "R02",
+      "group_id": "R02G04",
+      "associated_unit_id": "R02G04U03",
+      "raw_shape": "detachedtwo-strokeupperchevron",
+      "primitive_component_ids": [
+        "R02G04C03M01",
+        "R02G04C03M02"
+      ],
+      "preferred_role": "unitattachedgraphmark",
+      "semantic_role": null,
+      "source_native_row_box_xyxy": [
+        1325,
+        750,
+        1415,
+        1105
+      ],
+      "native_row_crop": "reports/source_v1/R02_FULL_NATIVE_ROW_v1.png",
+      "row_RGB_SHA256": "dbe7e6942d2ae9162727bf87252ad2925b2d3a9b61ad9ede6f75826cddc57226"
+    },
+    {
+      "event_id": "R04G02E03",
+      "row_id": "R04",
+      "group_id": "R04G02",
+      "after_local_unit_ordinal": 6,
+      "raw_shape": ",",
+      "preferred_role": "comma/terminalpunctuation",
+      "alternative_role": "cipherformat/unitrole notsemanticallyinterpreted",
+      "native_row_crop": "reports/source_v1/R04_FULL_NATIVE_ROW_v1.png",
+      "source_native_row_box_xyxy": [
+        1189,
+        750,
+        1297,
+        1105
+      ],
+      "row_PNG_SHA256": "424ddc155afd54ec3b3469fb6895f170f392e3c3f695e7018db93b8ba38095ae",
+      "row_RGB_SHA256": "959c99e1e06ddd5f7d7e45f44ec6638af5f53718472622505355b9ec69db93bb"
+    },
+    {
+      "event_id": "R07G02E04",
+      "row_id": "R07",
+      "group_id": "R07G02",
+      "after_local_unit_ordinal": 6,
+      "raw_shape": ".",
+      "preferred_role": "comma/terminalpunctuation",
+      "alternative_role": "cipherformat/unitrole notsemanticallyinterpreted",
+      "native_row_crop": "reports/source_v1/R07_FULL_NATIVE_ROW_v1.png",
+      "source_native_row_box_xyxy": [
+        1018,
+        750,
+        1111,
+        1105
+      ],
+      "row_PNG_SHA256": "470f4c74c24c415919def26ad55980fa78e7cae6f54b6c490c124b03d2051574",
+      "row_RGB_SHA256": "c6242b4177e9360bee0bea97d2752eab2223e58b9555fab9c1aceb4d6f1ef751"
+    }
+  ],
+  "raw_format_rows": [
+    "t3 d{H_MARK_UNASSIGNED}5d4s5 d4",
+    "bh575 6 f t2{R_MARK}2",
+    "m6 c86tg6 2cd6",
+    "df375 fh5832,",
+    "t832r32 b2c2",
+    "d4cgm5 f5sm5",
+    "df27 b5b32c."
+  ],
+  "allgaps_physicalrows_markprimitives_comma_period_preserved": true
+}

@@ -1,0 +1,61 @@
+{
+  "started_utc": "2026-10-05T20:45:52.961295+00:00",
+  "finished_utc": "2026-10-05T20:45:54.982559+00:00",
+  "exit_code": 0,
+  "command": [
+    "python3",
+    "scripts/check_hc849_release_v1.py",
+    "--integrity-tests"
+  ],
+  "checker_sha256": "18214dce4b8a5a4bb744d0ed50a9510801b662c161ce01eef98b1945b2995541",
+  "status": "PASS SCOPED CURRENT-BODY READ-ONLY CHECK",
+  "counts": {
+    "current_letters": 64,
+    "physical_cells": 64,
+    "physical_cuts": 16,
+    "conventions": 32,
+    "own_source_certificates": 2048,
+    "root_source_certificates": 2048,
+    "bounded_fixed_literal_controls": 79,
+    "root_synthetic_fixtures": 3200,
+    "root_fixture_distinct_keys": 100,
+    "root_fixture_block_counts": [
+      3
+    ]
+  },
+  "integrity_tests": [
+    {
+      "counterfactual": "changed preferred P",
+      "status": "REJECTED",
+      "reason": "changed preferred P or key: preferred literal no longer matches current source",
+      "mutation_scope": "deep-copied in-memory objects only"
+    },
+    {
+      "counterfactual": "changed current C",
+      "status": "REJECTED",
+      "reason": "changed preferred P or key: preferred literal no longer matches current source",
+      "mutation_scope": "deep-copied in-memory objects only"
+    },
+    {
+      "counterfactual": "changed native current coordinate",
+      "status": "REJECTED",
+      "reason": "own native current-coordinate or physical-cut provenance differs",
+      "mutation_scope": "deep-copied in-memory objects only"
+    },
+    {
+      "counterfactual": "changed physical cut with valid orbit coverage",
+      "status": "REJECTED",
+      "reason": "changed preferred P or key: preferred literal no longer matches current source",
+      "mutation_scope": "deep-copied in-memory objects only"
+    },
+    {
+      "counterfactual": "invented previous source layer",
+      "status": "REJECTED",
+      "reason": "invented previous source layer at position 30",
+      "mutation_scope": "deep-copied in-memory objects only"
+    }
+  ],
+  "error": null,
+  "stdout_sha256": "dcba72413ba4d42257ac2d40ec770d2e810d13dfdbfdcc5c9139d82da0d3aa5c",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

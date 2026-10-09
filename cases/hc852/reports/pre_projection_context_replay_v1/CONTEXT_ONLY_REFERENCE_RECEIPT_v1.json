@@ -1,0 +1,17 @@
+{
+  "utc": "2026-10-05T21:45:33.449842+00:00",
+  "initial_adapter_failure": "Context-only PROJECT_STATE hash changed by legitimate CP010/020 state update after source freeze; assertion before any targetstream parse or fullcodec projection.",
+  "changed_context": [
+    {
+      "path": "PROJECT_STATE.json",
+      "bytes": 830,
+      "sha256": "1281fc8e66aecdf35da03783253ed2262a89f421114005d6d2e09b45a127f810"
+    }
+  ],
+  "source_payload_hashes_unchanged": true,
+  "old_context_reproduced_exact_from": "git cp-000:PROJECT_STATE.json",
+  "snapshot_path": "reports/pre_projection_context_replay_v1/CP000_PROJECT_STATE_CONTEXT_SNAPSHOT_v1.json",
+  "snapshot_sha256": "1281fc8e66aecdf35da03783253ed2262a89f421114005d6d2e09b45a127f810",
+  "target_source_key_code_registration_changed": false,
+  "full_target_projection_before_repair": false
+}

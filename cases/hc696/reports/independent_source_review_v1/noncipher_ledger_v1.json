@@ -1,0 +1,392 @@
+{
+  "header_diplomatic": "Anglický text čís. 7",
+  "header_caution": "Mixed-case base characters and numeral are readable. The y/c/i diacritic spellings above are tentative shape transcription, not linguistic evidence; no header word is used as a crib.",
+  "occurrences": [
+    {
+      "occurrence_id": "H001",
+      "visible_value": "A",
+      "bbox_original_xyxy": [
+        136,
+        440,
+        184,
+        560
+      ],
+      "event_ids": [
+        "E13",
+        "E15"
+      ],
+      "identity_status": "legible",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "occurrence_id": "H002",
+      "visible_value": "n",
+      "bbox_original_xyxy": [
+        177,
+        440,
+        225,
+        560
+      ],
+      "event_ids": [
+        "E13",
+        "E15"
+      ],
+      "identity_status": "legible",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "occurrence_id": "H003",
+      "visible_value": "g",
+      "bbox_original_xyxy": [
+        218,
+        440,
+        266,
+        560
+      ],
+      "event_ids": [
+        "E13",
+        "E15"
+      ],
+      "identity_status": "legible",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "occurrence_id": "H004",
+      "visible_value": "l",
+      "bbox_original_xyxy": [
+        258,
+        440,
+        306,
+        560
+      ],
+      "event_ids": [
+        "E13",
+        "E15"
+      ],
+      "identity_status": "legible",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "occurrence_id": "H005",
+      "visible_value": "i",
+      "bbox_original_xyxy": [
+        297,
+        440,
+        345,
+        560
+      ],
+      "event_ids": [
+        "E13",
+        "E15"
+      ],
+      "identity_status": "legible",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "occurrence_id": "H006",
+      "visible_value": "c",
+      "bbox_original_xyxy": [
+        339,
+        440,
+        387,
+        560
+      ],
+      "event_ids": [
+        "E13",
+        "E15"
+      ],
+      "identity_status": "legible",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "occurrence_id": "H007",
+      "visible_value": "k",
+      "bbox_original_xyxy": [
+        379,
+        440,
+        427,
+        560
+      ],
+      "event_ids": [
+        "E13",
+        "E15"
+      ],
+      "identity_status": "legible",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "occurrence_id": "H008",
+      "visible_value": "ý",
+      "bbox_original_xyxy": [
+        420,
+        440,
+        468,
+        560
+      ],
+      "event_ids": [
+        "E13",
+        "E15"
+      ],
+      "identity_status": "base character fixed; diacritic spelling tentative",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "occurrence_id": "H009",
+      "visible_value": "t",
+      "bbox_original_xyxy": [
+        506,
+        440,
+        554,
+        560
+      ],
+      "event_ids": [
+        "E13",
+        "E15"
+      ],
+      "identity_status": "legible",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "occurrence_id": "H010",
+      "visible_value": "e",
+      "bbox_original_xyxy": [
+        549,
+        440,
+        597,
+        560
+      ],
+      "event_ids": [
+        "E13",
+        "E15"
+      ],
+      "identity_status": "legible",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "occurrence_id": "H011",
+      "visible_value": "x",
+      "bbox_original_xyxy": [
+        591,
+        440,
+        639,
+        560
+      ],
+      "event_ids": [
+        "E13",
+        "E15"
+      ],
+      "identity_status": "legible",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "occurrence_id": "H012",
+      "visible_value": "t",
+      "bbox_original_xyxy": [
+        631,
+        440,
+        679,
+        560
+      ],
+      "event_ids": [
+        "E13",
+        "E15"
+      ],
+      "identity_status": "legible",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "occurrence_id": "H013",
+      "visible_value": "č",
+      "bbox_original_xyxy": [
+        706,
+        440,
+        754,
+        560
+      ],
+      "event_ids": [
+        "E13",
+        "E15"
+      ],
+      "identity_status": "base character fixed; diacritic spelling tentative",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "occurrence_id": "H014",
+      "visible_value": "í",
+      "bbox_original_xyxy": [
+        748,
+        440,
+        796,
+        560
+      ],
+      "event_ids": [
+        "E13",
+        "E15"
+      ],
+      "identity_status": "base character fixed; diacritic spelling tentative",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "occurrence_id": "H015",
+      "visible_value": "s",
+      "bbox_original_xyxy": [
+        790,
+        440,
+        838,
+        560
+      ],
+      "event_ids": [
+        "E13",
+        "E15"
+      ],
+      "identity_status": "legible",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "occurrence_id": "H016",
+      "visible_value": ".",
+      "bbox_original_xyxy": [
+        832,
+        440,
+        880,
+        560
+      ],
+      "event_ids": [
+        "E13",
+        "E15"
+      ],
+      "identity_status": "legible",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "occurrence_id": "H017",
+      "visible_value": "7",
+      "bbox_original_xyxy": [
+        898,
+        440,
+        946,
+        560
+      ],
+      "event_ids": [
+        "E13",
+        "E15"
+      ],
+      "identity_status": "legible",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "occurrence_id": "R001",
+      "visible_value": "violet dashed rule",
+      "bbox_original_xyxy": [
+        120,
+        553,
+        960,
+        610
+      ],
+      "event_ids": [
+        "E14",
+        "E15"
+      ],
+      "identity_status": "shape observation; function not inferred",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "occurrence_id": "S001",
+      "visible_value": "red rising heading stroke",
+      "bbox_original_xyxy": [
+        75,
+        395,
+        1240,
+        610
+      ],
+      "event_ids": [
+        "E15"
+      ],
+      "identity_status": "shape observation; function not inferred",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "occurrence_id": "M001",
+      "visible_value": "4",
+      "bbox_original_xyxy": [
+        2490,
+        95,
+        2710,
+        360
+      ],
+      "event_ids": [
+        "E16"
+      ],
+      "identity_status": "shape observation; function not inferred",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "occurrence_id": "M002",
+      "visible_value": "check/V-like shape",
+      "bbox_original_xyxy": [
+        2120,
+        470,
+        2250,
+        600
+      ],
+      "event_ids": [
+        "E17"
+      ],
+      "identity_status": "shape observation; function not inferred",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "occurrence_id": "S002",
+      "visible_value": "red left-margin stroke",
+      "bbox_original_xyxy": [
+        0,
+        710,
+        110,
+        910
+      ],
+      "event_ids": [
+        "E11"
+      ],
+      "identity_status": "shape observation; function not inferred",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    },
+    {
+      "occurrence_id": "S003",
+      "visible_value": "narrow blue vertical stroke",
+      "bbox_original_xyxy": [
+        350,
+        2000,
+        460,
+        2240
+      ],
+      "event_ids": [
+        "E12"
+      ],
+      "identity_status": "shape observation; function not inferred",
+      "source": "sources/raw/HC696_original.jpg",
+      "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    }
+  ]
+}

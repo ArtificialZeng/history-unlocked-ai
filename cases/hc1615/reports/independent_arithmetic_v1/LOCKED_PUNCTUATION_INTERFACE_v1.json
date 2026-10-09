@@ -1,0 +1,11 @@
+{
+  "utc": "2026-10-06T04:40:59.826132+00:00",
+  "root_policy_locked_before_actual_read": true,
+  "lock_path": "config/FIXED_PROJECTION_LOCK_v1.json",
+  "lock_sha256": "fe7907e8434382941cca10fdedf41c4a11c7985a667d111e0091cebc7bb6a960",
+  "punctuation_roles": [
+    "comma/terminalpunctuation"
+  ],
+  "row_display_field": "literal_with_preferred_terminal_event",
+  "interpretation": "Compatibility field emits ALL preferredpunctuation after specifiedsource unitordinal inside matchinggroup; allgroup spaces and rows remain; unit-attached markevents not separatelyemitted"
+}

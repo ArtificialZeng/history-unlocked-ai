@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Cite the scoped current-layer certificate, not an unknown-key or officially accepted historical solution."
+title: "HC849: a source-assisted current-layer Czech grille reading"
+version: 1.0.0
+date-released: 2026-10-06
+authors:
+  - family-names: "Zeng"
+    given-names: "Zijian"
+    affiliation: "Institute of Computer Science and Digital Innovation, UCSI University, Kuala Lumpur, 56000, MALAYSIA"
+    email: "zijianzeng@foxmail.com"

@@ -1,0 +1,30 @@
+{
+  "started_utc": "2026-10-05T20:00:27.307262+00:00",
+  "finished_utc": "2026-10-05T20:00:32.555779+00:00",
+  "status": "PASS",
+  "seed": 8491952,
+  "payload_seed": 8491953,
+  "checks": 54493,
+  "distinct_keys": 100,
+  "settings_per_key": 32,
+  "block_counts": [
+    1,
+    2,
+    3
+  ],
+  "synthetic_trials": 9600,
+  "known_vectors": 6,
+  "representative_literal_vectors": 160,
+  "malformed_cases": 48,
+  "malformed_api_rejections": 96,
+  "failures": [],
+  "code_sha256_at_execution": "5c2d8c3bbf1f54ecf8c43583e0f7e8f875a167050ab12d7e4a393f230f095e16",
+  "registration_sha256": "03b1a68a8af0b3967ad960b0deb5a69dda4165e9a495eaec966c269c437c97ec",
+  "known_vectors_sha256": "5f82685aadb493a913d168672561388874da43b31d8118a1fdc98e0743e6e4e2",
+  "target_exposure": "none; no target path opened by controls",
+  "limits": [
+    "Generic model does not establish historical source orientation or array order.",
+    "Permutation has no content authentication: a same-length content change remains mechanically valid.",
+    "No target decode, key selection, source changes or linguistic scoring permitted."
+  ]
+}

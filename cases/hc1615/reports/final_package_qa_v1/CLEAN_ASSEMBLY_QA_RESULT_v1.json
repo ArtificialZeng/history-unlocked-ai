@@ -1,0 +1,226 @@
+{
+  "utc": "2026-10-06T05:21:17.710191+00:00",
+  "scope": "clean staging assembly/portablecommand/runtime reproduction audit",
+  "PASS": true,
+  "source_stage": "/Users/zeng/Documents/解谜/hcportal1615_1901_decipherment/release/staging/hc1615-new-year-cipher-reading",
+  "release_manifest_sha256": "dabeb20826354acdb7be78cdc8fe500573beb69bd1531534141aebda4c836333",
+  "sha256sums_sha256": "c0739b3c85ba6a94a92c413a3f5dc30097f62a4247d09f55e63cdbf712ec864a",
+  "payload_files": 113,
+  "checksum_entries": 114,
+  "payload_total_bytes": 2722187,
+  "initial_originals_crops_images": 0,
+  "symbolic_units": 77,
+  "covered_units": 77,
+  "NFC_letter_characters": 78,
+  "trace_tokens": 96,
+  "tamper_cases": 48,
+  "synthetic_rule_checks": 11,
+  "default_native_reads": 0,
+  "candidate_and_literal_byte_matches": {
+    "regenerated_baseline/CONDITIONAL_CANDIDATE_v1.json": {
+      "byte_equal": true,
+      "sha256": "aeb34f93888c91e237a03d084049aa1af0bb5d2e20af46d8aeafe52ee75ef3a1"
+    },
+    "regenerated_baseline/LITERAL_ROWS_v1.txt": {
+      "byte_equal": true,
+      "sha256": "887e56d0e4372d8305a6de0e13dfedfeb1c47bd4edaf85a70a7f8f254db55704"
+    },
+    "regenerated_model/MARK_CARRY_CANDIDATE_v1.json": {
+      "byte_equal": true,
+      "sha256": "adee6e527cd54586462d1fccc67b8fb8c9c941a784fcce1c943171f50f11f0ec"
+    },
+    "regenerated_model/LITERAL_ROWS_v1.txt": {
+      "byte_equal": true,
+      "sha256": "a3a2dda48101e87303beee1500dcfbee1b861131202bd13decace1108d60b0b1"
+    }
+  },
+  "external_cwd_commands_PASS": true,
+  "explicit_supplied_originals_only": true,
+  "network_GETs": 0,
+  "native_replay": {
+    "Pillow": "12.3.0",
+    "row_RGB_replays": [
+      {
+        "row_id": "R01",
+        "RGB_match": true,
+        "PNG_encoding_byte_match": false
+      },
+      {
+        "row_id": "R02",
+        "RGB_match": true,
+        "PNG_encoding_byte_match": false
+      },
+      {
+        "row_id": "R03",
+        "RGB_match": true,
+        "PNG_encoding_byte_match": false
+      },
+      {
+        "row_id": "R04",
+        "RGB_match": true,
+        "PNG_encoding_byte_match": false
+      },
+      {
+        "row_id": "R05",
+        "RGB_match": true,
+        "PNG_encoding_byte_match": false
+      },
+      {
+        "row_id": "R06",
+        "RGB_match": true,
+        "PNG_encoding_byte_match": false
+      },
+      {
+        "row_id": "R07",
+        "RGB_match": true,
+        "PNG_encoding_byte_match": false
+      }
+    ],
+    "scope": "Native whole-row pixels, not exclusive glyph masks or proof of source identity. PNG encoding can differ across library versions even when RGB matches."
+  },
+  "native_PNG_all_byte_equal": false,
+  "pdf_pages": 4,
+  "pdf_sha256": "7c04741e71f0659f98d589396a76efb30dbd9f2d1d5b75693bcaaa844f924448",
+  "full_old_case_C_P_models_payload": false,
+  "authorized_prior_key_artifact_only": true,
+  "prior_key_metadata_short_previous_spellings_retained": [
+    "vzponimas",
+    "tevine"
+  ],
+  "credentials_patterns_found": [],
+  "archival_absolute_path_mentions": [
+    "config/FIXED_PROJECTION_LOCK_v1.json",
+    "config/MARK_CARRY_MODEL_v1.json",
+    "config/REGISTRATION_v1.json",
+    "reports/independent_arithmetic_v1/INDEPENDENT_MANIFEST_v1.json",
+    "reports/independent_mark_model_v1/INDEPENDENT_MANIFEST_v1.json",
+    "reports/independent_source_v1/INDEPENDENT_COLD_SOURCE_LEDGER_v1.json",
+    "reports/informed_full_reading_v1/FINAL_MANIFEST_v1.json",
+    "reports/source_v1/SOURCE_ONLY_MANIFEST_v1.json",
+    "sources/ACQUISITION_MANIFEST_v1.json"
+  ],
+  "absolute_path_runtime_dependency": false,
+  "staging_original_case_mutated": false,
+  "temporary_copy_removed": true,
+  "commands": [
+    {
+      "command_id": "01_default_offline_verify",
+      "arguments": [
+        "verify.py",
+        "--root",
+        ".",
+        "--donor-key",
+        "data/key/DONOR_FIXED_OBSERVED_KEY_v2.json",
+        "--tamper"
+      ],
+      "cwd_role": "fresh_clean_release_root",
+      "exit_code": 0,
+      "stdout_sha256": "c1161170c3b1c043d4c9c9031be58225178ffeb98a9deedef04dfc15fffd8fd1",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "command_id": "02_baseline_reproduction",
+      "arguments": [
+        "scripts/reproduce_baseline.py",
+        "--root",
+        ".",
+        "--authorization",
+        "config/FIXED_PROJECTION_LOCK_v1.json",
+        "--donor-key",
+        "data/key/DONOR_FIXED_OBSERVED_KEY_v2.json",
+        "--output",
+        "regenerated_baseline"
+      ],
+      "cwd_role": "fresh_clean_release_root",
+      "exit_code": 0,
+      "stdout_sha256": "3377cedea178100ce8b1096e6e7827da7fae0633901946b74913d28b8de87517",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "command_id": "03_model_reproduction",
+      "arguments": [
+        "scripts/reproduce_mark_projection.py",
+        "--root",
+        ".",
+        "--authorization",
+        "config/MARK_CARRY_MODEL_v1.json",
+        "--donor-key",
+        "data/key/DONOR_FIXED_OBSERVED_KEY_v2.json",
+        "--output",
+        "regenerated_model"
+      ],
+      "cwd_role": "fresh_clean_release_root",
+      "exit_code": 0,
+      "stdout_sha256": "d2b12044ee8232eec525efe3e1bb6b493f004f2fc668ff36d1189fbfa1e6ed6a",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "command_id": "04_external_cwd_verify",
+      "arguments": [
+        "../clean_release/verify.py",
+        "--root",
+        "../clean_release",
+        "--donor-key",
+        "../clean_release/data/key/DONOR_FIXED_OBSERVED_KEY_v2.json"
+      ],
+      "cwd_role": "temporary_external_cwd",
+      "exit_code": 0,
+      "stdout_sha256": "5ecbad5da8b461c0b6d72b9f3b35b215b53aae4708ef953a6e8344204fd44dfc",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "command_id": "05_external_baseline",
+      "arguments": [
+        "../clean_release/scripts/reproduce_baseline.py",
+        "--root",
+        "../clean_release",
+        "--authorization",
+        "../clean_release/config/FIXED_PROJECTION_LOCK_v1.json",
+        "--donor-key",
+        "../clean_release/data/key/DONOR_FIXED_OBSERVED_KEY_v2.json",
+        "--output",
+        "outside_baseline"
+      ],
+      "cwd_role": "temporary_external_cwd",
+      "exit_code": 0,
+      "stdout_sha256": "3377cedea178100ce8b1096e6e7827da7fae0633901946b74913d28b8de87517",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "command_id": "06_external_model",
+      "arguments": [
+        "../clean_release/scripts/reproduce_mark_projection.py",
+        "--root",
+        "../clean_release",
+        "--authorization",
+        "../clean_release/config/MARK_CARRY_MODEL_v1.json",
+        "--donor-key",
+        "../clean_release/data/key/DONOR_FIXED_OBSERVED_KEY_v2.json",
+        "--output",
+        "outside_model"
+      ],
+      "cwd_role": "temporary_external_cwd",
+      "exit_code": 0,
+      "stdout_sha256": "d2b12044ee8232eec525efe3e1bb6b493f004f2fc668ff36d1189fbfa1e6ed6a",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "command_id": "07_native_rgb_replay",
+      "arguments": [
+        "scripts/fetch_and_replay_source.py",
+        "--root",
+        ".",
+        "--picture-from",
+        "/Users/zeng/Documents/解谜/hcportal1615_1901_decipherment/sources/raw/HC1615_picture_original.jpg",
+        "--address-from",
+        "/Users/zeng/Documents/解谜/hcportal1615_1901_decipherment/sources/raw/HC1615_address_original.jpg"
+      ],
+      "cwd_role": "fresh_clean_release_root",
+      "exit_code": 0,
+      "stdout_sha256": "2cc36487c8c0cdd2bc8d9fa2da45af5a07ed80bc8a131e4c990f488feb361220",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "audit_script_sha256": "3d173557300fc6c260ed3a59dd48a5c214abe0715c70331bc8bd476693dcaf8a",
+  "source_or_historical_uniqueness_not_a_package_claim": true
+}

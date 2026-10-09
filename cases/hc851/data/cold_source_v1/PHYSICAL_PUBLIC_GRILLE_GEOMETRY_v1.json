@@ -1,0 +1,1420 @@
+{
+  "frozen_utc": "2026-10-05T17:44:29.957489+00:00",
+  "source": "sources/raw/HC851_public_grille_original.jpg",
+  "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+  "supplied_public_key_source": true,
+  "native_dimensions": [
+    3024,
+    4032
+  ],
+  "canonical_view": "Photograph as provided, annotated face visible, page upper edge at top; Roman I near top, II near left, III near bottom, IV near right. No mirror or opposite-face convention inferred.",
+  "coarse_cut_lattice": {
+    "rows": 6,
+    "columns": 6,
+    "basis": "Cut-edge intervals and repeated cut widths around145 native pixels support six coarse intervals per side; openings align to these intervals. Coarse grid inferred geometrically from visible paper cuts, never from decoded language.",
+    "fine_ruling_observation": "Visible fine paper ruling is about70–74px pitch, approximately two fine intervals per coarse cut-cell. Fine ruling is preserved, not silently identified with coarse letter/cut cells.",
+    "coarse_corner_native_xy": [
+      [
+        2089,
+        784
+      ],
+      [
+        2966,
+        773
+      ],
+      [
+        2942,
+        1652
+      ],
+      [
+        2086,
+        1660
+      ]
+    ],
+    "corner_hold": "Upper-left logical corner is cut away; coordinate projected from adjacent top and left cut-edge alignment.",
+    "boundary_uncertainty_pixels": 10
+  },
+  "holes_row_column_1based": [
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      2,
+      6
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      4,
+      4
+    ],
+    [
+      6,
+      2
+    ],
+    [
+      6,
+      4
+    ]
+  ],
+  "holes_row_column_0based": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      3,
+      3
+    ],
+    [
+      5,
+      1
+    ],
+    [
+      5,
+      3
+    ]
+  ],
+  "cut_cells_count": 9,
+  "solid_cells_count": 27,
+  "physical_opening_observation": "Five edge/corner notches and three interior opening regions; the interior opening in column2 spans rows2 and3, so nine logical cut cells occupy eight notch/window regions.",
+  "rows_cutout_mask": [
+    "100100",
+    "010001",
+    "010010",
+    "000100",
+    "000000",
+    "010100"
+  ],
+  "cell_records": [
+    {
+      "row": 1,
+      "column": 1,
+      "native_cell_polygon_xy": [
+        [
+          2089.0,
+          784.0
+        ],
+        [
+          2235.17,
+          782.17
+        ],
+        [
+          2234.08,
+          928.25
+        ],
+        [
+          2088.5,
+          930.0
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2085,
+        779,
+        2239,
+        934
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r1_c1_native.png",
+      "cutout": true,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": null,
+      "cutout_type": "missing_upper_left_corner"
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "native_cell_polygon_xy": [
+        [
+          2235.17,
+          782.17
+        ],
+        [
+          2381.33,
+          780.33
+        ],
+        [
+          2379.67,
+          926.5
+        ],
+        [
+          2234.08,
+          928.25
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2231,
+        777,
+        2385,
+        932
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r1_c2_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Faint loop/stem pencil mark; value unknown.",
+      "cutout_type": null
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "native_cell_polygon_xy": [
+        [
+          2381.33,
+          780.33
+        ],
+        [
+          2527.5,
+          778.5
+        ],
+        [
+          2525.25,
+          924.75
+        ],
+        [
+          2379.67,
+          926.5
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2376,
+        775,
+        2531,
+        930
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r1_c3_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Dark Roman I with dot/bar and faint pencil marks.",
+      "cutout_type": null
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "native_cell_polygon_xy": [
+        [
+          2527.5,
+          778.5
+        ],
+        [
+          2673.67,
+          776.67
+        ],
+        [
+          2670.83,
+          923.0
+        ],
+        [
+          2525.25,
+          924.75
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2522,
+        773,
+        2677,
+        928
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r1_c4_native.png",
+      "cutout": true,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": null,
+      "cutout_type": "top_edge_notch"
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "native_cell_polygon_xy": [
+        [
+          2673.67,
+          776.67
+        ],
+        [
+          2819.83,
+          774.83
+        ],
+        [
+          2816.42,
+          921.25
+        ],
+        [
+          2670.83,
+          923.0
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2667,
+        771,
+        2823,
+        927
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r1_c5_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Faint pencil stroke; value unknown.",
+      "cutout_type": null
+    },
+    {
+      "row": 1,
+      "column": 6,
+      "native_cell_polygon_xy": [
+        [
+          2819.83,
+          774.83
+        ],
+        [
+          2966.0,
+          773.0
+        ],
+        [
+          2962.0,
+          919.5
+        ],
+        [
+          2816.42,
+          921.25
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2813,
+        770,
+        2970,
+        925
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r1_c6_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Faint branching pencil stroke; value unknown.",
+      "cutout_type": null
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "native_cell_polygon_xy": [
+        [
+          2088.5,
+          930.0
+        ],
+        [
+          2234.08,
+          928.25
+        ],
+        [
+          2233.0,
+          1074.33
+        ],
+        [
+          2088.0,
+          1076.0
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2085,
+        925,
+        2238,
+        1080
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r2_c1_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Faint 4-like pencil shape; no numeric value assigned.",
+      "cutout_type": null
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "native_cell_polygon_xy": [
+        [
+          2234.08,
+          928.25
+        ],
+        [
+          2379.67,
+          926.5
+        ],
+        [
+          2378.0,
+          1072.67
+        ],
+        [
+          2233.0,
+          1074.33
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2230,
+        923,
+        2383,
+        1078
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r2_c2_native.png",
+      "cutout": true,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": null,
+      "cutout_type": "interior_two_cell_opening"
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "native_cell_polygon_xy": [
+        [
+          2379.67,
+          926.5
+        ],
+        [
+          2525.25,
+          924.75
+        ],
+        [
+          2523.0,
+          1071.0
+        ],
+        [
+          2378.0,
+          1072.67
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2375,
+        921,
+        2529,
+        1076
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r2_c3_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Faint cross/stem pencil shape; unknown.",
+      "cutout_type": null
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "native_cell_polygon_xy": [
+        [
+          2525.25,
+          924.75
+        ],
+        [
+          2670.83,
+          923.0
+        ],
+        [
+          2668.0,
+          1069.33
+        ],
+        [
+          2523.0,
+          1071.0
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2520,
+        920,
+        2674,
+        1075
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r2_c4_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Dark central 144 inscription partly occupies this cell, upside down in page view.",
+      "cutout_type": null
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "native_cell_polygon_xy": [
+        [
+          2670.83,
+          923.0
+        ],
+        [
+          2816.42,
+          921.25
+        ],
+        [
+          2813.0,
+          1067.67
+        ],
+        [
+          2668.0,
+          1069.33
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2665,
+        918,
+        2820,
+        1073
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r2_c5_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Faint cross/stem pencil marking; unknown.",
+      "cutout_type": null
+    },
+    {
+      "row": 2,
+      "column": 6,
+      "native_cell_polygon_xy": [
+        [
+          2816.42,
+          921.25
+        ],
+        [
+          2962.0,
+          919.5
+        ],
+        [
+          2958.0,
+          1066.0
+        ],
+        [
+          2813.0,
+          1067.67
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2810,
+        916,
+        2966,
+        1071
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r2_c6_native.png",
+      "cutout": true,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": null,
+      "cutout_type": "right_edge_notch"
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "native_cell_polygon_xy": [
+        [
+          2088.0,
+          1076.0
+        ],
+        [
+          2233.0,
+          1074.33
+        ],
+        [
+          2231.92,
+          1220.42
+        ],
+        [
+          2087.5,
+          1222.0
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2084,
+        1071,
+        2237,
+        1226
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r3_c1_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Faint line/slash near ruling; annotation-versus-ruling uncertain.",
+      "cutout_type": null
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "native_cell_polygon_xy": [
+        [
+          2233.0,
+          1074.33
+        ],
+        [
+          2378.0,
+          1072.67
+        ],
+        [
+          2376.33,
+          1218.83
+        ],
+        [
+          2231.92,
+          1220.42
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2228,
+        1069,
+        2382,
+        1224
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r3_c2_native.png",
+      "cutout": true,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": null,
+      "cutout_type": "interior_two_cell_opening"
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "native_cell_polygon_xy": [
+        [
+          2378.0,
+          1072.67
+        ],
+        [
+          2523.0,
+          1071.0
+        ],
+        [
+          2520.75,
+          1217.25
+        ],
+        [
+          2376.33,
+          1218.83
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2373,
+        1068,
+        2527,
+        1222
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r3_c3_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Central dark word inscription crosses this cell.",
+      "cutout_type": null
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "native_cell_polygon_xy": [
+        [
+          2523.0,
+          1071.0
+        ],
+        [
+          2668.0,
+          1069.33
+        ],
+        [
+          2665.17,
+          1215.67
+        ],
+        [
+          2520.75,
+          1217.25
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2517,
+        1066,
+        2672,
+        1221
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r3_c4_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Central dark word inscription crosses this cell.",
+      "cutout_type": null
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "native_cell_polygon_xy": [
+        [
+          2668.0,
+          1069.33
+        ],
+        [
+          2813.0,
+          1067.67
+        ],
+        [
+          2809.58,
+          1214.08
+        ],
+        [
+          2665.17,
+          1215.67
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2662,
+        1064,
+        2817,
+        1219
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r3_c5_native.png",
+      "cutout": true,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": null,
+      "cutout_type": "interior_single_cell_opening"
+    },
+    {
+      "row": 3,
+      "column": 6,
+      "native_cell_polygon_xy": [
+        [
+          2813.0,
+          1067.67
+        ],
+        [
+          2958.0,
+          1066.0
+        ],
+        [
+          2954.0,
+          1212.5
+        ],
+        [
+          2809.58,
+          1214.08
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2806,
+        1063,
+        2962,
+        1218
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r3_c6_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Faint U-shaped pencil mark; unknown.",
+      "cutout_type": null
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "native_cell_polygon_xy": [
+        [
+          2087.5,
+          1222.0
+        ],
+        [
+          2231.92,
+          1220.42
+        ],
+        [
+          2230.83,
+          1366.5
+        ],
+        [
+          2087.0,
+          1368.0
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2084,
+        1217,
+        2235,
+        1372
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r4_c1_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Roman II mark partly crosses this cell; faint pencil markings.",
+      "cutout_type": null
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "native_cell_polygon_xy": [
+        [
+          2231.92,
+          1220.42
+        ],
+        [
+          2376.33,
+          1218.83
+        ],
+        [
+          2374.67,
+          1365.0
+        ],
+        [
+          2230.83,
+          1366.5
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2227,
+        1215,
+        2380,
+        1370
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r4_c2_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Faint curled pencil mark; unknown.",
+      "cutout_type": null
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "native_cell_polygon_xy": [
+        [
+          2376.33,
+          1218.83
+        ],
+        [
+          2520.75,
+          1217.25
+        ],
+        [
+          2518.5,
+          1363.5
+        ],
+        [
+          2374.67,
+          1365.0
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2371,
+        1214,
+        2524,
+        1369
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r4_c3_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Faint loop/cross pencil mark; unknown.",
+      "cutout_type": null
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "native_cell_polygon_xy": [
+        [
+          2520.75,
+          1217.25
+        ],
+        [
+          2665.17,
+          1215.67
+        ],
+        [
+          2662.33,
+          1362.0
+        ],
+        [
+          2518.5,
+          1363.5
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2515,
+        1212,
+        2669,
+        1367
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r4_c4_native.png",
+      "cutout": true,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": null,
+      "cutout_type": "interior_single_cell_opening"
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "native_cell_polygon_xy": [
+        [
+          2665.17,
+          1215.67
+        ],
+        [
+          2809.58,
+          1214.08
+        ],
+        [
+          2806.17,
+          1360.5
+        ],
+        [
+          2662.33,
+          1362.0
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2659,
+        1211,
+        2813,
+        1366
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r4_c5_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Faint P-like pencil shape; no letter value assigned.",
+      "cutout_type": null
+    },
+    {
+      "row": 4,
+      "column": 6,
+      "native_cell_polygon_xy": [
+        [
+          2809.58,
+          1214.08
+        ],
+        [
+          2954.0,
+          1212.5
+        ],
+        [
+          2950.0,
+          1359.0
+        ],
+        [
+          2806.17,
+          1360.5
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2803,
+        1209,
+        2958,
+        1364
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r4_c6_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Dark Roman IV and faint pencil ink.",
+      "cutout_type": null
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "native_cell_polygon_xy": [
+        [
+          2087.0,
+          1368.0
+        ],
+        [
+          2230.83,
+          1366.5
+        ],
+        [
+          2229.75,
+          1512.58
+        ],
+        [
+          2086.5,
+          1514.0
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2083,
+        1363,
+        2234,
+        1518
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r5_c1_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Roman II lower stroke and faint crossed pencil shape.",
+      "cutout_type": null
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "native_cell_polygon_xy": [
+        [
+          2230.83,
+          1366.5
+        ],
+        [
+          2374.67,
+          1365.0
+        ],
+        [
+          2373.0,
+          1511.17
+        ],
+        [
+          2229.75,
+          1512.58
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2226,
+        1362,
+        2378,
+        1516
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r5_c2_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Faint L-like pencil shape; no letter value assigned.",
+      "cutout_type": null
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "native_cell_polygon_xy": [
+        [
+          2374.67,
+          1365.0
+        ],
+        [
+          2518.5,
+          1363.5
+        ],
+        [
+          2516.25,
+          1509.75
+        ],
+        [
+          2373.0,
+          1511.17
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2370,
+        1360,
+        2522,
+        1515
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r5_c3_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Faint hooked pencil shape; unknown.",
+      "cutout_type": null
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "native_cell_polygon_xy": [
+        [
+          2518.5,
+          1363.5
+        ],
+        [
+          2662.33,
+          1362.0
+        ],
+        [
+          2659.5,
+          1508.33
+        ],
+        [
+          2516.25,
+          1509.75
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2513,
+        1359,
+        2666,
+        1513
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r5_c4_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Faint 9-like pencil shape; no numeric value assigned.",
+      "cutout_type": null
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "native_cell_polygon_xy": [
+        [
+          2662.33,
+          1362.0
+        ],
+        [
+          2806.17,
+          1360.5
+        ],
+        [
+          2802.75,
+          1506.92
+        ],
+        [
+          2659.5,
+          1508.33
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2656,
+        1357,
+        2810,
+        1512
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r5_c5_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Faint angled pencil shape; unknown.",
+      "cutout_type": null
+    },
+    {
+      "row": 5,
+      "column": 6,
+      "native_cell_polygon_xy": [
+        [
+          2806.17,
+          1360.5
+        ],
+        [
+          2950.0,
+          1359.0
+        ],
+        [
+          2946.0,
+          1505.5
+        ],
+        [
+          2802.75,
+          1506.92
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2799,
+        1356,
+        2954,
+        1510
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r5_c6_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Faint stem/loop pencil shape; unknown.",
+      "cutout_type": null
+    },
+    {
+      "row": 6,
+      "column": 1,
+      "native_cell_polygon_xy": [
+        [
+          2086.5,
+          1514.0
+        ],
+        [
+          2229.75,
+          1512.58
+        ],
+        [
+          2228.67,
+          1658.67
+        ],
+        [
+          2086.0,
+          1660.0
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2083,
+        1509,
+        2233,
+        1664
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r6_c1_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Faint crossed pencil strokes; unknown.",
+      "cutout_type": null
+    },
+    {
+      "row": 6,
+      "column": 2,
+      "native_cell_polygon_xy": [
+        [
+          2229.75,
+          1512.58
+        ],
+        [
+          2373.0,
+          1511.17
+        ],
+        [
+          2371.33,
+          1657.33
+        ],
+        [
+          2228.67,
+          1658.67
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2225,
+        1508,
+        2377,
+        1662
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r6_c2_native.png",
+      "cutout": true,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": null,
+      "cutout_type": "bottom_edge_notch"
+    },
+    {
+      "row": 6,
+      "column": 3,
+      "native_cell_polygon_xy": [
+        [
+          2373.0,
+          1511.17
+        ],
+        [
+          2516.25,
+          1509.75
+        ],
+        [
+          2514.0,
+          1656.0
+        ],
+        [
+          2371.33,
+          1657.33
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2368,
+        1506,
+        2520,
+        1661
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r6_c3_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Faint fork/cross pencil strokes; unknown.",
+      "cutout_type": null
+    },
+    {
+      "row": 6,
+      "column": 4,
+      "native_cell_polygon_xy": [
+        [
+          2516.25,
+          1509.75
+        ],
+        [
+          2659.5,
+          1508.33
+        ],
+        [
+          2656.67,
+          1654.67
+        ],
+        [
+          2514.0,
+          1656.0
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2511,
+        1505,
+        2663,
+        1660
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r6_c4_native.png",
+      "cutout": true,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": null,
+      "cutout_type": "bottom_edge_notch"
+    },
+    {
+      "row": 6,
+      "column": 5,
+      "native_cell_polygon_xy": [
+        [
+          2659.5,
+          1508.33
+        ],
+        [
+          2802.75,
+          1506.92
+        ],
+        [
+          2799.33,
+          1653.33
+        ],
+        [
+          2656.67,
+          1654.67
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2653,
+        1503,
+        2806,
+        1658
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r6_c5_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Dark Roman III and faint pencil ink.",
+      "cutout_type": null
+    },
+    {
+      "row": 6,
+      "column": 6,
+      "native_cell_polygon_xy": [
+        [
+          2802.75,
+          1506.92
+        ],
+        [
+          2946.0,
+          1505.5
+        ],
+        [
+          2942.0,
+          1652.0
+        ],
+        [
+          2799.33,
+          1653.33
+        ]
+      ],
+      "native_crop_box_xyxy": [
+        2796,
+        1502,
+        2950,
+        1657
+      ],
+      "path": "sources/inspection/cold_source_v1/grille_cell_r6_c6_native.png",
+      "cutout": false,
+      "classification_basis": "Native cell atlas and complete physical-grille crop; presence/absence of cardstock at cell centre and adjacent cut edges.",
+      "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "pencil_or_dark_notation_observation": "Faint angled/curl pencil mark; unknown.",
+      "cutout_type": null
+    }
+  ],
+  "orientation_notations": [
+    {
+      "literal": "I",
+      "location": "Top, coarse cell R1C3 with lower underline reaching R2C3",
+      "native_box_xyxy": [
+        2410,
+        780,
+        2505,
+        960
+      ],
+      "view": "sources/inspection/cold_source_v1/grille_top_I_native.png",
+      "reading_transform": 0
+    },
+    {
+      "literal": "II",
+      "location": "Left side, across R4C1/R5C1/R5C2",
+      "native_box_xyxy": [
+        2070,
+        1290,
+        2300,
+        1480
+      ],
+      "view": "sources/inspection/cold_source_v1/grille_left_II_ROT90CW.png",
+      "reading_transform_counterclockwise": -90
+    },
+    {
+      "literal": "III",
+      "location": "Bottom, mainly coarse cell R6C5",
+      "native_box_xyxy": [
+        2730,
+        1510,
+        2900,
+        1645
+      ],
+      "view": "sources/inspection/cold_source_v1/grille_bottom_III_ROT180.png",
+      "reading_transform_counterclockwise": 180
+    },
+    {
+      "literal": "IV",
+      "location": "Right, mainly coarse cell R4C6",
+      "native_box_xyxy": [
+        2795,
+        1180,
+        2970,
+        1360
+      ],
+      "view": "sources/inspection/cold_source_v1/grille_right_IV_ROT90CCW.png",
+      "reading_transform_counterclockwise": 90
+    }
+  ],
+  "central_literal_notation": {
+    "literal_lines": [
+      "délka",
+      "144"
+    ],
+    "native_box_xyxy": [
+      2425,
+      935,
+      2695,
+      1190
+    ],
+    "rotation_counterclockwise": 180,
+    "view": "sources/inspection/cold_source_v1/grille_center_inscription_ROT180.png",
+    "source_role": "Author annotation; no plaintext or fill-order inference."
+  },
+  "unreadable_pencil_annotations_hold": "Faint pencil numbers/letters on solid paper cells remain graphical marks, with per-cell source boxes and atlas retained. No numerical ordering or key-value labels manufactured.",
+  "fill_direction_claim": null,
+  "fill_direction_scope": "Only independent page note psáno vodorovně is literal-source evidence. Hole scan order, rotation order used during decryption, and write/read mechanism remain for separately sourced method work.",
+  "freeze_status": "PHYSICAL_SUPPLIED_GRILLE_GEOMETRY_FROZEN_6x6_NINE_CUT_CELLS_WITH_BOUNDARY_AND_NOTATION_HOLDS",
+  "plaintext_used_for_holes": false
+}

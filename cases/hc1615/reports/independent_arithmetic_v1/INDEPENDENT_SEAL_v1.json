@@ -1,0 +1,28 @@
+{
+  "sealed_utc": "2026-10-06T04:44:45.333977+00:00",
+  "manifest_sha256": "01d93c7e9ac0763d8926263c1f2e4261b57ecf6b82df61d9471c3815c36810ea",
+  "payload_files": 19,
+  "reference_pins": 23,
+  "arithmetic_PASS": true,
+  "counts": {
+    "preferred_units": 77,
+    "covered_units": 76,
+    "opaque_units": 1,
+    "primary_primitives": 81,
+    "primary_base_primitives": 77,
+    "primary_detached_mark_strokes": 4,
+    "groups": 18,
+    "rows": 7,
+    "mark_attributes": 3,
+    "special_events": 4,
+    "expanded_covered_ASCII_characters": 77
+  },
+  "actual_tamper_rejections": 40,
+  "scope_verdict": "COMPLETE_BASELINE_CERTIFICATE_WITH_OPAQUE; INCOMPLETE_HISTORICAL_READING",
+  "source_accuracy_unique_claim": false,
+  "first_current_source_projection_read_utc": "2026-10-06T04:40:59.826356+00:00",
+  "structural_successor_models_tested": false,
+  "source_key_candidate_edits": 0,
+  "root_decoder_imported": false,
+  "blind_claim": false
+}

@@ -1,0 +1,10 @@
+{
+  "status": "PASS_SOFTWARE_COMPARISON_ONLY",
+  "all_pairs_compared": 8788,
+  "pair_disagreements": [],
+  "synthetic_encryption_packets_equal": 10,
+  "root_method_from": "scripts/prepare_synthetic_controls_v1.py",
+  "independent_method": "scripts/portax_v1.py",
+  "independent_method_sha256": "7a210c37a7032257920d937409cc14ff3c7e79e63d53222f5ba8d50158228332",
+  "target_source_letters_read_by_root": false
+}

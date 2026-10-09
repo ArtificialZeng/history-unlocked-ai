@@ -1,0 +1,74 @@
+{
+  "sealed_at_utc": "2026-10-05T21:56:21.080406+00:00",
+  "scope": "Independent current64-body source/native/code/finite-control certificate with historical and secondary holds",
+  "status": "PASS_CURRENT_PRIMARY_COMPONENT_WITH_SOURCE_HOLDS",
+  "artifacts": [
+    {
+      "path": "scripts/independent_candidate_check_v1.py",
+      "bytes": 11915,
+      "sha256": "effd002ee8b01d945c44cf159f6c7d7ffde8c3f31832bbdbaa240cd46e1fea40"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/ALL_79_FIXED_LITERAL_FINITE_CONTROLS_v1.json",
+      "bytes": 138535,
+      "sha256": "ef9347b09f56ec9f5b6a53085af95250517741249188e7070f4607d8bc9f9338"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/AUDIT_CHRONOLOGY_AND_INDEPENDENCE_v1.json",
+      "bytes": 1535,
+      "sha256": "e85a6a4ef083f998d24dea6be504a02ce9fb850d1949a5adf6b46ac1f524e624"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/AUDIT_RESULTS_v1.json",
+      "bytes": 961,
+      "sha256": "5e44c7bbab6347a4c5478f2f36e0ddceb54f41e2fddb4440a398d7b291175124"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/AUDIT_SCOPE_AND_EXPOSURE_REGISTRATION_v1.json",
+      "bytes": 1860,
+      "sha256": "0761b7f1cac674f238676db1cbb1de06c06b31fca4ff5ee3497bcbe72d3336f7"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/BEFORE_FIRST_OWN_AUDIT_RUN_v1.json",
+      "bytes": 425,
+      "sha256": "3021befcba014c1eddbf4b1603bd7d1eaab50d6bf826c0752e362e62ef93acbc"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/FROZEN_HASH_AND_CONTEXT_REPLAY_v1.json",
+      "bytes": 38549,
+      "sha256": "c5c05556d81949765c6c5ce415ebf8f10130f6040425fff339615bc9f3dfb49e"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/INDEPENDENT_CURRENT_BODY_AUDIT_REPORT_v1.md",
+      "bytes": 4814,
+      "sha256": "2c5d89cd91e68725f4671a1b6a32621d3f71ddb97a08608488b38902573a277d"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/INDEPENDENT_NATIVE_PIXEL_AND_VISUAL_AUDIT_v1.json",
+      "bytes": 190665,
+      "sha256": "d9af0161f741e9aa2c7c03dd2758e3fa488235f9acde6cd73736b59d977c4165"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/LITERAL_SPACES_ONLY_GLOSS_AND_SEMANTIC_HOLDS_v1.json",
+      "bytes": 1004,
+      "sha256": "8459a2a539ba4666c4b16c0e5e23d376ec09ea590c47faec9c11156e346c8eb1"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/OWN_2048_SOURCE_POSITION_CERTIFICATES_v1.json",
+      "bytes": 6806243,
+      "sha256": "8e02532b30f2063c9a5aa2610d9285adfd1d1e71ea1e7ba0a1a1ac25b54f851e"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/OWN_ALL_32_PROJECTIONS_v1.json",
+      "bytes": 14306,
+      "sha256": "44c2e7ee20eedcd9fee237b261811caa56acfced0ed21db698772edce8774554"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/POST_FREEZE_SECONDARY_COMPARISON_AND_HOLDS_v1.json",
+      "bytes": 637,
+      "sha256": "47a192899c4ef86b8a7c611be545c2197e541c87738c5cd59a777a7958d91679"
+    }
+  ],
+  "source_and_method_seals_replayed_unchanged": true,
+  "self_excluded": true
+}

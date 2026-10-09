@@ -1,0 +1,205 @@
+{
+  "units": 77,
+  "primitive_components": 81,
+  "base_primitives": 77,
+  "detached_mark_stroke_primitives": 4,
+  "associated_mark_events": 2,
+  "punctuation_emitted_roles": [
+    "comma/terminalpunctuation"
+  ],
+  "covered_units": 76,
+  "marked_unit_records": 3,
+  "mark_attributes": 3,
+  "groups": 18,
+  "rows": 7,
+  "events": 4,
+  "expanded_plaintext_characters": 77,
+  "used_raw_classes": [
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "H_MARK_UNASSIGNED",
+    "R_MARK",
+    "b",
+    "c",
+    "d",
+    "f",
+    "g",
+    "h",
+    "m",
+    "r",
+    "s",
+    "t"
+  ],
+  "unused_fixed_raw_classes": [
+    "1",
+    "9",
+    "n",
+    "p"
+  ],
+  "literal_rows": [
+    "do t[UNKNOWN]etice ti",
+    "preje a v duchu",
+    "na sladka usta",
+    "tvoje vrelou,",
+    "dlouhou pusu",
+    "tiskne vecne",
+    "tvuj pepous."
+  ],
+  "tamper_cases": [
+    {
+      "case": "unit omitted",
+      "rejected": true,
+      "reason": "unit count"
+    },
+    {
+      "case": "unit order reversed",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: R01G01U01"
+    },
+    {
+      "case": "raw label changed",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: R01G01U01"
+    },
+    {
+      "case": "plaintext changed",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: R01G01U01"
+    },
+    {
+      "case": "mark dropped",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: R01G02U02"
+    },
+    {
+      "case": "key refit",
+      "rejected": true,
+      "reason": "exact fixed key dictionary"
+    },
+    {
+      "case": "key extension",
+      "rejected": true,
+      "reason": "exact fixed key dictionary"
+    },
+    {
+      "case": "donor pin changed",
+      "rejected": true,
+      "reason": "donor byte pin"
+    },
+    {
+      "case": "source pin dropped",
+      "rejected": true,
+      "reason": "complete source pin dictionary"
+    },
+    {
+      "case": "group omitted",
+      "rejected": true,
+      "reason": "exact complete grouped literal"
+    },
+    {
+      "case": "group order reversed",
+      "rejected": true,
+      "reason": "exact complete grouped literal"
+    },
+    {
+      "case": "group unit omitted",
+      "rejected": true,
+      "reason": "exact complete grouped literal"
+    },
+    {
+      "case": "group spelling changed",
+      "rejected": true,
+      "reason": "exact complete grouped literal"
+    },
+    {
+      "case": "coverage flag inverted",
+      "rejected": true,
+      "reason": "exact complete grouped literal"
+    },
+    {
+      "case": "row unit omitted",
+      "rejected": true,
+      "reason": "exact rows and preferred terminal display"
+    },
+    {
+      "case": "row text changed",
+      "rejected": true,
+      "reason": "exact rows and preferred terminal display"
+    },
+    {
+      "case": "row display changed",
+      "rejected": true,
+      "reason": "exact rows and preferred terminal display"
+    },
+    {
+      "case": "event omitted",
+      "rejected": true,
+      "reason": "all events exact object equality and order"
+    },
+    {
+      "case": "event shape changed",
+      "rejected": true,
+      "reason": "all events exact object equality and order"
+    },
+    {
+      "case": "event order reversed",
+      "rejected": true,
+      "reason": "all events exact object equality and order"
+    },
+    {
+      "case": "source primitive span changed",
+      "rejected": true,
+      "reason": "exact primitive span"
+    },
+    {
+      "case": "primitive duplicated",
+      "rejected": true,
+      "reason": "unique primitive IDs"
+    },
+    {
+      "case": "primitive owner changed",
+      "rejected": true,
+      "reason": "primitive owner"
+    },
+    {
+      "case": "source group order changed",
+      "rejected": true,
+      "reason": "complete ordered group partition"
+    },
+    {
+      "case": "source row order changed",
+      "rejected": true,
+      "reason": "complete ordered row partition"
+    },
+    {
+      "case": "terminal moved and certificate event copied coherently",
+      "rejected": true,
+      "reason": "registered punctuation after a source unit"
+    },
+    {
+      "case": "native row PNG metadata changed",
+      "rejected": true,
+      "reason": "unit native row provenance"
+    },
+    {
+      "case": "covered count changed",
+      "rejected": true,
+      "reason": "exact certificate counts"
+    },
+    {
+      "case": "duplicate JSON object key",
+      "rejected": true
+    }
+  ],
+  "utc": "2026-10-06T04:40:59.911959+00:00",
+  "arithmetic_PASS": true,
+  "code_sha256": "a65a994e8221b0ad87e214ed022aed94e5f9f94f23fd93a97b984e8411c274a3",
+  "candidate_sha256": "aeb34f93888c91e237a03d084049aa1af0bb5d2e20af46d8aeafe52ee75ef3a1",
+  "source_pins_verified": 10,
+  "root_decoder_imported": false
+}

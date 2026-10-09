@@ -1,0 +1,60 @@
+{
+  "checked_utc": "2026-10-06T04:27:39.582940+00:00",
+  "sealed_ledger_unchanged": true,
+  "sealed_manifest_unchanged": true,
+  "primary_preferences_seen": false,
+  "semantic_values_seen": false,
+  "all_native_rows_replay": [
+    {
+      "row": 1,
+      "native_RGB_exact_replay": true,
+      "units": 11,
+      "physical_groups": 3
+    },
+    {
+      "row": 2,
+      "native_RGB_exact_replay": true,
+      "units": 11,
+      "physical_groups": 4
+    },
+    {
+      "row": 3,
+      "native_RGB_exact_replay": true,
+      "units": 12,
+      "physical_groups": 3
+    },
+    {
+      "row": 4,
+      "native_RGB_exact_replay": true,
+      "units": 11,
+      "physical_groups": 2
+    },
+    {
+      "row": 5,
+      "native_RGB_exact_replay": true,
+      "units": 11,
+      "physical_groups": 2
+    },
+    {
+      "row": 6,
+      "native_RGB_exact_replay": true,
+      "units": 11,
+      "physical_groups": 2
+    },
+    {
+      "row": 7,
+      "native_RGB_exact_replay": true,
+      "units": 10,
+      "physical_groups": 2
+    }
+  ],
+  "all_81_primitives_accounted_once": true,
+  "all_77_units_event_order_preserved": true,
+  "type_counts": {
+    "PUNCTUATION": 2,
+    "ROW_BREAK": 6,
+    "UNIT": 77,
+    "VISIBLE_SPACE": 11
+  },
+  "scope": "Preferred graphical bookkeeping only, not proof of historical glyph uniqueness or semantic correctness."
+}

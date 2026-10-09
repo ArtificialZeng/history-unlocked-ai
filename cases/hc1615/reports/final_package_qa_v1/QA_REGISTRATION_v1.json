@@ -1,0 +1,23 @@
+{
+  "registered_utc": "2026-10-06T05:19:37.538146+00:00",
+  "scope": "HC1615 clean assembly commands/byte reproduction/48negative+11rule checks/native optional noGET/provenance/privacy audit",
+  "write_namespace": "reports/final_package_qa_v1",
+  "model_already_key_P_informed": true,
+  "target_source_models_baseline_preserved": true,
+  "network_requests_allowed": 0,
+  "expected_provided_key_exception": "exact byte-pinned donor artifact only, no other oldcase source/cipher/P/model payload",
+  "native_originals_scans_crops_expected_default": false,
+  "staging_path_pending": true,
+  "inputs_inspected": {
+    "verify.py": "f9b8ace394ea1393758810ba7ce6d765d24563610bbee90c71298a2769233479",
+    "README.md": "b4af8f6087afea8efffbcfefd57741e79072c291e45caf21ca5df4e0a79ccdc5",
+    "README.zh-CN.md": "761c60c92f9e1a8882e4567b178e77d1f234339483d3be4a6817f2d8cd0e4358",
+    "README.cs.md": "fb1cc82bddb294647f9444123097e066e3e5480c2a327546ca170e42e3e945d0",
+    "README.ja.md": "c3e455d05420272998d781498b5b93befed48c39d3e944d626da23c2d0e87bb4",
+    "scripts/reproduce_baseline.py": "557bb50bb5fdf38413dc68ca76541efb21600d8edbb0358615228db314775136",
+    "scripts/reproduce_mark_projection.py": "bd32afddf2bb729c2691f2296de9947f0a700d284d8b3d4656a2058f4d4b1b86",
+    "scripts/fetch_and_replay_source.py": "1a10d9f559965eadc0e6613b7c25a62e74d6c0c71499b5611798ab0f91ca3715"
+  },
+  "commands": "README offline checker +both reproductions; optional originalfile inputs for source RGB; do not invoke implicitfetch",
+  "root_decoder_imported_into_independent_checker": false
+}

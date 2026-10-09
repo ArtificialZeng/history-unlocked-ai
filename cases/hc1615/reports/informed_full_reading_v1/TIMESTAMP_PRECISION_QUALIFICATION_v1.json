@@ -1,0 +1,6 @@
+{
+  "utc": "2026-10-06T04:57:58.606878+00:00",
+  "preserved_receipt": "ACTUAL_NATIVE_VIEW_RECEIPT_v1.json",
+  "qualification": "The viewtool end clock reported04:51:04 atwhole-second precision; this is not a claim views preceded04:51:04.000. They followedfirstcandidate read04:51:04.454143 and were completebefore04:51:05.000. All7separaterowviews completedby04:52:56.000. Exactmillisecondfirstnativeview notrecorded.",
+  "semantic_first_access_unchanged": true
+}

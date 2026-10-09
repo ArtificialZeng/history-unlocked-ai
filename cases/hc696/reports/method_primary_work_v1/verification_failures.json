@@ -1,0 +1,9 @@
+[
+  {
+    "stage": "initial system-Python import",
+    "failure": "TypeError: unsupported operand type(s) for |: 'type' and 'types.GenericAlias'",
+    "cause": "PEP 604 type-alias expression required Python 3.10 or newer",
+    "resolution": "Use typing.Union in the type alias to support system Python 3.9; no cipher-rule change",
+    "retained": true
+  }
+]

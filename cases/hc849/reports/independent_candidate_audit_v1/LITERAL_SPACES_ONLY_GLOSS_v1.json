@@ -1,0 +1,10 @@
+{
+  "literal": "FRANCOUZSKAVLADASEROZHODLAODESLATDOKOREJEDENINTERVENCNIPRAPORXXX",
+  "spaces_only": "FRANCOUZSKA VLADA SE ROZHODLA ODESLAT DO KORE JEDEN INTERVENCNI PRAPOR XXX",
+  "exact_space_removal_matches_literal": true,
+  "accent_or_punctuation_restoration": "None in the literal/gloss; any grammatical rendering is editorial.",
+  "rough_semantic_reading": "The French government decided to send one intervention battalion to KORE [literal destination form held] XXX.",
+  "KORE_hold": "Literal DO KORE is retained. Reading this as a reference to Korea is editorial and morphologically incomplete/uncertain; KOREJE would insert JE and is forbidden as a literal gloss.",
+  "terminal_X_hold": "All three Xs retained literally; padding/filler/terminator role unassigned.",
+  "scope": "Present-day rough gloss of current-body mechanical literal only, no historical war-dispatch authorship or recovered original plaintext claim."
+}

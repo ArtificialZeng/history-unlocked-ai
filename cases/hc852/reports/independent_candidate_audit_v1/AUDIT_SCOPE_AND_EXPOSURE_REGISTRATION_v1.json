@@ -1,0 +1,31 @@
+{
+  "registered_at_utc": "2026-10-05T21:47:35.558394+00:00",
+  "scope": "HC852 independent source/current-body candidate audit using own previously sealed codec only",
+  "prior_candidate_exposure": "Parent provided preferred literal in task BEFORE this audit registration; target auditor is not blind",
+  "parent_supplied_preferred_literal": "DIEKOMUNISTISCHEPARTEIIMWESTDEUTSCHLANDISTIMLETZTEMZEITSEHRSTARK",
+  "candidate_source_observer_content_unexposed_per_parent": true,
+  "method_module": "scripts/independent_grille_v1.py",
+  "required_presealed_method_sha256": "5c2d8c3bbf1f54ecf8c43583e0f7e8f875a167050ab12d7e4a393f230f095e16",
+  "method_seal_manifest_sha256": "e2bd56bb75329042b1021174827d4846646e9b53994424907ff050b84e3bbd1d",
+  "planned_all_conventions": 32,
+  "source_certificate_records": 2048,
+  "fixed_literal_finite_other_conventions": 31,
+  "fixed_literal_finite_key_neighbors": 48,
+  "no_root_implementation_read_or_import": true,
+  "source_pixels": "Audit all64 current typed positions and64 physical cells by native/cell-atlas evidence; sourceholds retained",
+  "checkpoint_context": "Verify frozen historicalCP000PROJECT_STATE snapshot for legitimate updated state; no source revision from words",
+  "semantic_holds": [
+    "KOMUNISTISCHE literal oneM",
+    "IM WESTDEUTSCHLAND literal",
+    "IM LETZTEM ZEIT literal",
+    "No correction/appended letters",
+    "Course text is not verified political fact, dispatch, date or author"
+  ],
+  "historical_limits": [
+    "Known public supplied key; not unknown-key recovery",
+    "Invertible projections and localfinitecontrols are not historical/global uniqueness proof",
+    "Earlier layers/marks/other texts remain held"
+  ],
+  "write_scope": "scripts/independent_candidate_check_v1.py and reports/independent_candidate_audit_v1 only",
+  "no_state_Git_PDF_contacts_or_source_edits": true
+}

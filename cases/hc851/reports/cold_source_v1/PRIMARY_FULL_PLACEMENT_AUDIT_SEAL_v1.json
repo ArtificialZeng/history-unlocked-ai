@@ -1,0 +1,21 @@
+{
+  "sealed_utc": "2026-10-05T17:48:47.443130+00:00",
+  "files": [
+    {
+      "path": "data/cold_source_v1/PRIMARY_TYPED_ALL_PLACEMENTS_v1.json",
+      "sha256": "cdaa1850e45215d12c21b490966ad2c40f20109ff09697c030fb8ca565c26fa6"
+    },
+    {
+      "path": "data/cold_source_v1/PRIMARY_TYPED_ALL_PLACEMENTS_v1.csv",
+      "sha256": "eb54a2d7144ea44cba9a7c98e6756ee1d68d63488667e17fca0ee2ab4d4232c8"
+    },
+    {
+      "path": "data/cold_source_v1/PRIMARY_TYPED_OCCURRENCES_COORDINATE_AUDIT_v2.csv",
+      "sha256": "ce7b7169437e2762f0c811164467b2feac09d18b904e5bd1bfda3d6e7b5e2cb6"
+    }
+  ],
+  "raw_placements": 145,
+  "active_ASCII_letters": 144,
+  "stream_unchanged": true,
+  "extra_cancelled_position_explicit": true
+}

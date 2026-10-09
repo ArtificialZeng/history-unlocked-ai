@@ -1,0 +1,21 @@
+{
+  "official_source": "https://www.cryptogram.org/downloads/aca.info/ciphers/Grille.pdf",
+  "successful_web_capture": "turn356view0;1page21lines;2026-10-05UTC",
+  "page0_lines9_20": {
+    "plaintext": "THETURNINGGRILLE",
+    "ciphertext": "TILUNRGHGELTENIR",
+    "reported_holes_1indexed": [
+      1,
+      8,
+      10,
+      12
+    ]
+  },
+  "rows_read_horizontal": true,
+  "rotations_clockwise_quarter_turns": true,
+  "exact_forward_known_vector": true,
+  "exact_decode_known_vector": true,
+  "ciphertext_letters": 16,
+  "root_source_excerpt_text_only": true,
+  "target_inputs": 0
+}

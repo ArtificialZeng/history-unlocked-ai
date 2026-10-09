@@ -1,0 +1,24 @@
+{
+  "replays": [
+    {
+      "manifest": "reports/cold_source_v1/MANIFEST_v1.json",
+      "sha256": "79b54fb37f7d5e651c641fcb18aded8154a5477289b484b1b70c2ae981731307",
+      "files": 85,
+      "failures": []
+    },
+    {
+      "manifest": "reports/independent_method_v1/INDEPENDENT_METHOD_FINAL_SHA256_v1.json",
+      "sha256": "04575b49c45b420e4cc22ddf5604b59a766ac8c57fc4265b1129f591b19f034f",
+      "files": 8,
+      "failures": []
+    },
+    {
+      "manifest": "reports/semantic_and_priority_review_v1/SEALED_MANIFEST_v1.json",
+      "sha256": "a6c2abe61a4049cfb85d9cd2121de2e099c9ad95bc4e35e81b2720b7aa5ce9ec",
+      "files": 8,
+      "failures": []
+    }
+  ],
+  "primary_active_exact_match": true,
+  "active_letters": 144
+}

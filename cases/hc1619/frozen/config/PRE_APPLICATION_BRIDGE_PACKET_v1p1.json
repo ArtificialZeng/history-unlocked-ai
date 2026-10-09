@@ -1,0 +1,70 @@
+{
+  "version": "HC1619_PRE_APPLICATION_BRIDGE_PACKET_v1p1",
+  "registered_before_programmatic_target_application": true,
+  "source_freeze_sha256": "5d889f826604a1f996d1792815dc89f9e40196781de74a67277a2f12eb15444a",
+  "visual_bridge_sha256": "8f78bd228d6ff6e5266c8b43cc1434997eaa5b0416a82a172fa51905b489ee8b",
+  "source_overlay_sha256": "75168b079c57d3e88d7f5e1dc75ebeeb01dbf3f1d263ebf0688581f22d1a4dc8",
+  "source_label_to_old_raw_class": {
+    "c": "c",
+    "f": "f",
+    "5": "5",
+    "8": "8",
+    "4": "4",
+    "p": "p",
+    "g": null,
+    "m": "m",
+    "6": "6",
+    "t": "t",
+    "n": "n",
+    "DELTA": "s",
+    "3": "3",
+    "2": "2",
+    "r": "r",
+    "h": "h",
+    "b": "b",
+    "d": "d",
+    "7": "7",
+    "O0": "c"
+  },
+  "source_refinements": [
+    {
+      "index": 8,
+      "original_source_label": "g",
+      "refined_source_label": "V007_OPEN_LOWER_HOOK",
+      "old_raw_class": "9",
+      "evidence": "rounded upper bowl plus open lower hook"
+    },
+    {
+      "index": 15,
+      "original_source_label": "g",
+      "refined_source_label": "V007_CLOSED_LOWER_LOOP",
+      "old_raw_class": "g",
+      "evidence": "rounded upper bowl plus separately enclosed descending lower loop"
+    },
+    {
+      "index": 58,
+      "original_source_label": "g",
+      "refined_source_label": "V007_OPEN_LOWER_HOOK",
+      "old_raw_class": "9",
+      "evidence": "rounded upper bowl plus long open lower hooked tail; expanded pixels include full tail"
+    },
+    {
+      "index": 64,
+      "original_source_label": "g",
+      "refined_source_label": "V007_OPEN_LOWER_HOOK",
+      "old_raw_class": "9",
+      "evidence": "rounded upper bowl plus open lower left-turning hook"
+    }
+  ],
+  "source_keeper_independent_addendum_pending": false,
+  "O0_primary_value": "oldrawc-family only; no plaintextvalueprovidedby sourcekeeper",
+  "O0_c_like_alternative_status": "weaksourcehypothesisonly,no primarymap",
+  "key_value_changes": 0,
+  "cold_source_files_overwritten": 0,
+  "root_new_image_first_view": "after coldsourceandbridgefreeze;root alreadyknewoldkey;no claimthatcoordinatorexposurewasblind",
+  "parent_packet_sha256": "4e48ddd52d358b21a79d570372e2c4a3bb37535670e5d54820abed65b4cea5be",
+  "source_keeper_addendum_sha256": "45624fe8eb1d03ccc70b907a0b0e0b03bd186dfe452b99f1f3f11fdeba6a7a89",
+  "O0_bridge_scope": "Visiblyupper-rightopenhead/bodymatchto5owncexamples; longerterminalinkvariantretained. Preferredgraphicfamilyhypothesis, notmandatoryrawlabelmerge orUnicodeidentity.",
+  "O0_original_unknown_packet_preserved": true,
+  "chosen_before_any_programmatic_target_output": true
+}

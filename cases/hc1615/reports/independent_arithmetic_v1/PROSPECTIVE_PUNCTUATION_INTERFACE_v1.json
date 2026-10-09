@@ -1,0 +1,16 @@
+{
+  "registered_utc": "2026-10-06T04:36:58.538325+00:00",
+  "root_message_policy_prospective": true,
+  "root_CP020_lock_still_pending": true,
+  "punctuation_roles": [
+    "comma/terminalpunctuation"
+  ],
+  "display": "source raw_shape inserted after after_local_unit_ordinal in matchinggroup; groups literal_base unpunctuated; preserve group spaces/rows",
+  "row_display_field": "literal_with_preferred_terminal_event",
+  "name_compatibility_only": "field now means ALL preferred registered punctuation",
+  "unit_attached_mark_events_emitted_separately": false,
+  "current_source_values_or_P_read": false,
+  "actual_release_pending": true,
+  "synthetic_exact_registered_role_check_PASS": true,
+  "no_historical_input_or_key_read": true
+}

@@ -1,0 +1,13 @@
+{
+  "case": "HC849",
+  "scope_registration_utc": "2026-10-05T19:42:00.143749+00:00",
+  "first_original_fullface_view_time": "After scope registration; exact per-view wall-clock not recorded, do not fabricate it.",
+  "all_native_unit_atlases_review_completed_no_later_than_utc": "2026-10-05T19:56:43.654810+00:00",
+  "before_source_freeze_target_exposure": false,
+  "before_source_freeze_root_structured_inputs_or_code_read": false,
+  "prior_rough_source_summary_exposure": "Root message before registration contained reported 64 and 30/30/4, 8x8, supplied key and suggested note reading; disclosed in scope registration. All positions, current values and cut memberships recorded from this observer's own native inspection.",
+  "root_target_decode_actual_start_utc": "Not observed by this agent; parent stated it would begin only after source freeze. This observer does not certify an unobserved root timestamp.",
+  "fully_blind_claim": false,
+  "source_key_seen": "Yes: supplied physical key pixels, as the authorized source observation.",
+  "observer_no_plaintext_or_route_calculation": true
+}

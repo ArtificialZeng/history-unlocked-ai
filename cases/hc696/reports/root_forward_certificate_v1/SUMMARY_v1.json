@@ -1,0 +1,34 @@
+{
+  "coverage": 180,
+  "all_forward_match": true,
+  "cipher_edits": 0,
+  "nulls": 0,
+  "position_specific_exceptions": 0,
+  "period": 6,
+  "effective_slides": [
+    7,
+    0,
+    8,
+    5,
+    2,
+    8
+  ],
+  "canonical_key_representative": "OAQKEQ",
+  "paired_key_class_strings": [
+    "OP",
+    "AB",
+    "QR",
+    "KL",
+    "EF",
+    "QR"
+  ],
+  "equivalent_original_key_spellings": 64,
+  "X_positions_one_based": [
+    95,
+    180
+  ],
+  "literal_plaintext": "MANYPATROLSHAVESUCCESSFULLYACCOMPLISHEDTHEIRMISSIONSONLYTOLOSEPERSONNELBYAHASTYNOISYWITHDRAWALXNIGHTPATROLSGOOUTSTEALTHILYTAKINGALLPRECAUTIONSBUTFORGETALLTHATINGETTINGBACKTOSAFETYX",
+  "source_target_layer": "final_visible_only",
+  "underlying_typed_key_or_letters_solved": false,
+  "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+}

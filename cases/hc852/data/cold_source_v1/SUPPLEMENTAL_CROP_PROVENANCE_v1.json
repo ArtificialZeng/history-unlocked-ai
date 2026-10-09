@@ -1,0 +1,135 @@
+[
+  {
+    "id": "typed_end_dot_native",
+    "parent": "sources/raw/HC852_original_1.jpg",
+    "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+    "native_xyxy": [
+      2820,
+      490,
+      2920,
+      595
+    ],
+    "native_dimensions": [
+      100,
+      105
+    ],
+    "path": "sources/inspection/cold_source_v1/typed_end_dot_native.png",
+    "sha256": "8f123c608c4bd967b0e62fbff86566c4cb617c681e13058e25f16f11a8d1b310",
+    "native_RGB_pixel_sha256": "c513b9463fd7d01ae50bae1f349db08dfaaf68f99f1b0ba217b041deb3df421b",
+    "policy": "Native1:1 rectangle; no colour edit/resampling/rotation."
+  },
+  {
+    "id": "typed_lower_comma_native",
+    "parent": "sources/raw/HC852_original_1.jpg",
+    "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+    "native_xyxy": [
+      620,
+      760,
+      810,
+      905
+    ],
+    "native_dimensions": [
+      190,
+      145
+    ],
+    "path": "sources/inspection/cold_source_v1/typed_lower_comma_native.png",
+    "sha256": "a7e89904a83d3b3cf4c2ad060f99040e5e218fadc4ded05161189d34d54ce3a2",
+    "native_RGB_pixel_sha256": "cc8ca4b6725c456d65f327df500db60affe09446534f633a8de8bbabfa82ef80",
+    "policy": "Native1:1 rectangle; no colour edit/resampling/rotation."
+  },
+  {
+    "id": "notebook_caption_numerals_native",
+    "parent": "sources/raw/HC852_original_2.jpg",
+    "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+    "native_xyxy": [
+      1450,
+      650,
+      3000,
+      1030
+    ],
+    "native_dimensions": [
+      1550,
+      380
+    ],
+    "path": "sources/inspection/cold_source_v1/notebook_caption_numerals_native.png",
+    "sha256": "4321a81a734b950dc7814d4137a6da20936f2972fadf8378584897e083bf695c",
+    "native_RGB_pixel_sha256": "1dccdecba47a706fd0303b261bb4000ac9a651cb4216a3b8922715185de48b78",
+    "policy": "Native1:1 rectangle; no colour edit/resampling/rotation."
+  },
+  {
+    "id": "notebook_cancellation_dividers_native",
+    "parent": "sources/raw/HC852_original_2.jpg",
+    "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+    "native_xyxy": [
+      1430,
+      1160,
+      2785,
+      1800
+    ],
+    "native_dimensions": [
+      1355,
+      640
+    ],
+    "path": "sources/inspection/cold_source_v1/notebook_cancellation_dividers_native.png",
+    "sha256": "4191c007dc2701f6097ef03baac11b907cc60e015ab7cbed1652c94469bd722d",
+    "native_RGB_pixel_sha256": "9879328b3afae80dccbfb6b586b97ec1467d38177c023a17d441fe3f0f036656",
+    "policy": "Native1:1 rectangle; no colour edit/resampling/rotation."
+  },
+  {
+    "id": "notebook_red_marginals_native",
+    "parent": "sources/raw/HC852_original_2.jpg",
+    "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+    "native_xyxy": [
+      2290,
+      1650,
+      3024,
+      2020
+    ],
+    "native_dimensions": [
+      734,
+      370
+    ],
+    "path": "sources/inspection/cold_source_v1/notebook_red_marginals_native.png",
+    "sha256": "e4231b7d326b370c06790a0366d185990f0f4b74dc96203d9eda1686fc306545",
+    "native_RGB_pixel_sha256": "378fbbfc19a52512096119c3cb8d15ca93bbb6fd36bda5570f0f56d5babbf473",
+    "policy": "Native1:1 rectangle; no colour edit/resampling/rotation."
+  },
+  {
+    "id": "key_whole_native",
+    "parent": "sources/raw/HC852_original_3.jpg",
+    "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+    "native_xyxy": [
+      230,
+      50,
+      1490,
+      1290
+    ],
+    "native_dimensions": [
+      1260,
+      1240
+    ],
+    "path": "sources/inspection/cold_source_v1/key_whole_native.png",
+    "sha256": "01ce6fe7210100abac2af88e1da6b2bb57a5a6d113d1ab45eccde9d516d3c730",
+    "native_RGB_pixel_sha256": "5025e0dc475bb82a9adf41b6d2aae9e35b3238a4cc15cf0041309c68c5046665",
+    "policy": "Native1:1 rectangle; no colour edit/resampling/rotation."
+  },
+  {
+    "id": "notebook_array_context_native",
+    "parent": "sources/raw/HC852_original_2.jpg",
+    "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+    "native_xyxy": [
+      85,
+      720,
+      1375,
+      1960
+    ],
+    "native_dimensions": [
+      1290,
+      1240
+    ],
+    "path": "sources/inspection/cold_source_v1/notebook_array_context_native.png",
+    "sha256": "754607d4fe7e0495f1d96267c092c45a372c0a4d7a0bc3ef022e125d06c968d5",
+    "native_RGB_pixel_sha256": "a4f1cb41f59df51989af9aa4b3756d0edf516e746747feee9da258f7654a76c5",
+    "policy": "Native1:1 rectangle; no colour edit/resampling/rotation."
+  }
+]

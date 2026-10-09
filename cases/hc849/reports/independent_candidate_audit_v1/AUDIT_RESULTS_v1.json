@@ -1,0 +1,33 @@
+{
+  "audit_started_utc": "2026-10-05T20:16:03.389908+00:00",
+  "first_own_target_projection_utc": "2026-10-05T20:16:03.394669+00:00",
+  "audit_finished_utc": "2026-10-05T20:16:03.529112+00:00",
+  "status": "PASS SCOPED CURRENT-BODY MECHANICAL CERTIFICATE",
+  "codec_sha256": "5c2d8c3bbf1f54ecf8c43583e0f7e8f875a167050ab12d7e4a393f230f095e16",
+  "wrapper_sha256_at_execution": "a60aca84968e3c4bc7ec9f9b3a04714fef1d75e70345369a48539538526ae932",
+  "source_refs_hash_verified": 365,
+  "native_primary_crops_pixel_verified": 128,
+  "native_images_actually_viewed": 33,
+  "current_body_count": 64,
+  "physical_cell_count": 64,
+  "physical_cut_count": 16,
+  "own_projection_count": 32,
+  "all_full_forward_exact": true,
+  "source_position_certificates": 2048,
+  "root_literals_all_match": true,
+  "preferred_literal": "FRANCOUZSKAVLADASEROZHODLAODESLATDOKOREJEDENINTERVENCNIPRAPORXXX",
+  "alternative_convention_matches": 0,
+  "single_orbit_key_neighbor_matches": 0,
+  "combined_duplicate_output_groups": 0,
+  "all_source_and_method_freezes_preserved": true,
+  "source_or_method_revision": false,
+  "chronology_limit": "Own codec/control seal predated this observer target exposure. Parent preferred literal exposed before own audit registration; root schema metadata before own projections. No fully blind/pre-output candidate audit claim.",
+  "claim": "Given publicly supplied photographed stencil and explicitly registered conventions, the 64 current typed source positions have complete literal forward certificates.",
+  "holds": [
+    "Known supplied physical grille, not unknown-key recovery.",
+    "Invertible roundtrip certifies literal permutation only, not historical truth.",
+    "Current body only; old layers 30/60, secondary A/H/U/W/X/Y, clipped nonbody/caption and historical orientation/face/order roles held.",
+    "Catalogue NotSolved cached/unrefreshed; no global unsolved, priority, breakthrough or original war-dispatch claim.",
+    "Editorial spaces-only gloss optional; XXX, accent/punctuation/X-role uncertainty retained."
+  ]
+}

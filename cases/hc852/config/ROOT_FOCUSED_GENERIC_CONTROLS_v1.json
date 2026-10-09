@@ -1,0 +1,22 @@
+{
+  "registered_utc": "2026-10-05T21:21:47.241073+00:00",
+  "scope": "Root source-free focused controls for byte-identical generic framework, no HC852 source input. Root has publicsource/preliminarypartialexposure; nothumanblind.",
+  "code_sha256": "585830c07b14a252c7e10428ffd175943a049dd9b999f33602b04a255d08a11c",
+  "reuse_provenance": {
+    "prior_generic_code_path": "/Users/zeng/Documents/\u89e3\u8c1c/hcportal849_1952_grille_decipherment/scripts/grille_even_v1.py",
+    "byte_identical": true,
+    "old_target_values_copied": false,
+    "fresh_implementation_claim": false
+  },
+  "seed": 8521952,
+  "settings_per_key": 32,
+  "side8_distinct_random_keys": 5,
+  "literal_block_counts": [
+    1,
+    2
+  ],
+  "generic_trials": 320,
+  "known_primary_vector": "ACA 4x4 holes1,8,10,12; THETURNINGGRILLE->TILUNRGHGELTENIR",
+  "target_file_reads": 0,
+  "invalid_controls": "8invalidgeometry/input cases; no sourcecleaning/padding"
+}

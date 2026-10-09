@@ -1,0 +1,8805 @@
+{
+  "payload_seed": 8491953,
+  "vectors": [
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\né",
+      "ciphertext": " \té\n"
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\né",
+      "ciphertext": " é\t\n"
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\né",
+      "ciphertext": " \té\n"
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\né",
+      "ciphertext": " é\t\n"
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\né",
+      "ciphertext": " é\t\n"
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\né",
+      "ciphertext": " \té\n"
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\né",
+      "ciphertext": " é\t\n"
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\né",
+      "ciphertext": " \té\n"
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\né",
+      "ciphertext": "é \n\t"
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\né",
+      "ciphertext": "é\n \t"
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\né",
+      "ciphertext": "é \n\t"
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\né",
+      "ciphertext": "é\n \t"
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\né",
+      "ciphertext": "\t \né"
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\né",
+      "ciphertext": "\t\n é"
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\né",
+      "ciphertext": "\t \né"
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\né",
+      "ciphertext": "\t\n é"
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\né",
+      "ciphertext": "\né\t "
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\né",
+      "ciphertext": "\n\té "
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\né",
+      "ciphertext": "\né\t "
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\né",
+      "ciphertext": "\n\té "
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\né",
+      "ciphertext": "\n\té "
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\né",
+      "ciphertext": "\né\t "
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\né",
+      "ciphertext": "\n\té "
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\né",
+      "ciphertext": "\né\t "
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\né",
+      "ciphertext": "\t\n é"
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\né",
+      "ciphertext": "\t \né"
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\né",
+      "ciphertext": "\t\n é"
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\né",
+      "ciphertext": "\t \né"
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\né",
+      "ciphertext": "é\n \t"
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\né",
+      "ciphertext": "é \n\t"
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\né",
+      "ciphertext": "é\n \t"
+    },
+    {
+      "side": 2,
+      "holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\né",
+      "ciphertext": "é \n\t"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABhN",
+      "ciphertext": " A\tΩB中?\n0éh🧩N1!2"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABXC",
+      "ciphertext": " B0CA中é1\t?X!Ω\n🧩2"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABQ!",
+      "ciphertext": " Q\n🧩AΩ1é?\t!!B0中2"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABsL",
+      "ciphertext": " A?BsΩ\t0\n1L中🧩é!2"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABzD",
+      "ciphertext": " Ω\tA中B?\n0é🧩z!1D2"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABgD",
+      "ciphertext": " 中0!ΩBé1\t?🧩DA\ng2"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012AB?F",
+      "ciphertext": " 🧩\n?ΩA1é?\t!F中0B2"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABiE",
+      "ciphertext": " Ω?中🧩A\t0\n1!BiéE2"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABa\t",
+      "ciphertext": "A?B 0\tΩa中\t1\n2🧩é!"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABsB",
+      "ciphertext": "A0中2?\tB🧩BΩ1é s\n!"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABfx",
+      "ciphertext": "A1f\n? 🧩xΩB2é0中\t!"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABYM",
+      "ciphertext": "A?Ω01 B中Y🧩2\t\nMé!"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABEΩ",
+      "ciphertext": "Ω?中 0\tA🧩B!1\n2EéΩ"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABvO",
+      "ciphertext": "Ω0B2?\t!v中A1é 🧩\nO"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABAc",
+      "ciphertext": "Ω1🧩\n? A!A中2é0B\tc"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABqV",
+      "ciphertext": "Ω?A01 中B🧩q2\t\n!éV"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABJ5",
+      "ciphertext": "?Ω0A中B 1\t2🧩J!\n5é"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABEm",
+      "ciphertext": "?中\t!ΩB2\n0 🧩mA1Eé"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABGr",
+      "ciphertext": "?🧩1GΩA\n2 0!r中\tBé"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABwT",
+      "ciphertext": "?Ω 中🧩A0\t1\n!Bw2Té"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012AB\nf",
+      "ciphertext": "?A0ΩB中 1\t2\n🧩f\n!é"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012AB?H",
+      "ciphertext": "?B\tHA中2\n0 ?!Ω1🧩é"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABBΩ",
+      "ciphertext": "?B1🧩AΩ\n2 0Ω!B\t中é"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABkz",
+      "ciphertext": "?A BkΩ0\t1\nz中🧩2!é"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABZn",
+      "ciphertext": "Ω 中?\t0A🧩B!\n1éZ2n"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABOe",
+      "ciphertext": "Ω\tBé 0!O中A\n2?🧩1e"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABCY",
+      "ciphertext": "Ω\n🧩1 ?C!A中é2\tB0Y"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABEé",
+      "ciphertext": "Ω A\t\n?中B🧩Eé01!2é"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABtY",
+      "ciphertext": "A B?\t0Ωt中Y\n1é🧩2!"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABlD",
+      "ciphertext": "A\t中é 0D🧩BΩ\n2?l1!"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABYG",
+      "ciphertext": "A\nY1 ?🧩GΩBé2\t中0!"
+    },
+    {
+      "side": 4,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABdP",
+      "ciphertext": "A Ω\t\n?B中d🧩é01P2!"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012AB3bCZq\nVRBw5\tOZCkuWffV9",
+      "ciphertext": " \t0\né1Z2Ω中qACkB\n3V🧩u!WbCf?RBfZVw59\tO"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABsLr1Qrrlb5gxAeE?4rITjt",
+      "ciphertext": " eE🧩Ij\t2?4?50ΩB!lg\n中rrbtéQsLTx1Arr1A"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABTQZdi5\tVc5FM?pjdYCésJe",
+      "ciphertext": " \n1🧩?Tp0Ω!5QjC2VAM\té中sBZdé5cedYi\tJF?"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012AB🧩w O3jm3TR\noBGΩ1LboéEV",
+      "ciphertext": " GΩ\t1L\n0boé31Ω2中jm🧩!3éTE?RABV\n🧩wo OB"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABXXplq3uAnoH:vr2FmUiX5I",
+      "ciphertext": " \tr\né20FΩ中qm12U3iu🧩A!BX5X?AnXIpoHl:v"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012AByi1KIC2 N4 3q49ceu\tmoC",
+      "ciphertext": " 01🧩y1\tc2A?44Ωu!  \n中CBNKéI\tmi39e2oCq"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABcO6X2FkZNDcrf6KQ9MFΩY6",
+      "ciphertext": " \nK🧩?F06Ω!DΩ1BQZ9r\tc中OMY2éFNX6A2k6cf"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABaMBXZyAgJxSuwzrbve!sjR",
+      "ciphertext": " 01\t2A\nzBaéZrΩb中yA🧩!gMJB?xveXS!sujRw"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABc中fRCtlh中ewts7o🧩\tW中W\n8",
+      "ciphertext": "7o 🧩\t\tC\nW中0étlΩ1中2Wh\n中🧩!e8ABw?tc中sfR"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012AB8aTt:D4c1LPGBepK4rA1MU",
+      "ciphertext": "e:D1LGp\n4cU8 rΩMAaKA11BB40中🧩PT\té2!?t"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012AB5hlsUgGri6CefA?TsoI8h6",
+      "ciphertext": "AT\t86中U oh5🧩gi\nAél?6ICΩ!Gs1Bf?r02ehs"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABKJép ig3K! e6D4zTKrre2",
+      "ciphertext": "D i4g3z K!T0\tK\nr12reA Be2KéΩ6J中🧩é!?p"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABItLF9PDvwNCAJdsG17pA9V",
+      "ciphertext": "01 2A\t9\nBIdéPDΩs中GtvLw🧩!NF17C?ApAJ9V"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012AB?\nbKZjRW33qd🧩V7uO\nmEp2",
+      "ciphertext": "0Zj\n3d1\nRWKm BΩbOE2?73\n🧩AV中🧩qp\téu!?2"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012AB!sJ 🧩MaqevQ6Ov🧩\naKZZlT",
+      "ciphertext": "02\ts 中🧩 BJZ🧩Me\naél1v!QΩ!aA🧩KO?qv\n6ZT"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABg3t2kqvzrBxKrl PjkNBCd",
+      "ciphertext": "0kq1vz2 rBAl\tB\ng P3tjxkK2NéΩrB中🧩C!?d"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABBgLjDI28bVZ: Jo5H3jm:u",
+      "ciphertext": "DIJ28o05bV H123\tj\nZA:Bm:B éΩguL中🧩j!?"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABQ🧩RHkpZsh9FMnX1?uFéIaZ",
+      "ciphertext": "k01FQRp?2An中XhFMé🧩Z9\tBΩHs éI🧩!1u\naZ?"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABeu\nJzHgKrZMX7Ik!JXSRT8",
+      "ciphertext": "zgkM7S0IrX中R1B!éJ!HeZuXT2K\tΩJ8A \n\n🧩?"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABADSK中vSpp6CpspcGWT0\nWG",
+      "ciphertext": "中01v2ASpBAp cpG6\t\nCpéDΩSs中WTK🧩0\n!WG?"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012AB3?4DN中!FIptSjT\nsRé58X0",
+      "ciphertext": "N中0!F1T2Ip A\nsB\t3\ntRSé?45jéΩ8DX中🧩0!?"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012AB ch49RJaNdT5🧩1aoANE0vg",
+      "ciphertext": "91aTEvR2oA🧩中0NB5é🧩Jd\tNΩga  c0!1A\nh4?"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABi aA2中r🧩mRgc7mxWUYtrlA",
+      "ciphertext": "2r1g7im0mc中 xY2éA!中tRrBaW🧩\tΩAAU \nl🧩?"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABAFeqNG中f3éT:hu0rrzc4tS",
+      "ciphertext": "Nu0Grr中0zcf 132é\t\nT:é4Ωth中ABS🧩AF!eq?"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABGctuoxCjq:pW\tT1Ω中VNk!8",
+      "ciphertext": "01o2Ax CBGTj\t\nq1:ΩcétΩpW中u中V🧩\t!Nk?!8"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012AB2IhE8PR?!Ez8kUmYVlHCHX",
+      "ciphertext": "0 \tI中!1R\néEH8B!hVC22mΩl?AUEz🧩HP?Y8kX"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012AB:amqFv38?FcΩNYpkIvédy?",
+      "ciphertext": "02vaqF FBméc\tΩ3I8y1中:🧩?Ω\nApv?NéYk!d?"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABqY🧩0dWtxsKbMTLvgFgPpEP",
+      "ciphertext": "0 \t1\né2dΩ中ALWBtqvgY🧩F🧩g!0Pxs?pKbEMTP"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012AB4中EW0KéY\nlY\tH\n\tMP3V6 j",
+      "ciphertext": "\n\t0MPK é3V0Y\t\n\n1l26é ΩY\t中jAB🧩H!4中?EW"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABbétVBMuK?xa5yl\nMWi1cFM",
+      "ciphertext": "l \tc中!\nu\néMbBi?FAéM11ΩB?W0xa🧩tMK25yV"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABAhqΩΩVcja587vE3G7lm8hi",
+      "ciphertext": "EGV8i5 ΩlhA8\tΩcAjq3中m🧩a7\n71B?vé02!hΩ"
+    },
+    {
+      "side": 6,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABvZvG\ntNGqnWfFBgOg\t\trhh",
+      "ciphertext": "B \tg\néO\nΩ中g0t\tN\t12rhA🧩B!hvGq?ZnWvfFG"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABgn🧩lIP0ZQ6MG\nup2g!qV\n\n:BenΩ8jBJKFHcXv96ZqDC!🧩4tasw",
+      "ciphertext": " \t🧩clq\nIXévΩPV0ZQ6\n中M9🧩\n!?0:6G\n1BZqu2enΩA8pDjBC!🧩4gtB2JgaKns!wFH"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABusAVBpXtgo?B7d1qCD7cR0Uar8\tc:K中Q!4ZcyuXf:NczfAfUdg",
+      "ciphertext": " cg!aAfU\téo?fcAQAyR0:1usZΩ中UdNfdVp?X2:KD7cuBrBqg\nX🧩78c中!Bt01\tzC4"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012AB🧩8rtΩakzyJYOd!0B3DqMN89Z8Yy4m\n4ZCJPBLCgOTaQcp6aMuo",
+      "ciphertext": " éΩazYBBPΩO0yy!3rt81Ja🧩Z\t中🧩96O08qCTk24mC\nMaQZAuoBg!c8d\nDLN?pYM4J"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012AB6Q!XeROF中:to3XB:5U722GryV5\nQpaU643o4igGNSXYtUjU47g",
+      "ciphertext": " o!\t7\n4iéΩX中g2G2eNG🧩SR!?X01rOYtUF中:j2yVt5\nUoQA34BX6Bp7aU:56Q4gU3"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABtqDQCZ REIVéHeZTaF🧩So6H6aΩcUJoRiWé4\nuDAMG?kCWLhFY9",
+      "ciphertext": " \t4D\n🧩\nuQéCΩDSAMG?o中kZ🧩6!?0H CW16REL2aΩcAUhIJBVéHetZoFRYTiqa9FWé"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABoGt\nHm?Go R8Tc\tJwX1v60jrHh?d9WdTtiésZK9vgJiu5AMm4p",
+      "ciphertext": " \ng!rATJ\téJ?GdcTéH60oMoGtΩ中jA \twsKi?29Wp1vmuHBmX\n9🧩5hRdtZv01?84i"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABb8BIYgIs8Q9r7QHbMfPVMp\t7v0OHvQmLXs00YTAV1?c中ehpQzt",
+      "ciphertext": " éYQV0BQBΩs01Ohz00p1?HbL\t中🧩\tQ中p8Pg8A2HvX\nVT97AMfII!rveQtYM?7cbms"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABX:énYLVIFMh🧩rIQfzTptf3T7lwGuT6paN0中:q4kJS\n éGlNeMT",
+      "ciphertext": " é中\tp\nnYéΩ:中LtVfqI3🧩F4!?M01Tkh🧩rJS\nI27l wGQéuAGfBlXNTz6peMa:NTT0"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABMl6\tkInyu8jC3QmPo7A4wID3GztRΩXé\t中KKACYDXF9ΩjM tHuI",
+      "ciphertext": "KA A\t6C\n4YwDé\tΩ中🧩!kX?IFI9ΩjnD01My3G2 u8jtCAz3HtRΩXuéQBmM\tPI中lKo7"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABBqo\nlfKBqR4OPΩtDKlF:énoP5x🧩dN 🧩JM🧩dJfOApéf ddm7Jié",
+      "ciphertext": "d:🧩fB7NJJO! PO D éld5AiéFApK2x🧩M\té?omPΩqo\nn0qJB🧩fΩé1R🧩tK\n中fd4dBl"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABD\nS中H!2XzΩg9Ed!TL\néqxjj!vD?nC2\t5svΩ2C88G4bdmdéTWki",
+      "ciphertext": "Ω8\nD中ΩWBé8!m🧩g2D \t!d!\tkT2G4220AiSjvΩé9ELC中é?XTsvqjbnz1d\nxHdC?5!\n"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABTQaéLKh9oMJ8v Go7ΩszLz5🧩Ai🧩E?joud\t0aSahoXnMu9Yc:M!",
+      "ciphertext": "0s aaSzLah\tozé5L\n🧩KXAénMiu9hΩ🧩E?中🧩!jY9o?MJo08c1u:2MAvd GBTo!7\tQΩ"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012AB3!?UGPrRxkzKyrsLtp5F5rogQa?E🧩d\tNé🧩X1:gz2\tgn4sSSGZR",
+      "ciphertext": "?U 5\tXG\nFP5ré1Ω中🧩!:R?rxgkzKzo01y2gQ2r\tgns4AasL?E🧩dt\tSBS3NGpé!🧩ZR"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABsfF\tpf中4OXyWkOHR🧩Yon\twOc80Osvr57m9Eyh0z\tJzΩD4e🧩m\ne",
+      "ciphertext": "Fn🧩X\tHv7\tf!ycDrm \thW8A🧩Yo中4z205m\té?OO4efEyw0JRB9pΩO1zO🧩\n\n中0kΩsse"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABEAdwPoA中BJthF :MW9ov:mPL\n?v32M:Rn中1sIDTemkqsvQx!Ω?",
+      "ciphertext": "do\n?中kMBoALh🧩q2E \tDF!:W!w中BTM0A91m\nΩ svΩPséve:n中vPJ3m1QA:It2?Rx?"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABVtcYPMxH0mD\n\t中isBéZ3sbh8\tdgWN\no?UEVé6bQQt nbKfvXkC",
+      "ciphertext": "cZ YVP3sMx\tHbéh6\n8b0\témDd\n\tQΩgWN中🧩!\n中Qt? no0bi1?s2BAKUfvBVXékEtC"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABsFHT4xa4DF\teyA0U55LAw d!ΩStNoGye4OHHJd0!pQBkHJVHxé",
+      "ciphertext": "LAHHH wJT 4dd\t0!pQ\n!BxΩéStNΩakHo中4DJG🧩!?y0VF1e\teyA402HAxUBO5é5sF"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABYGB:K9IU\tzZRbfEéTu4KmRrYraaJ NpzHO🧩KFW:yMI3rxr0\tRD",
+      "ciphertext": "4:Ma中pbéKRIaU0fB🧩K\nJ\t0HOBrYΩrzETKW3IN12D \t9r🧩z\tum:rx!ZAYFyé ?RRG"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABU69?vCm5xMP🧩BDPOBG?qU5HmeΩslfuU?9\tjNmgnjiN5k7:hΩbU",
+      "ciphertext": "?5mMj!?Ω9H5li?:bjNéfNP9BqmeΩDkh\t Cxnu01UU\tgP中UBG?mΩ🧩🧩72Uv\nsB5OA6"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012AB3a4YGQqajD61jypx0rΩ45qm3241j:pp3est7?Pjvc4vA eHApv",
+      "ciphertext": "Ω4t4 5YGqm73Q\tq\n?aé2jP41Dj:Ωj61jvc4yp中🧩v!?pA0p x3eeH102AApBs3rva"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABNAvPV2GSQaéFJ98i4eWj1igpBW8cJd2KSpK\n0!bUI:ADyeVME9",
+      "ciphertext": "WjvKP 1V\ni0g2\tGSQa\npé!BéW8cΩbFJJ中UI9d🧩!?208:1KADyeSV2iA4MBpEe9NA"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABq?6QW204uN\tq7NaxAaJΩil\tToΩWJnCE O19hY7?xVZdaKBpa\tp",
+      "ciphertext": "JhuΩ中EKaΩlNWx0BB6Y\nJVaO19\tTΩNZp\tQ2\t?C12a \t7q🧩 xpi0o7!dAqW4én?aA?"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABHooSlé: E GDcj\tjJCrP8🧩dDAHt🧩A0c:gpBkG中nS61zU!Ll2cr",
+      "ciphertext": "r🧩l1 !:jBdS🧩E?jJoSéA lgBPDAΩLD\tp 中6:001H8\téz中ccrknHU🧩c2CG\nt!G2Ao"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012AB\tK5gQOtéLpdΩ\tCKihkOcl\tpaaCsCv!PxNs3Dr3Gr🧩V0oFt?féR",
+      "ciphertext": "O35c lDr\tpga3\tG\nQréa🧩OCsVCvΩt0oFéLpt!中🧩d!??Ω0P\tfxCNK1é2AihBs\tRkK"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABb中il\te1?86OhY8🧩j:hDcoo81\nH:GrKE1héM9h:zBDbsbDIya0h",
+      "ciphertext": "ilD cM\to\te\n1o981\nHh?:é8:6OhzΩGrYB中🧩K8Dbs🧩bE!Dj?012:AI1yhBahbé中0h"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABvKD5Oyg 1mSgRD?BRfZ9éHip5vwoxhxFK1Ω中m4fns5Ce37iJ1u",
+      "ciphertext": "D\t5mn?1B5yvS中e2JZ\nmg🧩xRf g fh!Av9HwΩD371Ω中éosBFKOi1x5?i1ép4RC0Ku"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABXoTsKy4fjflL\tSYu?vowHq4ΩV3u:xILtdCD?YduI984Y6Y3QR1",
+      "ciphertext": "TyH!Ω8ut 4中LV4Idowd\t3A?Qsfju2:LvDé🧩4SY6RK?q?IYXo\tΩf09xYC\nYl1uB31"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012AB0TAIhLmz3ΩTwK25veKRgdAJIoBEh8BW\tn qSORVKrI\ted\nE:2\t",
+      "ciphertext": "A RIqh\t\nLmgzéSΩOd中R3🧩AΩT!wKVJ?01IoB22KrEI\tAhe58BvBeWd0\nE\tn:K2T \t"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABZUcaBJL🧩lRB\t7GEwQHE\tsVMtPkUZWdZFrHPNOiDcFfWZxu05MB",
+      "ciphertext": "PNE \tcOs\ti\nDVaMtPkBcUéFJfWZLΩZWx🧩中🧩dulRB0\tZ!75?012MAGFErBwBZHUQH"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABt!IS中9ebOGΩpxdmJ77 4SmaHvoyNZnbkz:8🧩pYCtAzN:Wsé🧩n!",
+      "ciphertext": "8\tvzbé1B🧩YoN中p2J \n中:🧩bn! Cten!At4myΩsxd:ISéNO🧩k!paAZG?m7SH9WΩ0z7"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABo9 ΩaUtHlh🧩BnzZ7ju GV9YQ5yecgtwPHdUtD5ER?VlXf8KJWi",
+      "ciphertext": "U5V!QhJP E中X5🧩tH GUfyAW7tR?t2cwi é🧩Y8BnjDΩ9?HKo9\tΩV0lgzd\nal1eBZu"
+    },
+    {
+      "side": 8,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABkJ4bcj9V8oK6nΩa6v中471\nKV35gE\trY93jB🧩c9\tTkfZ6rvDjg1",
+      "ciphertext": "B 4🧩4c\t\n9\t7TébΩc1中jk🧩\nfZ!6r9K?01V352vV8goKAE6D\tBjrgYnkΩa9361vJj中"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABeVowUxhéL?nbzbJhuhbTp🧩中PdBoΩnpqLxoyIPwzZnllkWME3b🧩4ozJ4HRidb136中3k2?gZN!Hf9dj:1VGcXPma",
+      "ciphertext": " \t\n3Pwé6zbz中3ΩZnl中🧩blk!Jk?2h0u?hWMbTgEp1🧩中Z2AP3N!HdBoBfb🧩Ω9d4jen:1VoVpGocqzwXJLUP4HxhéRxomaLyi?nIdb1"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABjRnzrvj7m中6YUM3o3dkDcfOtY1SwZΩXeD!HQ🧩OOXj\nFH6d🧩5aGaEFhV9I!biFOT:8TMR4f\nbé76AEDn00H:YYu",
+      "ciphertext": " UFRfYa0Yu\t:TdO1EEVm\n8!6fSjH9HOΩ3d2BZXv!🧩XHkA7DFj中Oj?Dtanz76é\nM45GR:IQT中o🧩\nwnhDbO🧩0cb60e!iYM31éAΩrYF"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABsX7TG9WCb\ty40kCXX xeeRBnkwaJfu中Jnr0yHP1DWLAgmUv98Ir9!9 IbLmPGPLCmo?iOtBey83MY8EHPC中6\nd",
+      "ciphertext": " \téem8TEmn4oO🧩UI99CrH?ΩevBMab0PCWABnYIu\t0Xt!1k!HP6kX ?yr9JC\nPi中e83GW中yL1BR9s8b中yCDL02X fJdm\nxgA7wLPG"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABc7!YZ\n2Ω07\nHbPEmK\nFFséTiCZJ1hiSWBOF中6Buj4tz2\tND38bi?中MQtV9C4QDq?éIl7H\néxkT1tvPG8n5TrNd",
+      "ciphertext": " H6DbPBq?é\tIlEmK7uj\néHΩ4\n\n中étFx🧩Fz!?sé02\tNDT1kT32A8bBiCi1c7!Y?tv中MZPQZG\nJt812Vh9CΩ0in5TSW4BOF7rN中\ndQ"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABZ!zOΩkyLwΩMD5SJFodd9\n4TzZSvl:cYkjYiEJk4dxJQftb!9YUsv?ΩlomxleVsYJqdozy!aΩ57Fy0T5:9QT\tuL",
+      "ciphertext": " \t\nDJké54sYSJΩdxJ中🧩JQF!qf?od0odztby!d!a1Ω592A79\n4TFy0BzYUTZSsvZ5l:!zc:Yvk9?OjΩQΩYlokyLmT\tiEwuxΩMLleV"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABdXmrLJPtj🧩aB8MIGYobm5🧩IgPDS5P47Ω?Ué \n10lD\ths中zHFA1Zu084\tEyEkXMd?OcBaI4Y🧩UxR3BDtY\tTf?9\t",
+      "ciphertext": " dho🧩RZ7U \tMGaU3Su4j\nI!中mBdΩ\t9BΩOz2Bt\tJy\nlsIAg50P🧩1D?4xAPrtaé\tYbF1X?E\t8中cH5Dm8fE0🧩0Y🧩P4T?kM?B1IDYLéX"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABKOcOapféWGPwm\t!Rrv8hCéHcV\nwSIU9PSxA🧩X3U\tNv GgEnP1rS92Xé7Rd!8oUFΩ2T1lx8dXNzGlSIGMl7O1zZ",
+      "ciphertext": " \téég1OI!OUR8🧩Er9pé1XrΩ8nB\nSWzw2N Nzw7MGFTh!1G2U9xΩ1l?HSXIPA3v中dcVafSZmUCXPKSRlP\t\tv02OéG7🧩!\nxGAcld8o"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 0,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABY?Mfe3E80NTJS🧩Hn5EcM中yiOylRq?U0HéfS:pB🧩🧩rQ\n中en\teuZhCLZjRaNvs!FcRGanP\t\niY821\t中OfzOT0he1",
+      "ciphertext": " FpJcRBS🧩H\tn5GanE🧩🧩\nécΩrMP中中Q\ty🧩\n\n!?iY0中en\t81iOe2AuZB21hyY?MfClRLZeqj\t?3中RUOEafNv80z0HéOTs0heNfS1T:!"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABcns52PeFJK79yw4L0I?28?zDU\tS?AoNRLAj!isNAV6Kn86iPCj vaH8Sn🧩n\n7\nzLVUQP4?LN!Hv3Ω70N57fdO中",
+      "ciphertext": "\nzLi9yVsw \tNAU4L0QP\nIV4é??6ΩL中K🧩28!?n?0N128!HAz6iPBcnvCDUsj \tv35aHΩ782SSnP?0🧩AeNnoN57fRFJ\n7dKLO中7Aj!"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABmGhP25eQuu5EmO8E中KWwnq DsUJLCTNTNS9méewy:dgdHN7qWaw:iUXMvK 5cODZh7!phOeKarZQe🧩yGTFd!🧩L",
+      "ciphertext": "O\tKg1BUM cDw:🧩2m:JT!ZyhwHGQvNué7énaZP5TNE8W!rWiLF🧩mEO?ADUydLh中dd seKT5e!ΩqNh🧩CQSOpe07aXeu9 \n中Kqw2G5m"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABuΩ!mrpnhA3krRXYdWVXeW6odPLEVew5!WCQcrmz6kOR 9x\nrviRSmQ1Sy7402zΩoPnI!0N8Dct5mEuvpf7aJO8",
+      "ciphertext": "zΩP\nedvQCh k !WPEfaArOn?65RΩJ3rédV2AS5rO\tΩ90DBV1S4\n中🧩NrLe!y0RRI0vip77kmXx1omm!p8zYW8cEwmn26o!XtuuWQc"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012AB\n8!!\t5RQ4c6c KCPnY5EJOk8wuqP!HSIJ\tm?A :\nKéBHIN1\tp5Mx4zY:ME🧩0ΩEuZPΩ:D:C7aku2AT1sK中2ZsFt",
+      "ciphertext": "E cA\t\n  :\nuKééΩ中BKCZPHΩPI🧩:Nn!1D?Y:C0175EJO2a\tpkku8w2ABu5AT1sqMxP!K4H\nz中8SY!2I!J\tZs\t:ME5RmQ4cF🧩06tΩ?"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012AB76kH07sTk\tEvhzéj🧩n中s? B:NTMQHUzBkmn:i35YRS?gPévxWeXexoqLkxsGuixUTZXe中LL\nfBF77UC4mdwphu",
+      "ciphertext": "vhziixé3U \t5YjTZX🧩n\neR中é中sSΩ?中?🧩LL!?g\n0 12PB:AfévxB76NWBFkeX7eTHxoMQq0L7k7UHxCsUs4mzBkdTkGum\twn:Ephu"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABe8Bl🧩ép9 ΩUlfKd:?4a中0E SeD:FgNéZjsEtgLQ7NYKYjpe2中VAs2zjt275vp9QjLVo6\n8Vz3JnBJLB3és3aéZ",
+      "ciphertext": "l\t6K1BBt5pfQN🧩2esJ3sK7a8j8D2éΩg:éV eléé39L\n!S中2LZEQV中?AJzgjtdoYY3n:7sUL?ΩzpBFB9aj400eVjp é \n中E2A🧩NvZ"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABéM8ltzTfggΩGn:6UaVA5QGéd6:suie0NAGM中DbdjKczkfT ub:stf中7cZwk0v47中QsyeA8UqNt\ntXiAtAK6qZR",
+      "ciphertext": "Gn6 8ti中qf KkVU\nX0Ag4cU?q6sMGgDése2AtAtM\tΩfAGBi7ck\n中🧩5utA8Z07za0b:eNwΩb中T1N:fKz中dQyQéstlTvj:!Adué6ZR"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 1,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABQbgFumQbvfXbrRrtYU8jzeO\tq:iE1eB?\nx1Js0jf5V2iK2pudkdrUhiEqmMWSyi🧩MLvqR2ué2h7Br!Kpi0cUA:",
+      "ciphertext": "b ys\t\ni0jfr5VéΩ中2🧩MRritLK🧩Y2v!pU?q8j01zR2ué2eud2O\th7qABBk:iE1rdr!KeUpQhBbiig?0FcU\nxuEqmmQAbvf1MWXJS:"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABqy:SzE6dZJ l6🧩wJR中1qQqTLF2OP:6RfS!r3wT!lqIΩOCagVC🧩J7h5g\t\nT:Wj73:pv\nGw\tP\nGΩBnsfek!?4mUY",
+      "ciphertext": "wT!l \tl6\n73🧩wqéΩ中IΩ:🧩JOp!CRva\n中G?0w\t11Pg\nGqVCΩ2QqTBns🧩LABfF2qOJeP:7h6kRyf!:5SS?g!zE\t\nT64mr3:UdWjYZJ "
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012AB\tYUBlfr🧩FGWe中S2TJsF\ng x1cwr\naLQIovDtt6dt🧩!70mVAP\nOj9bXJXlxQΩZ1P:0WWUIHc3ifBk\tBjlbfQncT",
+      "ciphertext": "tP🧩s3B\tQvt6STUikrYlQd20?\n\tjIfce🧩00POjbX🧩 é!I\n1\nUlΩ\tΩmHfAaXxZt中JF2B9orT中!W1gBbBQF\n7Vc cLfnG1:WAxwlJDW"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABK3BVH?txZ0XpGSmfYCL sTzGDn5Xe🧩B6eWydéQNJfusjzPBSs2gmwxX\ti:LTlgBdmgF1C🧩c!\n中M?EbLicR3eTe",
+      "ciphertext": "éQJT?AxeZ3gfLs0B3\t:e Yf🧩12nELTpmΩ🧩\n中5?iTBg jBMB🧩BWdF1zzKVb6y\tCucGDXieeG\ns!2gXtclSé中PSmHLRdmNC!sw?x0X"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABN🧩04bb🧩 🧩p7kqq:0znVQ5yQ!GN🧩QVN8sCrODGqaPé0fEi20mjMpNDdAvMU2b6V? NFAJxQp24GuCf50QOHiC🧩y",
+      "ciphertext": "GV k? \tqq:q0zNFAn\néaPVéΩQJ05中xyfQ🧩Eip22!?0140Q!2mjABMGuNGpNDd🧩N🧩04AQbCVvfbN5M🧩0 🧩U2Q8sCOHpiC🧩brOy6D7"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABMvxB!\nikxEIv:Q9🧩vrpyuBQAwb\tvvmGm?!🧩J中ZQ5E🧩9wy3L5kEVjcodAyHakgo\n0NPEfDMi5 t D!b1tM98!7\n",
+      "ciphertext": "中ZQo \t5\n\nv:0NEéΩ中🧩9Q🧩Pw9!yE🧩3vfr?0pyD1uLBQM5kA2i5 wb\tEtABv DM!Vvb1jctmMv9Gxo8Bmd!!\nAyHi?!7\na🧩kkgJxEI"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABDEykAquwHdD!rLr中mLwXAfldééXlU72ehA3SnPΩgQL6T?0KFV!UΩW23n🧩中Jpsx9vtQnEPRxblwiwer4thLZvl ",
+      "ciphertext": "nr🧩EféDhv PvQLléeEAJΩtT?RXULq3xQr0F!U2nw é!wVwry🧩p\tΩ?XdA42中sg中nP2BΩZuS9L中1xlWkhH\n60AbiteAd!LmKlw73lD"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABpR!ZHx7zLRuMqManKJj中YLk!WJp!yxew2sdWP9EM9Pcrs5xAmni85b1Ot2\nTPK1NBBZWe:🧩Z\n3J3G6Kdzz🧩UxJ",
+      "ciphertext": "P9MZ?AbKL2MBec0BRO2s Z9中1n3p\ndKaΩ🧩k!GxxTqn:rxW!dzUMKJs\npZ!zx\tWPY3J1t🧩W1\n🧩L2i67ePNé中5A8HywJBEj!m5JzRu"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 2,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABdiQqN9oNp4rPe 3téBO\tjfmaHmmlWTs6Ωlqpb5xX4plMénotgYBc7vfLOpWM🧩:cD?H l22dcyyGyh03Ω260\nlx",
+      "ciphertext": "bP :e \tcD?5H 3tél\néxX24Ω2Bpd中Ocl\t🧩Méjfn!?01moyy2tgABYaHdGBc7viyhQqf0Nm3Lm9ΩlOoWNppWT260s64ΩlqM\nlp🧩xr"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABsO6:ΩKiu?dSXAl1YAZY!中8W\nL\tsnSsNz9\nAMLrb🧩\th5YN9d4ftKK1XRXzobmf\tBBpWZQ?j0Ktq9\tcl7m:6\tL:i",
+      "ciphertext": "XAl \tB1\tBLr\néYpWZAZbQΩY🧩?!中\t中h🧩5j0YN!K98d4?W\nft012tKKLAq91Bs\tO\tX6:snΩRKciXlSu7zs?m:Nz96obdS\nm\tAMfL:i"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "clockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABJ!中🧩zNEGR7XhaNpr9eck5L78JGL\nUsX?mGOEiUIFSXsyD5xr?0lRuUZV JEΩLBeOm7qgQ?UCvbK\nXcdjbW8T中p",
+      "ciphertext": "hUg🧩x0\nNRXa\nΩsrl!XjGNéc??RGEbΩ rFU7JUVX8BmQy8A中c?Oe7kD?b🧩UmEpq中!vKLGWL\t9SC0u\ndJTOe551Bz E中iIXL2JZs7p"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABDeA5lébbl2lr:tz\ndUyEYdI7S\tocmLJXVEéZD18U0XkrJe06HEr0OuGrAOYb!G中f7f3MqK9tP4ZEa2aU0qFgwO",
+      "ciphertext": "r:z1K4m5gODΩ!U9ZaJVYG中\nJtSD0Eb UfM6He0Gé10?ydE2lél8XkE2EaOb2中🧩deABLXb!\tf00P\tAqrZ\n73YIoUuAlétrq7crFwO"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "clockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABO0W🧩?Hjz9To\tm8Q93OUzmzAILDkLyHo:vN75u3jHTjSQX\tF!ZKsz8zvB7j4i?::i7RvtlFévHONJ4tWf9F8waI",
+      "ciphertext": "\tu: 3j:\t\némΩ中HTj🧩i78Q!9R?S30vQ1OXtUz\tFmlFév!z2AHAIONLZKJBDkLy4O0tWHWfs🧩oz9?8:Fz8wvNvHjzB7aj4i79T?5oI"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012ABotC7kHa🧩zXid!rYXn🧩BOhqibzYsvCEZXQB8b3KG6?ylV3\n9zE\t gW?Lr6IdkywMNZLPBTAiLPB1A2:é!🧩ΩPLEM",
+      "ciphertext": "wMN d!Z\tr3K\néLYXnPBG🧩ΩT6BA中?iy🧩lOhV3!q\nL9z?PBEi012\t g1AbzWBoYtA?C72:kLHsarvé🧩C6!zEZ🧩ΩPXIdXiLkQEMyB8b"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "counterclockwise",
+      "hole_scan": "row-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012AB:8nyxdcj🧩S5Q中F🧩MkZQΩUC:6q中6ΩQeDbVTdA2xom oiwh?zFéONdlppVeNu:ZIOFD1ceHf:PlDXL1!xG6MQ\tn?",
+      "ciphertext": "IxZ🧩zO中d🧩5O\nΩiFN86e\tFéHΩ?dLcD: 1mUlXpV6VQ🧩QwDAnΩMn中Mfhé6yxQ?Dk中!:q1jbZ\tc C0l!QNTFe:?1Bxeud2ooP2:pGSA"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "row-major",
+      "payload": " \t\néΩ中🧩!?012AB8WC2bXN2uxDYBNéBBc!3elnt 6Hz88中XpdP9vh9wE8k58kdW\nfivlWMMvlz5 K5FzjrbLcGuGjKgnRfOlMl5Dm",
+      "ciphertext": "K5z13tf2dlvΩ!be HllzY中j8lK8v55 wBcW\nW中MDhE?LufzbXu98kc268lNxB🧩rkABOM2 \tN0dngCXMm\néBGGn8WvDéF5!jRipP9"
+    },
+    {
+      "side": 10,
+      "holes": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          7,
+          9
+        ],
+        [
+          8,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          1
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "start_quarters": 3,
+      "direction": "counterclockwise",
+      "hole_scan": "column-major",
+      "cipher_serialization": "column-major",
+      "payload": " \t\néΩ中🧩!?012ABRM:h!jOdnT zq GY18pR9tj\t中TSOvé9ΩéuPSQ1RORBrQQnbot\nAacZZ:kxfl86AcZqgéHOl9ITM:E3!5ysHés:",
+      "ciphertext": "6Qz 1Rq\t\néAΩ中ORB🧩 GcZ!qY?rg01Q1éQ8HOnblpR9to92AjIT\t中Mt\nTB:E3!SRMOv5:éAhya9!csΩZéuHéZjOd:kPxflsnT8: S"
+    }
+  ]
+}

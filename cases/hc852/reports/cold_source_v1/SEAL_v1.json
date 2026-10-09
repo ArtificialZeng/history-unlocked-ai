@@ -1,0 +1,10 @@
+{
+  "sealed_utc": "2026-10-05T21:40:12.329727+00:00",
+  "manifest_path": "reports/cold_source_v1/MANIFEST_v1.json",
+  "manifest_sha256": "a2dcab38ce4a18830cd4825ed1ea8c967d7ffba33500642dad30ee90e4d9c6e6",
+  "payload_count": 67,
+  "reference_count": 10,
+  "status": "SOURCE_ONLY_CENSUS_PASS_WITH_HOLDS",
+  "no_candidate_or_route_exposure": true,
+  "root_fully_blind": false
+}

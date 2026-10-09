@@ -1,0 +1,131 @@
+{
+  "sources": [
+    {
+      "url": "https://de.scribd.com/document/463633023/Kriegstagebuch-Der-Seekriegsleitung-1939-1945-Teil-a-Band-621-1-Bis-15-Oktober-1944",
+      "access_registration_utc": "2026-10-05T17:50:15.990273+00:00",
+      "capture": "reports/semantic_and_priority_review_v1/captures/REGISTERED_SEARCH_RESPONSE_v1.json",
+      "source_status": "not relied on for semantic correction/priority; nonprimary/rehosted/other broad search result",
+      "content_hash_scope": "Hash of returned tool capture, not remote original document."
+    },
+    {
+      "url": "https://de.wiki.li/Tyrus",
+      "access_registration_utc": "2026-10-05T17:50:15.990273+00:00",
+      "capture": "reports/semantic_and_priority_review_v1/captures/REGISTERED_SEARCH_RESPONSE_v1.json",
+      "source_status": "not relied on for semantic correction/priority; nonprimary/rehosted/other broad search result",
+      "content_hash_scope": "Hash of returned tool capture, not remote original document."
+    },
+    {
+      "url": "https://dokumen.pub/die-tagebcher-von-joseph-goebbels-band-12-april-juni-1944-9783110965544-9783598223082.html",
+      "access_registration_utc": "2026-10-05T17:50:15.990273+00:00",
+      "capture": "reports/semantic_and_priority_review_v1/captures/REGISTERED_SEARCH_RESPONSE_v1.json",
+      "source_status": "not relied on for semantic correction/priority; nonprimary/rehosted/other broad search result",
+      "content_hash_scope": "Hash of returned tool capture, not remote original document."
+    },
+    {
+      "url": "https://dokumen.pub/die-tagebcher-von-joseph-goebbels-band-13-juli-september-1944-9783110961751-9783598223099.html",
+      "access_registration_utc": "2026-10-05T17:50:15.990273+00:00",
+      "capture": "reports/semantic_and_priority_review_v1/captures/REGISTERED_SEARCH_RESPONSE_v1.json",
+      "source_status": "not relied on for semantic correction/priority; nonprimary/rehosted/other broad search result",
+      "content_hash_scope": "Hash of returned tool capture, not remote original document."
+    },
+    {
+      "url": "https://dokumen.pub/die-tagebcher-von-joseph-goebbels-band-14-oktober-dezember-1944-9783110964196-9783598223105.html",
+      "access_registration_utc": "2026-10-05T17:50:15.990273+00:00",
+      "capture": "reports/semantic_and_priority_review_v1/captures/REGISTERED_SEARCH_RESPONSE_v1.json",
+      "source_status": "not relied on for semantic correction/priority; nonprimary/rehosted/other broad search result",
+      "content_hash_scope": "Hash of returned tool capture, not remote original document."
+    },
+    {
+      "url": "https://dokumen.pub/die-tagebcher-von-joseph-goebbels-band-7-januar-mrz-1943-9783110965599-9783598221385.html",
+      "access_registration_utc": "2026-10-05T17:50:15.990273+00:00",
+      "capture": "reports/semantic_and_priority_review_v1/captures/REGISTERED_SEARCH_RESPONSE_v1.json",
+      "source_status": "not relied on for semantic correction/priority; nonprimary/rehosted/other broad search result",
+      "content_hash_scope": "Hash of returned tool capture, not remote original document."
+    },
+    {
+      "url": "https://dokumen.pub/die-tagebcher-von-joseph-goebbels-band-9-juli-september-1943-9783110965575-9783598223051.html",
+      "access_registration_utc": "2026-10-05T17:50:15.990273+00:00",
+      "capture": "reports/semantic_and_priority_review_v1/captures/REGISTERED_SEARCH_RESPONSE_v1.json",
+      "source_status": "not relied on for semantic correction/priority; nonprimary/rehosted/other broad search result",
+      "content_hash_scope": "Hash of returned tool capture, not remote original document."
+    },
+    {
+      "url": "https://dokumen.pub/helmut-greinert-kriegstagebuch-des-oberkommandos-der-wehrmacht-1940-1945.html",
+      "access_registration_utc": "2026-10-05T17:50:15.990273+00:00",
+      "capture": "reports/semantic_and_priority_review_v1/captures/REGISTERED_SEARCH_RESPONSE_v1.json",
+      "source_status": "not relied on for semantic correction/priority; nonprimary/rehosted/other broad search result",
+      "content_hash_scope": "Hash of returned tool capture, not remote original document."
+    },
+    {
+      "url": "https://mbc.cyfrowemazowsze.pl/Content/74313/00079985_-_Warschauer-Zeitung-R-4-1942-nr-188-11-VIII-_BUW-05764.pdf",
+      "access_registration_utc": "2026-10-05T17:50:15.990273+00:00",
+      "capture": "reports/semantic_and_priority_review_v1/captures/REGISTERED_SEARCH_RESPONSE_v1.json",
+      "source_status": "primary newspaper digital facsimile result; context only, no exact antecedent established",
+      "content_hash_scope": "Hash of returned tool capture, not remote original document."
+    },
+    {
+      "url": "https://opendata2.uni-halle.de/retrieve/a7d0a549-2739-41e6-af6c-400ebf13123c/166752470419411119.pdf",
+      "access_registration_utc": "2026-10-05T17:50:15.990273+00:00",
+      "capture": "reports/semantic_and_priority_review_v1/captures/REGISTERED_SEARCH_RESPONSE_v1.json",
+      "source_status": "primary newspaper digital facsimile result; context only, no exact antecedent established",
+      "content_hash_scope": "Hash of returned tool capture, not remote original document."
+    },
+    {
+      "url": "https://opendata2.uni-halle.de/retrieve/e5f6a53e-1a14-485a-ad42-47a79fd6c3ce/16818797781940070801.pdf",
+      "access_registration_utc": "2026-10-05T17:50:15.990273+00:00",
+      "capture": "reports/semantic_and_priority_review_v1/captures/REGISTERED_SEARCH_RESPONSE_v1.json",
+      "source_status": "primary newspaper digital facsimile result; context only, no exact antecedent established",
+      "content_hash_scope": "Hash of returned tool capture, not remote original document."
+    },
+    {
+      "url": "https://pdf.sub.uni-hamburg.de/kitodo/PPN1012405958_19410315.pdf",
+      "access_registration_utc": "2026-10-05T17:50:15.990273+00:00",
+      "capture": "reports/semantic_and_priority_review_v1/captures/REGISTERED_SEARCH_RESPONSE_v1.json",
+      "source_status": "primary newspaper digital facsimile result; context only, no exact antecedent established",
+      "content_hash_scope": "Hash of returned tool capture, not remote original document."
+    },
+    {
+      "url": "https://sbc.org.pl/Content/651289/PDF/iv4424-1941-229-0001.pdf",
+      "access_registration_utc": "2026-10-05T17:50:15.990273+00:00",
+      "capture": "reports/semantic_and_priority_review_v1/captures/REGISTERED_SEARCH_RESPONSE_v1.json",
+      "source_status": "primary newspaper digital facsimile result; context only, no exact antecedent established",
+      "content_hash_scope": "Hash of returned tool capture, not remote original document."
+    },
+    {
+      "url": "https://www.pennula.de/zeitschrift-flugsport/online-archiv/luftfahrt-luftwaffe-zweiter-weltkrieg-1942",
+      "access_registration_utc": "2026-10-05T17:50:15.990273+00:00",
+      "capture": "reports/semantic_and_priority_review_v1/captures/REGISTERED_SEARCH_RESPONSE_v1.json",
+      "source_status": "not relied on for semantic correction/priority; nonprimary/rehosted/other broad search result",
+      "content_hash_scope": "Hash of returned tool capture, not remote original document."
+    },
+    {
+      "url": "https://www.scribd.com/document/634961073/Der-Luftschutz-im-Deutschen-Reich-von-1933-1945",
+      "access_registration_utc": "2026-10-05T17:50:15.990273+00:00",
+      "capture": "reports/semantic_and_priority_review_v1/captures/REGISTERED_SEARCH_RESPONSE_v1.json",
+      "source_status": "not relied on for semantic correction/priority; nonprimary/rehosted/other broad search result",
+      "content_hash_scope": "Hash of returned tool capture, not remote original document."
+    },
+    {
+      "url": "https://www.wissenora.com/wiki/The_Blitz",
+      "access_registration_utc": "2026-10-05T17:50:15.990273+00:00",
+      "capture": "reports/semantic_and_priority_review_v1/captures/REGISTERED_SEARCH_RESPONSE_v1.json",
+      "source_status": "not relied on for semantic correction/priority; nonprimary/rehosted/other broad search result",
+      "content_hash_scope": "Hash of returned tool capture, not remote original document."
+    }
+  ],
+  "direct_open_urls": [
+    "https://api.hcportal.eu/api/cryptograms/851",
+    "https://crypto.hcportal.eu/dashboard/cryptograms/851",
+    "https://pdf.sub.uni-hamburg.de/kitodo/PPN1012405958_19410315.pdf",
+    "https://mbc.cyfrowemazowsze.pl/Content/74313/00079985_-_Warschauer-Zeitung-R-4-1942-nr-188-11-VIII-_BUW-05764.pdf"
+  ],
+  "access_failures": [
+    "DWDS robots.txt denial (no retry).",
+    "Public API and portal inaccessible via web.open.",
+    "Hamburg full PDF rejected by web.open: 16,553,445-byte content too large.",
+    "Warsaw full PDF web.open returned 502.",
+    "Independent unauthenticated API GET returned HTTP 466."
+  ],
+  "no_full_external_pdf_saved": true,
+  "no_additional_search_queries": true
+}

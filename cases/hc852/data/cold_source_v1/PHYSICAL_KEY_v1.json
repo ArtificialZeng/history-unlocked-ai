@@ -1,0 +1,2239 @@
+{
+  "manual_source_only": true,
+  "coarse_rows": 8,
+  "coarse_columns": 8,
+  "coarse_cells": 64,
+  "cut_cells": 16,
+  "solid_cells": 48,
+  "coarse_X_boundaries_approx": [
+    289,
+    435,
+    578,
+    720,
+    863,
+    1007,
+    1150,
+    1293,
+    1435
+  ],
+  "coarse_Y_boundaries_approx": [
+    107,
+    251,
+    393,
+    535,
+    677,
+    818,
+    960,
+    1103,
+    1245
+  ],
+  "envelope_native_xyxy": [
+    289,
+    107,
+    1435,
+    1245
+  ],
+  "geometry_basis": "Direct paper edges, coarse pencilled boundaries and native scale. Coarse pitch approximately142–146pixels; finer ruling approximatelyhalf pitch, not an extra coarse cell. Axis-aligned boxes approximate a slightly warped paper, local boundary uncertainty retained.",
+  "cells": [
+    {
+      "id": "K11",
+      "row": 1,
+      "column": 1,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": [
+        "1"
+      ],
+      "graphite_certainty": "moderate directly visible, not sequence-completed",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        289,
+        107,
+        435,
+        251
+      ],
+      "native_dimensions": [
+        146,
+        144
+      ],
+      "native_RGB_pixel_sha256": "b431886e2de11b2b6fa97045d5d506e0c310b5392603d5c5dfd1586e15f54200",
+      "native_PNG_encoding_sha256": "21116d51a5902cdd69f1420c5e9b8a110dc2467f3b18c448b5eb43b12d463992",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        146,
+        172
+      ]
+    },
+    {
+      "id": "K12",
+      "row": 1,
+      "column": 2,
+      "cut": true,
+      "physical_material": "absent stencil/background",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Fine graphpaper background, no stencil material at coarse cell interior.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        435,
+        107,
+        578,
+        251
+      ],
+      "native_dimensions": [
+        143,
+        144
+      ],
+      "native_RGB_pixel_sha256": "a4b6ee40cab1406e630480b26885766912f09243beceda78629effea0dcc3404",
+      "native_PNG_encoding_sha256": "c435058f6c748503d21177bf62149afbf7b063857318401ffa44b1bf803b3b31",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        146,
+        28,
+        289,
+        172
+      ]
+    },
+    {
+      "id": "K13",
+      "row": 1,
+      "column": 3,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": [
+        "3"
+      ],
+      "graphite_certainty": "moderate directly visible, not sequence-completed",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        578,
+        107,
+        720,
+        251
+      ],
+      "native_dimensions": [
+        142,
+        144
+      ],
+      "native_RGB_pixel_sha256": "27468cea666470ec5c147158f90b11cab7022b305d7e79cdb97835414ba8ff6c",
+      "native_PNG_encoding_sha256": "d277ff249c94b33445e084455e07d24004d129dd0a7dd39b4435867e98045b2c",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        289,
+        28,
+        431,
+        172
+      ]
+    },
+    {
+      "id": "K14",
+      "row": 1,
+      "column": 4,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples. Dark I-like top orientation/framing strokes cross this region.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        720,
+        107,
+        863,
+        251
+      ],
+      "native_dimensions": [
+        143,
+        144
+      ],
+      "native_RGB_pixel_sha256": "f9dac420c7b2b475fdda92ea6102860a2f6f2d3f600c9389eeaee635dde9dbb1",
+      "native_PNG_encoding_sha256": "cb7cbb4ac3d68ac63cc02b6c56338b2bce64594dbf737b3efb669d89fd3f2784",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        431,
+        28,
+        574,
+        172
+      ]
+    },
+    {
+      "id": "K15",
+      "row": 1,
+      "column": 5,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        863,
+        107,
+        1007,
+        251
+      ],
+      "native_dimensions": [
+        144,
+        144
+      ],
+      "native_RGB_pixel_sha256": "68879d658d3578eddc8092c94621d761cadc93d88c72dc1955751aac83dff289",
+      "native_PNG_encoding_sha256": "dc5de19b33a2f898b832758930bf405d9554d7fa571d012b1d7ff19ea0e39127",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        574,
+        28,
+        718,
+        172
+      ]
+    },
+    {
+      "id": "K16",
+      "row": 1,
+      "column": 6,
+      "cut": true,
+      "physical_material": "absent stencil/background",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Fine graphpaper background, no stencil material at coarse cell interior.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1007,
+        107,
+        1150,
+        251
+      ],
+      "native_dimensions": [
+        143,
+        144
+      ],
+      "native_RGB_pixel_sha256": "0eec7fd889747f47e120d4f57f721f537fb35bb18a6725b5629a91691187d510",
+      "native_PNG_encoding_sha256": "1104b6eb0dd4f881c1a1f927e585c0c94cca85760c0ae58422688a827a904218",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        718,
+        28,
+        861,
+        172
+      ]
+    },
+    {
+      "id": "K17",
+      "row": 1,
+      "column": 7,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1150,
+        107,
+        1293,
+        251
+      ],
+      "native_dimensions": [
+        143,
+        144
+      ],
+      "native_RGB_pixel_sha256": "a5f2bcd2ed2a7fee43b7d6ec1790da6fa04e88f3bbbf75ed7e5dd68f4b15967a",
+      "native_PNG_encoding_sha256": "fcaf4e22e76e99052dbcc84d2961e1d67473e427f5651d6532bb51d10a8cb0a6",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        861,
+        28,
+        1004,
+        172
+      ]
+    },
+    {
+      "id": "K18",
+      "row": 1,
+      "column": 8,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1293,
+        107,
+        1435,
+        251
+      ],
+      "native_dimensions": [
+        142,
+        144
+      ],
+      "native_RGB_pixel_sha256": "5d3a2f48ebb2b18ce5f995a1bf4d64b8db6f3e613e862804062d230360f74681",
+      "native_PNG_encoding_sha256": "aa9e729ca54f91a735c1793695d4ee38f89e2b164d87190fe6bc65b462cf4108",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        1004,
+        28,
+        1146,
+        172
+      ]
+    },
+    {
+      "id": "K21",
+      "row": 2,
+      "column": 1,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": [
+        "5"
+      ],
+      "graphite_certainty": "moderate directly visible, not sequence-completed",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        289,
+        251,
+        435,
+        393
+      ],
+      "native_dimensions": [
+        146,
+        142
+      ],
+      "native_RGB_pixel_sha256": "14fbe919b84f058ec80966dc18635b0ef92faa95346da564e070c4184e705d2d",
+      "native_PNG_encoding_sha256": "37ddb4c78f10358f3a354b42c022eeb9741f6576949df0ff6db7b3ca852cbbc0",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        146,
+        170
+      ]
+    },
+    {
+      "id": "K22",
+      "row": 2,
+      "column": 2,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": [
+        "6"
+      ],
+      "graphite_certainty": "moderate directly visible, not sequence-completed",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        435,
+        251,
+        578,
+        393
+      ],
+      "native_dimensions": [
+        143,
+        142
+      ],
+      "native_RGB_pixel_sha256": "380bf7f7d18190edd2f947aa8e70908ec6e2533c3ccd29fc9499fc9cc064d635",
+      "native_PNG_encoding_sha256": "751579ce7120f79ebe31455782899a8fb7ef9866e99225093293a57a7a6a628c",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        146,
+        28,
+        289,
+        170
+      ]
+    },
+    {
+      "id": "K23",
+      "row": 2,
+      "column": 3,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        578,
+        251,
+        720,
+        393
+      ],
+      "native_dimensions": [
+        142,
+        142
+      ],
+      "native_RGB_pixel_sha256": "596e2c580196aba7fd3ff73147cdf66555e59d8b6d5ce8bb9f129fb2d68e82e1",
+      "native_PNG_encoding_sha256": "f18b5426e532bbfce6ed40c073a58b0b3207473592a8518756dbe6dc4130a8ac",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        289,
+        28,
+        431,
+        170
+      ]
+    },
+    {
+      "id": "K24",
+      "row": 2,
+      "column": 4,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples. Dark I-like top orientation/framing strokes cross this region.",
+      "graphite_literal_candidates": [
+        "8"
+      ],
+      "graphite_certainty": "moderate directly visible, not sequence-completed",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        720,
+        251,
+        863,
+        393
+      ],
+      "native_dimensions": [
+        143,
+        142
+      ],
+      "native_RGB_pixel_sha256": "3d6ddf581c4b8392bec7f159bec75ca86b81072ef53c4221c5118b909d6aa509",
+      "native_PNG_encoding_sha256": "241093f01cafee5072270ae950ba7b6a7f7b1d30d221543e933cdb3181bf1ec0",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        431,
+        28,
+        574,
+        170
+      ]
+    },
+    {
+      "id": "K25",
+      "row": 2,
+      "column": 5,
+      "cut": true,
+      "physical_material": "absent stencil/background",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Fine graphpaper background, no stencil material at coarse cell interior.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        863,
+        251,
+        1007,
+        393
+      ],
+      "native_dimensions": [
+        144,
+        142
+      ],
+      "native_RGB_pixel_sha256": "0125610cff3363d48e7c498e1b4b97c2fc2e971c64342ffd9e1c0b857e4eb824",
+      "native_PNG_encoding_sha256": "f4726eb99d28c11012a82dc84a6da951de5db436170a1c4867b91cb929f5a939",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        574,
+        28,
+        718,
+        170
+      ]
+    },
+    {
+      "id": "K26",
+      "row": 2,
+      "column": 6,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1007,
+        251,
+        1150,
+        393
+      ],
+      "native_dimensions": [
+        143,
+        142
+      ],
+      "native_RGB_pixel_sha256": "5a0fd5d9a749080344817f2c8458b9894bb9acba702b832245bb68e66947e012",
+      "native_PNG_encoding_sha256": "85ec21fae612605c81b6569cf11aa1e4fec6bd79cadffb083d2bcaa124bccc50",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        718,
+        28,
+        861,
+        170
+      ]
+    },
+    {
+      "id": "K27",
+      "row": 2,
+      "column": 7,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1150,
+        251,
+        1293,
+        393
+      ],
+      "native_dimensions": [
+        143,
+        142
+      ],
+      "native_RGB_pixel_sha256": "5541b88a9979be3a718e4da7f4ea170e025000d2efa53bbec8cc56ab5cdb543b",
+      "native_PNG_encoding_sha256": "76401554b9376ad88e81678fc66aa67a1e4c01d6c4030fc9812bc10a2954ac78",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        861,
+        28,
+        1004,
+        170
+      ]
+    },
+    {
+      "id": "K28",
+      "row": 2,
+      "column": 8,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1293,
+        251,
+        1435,
+        393
+      ],
+      "native_dimensions": [
+        142,
+        142
+      ],
+      "native_RGB_pixel_sha256": "3ce6ae2a364cd8f203e736fcc58cd6b2e7f351e2f715e392e17fac63de5b9227",
+      "native_PNG_encoding_sha256": "99b1adc44af5177fcae843c6667bf56c7937d99c9970ebdbb3beaa7b85a1787f",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        1004,
+        28,
+        1146,
+        170
+      ]
+    },
+    {
+      "id": "K31",
+      "row": 3,
+      "column": 1,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": [
+        "9"
+      ],
+      "graphite_certainty": "moderate directly visible, not sequence-completed",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        289,
+        393,
+        435,
+        535
+      ],
+      "native_dimensions": [
+        146,
+        142
+      ],
+      "native_RGB_pixel_sha256": "0d8f2188f9ea966acd46ac6a3fd6333dcb32476aee69db6d312ef0e8039f9d46",
+      "native_PNG_encoding_sha256": "24f1387a627622093d268bc1899c5ba917a9da8c872ae6ac072525343f174402",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        146,
+        170
+      ]
+    },
+    {
+      "id": "K32",
+      "row": 3,
+      "column": 2,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": [
+        "10"
+      ],
+      "graphite_certainty": "moderate directly visible, not sequence-completed",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        435,
+        393,
+        578,
+        535
+      ],
+      "native_dimensions": [
+        143,
+        142
+      ],
+      "native_RGB_pixel_sha256": "1548778b1f1d7c1976586f0fe0723947afff963f4c8fee740a6a3635e48e611d",
+      "native_PNG_encoding_sha256": "8f220c3fd23601d502cc7f245132da50acb13c9ec0343f95fda18cf5c0ced16b",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        146,
+        28,
+        289,
+        170
+      ]
+    },
+    {
+      "id": "K33",
+      "row": 3,
+      "column": 3,
+      "cut": true,
+      "physical_material": "absent stencil/background",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Fine graphpaper background, no stencil material at coarse cell interior.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        578,
+        393,
+        720,
+        535
+      ],
+      "native_dimensions": [
+        142,
+        142
+      ],
+      "native_RGB_pixel_sha256": "8a1eebcb9772db16ac27f8e4f94c11de6f4362cad67d681e5d76868399b0610e",
+      "native_PNG_encoding_sha256": "0beeed5751d6b173182fa5a5218ad9ae04cdacb784367a44c2dd0f4b67b7c230",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        289,
+        28,
+        431,
+        170
+      ]
+    },
+    {
+      "id": "K34",
+      "row": 3,
+      "column": 4,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": [
+        "12"
+      ],
+      "graphite_certainty": "moderate directly visible, not sequence-completed",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        720,
+        393,
+        863,
+        535
+      ],
+      "native_dimensions": [
+        143,
+        142
+      ],
+      "native_RGB_pixel_sha256": "398aef7281b196302b5f5f5b858eb4155e4a8323b732144cb2e94afbe5710a29",
+      "native_PNG_encoding_sha256": "d9b9cbeb1f92e0a8d75ef92d354614f16edad3be31165f46aca3759848a3448d",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        431,
+        28,
+        574,
+        170
+      ]
+    },
+    {
+      "id": "K35",
+      "row": 3,
+      "column": 5,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        863,
+        393,
+        1007,
+        535
+      ],
+      "native_dimensions": [
+        144,
+        142
+      ],
+      "native_RGB_pixel_sha256": "4caf4859165b31198d3b086e38d9c5425d69598b5eed72c820c27258613c8271",
+      "native_PNG_encoding_sha256": "2d2d88db49f723b6f8dd79194ff5eb122b21ef107bef873626715a8eb64bcdf6",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        574,
+        28,
+        718,
+        170
+      ]
+    },
+    {
+      "id": "K36",
+      "row": 3,
+      "column": 6,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1007,
+        393,
+        1150,
+        535
+      ],
+      "native_dimensions": [
+        143,
+        142
+      ],
+      "native_RGB_pixel_sha256": "a824e4d2925742b4da5e8b69b58a71c4a20f657dd49e9e3111863375a6d748cd",
+      "native_PNG_encoding_sha256": "7c8f2c70147a4c63337ff2e9ace61617eeb940e1fdacd755a0f8cea12266c285",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        718,
+        28,
+        861,
+        170
+      ]
+    },
+    {
+      "id": "K37",
+      "row": 3,
+      "column": 7,
+      "cut": true,
+      "physical_material": "absent stencil/background",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Fine graphpaper background, no stencil material at coarse cell interior.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1150,
+        393,
+        1293,
+        535
+      ],
+      "native_dimensions": [
+        143,
+        142
+      ],
+      "native_RGB_pixel_sha256": "b32e937ab6dfdd96800fcbae6dd10a46aaf5dd00be11980f1d16442aefefe800",
+      "native_PNG_encoding_sha256": "d522d2ac9b47531c94a0e6ead2262c3f57060204f3128ca71ca3fa45fccdf3d6",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        861,
+        28,
+        1004,
+        170
+      ]
+    },
+    {
+      "id": "K38",
+      "row": 3,
+      "column": 8,
+      "cut": true,
+      "physical_material": "absent stencil/background",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Fine graphpaper background, no stencil material at coarse cell interior.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1293,
+        393,
+        1435,
+        535
+      ],
+      "native_dimensions": [
+        142,
+        142
+      ],
+      "native_RGB_pixel_sha256": "9e9f21e5df167fb99b3c4eeb6c51bca121105de4558ac2e84c9b2d09f81cef26",
+      "native_PNG_encoding_sha256": "753bf7ded17d02819b13fff5e996a8a53678ec27f26c6d1acf49be87a4d21703",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        1004,
+        28,
+        1146,
+        170
+      ]
+    },
+    {
+      "id": "K41",
+      "row": 4,
+      "column": 1,
+      "cut": true,
+      "physical_material": "absent stencil/background",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Fine graphpaper background, no stencil material at coarse cell interior.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        289,
+        535,
+        435,
+        677
+      ],
+      "native_dimensions": [
+        146,
+        142
+      ],
+      "native_RGB_pixel_sha256": "19b17e61207df34fe521bd53f3570b569331ec0d03282cbabb70f41d23996b9a",
+      "native_PNG_encoding_sha256": "cc14066a35fc8b36d61e090cff13998ac12827045791dc12501965d9c710afdd",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        146,
+        170
+      ]
+    },
+    {
+      "id": "K42",
+      "row": 4,
+      "column": 2,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": [
+        "14"
+      ],
+      "graphite_certainty": "moderate directly visible, not sequence-completed",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        435,
+        535,
+        578,
+        677
+      ],
+      "native_dimensions": [
+        143,
+        142
+      ],
+      "native_RGB_pixel_sha256": "e3fdf29cecf401f4b3d6e7ee9087d9aaaab09b706ad6431693921bd6c0edf1a2",
+      "native_PNG_encoding_sha256": "76c2f456c22ba5b4cc312cdcd95dddd16840e7faef5027b0ada0f9af42efc507",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        146,
+        28,
+        289,
+        170
+      ]
+    },
+    {
+      "id": "K43",
+      "row": 4,
+      "column": 3,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": [
+        "15"
+      ],
+      "graphite_certainty": "moderate directly visible, not sequence-completed",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        578,
+        535,
+        720,
+        677
+      ],
+      "native_dimensions": [
+        142,
+        142
+      ],
+      "native_RGB_pixel_sha256": "14af6c95fcab9ab1ba08e3c56e7fab6030ae9f113b01d57553a83ef6383d4d5d",
+      "native_PNG_encoding_sha256": "ec00f149cbba3e553815e0b6ffe3602cd23e1a8641b7f3327fa78f611a93084c",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        289,
+        28,
+        431,
+        170
+      ]
+    },
+    {
+      "id": "K44",
+      "row": 4,
+      "column": 4,
+      "cut": true,
+      "physical_material": "absent stencil/background",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Fine graphpaper background, no stencil material at coarse cell interior.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        720,
+        535,
+        863,
+        677
+      ],
+      "native_dimensions": [
+        143,
+        142
+      ],
+      "native_RGB_pixel_sha256": "2a0762b9e89bb98c8ea96feab23c711ece9581f34b8ef548a8a135dea23102e0",
+      "native_PNG_encoding_sha256": "9dfadde1188439c34e60da37c83b8a2fd3b377dfd56bbb3b17d0fc59d20bba70",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        431,
+        28,
+        574,
+        170
+      ]
+    },
+    {
+      "id": "K45",
+      "row": 4,
+      "column": 5,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        863,
+        535,
+        1007,
+        677
+      ],
+      "native_dimensions": [
+        144,
+        142
+      ],
+      "native_RGB_pixel_sha256": "5694153940d30ed4abb5b990ecf0002163691c5027c6d1f20dded2bb06b7a30c",
+      "native_PNG_encoding_sha256": "8643717c1e49807e1eb36eb6436ecbcc0148522b0da688dfbb10439e41bd9215",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        574,
+        28,
+        718,
+        170
+      ]
+    },
+    {
+      "id": "K46",
+      "row": 4,
+      "column": 6,
+      "cut": true,
+      "physical_material": "absent stencil/background",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Fine graphpaper background, no stencil material at coarse cell interior.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1007,
+        535,
+        1150,
+        677
+      ],
+      "native_dimensions": [
+        143,
+        142
+      ],
+      "native_RGB_pixel_sha256": "4fe64cfa67513579d33651f72dc48e952e1203f4f96c21581bb0b0e1a9ea654b",
+      "native_PNG_encoding_sha256": "d90061868cd78bd2b70b7e07e3bfcc8b930c464f2e9aeea6e78d89e93e6e58ab",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        718,
+        28,
+        861,
+        170
+      ]
+    },
+    {
+      "id": "K47",
+      "row": 4,
+      "column": 7,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1150,
+        535,
+        1293,
+        677
+      ],
+      "native_dimensions": [
+        143,
+        142
+      ],
+      "native_RGB_pixel_sha256": "270b963ffc2188b8562b87a79b2d1ebf453d2179c555f452c7ecada6b9fd63b3",
+      "native_PNG_encoding_sha256": "a351bc08906408b5e2f18fb58b9f65bfe19672b715badd3e17a97496bf385aca",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        861,
+        28,
+        1004,
+        170
+      ]
+    },
+    {
+      "id": "K48",
+      "row": 4,
+      "column": 8,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1293,
+        535,
+        1435,
+        677
+      ],
+      "native_dimensions": [
+        142,
+        142
+      ],
+      "native_RGB_pixel_sha256": "7a46ff732d4b7645819ff9e2224bd234b37e89463207736e4e6bce07a78629a4",
+      "native_PNG_encoding_sha256": "dc5859da20e51633935b9b0bcb7957a301fa9ddfc514156a4cee0295d593df36",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        1004,
+        28,
+        1146,
+        170
+      ]
+    },
+    {
+      "id": "K51",
+      "row": 5,
+      "column": 1,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        289,
+        677,
+        435,
+        818
+      ],
+      "native_dimensions": [
+        146,
+        141
+      ],
+      "native_RGB_pixel_sha256": "9172b95543512fbbfc20ccbb448b1aa94ec91e9ed235517d9d45f2f3e826e7bf",
+      "native_PNG_encoding_sha256": "992171838e5bb07691ac6c0eae7ed45cc9218ab741925c16df7be2f174c37e19",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        146,
+        169
+      ]
+    },
+    {
+      "id": "K52",
+      "row": 5,
+      "column": 2,
+      "cut": true,
+      "physical_material": "absent stencil/background",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Fine graphpaper background, no stencil material at coarse cell interior.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        435,
+        677,
+        578,
+        818
+      ],
+      "native_dimensions": [
+        143,
+        141
+      ],
+      "native_RGB_pixel_sha256": "505f2dfdf6678cd7a4798c9fe5c1c3af21c9ca579416921cd26bbfc508f078ee",
+      "native_PNG_encoding_sha256": "fc55daf4a567e5f0697f5366c22a8a00769d5ed345f433db29cca9d5f7cf8957",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        146,
+        28,
+        289,
+        169
+      ]
+    },
+    {
+      "id": "K53",
+      "row": 5,
+      "column": 3,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        578,
+        677,
+        720,
+        818
+      ],
+      "native_dimensions": [
+        142,
+        141
+      ],
+      "native_RGB_pixel_sha256": "4d40e29625a0815e1d872bbe5013fb8cc4dec2aa67482c263de618dfb57e0852",
+      "native_PNG_encoding_sha256": "e521aad0dcfa264bf596fd053d6cd08766ca296d73b0703930f6907d93209c9e",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        289,
+        28,
+        431,
+        169
+      ]
+    },
+    {
+      "id": "K54",
+      "row": 5,
+      "column": 4,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        720,
+        677,
+        863,
+        818
+      ],
+      "native_dimensions": [
+        143,
+        141
+      ],
+      "native_RGB_pixel_sha256": "8495fafb907a2c75e87048a824f149fcde8b0dc4bdb78ef59f7a1a48af34f54b",
+      "native_PNG_encoding_sha256": "139351a1b3ed843be6188d4cad4db0f599a06ff922b61b8882ac007322f31782",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        431,
+        28,
+        574,
+        169
+      ]
+    },
+    {
+      "id": "K55",
+      "row": 5,
+      "column": 5,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples. Dark8/slash/8-like caption crosses here.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        863,
+        677,
+        1007,
+        818
+      ],
+      "native_dimensions": [
+        144,
+        141
+      ],
+      "native_RGB_pixel_sha256": "ea70af76963348f47759dc2b1125c40dc6d2c4178a6b3752b714dde66c049633",
+      "native_PNG_encoding_sha256": "e5a31e151ff45c3632cecf328ec5bbdac57dcf117cbba3fc9f55e6d74f414fee",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        574,
+        28,
+        718,
+        169
+      ]
+    },
+    {
+      "id": "K56",
+      "row": 5,
+      "column": 6,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples. Dark8/slash/8-like caption crosses here.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1007,
+        677,
+        1150,
+        818
+      ],
+      "native_dimensions": [
+        143,
+        141
+      ],
+      "native_RGB_pixel_sha256": "6603ada82e35ba24ac280bebc505328c91ecfd61446e7feed22e8abbabadc39b",
+      "native_PNG_encoding_sha256": "75406745cc614ecf2bdd4001903633e9d8b35cfe56c26d8d569b26161943080e",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        718,
+        28,
+        861,
+        169
+      ]
+    },
+    {
+      "id": "K57",
+      "row": 5,
+      "column": 7,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples. Dark right orientation marks include crossing/overdraw; do not infer prior/current order.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1150,
+        677,
+        1293,
+        818
+      ],
+      "native_dimensions": [
+        143,
+        141
+      ],
+      "native_RGB_pixel_sha256": "24d1700f0b2fe4c8fb1b195528728cff772a106603121c871d59c2e29a055403",
+      "native_PNG_encoding_sha256": "07d228de0a351fce404b2f1c68be0db6333b6e36a34cba8a952e7cd27e33da4f",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        861,
+        28,
+        1004,
+        169
+      ]
+    },
+    {
+      "id": "K58",
+      "row": 5,
+      "column": 8,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples. Dark right orientation marks include crossing/overdraw; do not infer prior/current order.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1293,
+        677,
+        1435,
+        818
+      ],
+      "native_dimensions": [
+        142,
+        141
+      ],
+      "native_RGB_pixel_sha256": "014ede63d67369ead467825d2ea12f906b7dea046733986f1e2846222bb282ef",
+      "native_PNG_encoding_sha256": "ff152b3d6e6ef52e9d1a5a4c8b7baa83371187b2e1fd94f7f33a3cdaf85bf2b0",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        1004,
+        28,
+        1146,
+        169
+      ]
+    },
+    {
+      "id": "K61",
+      "row": 6,
+      "column": 1,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples. Dark left overdrawn orientation cluster; exact numeral/layer chronology held.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        289,
+        818,
+        435,
+        960
+      ],
+      "native_dimensions": [
+        146,
+        142
+      ],
+      "native_RGB_pixel_sha256": "4b6896dc7b8a0db1f17c49d6eb5ac6dce21a3311ccf9630a7000d746c31e9bbd",
+      "native_PNG_encoding_sha256": "42925e6474a7b7bd2881d6c3924e21619048223343ce35bc661b3b5e539e4b87",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        146,
+        170
+      ]
+    },
+    {
+      "id": "K62",
+      "row": 6,
+      "column": 2,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples. Dark left overdrawn orientation cluster; exact numeral/layer chronology held.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        435,
+        818,
+        578,
+        960
+      ],
+      "native_dimensions": [
+        143,
+        142
+      ],
+      "native_RGB_pixel_sha256": "8df44b46b68d937d51050858f79471ee6ac4a15392fcea2507e0a742cb9d5a41",
+      "native_PNG_encoding_sha256": "ac71cc0fecac3d82bdc5df40cea0092c573e690c4c5ea09aa8f88f26dc244ba6",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        146,
+        28,
+        289,
+        170
+      ]
+    },
+    {
+      "id": "K63",
+      "row": 6,
+      "column": 3,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        578,
+        818,
+        720,
+        960
+      ],
+      "native_dimensions": [
+        142,
+        142
+      ],
+      "native_RGB_pixel_sha256": "7cc3d20595e26854f6939a3851454398885cca1a5f3e3217149b4be4f2f813a7",
+      "native_PNG_encoding_sha256": "8bf50984cbaa2f3ec8af68c82490bea75936d13fe3555771027982253e63e090",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        289,
+        28,
+        431,
+        170
+      ]
+    },
+    {
+      "id": "K64",
+      "row": 6,
+      "column": 4,
+      "cut": true,
+      "physical_material": "absent stencil/background",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Fine graphpaper background, no stencil material at coarse cell interior.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        720,
+        818,
+        863,
+        960
+      ],
+      "native_dimensions": [
+        143,
+        142
+      ],
+      "native_RGB_pixel_sha256": "81471f5c7422437ffe1602b8ae866aeaa14a4f2f6afeb67e53de1b36b0af322b",
+      "native_PNG_encoding_sha256": "e761403330c1422158d4e0abaef8ef1864942bd349c1277b0ce0d188c1b316c6",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        431,
+        28,
+        574,
+        170
+      ]
+    },
+    {
+      "id": "K65",
+      "row": 6,
+      "column": 5,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples. Dark8/slash/8-like caption crosses here.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        863,
+        818,
+        1007,
+        960
+      ],
+      "native_dimensions": [
+        144,
+        142
+      ],
+      "native_RGB_pixel_sha256": "a11979a6dc6befecda71a22549d1b22c82c869ef90e60d83ab7d77ef27bdca6c",
+      "native_PNG_encoding_sha256": "29d6eeb79b73c5cef59f2e8dbb1ca9f5825e337fd3cf4e81126167c1e8b5fd03",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        574,
+        28,
+        718,
+        170
+      ]
+    },
+    {
+      "id": "K66",
+      "row": 6,
+      "column": 6,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples. Dark8/slash/8-like caption crosses here.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1007,
+        818,
+        1150,
+        960
+      ],
+      "native_dimensions": [
+        143,
+        142
+      ],
+      "native_RGB_pixel_sha256": "fccf172a7c02796ac33714c962cc24c5b9c3e4fe843385ba512ee7885410616e",
+      "native_PNG_encoding_sha256": "2ca9d559e3a4f81e76c9a042495f9a4bb2d85ca0127756416a0399287a254232",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        718,
+        28,
+        861,
+        170
+      ]
+    },
+    {
+      "id": "K67",
+      "row": 6,
+      "column": 7,
+      "cut": true,
+      "physical_material": "absent stencil/background",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Fine graphpaper background, no stencil material at coarse cell interior.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1150,
+        818,
+        1293,
+        960
+      ],
+      "native_dimensions": [
+        143,
+        142
+      ],
+      "native_RGB_pixel_sha256": "7bebaa0b1fe54e6afeb2e63ad7e7435d49f4ad081033b4dd5e925bf6c0650518",
+      "native_PNG_encoding_sha256": "4442d886d5fea8c7935d49f4c0111d56b00e946917f95e3696a0d5216417c296",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        861,
+        28,
+        1004,
+        170
+      ]
+    },
+    {
+      "id": "K68",
+      "row": 6,
+      "column": 8,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1293,
+        818,
+        1435,
+        960
+      ],
+      "native_dimensions": [
+        142,
+        142
+      ],
+      "native_RGB_pixel_sha256": "3003afa579a89c8e75fbbbddf1f0bb91dd426d49c8b91ee6473fd276672fc09d",
+      "native_PNG_encoding_sha256": "68b41c7bf5efb9693426c2ec2df8eccffb020144eb8a90a9f124fce045001bd4",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        1004,
+        28,
+        1146,
+        170
+      ]
+    },
+    {
+      "id": "K71",
+      "row": 7,
+      "column": 1,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        289,
+        960,
+        435,
+        1103
+      ],
+      "native_dimensions": [
+        146,
+        143
+      ],
+      "native_RGB_pixel_sha256": "88a4edce4c7455894c77081015ea83439fb45aa72e65ee29fa0f3ab3519a91be",
+      "native_PNG_encoding_sha256": "91d2e776519aeff8b43e34b8e27deedae13e6b1c68d04374972199ed85a5b981",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        146,
+        171
+      ]
+    },
+    {
+      "id": "K72",
+      "row": 7,
+      "column": 2,
+      "cut": true,
+      "physical_material": "absent stencil/background",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Fine graphpaper background, no stencil material at coarse cell interior.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        435,
+        960,
+        578,
+        1103
+      ],
+      "native_dimensions": [
+        143,
+        143
+      ],
+      "native_RGB_pixel_sha256": "703b5a7fdb47db78aefb662e209e10ecbc9355d0075a44f939f2e3e8dc499a51",
+      "native_PNG_encoding_sha256": "e8c9db011a164e9dfcd77a1be187e003a3bba0bee705c16a6f80e72e383b4dcb",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        146,
+        28,
+        289,
+        171
+      ]
+    },
+    {
+      "id": "K73",
+      "row": 7,
+      "column": 3,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples. DarkIII-like lower label/framing lines.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        578,
+        960,
+        720,
+        1103
+      ],
+      "native_dimensions": [
+        142,
+        143
+      ],
+      "native_RGB_pixel_sha256": "f876850449853d7c609533f1999614f68774ac111c5d3aaf44e80db12f8adb4d",
+      "native_PNG_encoding_sha256": "45d5868a788d40ffed360d679a069f5309c824a64e90a1732e21087253949475",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        289,
+        28,
+        431,
+        171
+      ]
+    },
+    {
+      "id": "K74",
+      "row": 7,
+      "column": 4,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples. DarkIII-like lower label/framing lines.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        720,
+        960,
+        863,
+        1103
+      ],
+      "native_dimensions": [
+        143,
+        143
+      ],
+      "native_RGB_pixel_sha256": "a5bbb58ed404469ae0adead9eba3e4084fb300e07fc6353e9734902dda34a35f",
+      "native_PNG_encoding_sha256": "4f4c7930ea6e7e35c34baa15e9c3e59131884fdd5a927faf90e85ec9e809210c",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        431,
+        28,
+        574,
+        171
+      ]
+    },
+    {
+      "id": "K75",
+      "row": 7,
+      "column": 5,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        863,
+        960,
+        1007,
+        1103
+      ],
+      "native_dimensions": [
+        144,
+        143
+      ],
+      "native_RGB_pixel_sha256": "88f28d1f6503990e9ca9ab052ae2fda4963b04882febee38035178dd72320cb9",
+      "native_PNG_encoding_sha256": "3f353be69ccfa36ef269a492ea7f21a64bf58a0c7ef105553a7e9828de150878",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        574,
+        28,
+        718,
+        171
+      ]
+    },
+    {
+      "id": "K76",
+      "row": 7,
+      "column": 6,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1007,
+        960,
+        1150,
+        1103
+      ],
+      "native_dimensions": [
+        143,
+        143
+      ],
+      "native_RGB_pixel_sha256": "e43cbe42a164823c5c8f622a3a9624d8093c30050d65e1df5d955f8a6086e4a5",
+      "native_PNG_encoding_sha256": "42e05da80d6f202d3bc7a72d98636f607501e277008bfb79255b54ef253f281b",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        718,
+        28,
+        861,
+        171
+      ]
+    },
+    {
+      "id": "K77",
+      "row": 7,
+      "column": 7,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1150,
+        960,
+        1293,
+        1103
+      ],
+      "native_dimensions": [
+        143,
+        143
+      ],
+      "native_RGB_pixel_sha256": "70195c54c67ace758a52b6fed1dc846578631355fdce1b6a1a1afcf6393bebba",
+      "native_PNG_encoding_sha256": "9513f0be15fa81e3d26c3de6eb4b98aac0f18a6fa4346a245fa3c24999bbc3f9",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        861,
+        28,
+        1004,
+        171
+      ]
+    },
+    {
+      "id": "K78",
+      "row": 7,
+      "column": 8,
+      "cut": true,
+      "physical_material": "absent stencil/background",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Fine graphpaper background, no stencil material at coarse cell interior.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1293,
+        960,
+        1435,
+        1103
+      ],
+      "native_dimensions": [
+        142,
+        143
+      ],
+      "native_RGB_pixel_sha256": "1b3409f196cebb17af6763132e5ef5d83801aac08b31b68455e3f289522ceb6a",
+      "native_PNG_encoding_sha256": "6f4d1e039f08b9333d18fb00e008f843ceef7f1177d7246c2b73c6345928c993",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        1004,
+        28,
+        1146,
+        171
+      ]
+    },
+    {
+      "id": "K81",
+      "row": 8,
+      "column": 1,
+      "cut": true,
+      "physical_material": "absent stencil/background",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Fine graphpaper background, no stencil material at coarse cell interior.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        289,
+        1103,
+        435,
+        1245
+      ],
+      "native_dimensions": [
+        146,
+        142
+      ],
+      "native_RGB_pixel_sha256": "93da9b6213175b7e3d7819e0823a567649019eab8c0ab79ae803df12abde7276",
+      "native_PNG_encoding_sha256": "0b6627daf43fbd2ca24174afd716aba193bb6fd7e9d879d838685e6686f280be",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        146,
+        170
+      ]
+    },
+    {
+      "id": "K82",
+      "row": 8,
+      "column": 2,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        435,
+        1103,
+        578,
+        1245
+      ],
+      "native_dimensions": [
+        143,
+        142
+      ],
+      "native_RGB_pixel_sha256": "f2eb67e538d0922098c288ea95bd9ccfd2b543ebeb60ff5d701c0ad240e37d2c",
+      "native_PNG_encoding_sha256": "91b21c1753911f32d4fc834085d680d797aeb69250de6336324f8ad6aba6041a",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        146,
+        28,
+        289,
+        170
+      ]
+    },
+    {
+      "id": "K83",
+      "row": 8,
+      "column": 3,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples. DarkIII-like lower label/framing lines.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        578,
+        1103,
+        720,
+        1245
+      ],
+      "native_dimensions": [
+        142,
+        142
+      ],
+      "native_RGB_pixel_sha256": "b7e624d8ecd803f25aed00e46b55af7065715c0deb26dd1b2de346159277c820",
+      "native_PNG_encoding_sha256": "ac8d082dbe0a1c339693b090d62a99292b878e61d0c9514f01f6d2e22e20ac36",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        289,
+        28,
+        431,
+        170
+      ]
+    },
+    {
+      "id": "K84",
+      "row": 8,
+      "column": 4,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples. DarkIII-like lower label/framing lines.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        720,
+        1103,
+        863,
+        1245
+      ],
+      "native_dimensions": [
+        143,
+        142
+      ],
+      "native_RGB_pixel_sha256": "51aa6c7ea0ca679fc475c52de8d2883acb8ca5b9ac70f1102b63c6027daba4bd",
+      "native_PNG_encoding_sha256": "38de352357de5e7033e7e25e18ab8a5a64367982306d0634a426844047df8a37",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        431,
+        28,
+        574,
+        170
+      ]
+    },
+    {
+      "id": "K85",
+      "row": 8,
+      "column": 5,
+      "cut": true,
+      "physical_material": "absent stencil/background",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Fine graphpaper background, no stencil material at coarse cell interior.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        863,
+        1103,
+        1007,
+        1245
+      ],
+      "native_dimensions": [
+        144,
+        142
+      ],
+      "native_RGB_pixel_sha256": "f8a3004b0157e4cbbec27930b475eb557d538843e89af075b7c2dc58b7938725",
+      "native_PNG_encoding_sha256": "45aa106b0ea2d5b43b2d9e361a5355e29730c5b022a281f7b7586aad15cd8405",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        574,
+        28,
+        718,
+        170
+      ]
+    },
+    {
+      "id": "K86",
+      "row": 8,
+      "column": 6,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1007,
+        1103,
+        1150,
+        1245
+      ],
+      "native_dimensions": [
+        143,
+        142
+      ],
+      "native_RGB_pixel_sha256": "cea293ff50d91ed07cf1aef6ea74ea16bfbabfc04956c8db3bc14050d3302ece",
+      "native_PNG_encoding_sha256": "00f7f55071f3d5a36f6f6610ef1067e9c2ce874df47174d053b472de924f0a8a",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        718,
+        28,
+        861,
+        170
+      ]
+    },
+    {
+      "id": "K87",
+      "row": 8,
+      "column": 7,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1150,
+        1103,
+        1293,
+        1245
+      ],
+      "native_dimensions": [
+        143,
+        142
+      ],
+      "native_RGB_pixel_sha256": "3e164c11dd417c0e01bee914d5644012926bdb044aaf28e5c22235331391341d",
+      "native_PNG_encoding_sha256": "75c4ab24879696631f8a453d0756cfeba4e273d0cc30a22ee420c1292e4f1014",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        861,
+        28,
+        1004,
+        170
+      ]
+    },
+    {
+      "id": "K88",
+      "row": 8,
+      "column": 8,
+      "cut": false,
+      "physical_material": "solid stencil paper",
+      "material_certainty": "high from direct native morphology; no coverage/fit test",
+      "boundary_uncertainty_px": 20,
+      "annotation_observation": "Solid paper; graphite numeral-like/curved strokes retained in native tile, exact whole literal held except directly listed samples.",
+      "graphite_literal_candidates": null,
+      "graphite_certainty": "held/unassigned",
+      "parent": "sources/raw/HC852_original_3.jpg",
+      "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+      "native_xyxy": [
+        1293,
+        1103,
+        1435,
+        1245
+      ],
+      "native_dimensions": [
+        142,
+        142
+      ],
+      "native_RGB_pixel_sha256": "6d51fc9c1d6e4ad03988eba4750c71ac0d447c740da7817a6e6a337a83ccba3e",
+      "native_PNG_encoding_sha256": "f69a563a36981dd66ed5892ec3a8665621b87fcacf32fd7eeacd27197614a4bf",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/KEY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        1004,
+        28,
+        1146,
+        170
+      ]
+    }
+  ],
+  "orientation": "Face as photographed, native0degrees. TopI-like/bottomIII-like; left/right complex overdraws separately retained. No operational order, starting position, clockwise direction or hole scan inferred.",
+  "centre": "Even8×8 coarse lattice, no unique centre cell or invented centre policy.",
+  "cut_topology_hold": "Cut membership established separately for every cell. Corner contacts/edge versus interior connectivity not operationally resolved from model fit.",
+  "rotation_or_coverage_tests_performed": false
+}

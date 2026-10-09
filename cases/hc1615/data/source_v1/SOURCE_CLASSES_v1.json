@@ -1,0 +1,30 @@
+{
+  "preferred_rawunit_counts": {
+    "2": 10,
+    "3": 6,
+    "4": 3,
+    "5": 10,
+    "6": 5,
+    "7": 3,
+    "8": 3,
+    "H_MARK_UNASSIGNED": 1,
+    "R_MARK": 1,
+    "b": 4,
+    "c": 5,
+    "d": 7,
+    "f": 5,
+    "g": 2,
+    "h": 2,
+    "m": 3,
+    "r": 1,
+    "s": 2,
+    "t": 4
+  },
+  "no26alphabetforcing": true,
+  "distinctmarkedclasses": [
+    "R_MARK",
+    "H_MARK_UNASSIGNED"
+  ],
+  "marks_meaning_withheld": true,
+  "one_sourceclass_unassigned_to_knownpalette": true
+}

@@ -1,0 +1,173 @@
+{
+  "utc": "2026-10-06T04:25:58.013504+00:00",
+  "rows": [
+    {
+      "row_id": "R01",
+      "physical_row": 1,
+      "integer90CCW_bbox": [
+        750,
+        318,
+        1105,
+        394
+      ],
+      "source_native_row_box_xyxy": [
+        1391,
+        750,
+        1467,
+        1105
+      ],
+      "path": "reports/source_v1/R01_FULL_NATIVE_ROW_v1.png",
+      "dimensions": [
+        355,
+        76
+      ],
+      "PNG_SHA256": "9aefde8dbb985d0dfe33660936519c9a07335f3608994fdf0094c4d7b61c48d9",
+      "RGB_SHA256": "b362ca636b09f5f9b23f15a9017da648fd44aa96c6547789178f5a2e746af2a5",
+      "scope": "wholecodedrowwidth, allascender/descender/mark/neighborfringe retained; no exclusiveglyphmask"
+    },
+    {
+      "row_id": "R02",
+      "physical_row": 2,
+      "integer90CCW_bbox": [
+        750,
+        370,
+        1105,
+        460
+      ],
+      "source_native_row_box_xyxy": [
+        1325,
+        750,
+        1415,
+        1105
+      ],
+      "path": "reports/source_v1/R02_FULL_NATIVE_ROW_v1.png",
+      "dimensions": [
+        355,
+        90
+      ],
+      "PNG_SHA256": "a78f369f911375ed5223266cb798e59a600cb33a5bc1108e5d04455276e6582b",
+      "RGB_SHA256": "dbe7e6942d2ae9162727bf87252ad2925b2d3a9b61ad9ede6f75826cddc57226",
+      "scope": "wholecodedrowwidth, allascender/descender/mark/neighborfringe retained; no exclusiveglyphmask"
+    },
+    {
+      "row_id": "R03",
+      "physical_row": 3,
+      "integer90CCW_bbox": [
+        750,
+        430,
+        1105,
+        529
+      ],
+      "source_native_row_box_xyxy": [
+        1256,
+        750,
+        1355,
+        1105
+      ],
+      "path": "reports/source_v1/R03_FULL_NATIVE_ROW_v1.png",
+      "dimensions": [
+        355,
+        99
+      ],
+      "PNG_SHA256": "75e72fb4dc1328b0c0258c372dc88f04ff6ecd5efe65eb3cb4250d4b0889e6a8",
+      "RGB_SHA256": "fd5aaef99eca76e18187513275dffa7e7f07cd2f7def0b9bfcd22b177e5cb48e",
+      "scope": "wholecodedrowwidth, allascender/descender/mark/neighborfringe retained; no exclusiveglyphmask"
+    },
+    {
+      "row_id": "R04",
+      "physical_row": 4,
+      "integer90CCW_bbox": [
+        750,
+        488,
+        1105,
+        596
+      ],
+      "source_native_row_box_xyxy": [
+        1189,
+        750,
+        1297,
+        1105
+      ],
+      "path": "reports/source_v1/R04_FULL_NATIVE_ROW_v1.png",
+      "dimensions": [
+        355,
+        108
+      ],
+      "PNG_SHA256": "424ddc155afd54ec3b3469fb6895f170f392e3c3f695e7018db93b8ba38095ae",
+      "RGB_SHA256": "959c99e1e06ddd5f7d7e45f44ec6638af5f53718472622505355b9ec69db93bb",
+      "scope": "wholecodedrowwidth, allascender/descender/mark/neighborfringe retained; no exclusiveglyphmask"
+    },
+    {
+      "row_id": "R05",
+      "physical_row": 5,
+      "integer90CCW_bbox": [
+        750,
+        557,
+        1105,
+        657
+      ],
+      "source_native_row_box_xyxy": [
+        1128,
+        750,
+        1228,
+        1105
+      ],
+      "path": "reports/source_v1/R05_FULL_NATIVE_ROW_v1.png",
+      "dimensions": [
+        355,
+        100
+      ],
+      "PNG_SHA256": "39590304b2099989a2c17d68f96ea273a4aa460935af5c2ea20401eb55f62af9",
+      "RGB_SHA256": "9e38bb38ac7cdd4f66f4bcd104c434aa8fac76b4a4f94cff66a3412145fb4b63",
+      "scope": "wholecodedrowwidth, allascender/descender/mark/neighborfringe retained; no exclusiveglyphmask"
+    },
+    {
+      "row_id": "R06",
+      "physical_row": 6,
+      "integer90CCW_bbox": [
+        750,
+        614,
+        1105,
+        721
+      ],
+      "source_native_row_box_xyxy": [
+        1064,
+        750,
+        1171,
+        1105
+      ],
+      "path": "reports/source_v1/R06_FULL_NATIVE_ROW_v1.png",
+      "dimensions": [
+        355,
+        107
+      ],
+      "PNG_SHA256": "b955cdf4195291a71a506a7996149df6b1a2412b4568c6c66f74b15e1da26ff8",
+      "RGB_SHA256": "fe0758157e3fbf43e9df0db039191a92ec4e9cd94973867bc94e9344b434d86d",
+      "scope": "wholecodedrowwidth, allascender/descender/mark/neighborfringe retained; no exclusiveglyphmask"
+    },
+    {
+      "row_id": "R07",
+      "physical_row": 7,
+      "integer90CCW_bbox": [
+        750,
+        674,
+        1105,
+        767
+      ],
+      "source_native_row_box_xyxy": [
+        1018,
+        750,
+        1111,
+        1105
+      ],
+      "path": "reports/source_v1/R07_FULL_NATIVE_ROW_v1.png",
+      "dimensions": [
+        355,
+        93
+      ],
+      "PNG_SHA256": "470f4c74c24c415919def26ad55980fa78e7cae6f54b6c490c124b03d2051574",
+      "RGB_SHA256": "c6242b4177e9360bee0bea97d2752eab2223e58b9555fab9c1aceb4d6f1ef751",
+      "scope": "wholecodedrowwidth, allascender/descender/mark/neighborfringe retained; no exclusiveglyphmask"
+    }
+  ]
+}

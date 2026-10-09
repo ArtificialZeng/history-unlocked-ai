@@ -1,0 +1,31 @@
+{
+  "sealed_utc": "2026-10-05T21:21:47.344836+00:00",
+  "artifacts": [
+    {
+      "path": "scripts/grille_even_v1.py",
+      "bytes": 2517,
+      "sha256": "585830c07b14a252c7e10428ffd175943a049dd9b999f33602b04a255d08a11c"
+    },
+    {
+      "path": "scripts/root_focused_controls_v1.py",
+      "bytes": 2917,
+      "sha256": "1375adbfd873f271040dbd973de5aa26d5fa8fa7e8a60086ee892235bde84fa4"
+    },
+    {
+      "path": "config/ROOT_FOCUSED_GENERIC_CONTROLS_v1.json",
+      "bytes": 932,
+      "sha256": "3d64dbf67eff4be6821041f8b6374764fa338d242213d3f7c71373b14bfcfa5e"
+    },
+    {
+      "path": "reports/root_method_v1/CONTROL_RESULTS_v1.json",
+      "bytes": 361,
+      "sha256": "902c909d25bd58f5efc5883520a2efcc8b678797a8d80515236a7ca3c7f78800"
+    },
+    {
+      "path": "reports/root_method_v1/FOCUSED_SYNTHETIC_FIXTURES_v1.json",
+      "bytes": 326243,
+      "sha256": "fada8ba0c545f3f5f70dd4951eea3b32a46fa8c1427d48e397ed37018421e357"
+    }
+  ],
+  "no_target_inputs": true
+}

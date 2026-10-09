@@ -1,0 +1,33 @@
+{
+  "documented_at_utc": "2026-10-05T21:24:39.110244+00:00",
+  "module": "scripts/independent_grille_v1.py",
+  "module_sha256": "5c2d8c3bbf1f54ecf8c43583e0f7e8f875a167050ab12d7e4a393f230f095e16",
+  "coordinates": "zero-based (row,column), no implicit mirroring",
+  "literal_units": "Python Unicode codepoints, exact positive multiple of side*side; no cleaning/padding/filtering",
+  "supported_sides": "even integer >=2, bool rejected",
+  "start_quarters": "0..3 clockwise turns from supplied mask before selected direction",
+  "direction": [
+    "clockwise",
+    "counterclockwise"
+  ],
+  "hole_scan": [
+    "row-major",
+    "column-major"
+  ],
+  "cipher_serialization": [
+    "row-major",
+    "column-major"
+  ],
+  "functions": {
+    "validate_key": "(side, holes)",
+    "settings_route": "(*, side, holes, start_quarters=0, direction='clockwise', hole_scan='row-major', cipher_serialization='row-major')",
+    "encrypt": "(payload, *, side, holes, start_quarters=0, direction='clockwise', hole_scan='row-major', cipher_serialization='row-major')",
+    "decrypt": "(ciphertext, *, side, holes, start_quarters=0, direction='clockwise', hole_scan='row-major', cipher_serialization='row-major')"
+  },
+  "model_limits": [
+    "Even-square one-cell-per-four-turn-orbit permutation only",
+    "No implicit center policy",
+    "No authentication or historical-cipher validity from roundtrip alone",
+    "Source-supported physical start/face/scan/serialization must be registered later after independent source freeze"
+  ]
+}

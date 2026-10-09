@@ -1,0 +1,21 @@
+{
+  "stage": "source-only addendum before primary observer exposure",
+  "change_to_180_letter_string": false,
+  "extra_intrablock_spacing": [
+    {
+      "row": 3,
+      "group": 5,
+      "visual": "EK KMN",
+      "after_site": 2,
+      "evidence": "Original centers at approximately x=2069,2144,2264,2341,2421 px; the second-to-third gap is about 120 px versus neighboring 75-80 px.",
+      "source": "sources/raw/HC696_original.jpg",
+      "bbox": [
+        2020,
+        1140,
+        2470,
+        1280
+      ]
+    }
+  ],
+  "reason": "The own string is unchanged. This third enlarged intra-block gap was observed in own row 3 crop and is recorded additively rather than altering the frozen v1."
+}

@@ -1,0 +1,83 @@
+{
+  "frozen_utc": "2026-10-05T17:44:29.959947+00:00",
+  "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+  "native_whole_image_seen": true,
+  "separate_full_plaintext_passage_visible": false,
+  "two_original_scope_only": true,
+  "page_regions": [
+    {
+      "native_box_xyxy": [
+        2070,
+        20,
+        3024,
+        690
+      ],
+      "literal_blue_lines": [
+        "německý příkl.",
+        "čís. 56",
+        "psáno vodorovně"
+      ],
+      "number_layer_hold": "Blue56 crossed by red line; a large thick magenta7-shaped mark and thin red circled4 overlap this number area. Do not silently collapse these layers into a new example number.",
+      "other_mark": "Green A-like mark at lower-right; role unknown.",
+      "view": "sources/inspection/cold_source_v1/upper_author_notes_native.png"
+    },
+    {
+      "native_box_xyxy": [
+        350,
+        3050,
+        1800,
+        4025
+      ],
+      "literal_layouts": [
+        [
+          "36 × 4",
+          "144"
+        ],
+        [
+          "28 · 5",
+          "140",
+          "4 [? open H-shaped]",
+          "144"
+        ]
+      ],
+      "source_role": "Handwritten arithmetic layout; no values derived from arithmetic to repair source letters.",
+      "view": "sources/inspection/cold_source_v1/bottom_arithmetic_notes_native.png"
+    },
+    {
+      "native_box_xyxy": [
+        165,
+        2070,
+        2730,
+        2940
+      ],
+      "literal_role": "Additional grouped handwritten ciphertext copy, separately retained with ink-layer holds; no separate cleartext passage.",
+      "view": "sources/inspection/cold_source_v1/lower_grouped_witness_native.png"
+    },
+    {
+      "native_box_xyxy": [
+        2050,
+        745,
+        3020,
+        1710
+      ],
+      "literal_role": "Supplied physical grille and all visible markings; detailed per-cell marks retained in geometry ledger.",
+      "view": "sources/inspection/cold_source_v1/grille_full_native.png"
+    }
+  ],
+  "numbered_array_layout": "Labels1 and2 above upper left/right arrays; labels3 and4 above lower left/right arrays; each6rows6columns.",
+  "outside_regions": "Whole page edges, surrounding notebook graph ruling, page wear/folds, marginal coloured marks and lower arithmetic were inspected. No additional separate cipher region or message plaintext was identified outside registered regions.",
+  "uninspected_sources": [
+    {
+      "kind": "Third catalogue image attachment",
+      "id": 1900,
+      "title": "Attachment 1",
+      "URL": "https://api.hcportal.eu/media/2513/12121685310199.jpg",
+      "hold": "Outside two-image source scope; may contain further key/answer/source material. Not fetched or viewed."
+    },
+    {
+      "kind": "Nonempty metadata description",
+      "hold": "Only presence checked; text not read as a possible answer payload."
+    }
+  ],
+  "no_world_answer_free_or_priority_claim": true
+}

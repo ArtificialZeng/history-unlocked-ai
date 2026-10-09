@@ -1,0 +1,20 @@
+{
+  "registered_utc": "2026-10-06T04:48:22.591774+00:00",
+  "scope": "HC1615 separate mark-carry model independent arithmetic/profile/greedy-text encryption and language-scope audit",
+  "source_key_P_informed": true,
+  "first_baseline_current_projection_read_utc": "2026-10-06T04:40:59.826356+00:00",
+  "new_model_rule_read": true,
+  "new_model_candidate_P_not_yet_read": true,
+  "source_baseline_preserved": true,
+  "root_decoder_import": false,
+  "whole22dictionary_values_unchanged_required": true,
+  "position_exceptions_forbidden": true,
+  "physical_caron_function_is_hypothesis": true,
+  "portable_CLI": "--root explicit --donor-key explicit; optional --verify-native files; no absolute target/donor path required",
+  "network_requests": 0,
+  "write_namespace": "reports/independent_mark_model_v1",
+  "registration_pins": {
+    "RESEARCH_PROTOCOL_v2_MARK_CARRY.md": "d82e7b9fecddb02e245a17dc14eeefd7b121c1d787eec75e655abb88ea090c3a",
+    "config/MARK_CARRY_MODEL_v1.json": "d6158ec6c3b5a67651d995fbe7783da783baa01c9c286b84206cab873066d3ee"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "case_id": 1615,
+  "role": "official_original",
+  "url": "https://api.hcportal.eu/media/4905/pc_hcp_296_pic.JPG",
+  "method": "GET",
+  "started_utc": "2026-10-06T03:35:38.431731+00:00",
+  "completed_utc": "2026-10-06T03:35:42.325711+00:00",
+  "http_status": 200,
+  "final_url": "https://api.hcportal.eu/media/4905/pc_hcp_296_pic.JPG",
+  "headers": {
+    "Server": "openresty",
+    "Date": "Tue, 06 Oct 2026 03:35:40 GMT",
+    "Content-Type": "image/jpeg",
+    "Content-Length": "1053373",
+    "Connection": "close",
+    "Last-Modified": "Thu, 20 Nov 2025 12:49:34 GMT",
+    "ETag": "\"1012bd-6440621001893\"",
+    "Accept-Ranges": "bytes",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "path": "raw/HC1615_original_1.jpg",
+  "bytes": 1053373,
+  "sha256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+  "error": null,
+  "attempt": 1,
+  "retry": false,
+  "auth": false,
+  "redirects_followed": false,
+  "TLS_verification": "default"
+}

@@ -1,0 +1,163 @@
+{
+  "status": "PASS",
+  "scope": "Primary method and synthetic controls only; no target files read",
+  "source": "https://www.cryptogram.org/downloads/aca.info/ciphers/Portax.pdf",
+  "published_vector": {
+    "plaintext": "THEEARLYBIRDGETSTHEWORM",
+    "explicit_pad": "X",
+    "key": "EASY",
+    "effective_key": [
+      2,
+      0,
+      9,
+      12
+    ],
+    "expected_ciphertext": "NIJAMPBGQCWKHQJEUIKYMPAT",
+    "actual_ciphertext": "NIJAMPBGQCWKHQJEUIKYMPAT",
+    "actual_decryption": "THEEARLYBIRDGETSTHEWORMX",
+    "pass": true
+  },
+  "published_pairs": [
+    {
+      "input": "IN",
+      "key_pair": "UV",
+      "expected": "JL",
+      "actual": "JL"
+    },
+    {
+      "input": "NO",
+      "key_pair": "UV",
+      "expected": "UA",
+      "actual": "UA"
+    },
+    {
+      "input": "NA",
+      "key_pair": "UV",
+      "expected": "DB",
+      "actual": "DB"
+    },
+    {
+      "input": "TA",
+      "key_pair": "EF",
+      "expected": "NM",
+      "actual": "NM"
+    },
+    {
+      "input": "BG",
+      "key_pair": "EF",
+      "expected": "QH",
+      "actual": "QH"
+    }
+  ],
+  "exhaustive_pair_inverse_cases": 8788,
+  "same_column_pair_cases": 676,
+  "pair_permutation_sizes": [
+    676,
+    676,
+    676,
+    676,
+    676,
+    676,
+    676,
+    676,
+    676,
+    676,
+    676,
+    676,
+    676
+  ],
+  "adjacent_keypair_equivalence_cases": 8788,
+  "distinct_effective_slide_maps": 13,
+  "published_partial_layout": {
+    "period": 7,
+    "length": 24,
+    "rows": [
+      "SHALLBE",
+      "UPLIFTE",
+      "DNEVE",
+      "RMORE"
+    ],
+    "packing": [
+      [
+        0,
+        7,
+        0
+      ],
+      [
+        1,
+        8,
+        1
+      ],
+      [
+        2,
+        9,
+        2
+      ],
+      [
+        3,
+        10,
+        3
+      ],
+      [
+        4,
+        11,
+        4
+      ],
+      [
+        5,
+        12,
+        5
+      ],
+      [
+        6,
+        13,
+        6
+      ],
+      [
+        14,
+        19,
+        0
+      ],
+      [
+        15,
+        20,
+        1
+      ],
+      [
+        16,
+        21,
+        2
+      ],
+      [
+        17,
+        22,
+        3
+      ],
+      [
+        18,
+        23,
+        4
+      ]
+    ]
+  },
+  "varied_periods": [
+    1,
+    20
+  ],
+  "seed": 20261005,
+  "varied_length_roundtrip_cases": 920,
+  "incomplete_block_roundtrip_cases": 816,
+  "known_plaintext_synthetic_effective_key_recovery_cases": 20,
+  "rejected_invalid_inputs": [
+    "unknown_input",
+    "lowercase_input",
+    "whitespace_input",
+    "odd_ciphertext",
+    "undeclared_plaintext_padding",
+    "empty_key",
+    "invalid_slide",
+    "invalid_letter",
+    "oversize_block"
+  ],
+  "method_sha256": "7a210c37a7032257920d937409cc14ff3c7e79e63d53222f5ba8d50158228332"
+}

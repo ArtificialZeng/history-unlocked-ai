@@ -1,0 +1,10 @@
+{
+  "status": "PASS_SOURCE_FILE_BYTES_AND_ALL180_LETTERS",
+  "audit_files": 36,
+  "source_inputs": 3,
+  "equal_final_visible_letters": 180,
+  "hidden_typed_identities_held": 5,
+  "no_algorithm_or_candidate_exposure_by_auditor": true,
+  "independent_source_audit_manifest_sha256": "7975437d5a709b751c8e9d8033f71637947a11ec3e6c9b4e4b28d7879380c604",
+  "timing": "ownsourcefreeze beforeownprimaryledgerread; globalbeforeprogramoutputnotasserted"
+}

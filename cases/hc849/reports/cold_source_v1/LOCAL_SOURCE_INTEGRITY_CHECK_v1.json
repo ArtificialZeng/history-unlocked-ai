@@ -1,0 +1,56 @@
+{
+  "case": "HC849",
+  "checked_utc": "2026-10-05T19:56:43.654810+00:00",
+  "result": "PASS",
+  "typed": {
+    "positions": 64,
+    "row_counts": [
+      30,
+      30,
+      4
+    ],
+    "direct_current_single_values": 64,
+    "dark_unknown_underlayers": [
+      30,
+      60
+    ]
+  },
+  "array": {
+    "placements": 64,
+    "rows": 8,
+    "columns": 8,
+    "held_shape_sites": [
+      "A21",
+      "A52",
+      "A57",
+      "A62",
+      "A76",
+      "A87",
+      "A88",
+      "A36",
+      "A85"
+    ]
+  },
+  "grouped_copy": {
+    "positions": 64,
+    "rows": [
+      15,
+      15,
+      15,
+      15,
+      4
+    ],
+    "red_retrace_unknown_earlier_layer": 7
+  },
+  "physical_key": {
+    "all_cells": 64,
+    "cut": 16,
+    "solid": 48,
+    "no_rotation_or_coverage_computed": true
+  },
+  "native_unit_annotation_crops_pixel_verified": 274,
+  "all_derivative_hashes_verified": 344,
+  "original_receipt_hashes_and_sizes_match": true,
+  "no_decoder_or_target_input_opened": true,
+  "check_scope": "Source inventory/pixel provenance only, no target operation or cryptographic proof."
+}

@@ -1,0 +1,26 @@
+{
+  "utc": "2026-10-06T04:22:57.620889+00:00",
+  "budget_minutes": 10,
+  "scope": "HC1615 bothfaces/all7rows coldpreferredglyphUNITs/primitive spans/marks/events/fullROWnativeprovenance beforelookup",
+  "prior_exposure": "Current originalfaces/nativebody seen in sourcegate withoutcryptostreamtranscription/key/decoder; prior rawfont knowledge/isolatedolderconfiglexicalexposure disclosed, no semantic key/currentP/oldP/model/1617projection opened.",
+  "root_prior_key_known_current_pixels_P_not_seen": true,
+  "minimum61_or_70_85_not_enforced": true,
+  "source_picture_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+  "source_address_SHA256": "f1f50546c921d524f58780c5013547419038c1e120bf4022baf7cad6167bb1be",
+  "body_integer90CCW_bbox": [
+    750,
+    318,
+    1105,
+    767
+  ],
+  "body_native_raw_bbox": [
+    1018,
+    750,
+    1467,
+    1105
+  ],
+  "body_PNG_SHA256": "ff915b296c86f56a4cf17df113379e5fb8401b4e9d92bca223a9dd10f97788b4",
+  "body_RGB_SHA256": "74e488415fdcd11066023bf2156ef8dcb3d4b270fe8161d3b69c6fdabce71ebd",
+  "no_peer_preference_access": true,
+  "no_sharedstate_Git_network": true
+}

@@ -1,0 +1,7 @@
+{
+  "utc": "2026-10-06T04:35:46.645801+00:00",
+  "initial_script_sha256": "c71d49217cc18f97852610b75e7e2ed5f604c6dbe80b5684f7ad6cd89d11a794",
+  "error": "AssertionError bool(literal_mark)==bool(mark_attributes)",
+  "cause": "Primary bare r has intrinsic-entry/hook attributes, not a preferred detached mark. Generic bool comparison conflated intrinsic pen detail with detached mark.",
+  "correction": "Filter primary attributes by detachedtwo-strokeupperchevron before comparing marked-unit composition; no source preference edited."
+}

@@ -1,0 +1,32 @@
+{
+  "freeze_utc": "2026-10-06T04:26:26.030780+00:00",
+  "actual_native_views": [
+    "sources/raw/HC1615_picture_original.jpg",
+    "sources/raw/HC1615_address_original.jpg",
+    "reports/independent_source_v1/picture_complete_native90ccw.png",
+    "reports/independent_source_v1/row_01_native.png",
+    "reports/independent_source_v1/row_02_native.png",
+    "reports/independent_source_v1/row_03_native.png",
+    "reports/independent_source_v1/row_04_native.png",
+    "reports/independent_source_v1/row_05_native.png",
+    "reports/independent_source_v1/row_06_native.png",
+    "reports/independent_source_v1/row_07_native.png",
+    "sources/reference_palette/RAW_GRAPHIC_MNEMONIC_ATLAS_v2.png"
+  ],
+  "tool": "tools.view_image detail original; all emitted as images",
+  "source_only": true,
+  "primary_preferences_seen": false,
+  "source_KEY_P_models_seen": false,
+  "native_rgb_replay_all_7": true,
+  "complete_both_faces_viewed": true,
+  "rotation": "PIL integer ROTATE_90 counterclockwise, no filtering/cleanup/resampling",
+  "image_box_policy": "Whole row boxes and ordinal authority, never exclusive unit masks.",
+  "read_instructions": [
+    "AGENTS.md",
+    "README.md",
+    "RESEARCH_PROTOCOL_v1.md",
+    "PROJECT_STATE.json",
+    "config/REGISTRATION_v1.json"
+  ],
+  "read_errors": "Initially requested wrong protocol/registration filenames, both missing; corrected to README-defined names. No other artifacts exposed."
+}

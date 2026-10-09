@@ -1,0 +1,1280 @@
+{
+  "schema": "HC1615_MARK_CARRY_CERTIFICATE_v1",
+  "mode": "DECLARED_FIXED_PRIOR_ALPHABET_PLUS_MARK_HYPOTHESIS",
+  "source_pins": {
+    "data/source_v1/SOURCE_UNITS_v1.json": "5ba6e38987a59adcd95c090c283c24b8621cf53323231d6568544d4797bc91d1",
+    "data/source_v1/SOURCE_PRIMITIVES_v1.json": "42dcb9af453a0f87ff3add9a85d5407d830057e5da940675272dffcd9f515380",
+    "data/source_v1/SOURCE_GROUPS_v1.json": "f7c8ea68bd3a4ba420ac3271f7c8cc2bfd955dd41dde610dd43f4a23444e498e",
+    "data/source_v1/SOURCE_ROWS_v1.json": "13702387965484a9e27f34f0cd1c9698618d55a36a6c74dbfae1e4fd9af61003",
+    "data/source_v1/SOURCE_EVENTS_v1.json": "c8b39aca77e8ad48b69c34076739b5a85a2f7c1b0bdefff6fcfbfaaa47c3cc06",
+    "data/source_v1/SOURCE_CLASSES_v1.json": "51bbf64249530cc48effaa9b17ca4ed5cc36b91f2cc02f2d8b66ed401c2544cc",
+    "reports/source_v1/SOURCE_ONLY_MANIFEST_v1.json": "454047da4ec5ff2f98fdeaa877a151410be6dee45f61f226f8b8535158691ae6",
+    "reports/source_v1/SOURCE_ONLY_SEAL_v1.json": "9477a9386be65178bc7bca99387ec1d0797cbd1e5a5fea6844e0d72b45306306",
+    "reports/independent_source_v1/SOURCE_COMPARISON_MANIFEST_v1.json": "f7b704d0e08aeb050357413b8b7e9c40355ff3c022a91ef70511380fae97ef2b",
+    "reports/independent_source_v1/SOURCE_COMPARISON_SEAL_v1.json": "4c84d1c1ca2242790a4a4bc5c4bef4b93930c2d33affff0ad89f973b07df0540"
+  },
+  "donor_key_sha256": "267fac542b3cc9b3fbb5d788b8d867a0c37de0fa1f4ffefe16776256e1835273",
+  "key_values": {
+    "1": "y",
+    "2": "u",
+    "3": "o",
+    "4": "i",
+    "5": "e",
+    "6": "a",
+    "7": "j",
+    "8": "l",
+    "9": "z",
+    "R_MARK": "ch",
+    "b": "p",
+    "c": "s",
+    "d": "t",
+    "f": "v",
+    "g": "k",
+    "h": "r",
+    "m": "n",
+    "n": "m",
+    "p": "b",
+    "r": "h",
+    "s": "c",
+    "t": "d"
+  },
+  "structural_model": {
+    "name": "preserve_visible_caron_after_base_map",
+    "scope": "Only source-uncovered wholeunits",
+    "required_mark_count": 1,
+    "required_raw_shape": "detachedtwo-strokeupperchevron",
+    "required_literal_source_type": "CARON_LIKE shape only",
+    "required_mark_strokes": 2,
+    "required_base_value_length": 1,
+    "plaintext_combining_mark": "U+030C",
+    "plaintext_normalization": "NFC explicit",
+    "known_whole_unit_precedence": true
+  },
+  "model_sha256": "d6158ec6c3b5a67651d995fbe7783da783baa01c9c286b84206cab873066d3ee",
+  "unit_interpretations": [
+    {
+      "unit_id": "R01G01U01",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R01G01U02",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R01G02U01",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R01G02U02",
+      "rule": "base_map_plus_preserved_caron_HYPOTHESIS"
+    },
+    {
+      "unit_id": "R01G02U03",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R01G02U04",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R01G02U05",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R01G02U06",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R01G02U07",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R01G03U01",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R01G03U02",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R02G01U01",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R02G01U02",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R02G01U03",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R02G01U04",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R02G01U05",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R02G02U01",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R02G03U01",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R02G04U01",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R02G04U02",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R02G04U03",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R02G04U04",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R03G01U01",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R03G01U02",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R03G02U01",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R03G02U02",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R03G02U03",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R03G02U04",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R03G02U05",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R03G02U06",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R03G03U01",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R03G03U02",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R03G03U03",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R03G03U04",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R04G01U01",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R04G01U02",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R04G01U03",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R04G01U04",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R04G01U05",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R04G02U01",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R04G02U02",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R04G02U03",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R04G02U04",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R04G02U05",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R04G02U06",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R05G01U01",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R05G01U02",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R05G01U03",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R05G01U04",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R05G01U05",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R05G01U06",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R05G01U07",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R05G02U01",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R05G02U02",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R05G02U03",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R05G02U04",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R06G01U01",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R06G01U02",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R06G01U03",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R06G01U04",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R06G01U05",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R06G01U06",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R06G02U01",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R06G02U02",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R06G02U03",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R06G02U04",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R06G02U05",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R07G01U01",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R07G01U02",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R07G01U03",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R07G01U04",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R07G02U01",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R07G02U02",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R07G02U03",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R07G02U04",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R07G02U05",
+      "rule": "known_whole_unit_table"
+    },
+    {
+      "unit_id": "R07G02U06",
+      "rule": "known_whole_unit_table"
+    }
+  ],
+  "units": [
+    {
+      "unit_id": "R01G01U01",
+      "raw_unit_label": "t",
+      "mark_attributes": [],
+      "plaintext_value": "d"
+    },
+    {
+      "unit_id": "R01G01U02",
+      "raw_unit_label": "3",
+      "mark_attributes": [],
+      "plaintext_value": "o"
+    },
+    {
+      "unit_id": "R01G02U01",
+      "raw_unit_label": "d",
+      "mark_attributes": [],
+      "plaintext_value": "t"
+    },
+    {
+      "unit_id": "R01G02U02",
+      "raw_unit_label": "H_MARK_UNASSIGNED",
+      "mark_attributes": [
+        {
+          "raw_shape": "detachedtwo-strokeupperchevron",
+          "literal_source_type": "CARON_LIKE shape only",
+          "stroke_components": [
+            "leftshortstroke",
+            "rightshortstroke"
+          ],
+          "preferred_association": "sameunitbaselinecore, wholegraph keptdistinct frombarebase",
+          "semantic_role": null,
+          "known_raw_prototype_match": false
+        }
+      ],
+      "plaintext_value": "ř"
+    },
+    {
+      "unit_id": "R01G02U03",
+      "raw_unit_label": "5",
+      "mark_attributes": [],
+      "plaintext_value": "e"
+    },
+    {
+      "unit_id": "R01G02U04",
+      "raw_unit_label": "d",
+      "mark_attributes": [],
+      "plaintext_value": "t"
+    },
+    {
+      "unit_id": "R01G02U05",
+      "raw_unit_label": "4",
+      "mark_attributes": [],
+      "plaintext_value": "i"
+    },
+    {
+      "unit_id": "R01G02U06",
+      "raw_unit_label": "s",
+      "mark_attributes": [],
+      "plaintext_value": "c"
+    },
+    {
+      "unit_id": "R01G02U07",
+      "raw_unit_label": "5",
+      "mark_attributes": [],
+      "plaintext_value": "e"
+    },
+    {
+      "unit_id": "R01G03U01",
+      "raw_unit_label": "d",
+      "mark_attributes": [],
+      "plaintext_value": "t"
+    },
+    {
+      "unit_id": "R01G03U02",
+      "raw_unit_label": "4",
+      "mark_attributes": [],
+      "plaintext_value": "i"
+    },
+    {
+      "unit_id": "R02G01U01",
+      "raw_unit_label": "b",
+      "mark_attributes": [],
+      "plaintext_value": "p"
+    },
+    {
+      "unit_id": "R02G01U02",
+      "raw_unit_label": "h",
+      "mark_attributes": [],
+      "plaintext_value": "r"
+    },
+    {
+      "unit_id": "R02G01U03",
+      "raw_unit_label": "5",
+      "mark_attributes": [],
+      "plaintext_value": "e"
+    },
+    {
+      "unit_id": "R02G01U04",
+      "raw_unit_label": "7",
+      "mark_attributes": [],
+      "plaintext_value": "j"
+    },
+    {
+      "unit_id": "R02G01U05",
+      "raw_unit_label": "5",
+      "mark_attributes": [],
+      "plaintext_value": "e"
+    },
+    {
+      "unit_id": "R02G02U01",
+      "raw_unit_label": "6",
+      "mark_attributes": [],
+      "plaintext_value": "a"
+    },
+    {
+      "unit_id": "R02G03U01",
+      "raw_unit_label": "f",
+      "mark_attributes": [],
+      "plaintext_value": "v"
+    },
+    {
+      "unit_id": "R02G04U01",
+      "raw_unit_label": "t",
+      "mark_attributes": [],
+      "plaintext_value": "d"
+    },
+    {
+      "unit_id": "R02G04U02",
+      "raw_unit_label": "2",
+      "mark_attributes": [],
+      "plaintext_value": "u"
+    },
+    {
+      "unit_id": "R02G04U03",
+      "raw_unit_label": "R_MARK",
+      "mark_attributes": [
+        {
+          "raw_shape": "detachedtwo-strokeupperchevron",
+          "literal_source_type": "CARON_LIKE shape only",
+          "stroke_components": [
+            "leftshortstroke",
+            "rightshortstroke"
+          ],
+          "preferred_association": "sameunitbaselinecore, wholegraph keptdistinct frombarebase",
+          "semantic_role": null,
+          "known_raw_prototype_match": true
+        }
+      ],
+      "plaintext_value": "ch"
+    },
+    {
+      "unit_id": "R02G04U04",
+      "raw_unit_label": "2",
+      "mark_attributes": [],
+      "plaintext_value": "u"
+    },
+    {
+      "unit_id": "R03G01U01",
+      "raw_unit_label": "m",
+      "mark_attributes": [],
+      "plaintext_value": "n"
+    },
+    {
+      "unit_id": "R03G01U02",
+      "raw_unit_label": "6",
+      "mark_attributes": [],
+      "plaintext_value": "a"
+    },
+    {
+      "unit_id": "R03G02U01",
+      "raw_unit_label": "c",
+      "mark_attributes": [],
+      "plaintext_value": "s"
+    },
+    {
+      "unit_id": "R03G02U02",
+      "raw_unit_label": "8",
+      "mark_attributes": [],
+      "plaintext_value": "l"
+    },
+    {
+      "unit_id": "R03G02U03",
+      "raw_unit_label": "6",
+      "mark_attributes": [],
+      "plaintext_value": "a"
+    },
+    {
+      "unit_id": "R03G02U04",
+      "raw_unit_label": "t",
+      "mark_attributes": [],
+      "plaintext_value": "d"
+    },
+    {
+      "unit_id": "R03G02U05",
+      "raw_unit_label": "g",
+      "mark_attributes": [],
+      "plaintext_value": "k"
+    },
+    {
+      "unit_id": "R03G02U06",
+      "raw_unit_label": "6",
+      "mark_attributes": [],
+      "plaintext_value": "a"
+    },
+    {
+      "unit_id": "R03G03U01",
+      "raw_unit_label": "2",
+      "mark_attributes": [],
+      "plaintext_value": "u"
+    },
+    {
+      "unit_id": "R03G03U02",
+      "raw_unit_label": "c",
+      "mark_attributes": [],
+      "plaintext_value": "s"
+    },
+    {
+      "unit_id": "R03G03U03",
+      "raw_unit_label": "d",
+      "mark_attributes": [],
+      "plaintext_value": "t"
+    },
+    {
+      "unit_id": "R03G03U04",
+      "raw_unit_label": "6",
+      "mark_attributes": [],
+      "plaintext_value": "a"
+    },
+    {
+      "unit_id": "R04G01U01",
+      "raw_unit_label": "d",
+      "mark_attributes": [],
+      "plaintext_value": "t"
+    },
+    {
+      "unit_id": "R04G01U02",
+      "raw_unit_label": "f",
+      "mark_attributes": [],
+      "plaintext_value": "v"
+    },
+    {
+      "unit_id": "R04G01U03",
+      "raw_unit_label": "3",
+      "mark_attributes": [],
+      "plaintext_value": "o"
+    },
+    {
+      "unit_id": "R04G01U04",
+      "raw_unit_label": "7",
+      "mark_attributes": [],
+      "plaintext_value": "j"
+    },
+    {
+      "unit_id": "R04G01U05",
+      "raw_unit_label": "5",
+      "mark_attributes": [],
+      "plaintext_value": "e"
+    },
+    {
+      "unit_id": "R04G02U01",
+      "raw_unit_label": "f",
+      "mark_attributes": [],
+      "plaintext_value": "v"
+    },
+    {
+      "unit_id": "R04G02U02",
+      "raw_unit_label": "h",
+      "mark_attributes": [],
+      "plaintext_value": "r"
+    },
+    {
+      "unit_id": "R04G02U03",
+      "raw_unit_label": "5",
+      "mark_attributes": [],
+      "plaintext_value": "e"
+    },
+    {
+      "unit_id": "R04G02U04",
+      "raw_unit_label": "8",
+      "mark_attributes": [],
+      "plaintext_value": "l"
+    },
+    {
+      "unit_id": "R04G02U05",
+      "raw_unit_label": "3",
+      "mark_attributes": [],
+      "plaintext_value": "o"
+    },
+    {
+      "unit_id": "R04G02U06",
+      "raw_unit_label": "2",
+      "mark_attributes": [],
+      "plaintext_value": "u"
+    },
+    {
+      "unit_id": "R05G01U01",
+      "raw_unit_label": "t",
+      "mark_attributes": [],
+      "plaintext_value": "d"
+    },
+    {
+      "unit_id": "R05G01U02",
+      "raw_unit_label": "8",
+      "mark_attributes": [],
+      "plaintext_value": "l"
+    },
+    {
+      "unit_id": "R05G01U03",
+      "raw_unit_label": "3",
+      "mark_attributes": [],
+      "plaintext_value": "o"
+    },
+    {
+      "unit_id": "R05G01U04",
+      "raw_unit_label": "2",
+      "mark_attributes": [],
+      "plaintext_value": "u"
+    },
+    {
+      "unit_id": "R05G01U05",
+      "raw_unit_label": "r",
+      "mark_attributes": [
+        {
+          "raw_shape": "small upperentry/hook near rcore",
+          "preferred_association": "intrinsicbaseentrystroke",
+          "alternative": "uppermarkroleheld; no clearlydetachedchevron assigned",
+          "semantic_role": null
+        }
+      ],
+      "plaintext_value": "h"
+    },
+    {
+      "unit_id": "R05G01U06",
+      "raw_unit_label": "3",
+      "mark_attributes": [],
+      "plaintext_value": "o"
+    },
+    {
+      "unit_id": "R05G01U07",
+      "raw_unit_label": "2",
+      "mark_attributes": [],
+      "plaintext_value": "u"
+    },
+    {
+      "unit_id": "R05G02U01",
+      "raw_unit_label": "b",
+      "mark_attributes": [],
+      "plaintext_value": "p"
+    },
+    {
+      "unit_id": "R05G02U02",
+      "raw_unit_label": "2",
+      "mark_attributes": [],
+      "plaintext_value": "u"
+    },
+    {
+      "unit_id": "R05G02U03",
+      "raw_unit_label": "c",
+      "mark_attributes": [],
+      "plaintext_value": "s"
+    },
+    {
+      "unit_id": "R05G02U04",
+      "raw_unit_label": "2",
+      "mark_attributes": [],
+      "plaintext_value": "u"
+    },
+    {
+      "unit_id": "R06G01U01",
+      "raw_unit_label": "d",
+      "mark_attributes": [],
+      "plaintext_value": "t"
+    },
+    {
+      "unit_id": "R06G01U02",
+      "raw_unit_label": "4",
+      "mark_attributes": [],
+      "plaintext_value": "i"
+    },
+    {
+      "unit_id": "R06G01U03",
+      "raw_unit_label": "c",
+      "mark_attributes": [],
+      "plaintext_value": "s"
+    },
+    {
+      "unit_id": "R06G01U04",
+      "raw_unit_label": "g",
+      "mark_attributes": [],
+      "plaintext_value": "k"
+    },
+    {
+      "unit_id": "R06G01U05",
+      "raw_unit_label": "m",
+      "mark_attributes": [],
+      "plaintext_value": "n"
+    },
+    {
+      "unit_id": "R06G01U06",
+      "raw_unit_label": "5",
+      "mark_attributes": [],
+      "plaintext_value": "e"
+    },
+    {
+      "unit_id": "R06G02U01",
+      "raw_unit_label": "f",
+      "mark_attributes": [],
+      "plaintext_value": "v"
+    },
+    {
+      "unit_id": "R06G02U02",
+      "raw_unit_label": "5",
+      "mark_attributes": [],
+      "plaintext_value": "e"
+    },
+    {
+      "unit_id": "R06G02U03",
+      "raw_unit_label": "s",
+      "mark_attributes": [],
+      "plaintext_value": "c"
+    },
+    {
+      "unit_id": "R06G02U04",
+      "raw_unit_label": "m",
+      "mark_attributes": [],
+      "plaintext_value": "n"
+    },
+    {
+      "unit_id": "R06G02U05",
+      "raw_unit_label": "5",
+      "mark_attributes": [],
+      "plaintext_value": "e"
+    },
+    {
+      "unit_id": "R07G01U01",
+      "raw_unit_label": "d",
+      "mark_attributes": [],
+      "plaintext_value": "t"
+    },
+    {
+      "unit_id": "R07G01U02",
+      "raw_unit_label": "f",
+      "mark_attributes": [],
+      "plaintext_value": "v"
+    },
+    {
+      "unit_id": "R07G01U03",
+      "raw_unit_label": "2",
+      "mark_attributes": [],
+      "plaintext_value": "u"
+    },
+    {
+      "unit_id": "R07G01U04",
+      "raw_unit_label": "7",
+      "mark_attributes": [],
+      "plaintext_value": "j"
+    },
+    {
+      "unit_id": "R07G02U01",
+      "raw_unit_label": "b",
+      "mark_attributes": [],
+      "plaintext_value": "p"
+    },
+    {
+      "unit_id": "R07G02U02",
+      "raw_unit_label": "5",
+      "mark_attributes": [],
+      "plaintext_value": "e"
+    },
+    {
+      "unit_id": "R07G02U03",
+      "raw_unit_label": "b",
+      "mark_attributes": [],
+      "plaintext_value": "p"
+    },
+    {
+      "unit_id": "R07G02U04",
+      "raw_unit_label": "3",
+      "mark_attributes": [],
+      "plaintext_value": "o"
+    },
+    {
+      "unit_id": "R07G02U05",
+      "raw_unit_label": "2",
+      "mark_attributes": [],
+      "plaintext_value": "u"
+    },
+    {
+      "unit_id": "R07G02U06",
+      "raw_unit_label": "c",
+      "mark_attributes": [],
+      "plaintext_value": "s"
+    }
+  ],
+  "groups": [
+    {
+      "group_id": "R01G01",
+      "unit_ids": [
+        "R01G01U01",
+        "R01G01U02"
+      ],
+      "literal_base": "do",
+      "all_units_covered": true
+    },
+    {
+      "group_id": "R01G02",
+      "unit_ids": [
+        "R01G02U01",
+        "R01G02U02",
+        "R01G02U03",
+        "R01G02U04",
+        "R01G02U05",
+        "R01G02U06",
+        "R01G02U07"
+      ],
+      "literal_base": "třetice",
+      "all_units_covered": true
+    },
+    {
+      "group_id": "R01G03",
+      "unit_ids": [
+        "R01G03U01",
+        "R01G03U02"
+      ],
+      "literal_base": "ti",
+      "all_units_covered": true
+    },
+    {
+      "group_id": "R02G01",
+      "unit_ids": [
+        "R02G01U01",
+        "R02G01U02",
+        "R02G01U03",
+        "R02G01U04",
+        "R02G01U05"
+      ],
+      "literal_base": "preje",
+      "all_units_covered": true
+    },
+    {
+      "group_id": "R02G02",
+      "unit_ids": [
+        "R02G02U01"
+      ],
+      "literal_base": "a",
+      "all_units_covered": true
+    },
+    {
+      "group_id": "R02G03",
+      "unit_ids": [
+        "R02G03U01"
+      ],
+      "literal_base": "v",
+      "all_units_covered": true
+    },
+    {
+      "group_id": "R02G04",
+      "unit_ids": [
+        "R02G04U01",
+        "R02G04U02",
+        "R02G04U03",
+        "R02G04U04"
+      ],
+      "literal_base": "duchu",
+      "all_units_covered": true
+    },
+    {
+      "group_id": "R03G01",
+      "unit_ids": [
+        "R03G01U01",
+        "R03G01U02"
+      ],
+      "literal_base": "na",
+      "all_units_covered": true
+    },
+    {
+      "group_id": "R03G02",
+      "unit_ids": [
+        "R03G02U01",
+        "R03G02U02",
+        "R03G02U03",
+        "R03G02U04",
+        "R03G02U05",
+        "R03G02U06"
+      ],
+      "literal_base": "sladka",
+      "all_units_covered": true
+    },
+    {
+      "group_id": "R03G03",
+      "unit_ids": [
+        "R03G03U01",
+        "R03G03U02",
+        "R03G03U03",
+        "R03G03U04"
+      ],
+      "literal_base": "usta",
+      "all_units_covered": true
+    },
+    {
+      "group_id": "R04G01",
+      "unit_ids": [
+        "R04G01U01",
+        "R04G01U02",
+        "R04G01U03",
+        "R04G01U04",
+        "R04G01U05"
+      ],
+      "literal_base": "tvoje",
+      "all_units_covered": true
+    },
+    {
+      "group_id": "R04G02",
+      "unit_ids": [
+        "R04G02U01",
+        "R04G02U02",
+        "R04G02U03",
+        "R04G02U04",
+        "R04G02U05",
+        "R04G02U06"
+      ],
+      "literal_base": "vrelou",
+      "all_units_covered": true
+    },
+    {
+      "group_id": "R05G01",
+      "unit_ids": [
+        "R05G01U01",
+        "R05G01U02",
+        "R05G01U03",
+        "R05G01U04",
+        "R05G01U05",
+        "R05G01U06",
+        "R05G01U07"
+      ],
+      "literal_base": "dlouhou",
+      "all_units_covered": true
+    },
+    {
+      "group_id": "R05G02",
+      "unit_ids": [
+        "R05G02U01",
+        "R05G02U02",
+        "R05G02U03",
+        "R05G02U04"
+      ],
+      "literal_base": "pusu",
+      "all_units_covered": true
+    },
+    {
+      "group_id": "R06G01",
+      "unit_ids": [
+        "R06G01U01",
+        "R06G01U02",
+        "R06G01U03",
+        "R06G01U04",
+        "R06G01U05",
+        "R06G01U06"
+      ],
+      "literal_base": "tiskne",
+      "all_units_covered": true
+    },
+    {
+      "group_id": "R06G02",
+      "unit_ids": [
+        "R06G02U01",
+        "R06G02U02",
+        "R06G02U03",
+        "R06G02U04",
+        "R06G02U05"
+      ],
+      "literal_base": "vecne",
+      "all_units_covered": true
+    },
+    {
+      "group_id": "R07G01",
+      "unit_ids": [
+        "R07G01U01",
+        "R07G01U02",
+        "R07G01U03",
+        "R07G01U04"
+      ],
+      "literal_base": "tvuj",
+      "all_units_covered": true
+    },
+    {
+      "group_id": "R07G02",
+      "unit_ids": [
+        "R07G02U01",
+        "R07G02U02",
+        "R07G02U03",
+        "R07G02U04",
+        "R07G02U05",
+        "R07G02U06"
+      ],
+      "literal_base": "pepous",
+      "all_units_covered": true
+    }
+  ],
+  "rows": [
+    {
+      "row_id": "R01",
+      "unit_ids": [
+        "R01G01U01",
+        "R01G01U02",
+        "R01G02U01",
+        "R01G02U02",
+        "R01G02U03",
+        "R01G02U04",
+        "R01G02U05",
+        "R01G02U06",
+        "R01G02U07",
+        "R01G03U01",
+        "R01G03U02"
+      ],
+      "literal_base": "do třetice ti",
+      "literal_with_preferred_terminal_event": "do třetice ti"
+    },
+    {
+      "row_id": "R02",
+      "unit_ids": [
+        "R02G01U01",
+        "R02G01U02",
+        "R02G01U03",
+        "R02G01U04",
+        "R02G01U05",
+        "R02G02U01",
+        "R02G03U01",
+        "R02G04U01",
+        "R02G04U02",
+        "R02G04U03",
+        "R02G04U04"
+      ],
+      "literal_base": "preje a v duchu",
+      "literal_with_preferred_terminal_event": "preje a v duchu"
+    },
+    {
+      "row_id": "R03",
+      "unit_ids": [
+        "R03G01U01",
+        "R03G01U02",
+        "R03G02U01",
+        "R03G02U02",
+        "R03G02U03",
+        "R03G02U04",
+        "R03G02U05",
+        "R03G02U06",
+        "R03G03U01",
+        "R03G03U02",
+        "R03G03U03",
+        "R03G03U04"
+      ],
+      "literal_base": "na sladka usta",
+      "literal_with_preferred_terminal_event": "na sladka usta"
+    },
+    {
+      "row_id": "R04",
+      "unit_ids": [
+        "R04G01U01",
+        "R04G01U02",
+        "R04G01U03",
+        "R04G01U04",
+        "R04G01U05",
+        "R04G02U01",
+        "R04G02U02",
+        "R04G02U03",
+        "R04G02U04",
+        "R04G02U05",
+        "R04G02U06"
+      ],
+      "literal_base": "tvoje vrelou",
+      "literal_with_preferred_terminal_event": "tvoje vrelou,"
+    },
+    {
+      "row_id": "R05",
+      "unit_ids": [
+        "R05G01U01",
+        "R05G01U02",
+        "R05G01U03",
+        "R05G01U04",
+        "R05G01U05",
+        "R05G01U06",
+        "R05G01U07",
+        "R05G02U01",
+        "R05G02U02",
+        "R05G02U03",
+        "R05G02U04"
+      ],
+      "literal_base": "dlouhou pusu",
+      "literal_with_preferred_terminal_event": "dlouhou pusu"
+    },
+    {
+      "row_id": "R06",
+      "unit_ids": [
+        "R06G01U01",
+        "R06G01U02",
+        "R06G01U03",
+        "R06G01U04",
+        "R06G01U05",
+        "R06G01U06",
+        "R06G02U01",
+        "R06G02U02",
+        "R06G02U03",
+        "R06G02U04",
+        "R06G02U05"
+      ],
+      "literal_base": "tiskne vecne",
+      "literal_with_preferred_terminal_event": "tiskne vecne"
+    },
+    {
+      "row_id": "R07",
+      "unit_ids": [
+        "R07G01U01",
+        "R07G01U02",
+        "R07G01U03",
+        "R07G01U04",
+        "R07G02U01",
+        "R07G02U02",
+        "R07G02U03",
+        "R07G02U04",
+        "R07G02U05",
+        "R07G02U06"
+      ],
+      "literal_base": "tvuj pepous",
+      "literal_with_preferred_terminal_event": "tvuj pepous."
+    }
+  ],
+  "events": [
+    {
+      "event_id": "R01G02U02_MARK",
+      "row_id": "R01",
+      "group_id": "R01G02",
+      "associated_unit_id": "R01G02U02",
+      "raw_shape": "detachedtwo-strokeupperchevron",
+      "primitive_component_ids": [
+        "R01G02C02M01",
+        "R01G02C02M02"
+      ],
+      "preferred_role": "unitattachedgraphmark",
+      "semantic_role": null,
+      "source_native_row_box_xyxy": [
+        1391,
+        750,
+        1467,
+        1105
+      ],
+      "native_row_crop": "reports/source_v1/R01_FULL_NATIVE_ROW_v1.png",
+      "row_RGB_SHA256": "b362ca636b09f5f9b23f15a9017da648fd44aa96c6547789178f5a2e746af2a5"
+    },
+    {
+      "event_id": "R02G04U03_MARK",
+      "row_id": "R02",
+      "group_id": "R02G04",
+      "associated_unit_id": "R02G04U03",
+      "raw_shape": "detachedtwo-strokeupperchevron",
+      "primitive_component_ids": [
+        "R02G04C03M01",
+        "R02G04C03M02"
+      ],
+      "preferred_role": "unitattachedgraphmark",
+      "semantic_role": null,
+      "source_native_row_box_xyxy": [
+        1325,
+        750,
+        1415,
+        1105
+      ],
+      "native_row_crop": "reports/source_v1/R02_FULL_NATIVE_ROW_v1.png",
+      "row_RGB_SHA256": "dbe7e6942d2ae9162727bf87252ad2925b2d3a9b61ad9ede6f75826cddc57226"
+    },
+    {
+      "event_id": "R04G02E03",
+      "row_id": "R04",
+      "group_id": "R04G02",
+      "after_local_unit_ordinal": 6,
+      "raw_shape": ",",
+      "preferred_role": "comma/terminalpunctuation",
+      "alternative_role": "cipherformat/unitrole notsemanticallyinterpreted",
+      "native_row_crop": "reports/source_v1/R04_FULL_NATIVE_ROW_v1.png",
+      "source_native_row_box_xyxy": [
+        1189,
+        750,
+        1297,
+        1105
+      ],
+      "row_PNG_SHA256": "424ddc155afd54ec3b3469fb6895f170f392e3c3f695e7018db93b8ba38095ae",
+      "row_RGB_SHA256": "959c99e1e06ddd5f7d7e45f44ec6638af5f53718472622505355b9ec69db93bb"
+    },
+    {
+      "event_id": "R07G02E04",
+      "row_id": "R07",
+      "group_id": "R07G02",
+      "after_local_unit_ordinal": 6,
+      "raw_shape": ".",
+      "preferred_role": "comma/terminalpunctuation",
+      "alternative_role": "cipherformat/unitrole notsemanticallyinterpreted",
+      "native_row_crop": "reports/source_v1/R07_FULL_NATIVE_ROW_v1.png",
+      "source_native_row_box_xyxy": [
+        1018,
+        750,
+        1111,
+        1105
+      ],
+      "row_PNG_SHA256": "470f4c74c24c415919def26ad55980fa78e7cae6f54b6c490c124b03d2051574",
+      "row_RGB_SHA256": "c6242b4177e9360bee0bea97d2752eab2223e58b9555fab9c1aceb4d6f1ef751"
+    }
+  ],
+  "counts": {
+    "preferred_units": 77,
+    "covered_units": 77,
+    "groups": 18,
+    "rows": 7,
+    "events": 4
+  },
+  "scope": "Conditional fixed table plus mark-carry hypothesis under frozen source grammar; no historical confirmation."
+}

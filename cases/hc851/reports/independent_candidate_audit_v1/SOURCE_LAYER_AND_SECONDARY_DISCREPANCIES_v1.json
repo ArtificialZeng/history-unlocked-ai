@@ -1,0 +1,129 @@
+{
+  "current_F_overlay_raw_28": {
+    "raw_placement_index_1based": 28,
+    "active_index_1based": 28,
+    "typed_row_1based": 1,
+    "source_group_in_row_1based": 6,
+    "physical_offset_in_group_1based": 3,
+    "ASCII_final_visible": "F",
+    "source_role": "visible_black_F_overlay_over_violet_unknown",
+    "native_box_xyxy": [
+      2603,
+      545,
+      2688,
+      690
+    ],
+    "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+    "underlay_ASCII": null,
+    "uncertainty": "Previous violet character under the black F is not independently identifiable; final visible F is legible."
+  },
+  "cancelled_raw_139": {
+    "raw_placement_index_1based": 139,
+    "active_index_1based": null,
+    "typed_row_1based": 5,
+    "source_group_in_row_1based": 4,
+    "physical_offset_in_group_1based": 4,
+    "ASCII_final_visible": null,
+    "source_role": "violet_placement_crossed_by_two_dark_vertical_strokes",
+    "native_box_xyxy": [
+      1810,
+      1270,
+      1889,
+      1435
+    ],
+    "source_sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c",
+    "underlay_ASCII": null,
+    "uncertainty": "Glyph unknown. Frozen active stream treats placement as cancelled; raw placement always retained. Alternative non-cancelled role would require explicit source-length amendment."
+  },
+  "four_U_W_hand_shape_holds": [
+    {
+      "array": 2,
+      "row": 2,
+      "column": 1,
+      "alternatives": [
+        "U",
+        "W"
+      ]
+    },
+    {
+      "array": 3,
+      "row": 1,
+      "column": 2,
+      "alternatives": [
+        "W",
+        "U"
+      ]
+    },
+    {
+      "array": 3,
+      "row": 2,
+      "column": 4,
+      "alternatives": [
+        "U",
+        "W"
+      ]
+    },
+    {
+      "array": 4,
+      "row": 3,
+      "column": 2,
+      "alternatives": [
+        "U",
+        "W"
+      ]
+    }
+  ],
+  "secondary_array_literal_differences": [
+    {
+      "active_position": 74,
+      "primary": "U",
+      "secondary": "W",
+      "alternatives": [
+        "W",
+        "U"
+      ],
+      "literal_plaintext_position": 100,
+      "source_record": {
+        "array": 3,
+        "row": 1,
+        "column": 2,
+        "ASCII_observation": "W",
+        "ASCII_alternatives": [
+          "W",
+          "U"
+        ],
+        "native_box_xyxy": [
+          365,
+          1155,
+          500,
+          1313
+        ],
+        "source_file": "sources/raw/HC851_public_grille_original.jpg",
+        "source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+        "array_crop": "sources/inspection/cold_source_v1/hand_array_3_native.png",
+        "array_crop_sha256": "da2559d41e558e3d0445956168f7d94f885e4a04f3fa24f5c9dcad368d303244",
+        "exact_primary_character_agreement": false,
+        "primary_character_within_source_alternatives": true,
+        "source_letter_changed": false
+      }
+    }
+  ],
+  "additional_grouped_copy_literal_differences": [
+    {
+      "active_position": 100,
+      "primary": "A",
+      "grouped_copy": "H",
+      "grouped_copy_source_sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7",
+      "grouped_copy_native_box_xyxy": [
+        165,
+        2070,
+        2730,
+        2940
+      ],
+      "source_letters_changed": false
+    }
+  ],
+  "underlay_reconstructed": false,
+  "semantic_letter_repairs": false,
+  "scope": "Current active primary witness is authoritative for this forward certificate; secondary readings remain separately frozen."
+}

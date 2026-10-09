@@ -1,0 +1,16 @@
+{
+  "registered_utc": "2026-10-06T04:23:46.393119+00:00",
+  "case": "HC1615",
+  "scope": "Independent arithmetic implementation and synthetic tests; masked source SCHEMA only before explicit root release",
+  "write_namespace": "reports/independent_arithmetic_v1",
+  "historical_source_values_or_codedpixels_seen": false,
+  "historical_HC1615_P_seen": false,
+  "generic_prior_key_already_known": true,
+  "old_case_allowed_import": "own HC1617 independent checker logic only; no old source/data/candidate/C/P copied",
+  "root_decoder_import": false,
+  "actual_audit_gate": "Explicit root release after complete independent cold source audit; receipt required before actual source/key/candidate opens",
+  "tests": "Synthetic positive with one composite expanded unit, unknown unit, marks and non-emitted speck; meaningful unit/key/pin/mark/event/group/row/order/ownership failures; no historical fixture text",
+  "source_count_policy": "derive counts from frozen source, no inherited82 count or old target tamper string",
+  "semantic_hints_to_cold_observers": false,
+  "network_requests": 0
+}

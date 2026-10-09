@@ -1,0 +1,23 @@
+{
+  "sealed_utc": "2026-10-05T17:44:29.960204+00:00",
+  "files": [
+    {
+      "path": "data/cold_source_v1/PHYSICAL_PUBLIC_GRILLE_GEOMETRY_v1.json",
+      "sha256": "87de8f96b8ccd3dfe2dd9b7203d0cf672a752a02dac8c12f42aa2e3307fab40f"
+    },
+    {
+      "path": "data/cold_source_v1/PHYSICAL_PUBLIC_GRILLE_CELLS_v1.csv",
+      "sha256": "1f8367c1c39c44e6e30d436e97cf9f4d84c20826588f95e7e2f215bdebf31095"
+    },
+    {
+      "path": "data/cold_source_v1/AUTHOR_NOTATIONS_AND_EXTENT_v1.json",
+      "sha256": "ba040a523b5852faab852857e788bfe23cdee51a27caac11c20d5abc5db9344a"
+    }
+  ],
+  "cut_cells": 9,
+  "coarse_lattice": [
+    6,
+    6
+  ],
+  "candidate_or_plaintext_before_geometry_freeze": false
+}

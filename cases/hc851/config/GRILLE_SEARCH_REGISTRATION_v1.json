@@ -1,0 +1,27 @@
+{
+  "registered_at_utc": "2026-10-05T17:30:59.850302+00:00",
+  "target_candidate_generated": false,
+  "source_assisted": true,
+  "source_key_publicly_supplied": true,
+  "geometry_and_holes": "Must be frozen fromsource beforetargetdecoding; reject anynoncoveringgrille",
+  "source_word_annotation": "Authorhandwrittenhorizontalwriting supportsrowmajorcipherarrays; exactsourceobservationobserverpending",
+  "candidate_family": "Turninggrille, common compact even-squarepermutation perprimaryACA example",
+  "hypothesis_budget": {
+    "start_orientations": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "rotation_directions": [
+      1,
+      -1
+    ],
+    "blocks": "Consecutive fullsquareblocks from frozen source andauthorarray, no arbitraryblockshuffles",
+    "read_holes": "rowmajor lexicographic ineachorientation",
+    "cipher_flattening": "rowmajor only initially, physicallymotivated; alternateroutesrequireexplicitsource-reasonregisteredrevision"
+  },
+  "methods_controls": "ACA16knownvector exact;800randomgrilles/source-independentinternalcontrolspass; independentownimplementation stillrequired",
+  "acceptance": "Allfrozenobservedlettersmustbe explained bycompactpublickeyprocedureandforwardrecreated, allsourceuncertainty/source-keyroleclaims separate; nomanualkey/plaintextsourceedits",
+  "claim_limit": "Known-key-assistedobservedarchivalreading, neverunknownkeyAIcryptanalyticbreakthrough orworldhistoricalpriority"
+}

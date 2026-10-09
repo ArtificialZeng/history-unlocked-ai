@@ -1,0 +1,181 @@
+occurrence_id	global_position	line	group	position_in_group	pair_number	key_column	slide	role	partner	observed	plain	forward	source_bbox	event_ids	typed_underlayer_status
+C001	1	1	1	1	1	1	7	top_A1	C007	C	M	C	[157, 680, 233, 875]	E11	legible
+C002	2	1	1	2	2	2	0	top_A1	C008	I	A	I	[230, 680, 306, 875]		legible
+C003	3	1	1	3	3	3	8	top_A1	C009	U	N	U	[310, 680, 386, 875]		legible
+C004	4	1	1	4	4	4	5	top_A1	C010	S	Y	S	[388, 680, 464, 875]		legible
+C005	5	1	1	5	5	5	2	top_A1	C011	W	P	W	[464, 680, 540, 875]	E07	legible
+C006	6	1	2	1	6	6	8	top_A1	C012	I	A	I	[620, 680, 696, 875]	E07	legible
+C007	7	1	2	2	1	1	7	bottom_A2	C001	N	T	N	[698, 680, 774, 875]		legible
+C008	8	1	2	3	2	2	0	bottom_A2	C002	B	R	B	[773, 680, 849, 875]		legible
+C009	9	1	2	4	3	3	8	bottom_A2	C003	A	O	A	[850, 680, 926, 875]		legible
+C010	10	1	2	5	4	4	5	bottom_A2	C004	X	L	X	[932, 680, 1008, 875]		legible
+C011	11	1	3	1	5	5	2	bottom_A2	C005	E	S	E	[1092, 680, 1168, 875]	E08	legible
+C012	12	1	3	2	6	6	8	bottom_A2	C006	R	H	R	[1166, 680, 1242, 875]	E08	legible
+C013	13	1	3	3	7	1	7	top_A1	C019	H	A	H	[1245, 680, 1321, 875]		legible
+C014	14	1	3	4	8	2	0	top_A1	C020	P	V	P	[1318, 680, 1394, 875]		legible
+C015	15	1	3	5	9	3	8	top_A1	C021	B	E	B	[1398, 680, 1474, 875]		legible
+C016	16	1	4	1	10	4	5	top_A1	C022	W	S	W	[1560, 680, 1636, 875]		legible
+C017	17	1	4	2	11	5	2	top_A1	C023	P	U	P	[1632, 680, 1708, 875]		legible
+C018	18	1	4	3	12	6	8	top_A1	C024	X	C	X	[1712, 680, 1788, 875]		legible
+C019	19	1	4	4	7	1	7	bottom_A2	C013	O	C	O	[1790, 680, 1866, 875]		legible
+C020	20	1	4	5	8	2	0	bottom_A2	C014	Q	E	Q	[1865, 680, 1941, 875]		legible
+C021	21	1	5	1	9	3	8	bottom_A2	C015	Y	S	Y	[2016, 680, 2092, 875]		legible
+C022	22	1	5	2	10	4	5	bottom_A2	C016	K	S	K	[2096, 680, 2172, 875]		legible
+C023	23	1	5	3	11	5	2	bottom_A2	C017	P	F	P	[2179, 680, 2255, 875]	E01	held_unidentified_occluded
+C024	24	1	5	4	12	6	8	bottom_A2	C018	V	U	V	[2257, 680, 2333, 875]		legible
+C025	25	1	5	5	13	1	7	top_A1	C031	A	L	A	[2328, 680, 2404, 875]		legible
+C026	26	1	6	1	14	2	0	top_A1	C032	G	L	G	[2492, 680, 2568, 875]		legible
+C027	27	1	6	2	15	3	8	top_A1	C033	U	Y	U	[2564, 680, 2640, 875]		legible
+C028	28	1	6	3	16	4	5	top_A1	C034	S	A	S	[2650, 680, 2726, 875]		legible
+C029	29	1	6	4	17	5	2	top_A1	C035	R	C	R	[2728, 680, 2804, 875]		legible
+C030	30	1	6	5	18	6	8	top_A1	C036	B	C	B	[2811, 680, 2887, 875]		legible
+C031	31	2	1	1	13	1	7	bottom_A2	C025	K	O	K	[168, 905, 244, 1110]		legible
+C032	32	2	1	2	14	2	0	bottom_A2	C026	W	M	W	[246, 905, 322, 1110]		legible
+C033	33	2	1	3	15	3	8	bottom_A2	C027	X	P	X	[323, 905, 399, 1110]		legible
+C034	34	2	1	4	16	4	5	bottom_A2	C028	K	L	K	[397, 905, 473, 1110]		legible
+C035	35	2	1	5	17	5	2	bottom_A2	C029	J	I	J	[475, 905, 551, 1110]		legible
+C036	36	2	2	1	18	6	8	bottom_A2	C030	U	S	U	[630, 905, 706, 1110]		legible
+C037	37	2	2	2	19	1	7	top_A1	C043	K	H	K	[709, 905, 785, 1110]		legible
+C038	38	2	2	3	20	2	0	top_A1	C044	I	E	I	[784, 905, 860, 1110]		legible
+C039	39	2	2	4	21	3	8	top_A1	C045	L	D	L	[861, 905, 937, 1110]		legible
+C040	40	2	2	5	22	4	5	top_A1	C046	R	T	R	[940, 905, 1016, 1110]		legible
+C041	41	2	3	1	23	5	2	top_A1	C047	W	H	W	[1097, 905, 1173, 1110]		legible
+C042	42	2	3	2	24	6	8	top_A1	C048	B	E	B	[1172, 905, 1248, 1110]		legible
+C043	43	2	3	3	19	1	7	bottom_A2	C037	C	I	C	[1252, 905, 1328, 1110]		legible
+C044	44	2	3	4	20	2	0	bottom_A2	C038	J	R	J	[1332, 905, 1408, 1110]		legible
+C045	45	2	3	5	21	3	8	bottom_A2	C039	W	M	W	[1408, 905, 1484, 1110]		legible
+C046	46	2	4	1	22	4	5	bottom_A2	C040	M	I	M	[1558, 905, 1634, 1110]		legible
+C047	47	2	4	2	23	5	2	bottom_A2	C041	T	S	T	[1641, 905, 1717, 1110]		legible
+C048	48	2	4	3	24	6	8	bottom_A2	C042	Y	S	Y	[1713, 905, 1789, 1110]		legible
+C049	49	2	4	4	25	1	7	top_A1	C055	L	I	L	[1790, 905, 1866, 1110]		legible
+C050	50	2	4	5	26	2	0	top_A1	C056	Z	O	Z	[1870, 905, 1946, 1110]		legible
+C051	51	2	5	1	27	3	8	top_A1	C057	W	N	W	[2033, 905, 2109, 1110]		legible
+C052	52	2	5	2	28	4	5	top_A1	C058	U	S	U	[2108, 905, 2184, 1110]		legible
+C053	53	2	5	3	29	5	2	top_A1	C059	S	O	S	[2222, 905, 2298, 1110]		legible
+C054	54	2	5	4	30	6	8	top_A1	C060	U	N	U	[2296, 905, 2372, 1110]		legible
+C055	55	2	5	5	25	1	7	bottom_A2	C049	F	L	F	[2374, 905, 2450, 1110]		legible
+C056	56	2	6	1	26	2	0	bottom_A2	C050	C	Y	C	[2519, 905, 2595, 1110]		legible
+C057	57	2	6	2	27	3	8	bottom_A2	C051	B	T	B	[2596, 905, 2672, 1110]		legible
+C058	58	2	6	3	28	4	5	bottom_A2	C052	K	O	K	[2670, 905, 2746, 1110]		legible
+C059	59	2	6	4	29	5	2	bottom_A2	C053	D	L	D	[2752, 905, 2828, 1110]		legible
+C060	60	2	6	5	30	6	8	bottom_A2	C054	A	O	A	[2882, 905, 2958, 1110]		legible
+C061	61	3	1	1	31	1	7	top_A1	C067	U	S	U	[186, 1135, 262, 1340]		legible
+C062	62	3	1	2	32	2	0	top_A1	C068	G	E	G	[265, 1135, 341, 1340]		legible
+C063	63	3	1	3	33	3	8	top_A1	C069	T	P	T	[343, 1135, 419, 1340]		legible
+C064	64	3	1	4	34	4	5	top_A1	C070	K	E	K	[420, 1135, 496, 1340]		legible
+C065	65	3	1	5	35	5	2	top_A1	C071	S	R	S	[496, 1135, 572, 1340]		legible
+C066	66	3	2	1	36	6	8	top_A1	C072	N	S	N	[650, 1135, 726, 1340]	E02	held_unidentified_occluded
+C067	67	3	2	2	31	1	7	bottom_A2	C061	K	O	K	[730, 1135, 806, 1340]		legible
+C068	68	3	2	3	32	2	0	bottom_A2	C062	J	N	J	[803, 1135, 879, 1340]		legible
+C069	69	3	2	4	33	3	8	bottom_A2	C063	F	N	F	[882, 1135, 958, 1340]		legible
+C070	70	3	2	5	34	4	5	bottom_A2	C064	S	E	S	[957, 1135, 1033, 1340]		legible
+C071	71	3	3	1	35	5	2	bottom_A2	C065	J	L	J	[1119, 1135, 1195, 1340]		legible
+C072	72	3	3	2	36	6	8	bottom_A2	C066	L	B	L	[1191, 1135, 1267, 1340]		legible
+C073	73	3	3	3	37	1	7	top_A1	C079	Z	Y	Z	[1268, 1135, 1344, 1340]		legible
+C074	74	3	3	4	38	2	0	top_A1	C080	G	A	G	[1346, 1135, 1422, 1340]		legible
+C075	75	3	3	5	39	3	8	top_A1	C081	M	H	M	[1421, 1135, 1497, 1340]		legible
+C076	76	3	4	1	40	4	5	top_A1	C082	M	A	M	[1565, 1135, 1641, 1340]		legible
+C077	77	3	4	2	41	5	2	top_A1	C083	W	S	W	[1645, 1135, 1721, 1340]	E03	legible
+C078	78	3	4	3	42	6	8	top_A1	C084	Z	T	Z	[1719, 1135, 1795, 1340]		legible
+C079	79	3	4	4	37	1	7	bottom_A2	C073	W	Y	W	[1799, 1135, 1875, 1340]		legible
+C080	80	3	4	5	38	2	0	bottom_A2	C074	B	N	B	[1872, 1135, 1948, 1340]	E04	held_unidentified_occluded
+C081	81	3	5	1	39	3	8	bottom_A2	C075	E	O	E	[2031, 1135, 2107, 1340]		legible
+C082	82	3	5	2	40	4	5	bottom_A2	C076	K	I	K	[2109, 1135, 2185, 1340]		legible
+C083	83	3	5	3	41	5	2	bottom_A2	C077	K	S	K	[2223, 1135, 2299, 1340]		legible
+C084	84	3	5	4	42	6	8	bottom_A2	C078	M	Y	M	[2305, 1135, 2381, 1340]		legible
+C085	85	3	5	5	43	1	7	top_A1	C091	N	W	N	[2380, 1135, 2456, 1340]		legible
+C086	86	3	6	1	44	2	0	top_A1	C092	L	I	L	[2527, 1135, 2603, 1340]		legible
+C087	87	3	6	2	45	3	8	top_A1	C093	N	T	N	[2606, 1135, 2682, 1340]		legible
+C088	88	3	6	3	46	4	5	top_A1	C094	A	H	A	[2685, 1135, 2761, 1340]		legible
+C089	89	3	6	4	47	5	2	top_A1	C095	J	D	J	[2807, 1135, 2883, 1340]		legible
+C090	90	3	6	5	48	6	8	top_A1	C096	T	R	T	[2887, 1135, 2963, 1340]		legible
+C091	91	4	1	1	43	1	7	bottom_A2	C085	S	A	S	[191, 1370, 267, 1560]		legible
+C092	92	4	1	2	44	2	0	bottom_A2	C086	Q	W	Q	[267, 1370, 343, 1560]		legible
+C093	93	4	1	3	45	3	8	bottom_A2	C087	M	A	M	[346, 1370, 422, 1560]		legible
+C094	94	4	1	4	46	4	5	bottom_A2	C088	Z	L	Z	[421, 1370, 497, 1560]		legible
+C095	95	4	1	5	47	5	2	bottom_A2	C089	L	X	L	[496, 1370, 572, 1560]		legible
+C096	96	4	2	1	48	6	8	bottom_A2	C090	J	N	J	[661, 1370, 737, 1560]		legible
+C097	97	4	2	2	49	1	7	top_A1	C103	C	I	C	[733, 1370, 809, 1560]		legible
+C098	98	4	2	3	50	2	0	top_A1	C104	I	G	I	[810, 1370, 886, 1560]		legible
+C099	99	4	2	4	51	3	8	top_A1	C105	M	H	M	[886, 1370, 962, 1560]		legible
+C100	100	4	2	5	52	4	5	top_A1	C106	S	T	S	[966, 1370, 1042, 1560]		legible
+C101	101	4	3	1	53	5	2	top_A1	C107	W	P	W	[1112, 1370, 1188, 1560]	E09	legible
+C102	102	4	3	2	54	6	8	top_A1	C108	I	A	I	[1194, 1370, 1270, 1560]	E09	legible
+C103	103	4	3	3	49	1	7	bottom_A2	C097	F	T	F	[1269, 1370, 1345, 1560]		legible
+C104	104	4	3	4	50	2	0	bottom_A2	C098	N	R	N	[1345, 1370, 1421, 1560]		legible
+C105	105	4	3	5	51	3	8	bottom_A2	C099	E	O	E	[1423, 1370, 1499, 1560]		legible
+C106	106	4	4	1	52	4	5	bottom_A2	C100	N	L	N	[1576, 1370, 1652, 1560]		legible
+C107	107	4	4	2	53	5	2	bottom_A2	C101	E	S	E	[1645, 1370, 1721, 1560]	E10	legible
+C108	108	4	4	3	54	6	8	bottom_A2	C102	Q	G	Q	[1723, 1370, 1799, 1560]	E10	legible
+C109	109	4	4	4	55	1	7	top_A1	C115	P	O	P	[1799, 1370, 1875, 1560]		legible
+C110	110	4	4	5	56	2	0	top_A1	C116	N	O	N	[1873, 1370, 1949, 1560]		legible
+C111	111	4	5	1	57	3	8	top_A1	C117	S	U	S	[2031, 1370, 2107, 1560]		legible
+C112	112	4	5	2	58	4	5	top_A1	C118	W	T	W	[2110, 1370, 2186, 1560]		legible
+C113	113	4	5	3	59	5	2	top_A1	C119	Q	S	Q	[2189, 1370, 2265, 1560]		legible
+C114	114	4	5	4	60	6	8	top_A1	C120	R	T	R	[2266, 1370, 2342, 1560]		legible
+C115	115	4	5	5	55	1	7	bottom_A2	C109	C	E	C	[2341, 1370, 2417, 1560]		legible
+C116	116	4	6	1	56	2	0	bottom_A2	C110	C	A	C	[2497, 1370, 2573, 1560]		legible
+C117	117	4	6	2	57	3	8	bottom_A2	C111	P	L	P	[2572, 1370, 2648, 1560]		legible
+C118	118	4	6	3	58	4	5	bottom_A2	C112	N	T	N	[2650, 1370, 2726, 1560]		legible
+C119	119	4	6	4	59	5	2	bottom_A2	C113	L	H	L	[2726, 1370, 2802, 1560]		legible
+C120	120	4	6	5	60	6	8	bottom_A2	C114	M	I	M	[2805, 1370, 2881, 1560]		legible
+C121	121	5	1	1	61	1	7	top_A1	C127	M	L	M	[200, 1590, 276, 1780]		legible
+C122	122	5	1	2	62	2	0	top_A1	C128	Q	Y	Q	[278, 1590, 354, 1780]		legible
+C123	123	5	1	3	63	3	8	top_A1	C129	N	T	N	[357, 1590, 433, 1780]		legible
+C124	124	5	1	4	64	4	5	top_A1	C130	S	A	S	[435, 1590, 511, 1780]		legible
+C125	125	5	1	5	65	5	2	top_A1	C131	D	K	D	[512, 1590, 588, 1780]		legible
+C126	126	5	2	1	66	6	8	top_A1	C132	M	I	M	[666, 1590, 742, 1780]		legible
+C127	127	5	2	2	61	1	7	bottom_A2	C121	L	N	L	[739, 1590, 815, 1780]		legible
+C128	128	5	2	3	62	2	0	bottom_A2	C122	W	G	W	[817, 1590, 893, 1780]		legible
+C129	129	5	2	4	63	3	8	bottom_A2	C123	M	A	M	[895, 1590, 971, 1780]		legible
+C130	130	5	2	5	64	4	5	bottom_A2	C124	K	L	K	[970, 1590, 1046, 1780]		legible
+C131	131	5	3	1	65	5	2	bottom_A2	C125	Z	L	Z	[1119, 1590, 1195, 1780]		legible
+C132	132	5	3	2	66	6	8	bottom_A2	C126	H	P	H	[1197, 1590, 1273, 1780]	E05	held_unidentified_occluded
+C133	133	5	3	3	67	1	7	top_A1	C139	K	R	K	[1275, 1590, 1351, 1780]		legible
+C134	134	5	3	4	68	2	0	top_A1	C140	H	E	H	[1352, 1590, 1428, 1780]		legible
+C135	135	5	3	5	69	3	8	top_A1	C141	L	C	L	[1428, 1590, 1504, 1780]		legible
+C136	136	5	4	1	70	4	5	top_A1	C142	E	A	E	[1577, 1590, 1653, 1780]		legible
+C137	137	5	4	2	71	5	2	top_A1	C143	N	U	N	[1657, 1590, 1733, 1780]		legible
+C138	138	5	4	3	72	6	8	top_A1	C144	X	T	X	[1731, 1590, 1807, 1780]		legible
+C139	139	5	4	4	67	1	7	bottom_A2	C133	J	I	J	[1807, 1590, 1883, 1780]		legible
+C140	140	5	4	5	68	2	0	bottom_A2	C134	I	O	I	[1887, 1590, 1963, 1780]		legible
+C141	141	5	5	1	69	3	8	bottom_A2	C135	V	N	V	[2036, 1590, 2112, 1780]		legible
+C142	142	5	5	2	70	4	5	bottom_A2	C136	K	S	K	[2116, 1590, 2192, 1780]		legible
+C143	143	5	5	3	71	5	2	bottom_A2	C137	P	B	P	[2192, 1590, 2268, 1780]		legible
+C144	144	5	5	4	72	6	8	bottom_A2	C138	M	U	M	[2271, 1590, 2347, 1780]		legible
+C145	145	5	5	5	73	1	7	top_A1	C151	W	T	W	[2348, 1590, 2424, 1780]		legible
+C146	146	5	6	1	74	2	0	top_A1	C152	A	F	A	[2494, 1590, 2570, 1780]		legible
+C147	147	5	6	2	75	3	8	top_A1	C153	S	O	S	[2574, 1590, 2650, 1780]		legible
+C148	148	5	6	3	76	4	5	top_A1	C154	S	R	S	[2651, 1590, 2727, 1780]		legible
+C149	149	5	6	4	77	5	2	top_A1	C155	H	G	H	[2729, 1590, 2805, 1780]		legible
+C150	150	5	6	5	78	6	8	top_A1	C156	I	E	I	[2807, 1590, 2883, 1780]	E18	legible
+C151	151	6	1	1	73	1	7	bottom_A2	C145	N	T	N	[209, 1800, 285, 2000]		legible
+C152	152	6	1	2	74	2	0	bottom_A2	C146	K	A	K	[287, 1800, 363, 2000]		legible
+C153	153	6	1	3	75	3	8	bottom_A2	C147	D	L	D	[365, 1800, 441, 2000]	E12	legible
+C154	154	6	1	4	76	4	5	bottom_A2	C148	J	L	J	[446, 1800, 522, 2000]		legible
+C155	155	6	1	5	77	5	2	bottom_A2	C149	R	T	R	[523, 1800, 599, 2000]		legible
+C156	156	6	2	1	78	6	8	bottom_A2	C150	Z	H	Z	[681, 1800, 757, 2000]		legible
+C157	157	6	2	2	79	1	7	top_A1	C163	C	A	C	[759, 1800, 835, 2000]		legible
+C158	158	6	2	3	80	2	0	top_A1	C164	W	T	W	[835, 1800, 911, 2000]		legible
+C159	159	6	2	4	81	3	8	top_A1	C165	J	I	J	[911, 1800, 987, 2000]		legible
+C160	160	6	2	5	82	4	5	top_A1	C166	T	N	T	[992, 1800, 1068, 2000]		legible
+C161	161	6	3	1	83	5	2	top_A1	C167	B	G	B	[1132, 1800, 1208, 2000]		legible
+C162	162	6	3	2	84	6	8	top_A1	C168	F	E	F	[1210, 1800, 1286, 2000]		legible
+C163	163	6	3	3	79	1	7	bottom_A2	C157	P	T	P	[1288, 1800, 1364, 2000]		legible
+C164	164	6	3	4	80	2	0	bottom_A2	C158	N	T	N	[1369, 1800, 1445, 2000]		legible
+C165	165	6	3	5	81	3	8	bottom_A2	C159	G	I	G	[1445, 1800, 1521, 2000]		legible
+C166	166	6	4	1	82	4	5	bottom_A2	C160	B	N	B	[1582, 1800, 1658, 2000]		legible
+C167	167	6	4	2	83	5	2	bottom_A2	C161	Q	G	Q	[1658, 1800, 1734, 2000]		legible
+C168	168	6	4	3	84	6	8	bottom_A2	C162	Z	B	Z	[1735, 1800, 1811, 2000]		legible
+C169	169	6	4	4	85	1	7	top_A1	C175	G	A	G	[1812, 1800, 1888, 2000]		legible
+C170	170	6	4	5	86	2	0	top_A1	C176	P	C	P	[1891, 1800, 1967, 2000]		legible
+C171	171	6	5	1	87	3	8	top_A1	C177	H	K	H	[2040, 1800, 2116, 2000]		legible
+C172	172	6	5	2	88	4	5	top_A1	C178	W	T	W	[2117, 1800, 2193, 2000]	E06	held_unidentified_occluded
+C173	173	6	5	3	89	5	2	top_A1	C179	Z	O	Z	[2193, 1800, 2269, 2000]		legible
+C174	174	6	5	4	90	6	8	top_A1	C180	Y	S	Y	[2271, 1800, 2347, 2000]		legible
+C175	175	6	5	5	85	1	7	bottom_A2	C169	O	A	O	[2352, 1800, 2428, 2000]		legible
+C176	176	6	6	1	86	2	0	bottom_A2	C170	E	F	E	[2501, 1800, 2577, 2000]		legible
+C177	177	6	6	2	87	3	8	bottom_A2	C171	K	E	K	[2578, 1800, 2654, 2000]		legible
+C178	178	6	6	3	88	4	5	bottom_A2	C172	N	T	N	[2656, 1800, 2732, 2000]		legible
+C179	179	6	6	4	89	5	2	bottom_A2	C173	C	Y	C	[2732, 1800, 2808, 2000]		legible
+C180	180	6	6	5	90	6	8	bottom_A2	C174	L	X	L	[2810, 1800, 2886, 2000]		legible

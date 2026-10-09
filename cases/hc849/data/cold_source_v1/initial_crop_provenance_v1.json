@@ -1,0 +1,282 @@
+[
+  {
+    "path": "sources/inspection/cold_source_v1/typed_r1_left.png",
+    "parent": "sources/raw/HC849_original_1.jpg",
+    "parent_sha256": "0b06c69eb1db23fd216aac4f389c5119eb5e2d64669f07b1b403d374a690c061",
+    "native_xyxy": [
+      355,
+      340,
+      1660,
+      475
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "00027e17ba324ff2564d14d3ee103153899a4c75482b0a320b5e379df2d7bb2c"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/typed_r1_right.png",
+    "parent": "sources/raw/HC849_original_1.jpg",
+    "parent_sha256": "0b06c69eb1db23fd216aac4f389c5119eb5e2d64669f07b1b403d374a690c061",
+    "native_xyxy": [
+      1590,
+      328,
+      2865,
+      470
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "009b049d49f989eca7bac1cf702afaebf3ed70761247bed0659cb6067b573d4a"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/typed_r2_left.png",
+    "parent": "sources/raw/HC849_original_1.jpg",
+    "parent_sha256": "0b06c69eb1db23fd216aac4f389c5119eb5e2d64669f07b1b403d374a690c061",
+    "native_xyxy": [
+      355,
+      517,
+      1650,
+      651
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "f42ce838cbcd20a4becd8d2539f64f9251da248fbcf9018a3aa6cb51af6fe945"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/typed_r2_right.png",
+    "parent": "sources/raw/HC849_original_1.jpg",
+    "parent_sha256": "0b06c69eb1db23fd216aac4f389c5119eb5e2d64669f07b1b403d374a690c061",
+    "native_xyxy": [
+      1615,
+      509,
+      2865,
+      638
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "05c336d527d298db93fe8b17ad92389ccae903558db6dd5a479a0914be31317c"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/typed_r3.png",
+    "parent": "sources/raw/HC849_original_1.jpg",
+    "parent_sha256": "0b06c69eb1db23fd216aac4f389c5119eb5e2d64669f07b1b403d374a690c061",
+    "native_xyxy": [
+      355,
+      699,
+      715,
+      798
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "d19ebdcc027eac966924c4469140679c24d76913cced277cbec01426f24e0e54"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/typed_heading.png",
+    "parent": "sources/raw/HC849_original_1.jpg",
+    "parent_sha256": "0b06c69eb1db23fd216aac4f389c5119eb5e2d64669f07b1b403d374a690c061",
+    "native_xyxy": [
+      360,
+      145,
+      1030,
+      290
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "6ca3fdbfc1d43c4456cc9184f0e72ae82c53368090085ef65cc5bc73a409f280"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/typed_bottomedge.png",
+    "parent": "sources/raw/HC849_original_1.jpg",
+    "parent_sha256": "0b06c69eb1db23fd216aac4f389c5119eb5e2d64669f07b1b403d374a690c061",
+    "native_xyxy": [
+      280,
+      735,
+      920,
+      809
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "7882c79f39e4772314b5fed2c4193c2dcf62ad8a26f5e046d3aae1fac2f88634"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/typed_dark30.png",
+    "parent": "sources/raw/HC849_original_1.jpg",
+    "parent_sha256": "0b06c69eb1db23fd216aac4f389c5119eb5e2d64669f07b1b403d374a690c061",
+    "native_xyxy": [
+      2680,
+      329,
+      2860,
+      474
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "e2c484b6f7915bf60e63a0ce91791eb6848b7effca7f9d2a47e104f810657c13"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/typed_dark60.png",
+    "parent": "sources/raw/HC849_original_1.jpg",
+    "parent_sha256": "0b06c69eb1db23fd216aac4f389c5119eb5e2d64669f07b1b403d374a690c061",
+    "native_xyxy": [
+      2730,
+      509,
+      2870,
+      639
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "03ab23807d0f6b73730419a4cbd227a58867c125213637a514f993ffd3bf8885"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/array_top.png",
+    "parent": "sources/raw/HC849_original_2.jpg",
+    "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+    "native_xyxy": [
+      170,
+      1080,
+      1440,
+      1700
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "5f5f05e33d9dae935935d1d5a2771439818ab44cf1c15b72a6866efa7210a634"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/array_bottom.png",
+    "parent": "sources/raw/HC849_original_2.jpg",
+    "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+    "native_xyxy": [
+      170,
+      1690,
+      1440,
+      2340
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "9dd96e5ff12f4717784975b52951297412c98da4ae219c1d00a4a145521d304a"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/notebook_caption.png",
+    "parent": "sources/raw/HC849_original_2.jpg",
+    "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+    "native_xyxy": [
+      1740,
+      1050,
+      2590,
+      1410
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "d194fccff1b90dee22bc7c28e97e27c9226d4fc3114d2da0253ed1032a210d0f"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/grouped_copy_top.png",
+    "parent": "sources/raw/HC849_original_2.jpg",
+    "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+    "native_xyxy": [
+      1620,
+      1450,
+      2890,
+      1735
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "67669fabce5218018afa750ff4d1671e0231ba2d51213888596e7c3068689669"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/grouped_copy_bottom.png",
+    "parent": "sources/raw/HC849_original_2.jpg",
+    "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+    "native_xyxy": [
+      1610,
+      1740,
+      2890,
+      2155
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "5c12bdfe23216f076a03ef03b0873c8b630b2f2234d310ec40432c7ce3dcba4e"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/notebook_red_monogram.png",
+    "parent": "sources/raw/HC849_original_2.jpg",
+    "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+    "native_xyxy": [
+      1540,
+      2240,
+      1770,
+      2450
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "222212235be3bfecf634483775d8da9e6eef9121108e52b781aa932f491490be"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/notebook_right_number.png",
+    "parent": "sources/raw/HC849_original_2.jpg",
+    "parent_sha256": "86be04f1177e46c474a90614bb9b5c8ca6535abf91c081d93a067b5a7b90e52a",
+    "native_xyxy": [
+      2540,
+      970,
+      2970,
+      1450
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "0a4fa3d0698056f42ee951e9452ca78596b832200cd5d60c6f7cd7a320c6eb79"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/key_top.png",
+    "parent": "sources/raw/HC849_original_3.jpg",
+    "parent_sha256": "c3751e509ee34ab5a934d19912adfd22c24daee46fad6e8ee921a6dd127032bb",
+    "native_xyxy": [
+      110,
+      70,
+      1300,
+      430
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "87c7022349550f86fba6e98c865528f64a56cf382dc2f7901fa6ba1230422f93"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/key_middle.png",
+    "parent": "sources/raw/HC849_original_3.jpg",
+    "parent_sha256": "c3751e509ee34ab5a934d19912adfd22c24daee46fad6e8ee921a6dd127032bb",
+    "native_xyxy": [
+      110,
+      365,
+      1290,
+      820
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "1522be0469936be45a921ca64d90bb3c4225102f5084044937033b92ce04b383"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/key_bottom.png",
+    "parent": "sources/raw/HC849_original_3.jpg",
+    "parent_sha256": "c3751e509ee34ab5a934d19912adfd22c24daee46fad6e8ee921a6dd127032bb",
+    "native_xyxy": [
+      110,
+      795,
+      1280,
+      1270
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "1513fc2681a215f6fedd490127840f199688b3bb919aae716ec450cc7542df89"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/key_caption.png",
+    "parent": "sources/raw/HC849_original_3.jpg",
+    "parent_sha256": "c3751e509ee34ab5a934d19912adfd22c24daee46fad6e8ee921a6dd127032bb",
+    "native_xyxy": [
+      385,
+      675,
+      875,
+      845
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "49eb3212158879f1188476f116faf3c81a2080a083bc623fc677bf83abfcf219"
+  }
+]

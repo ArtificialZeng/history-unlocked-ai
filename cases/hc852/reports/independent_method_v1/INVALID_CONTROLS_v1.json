@@ -1,0 +1,186 @@
+{
+  "results": [
+    {
+      "control": "odd_side",
+      "operation": "encrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "side must be even and at least two"
+    },
+    {
+      "control": "odd_side",
+      "operation": "decrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "side must be even and at least two"
+    },
+    {
+      "control": "side_bool",
+      "operation": "encrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "side must be an integer, excluding bool"
+    },
+    {
+      "control": "side_bool",
+      "operation": "decrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "side must be an integer, excluding bool"
+    },
+    {
+      "control": "duplicate_cut",
+      "operation": "encrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "duplicate hole"
+    },
+    {
+      "control": "duplicate_cut",
+      "operation": "decrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "duplicate hole"
+    },
+    {
+      "control": "missing_cut",
+      "operation": "encrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "hole count must be exactly one quarter of cells"
+    },
+    {
+      "control": "missing_cut",
+      "operation": "decrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "hole count must be exactly one quarter of cells"
+    },
+    {
+      "control": "out_of_bounds_cut",
+      "operation": "encrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "hole outside square"
+    },
+    {
+      "control": "out_of_bounds_cut",
+      "operation": "decrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "hole outside square"
+    },
+    {
+      "control": "same_orbit_overlap",
+      "operation": "encrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "four rotations must cover every cell exactly once"
+    },
+    {
+      "control": "same_orbit_overlap",
+      "operation": "decrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "four rotations must cover every cell exactly once"
+    },
+    {
+      "control": "empty_literal",
+      "operation": "encrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "input must contain a positive exact number of full blocks"
+    },
+    {
+      "control": "empty_literal",
+      "operation": "decrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "input must contain a positive exact number of full blocks"
+    },
+    {
+      "control": "short_literal",
+      "operation": "encrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "input must contain a positive exact number of full blocks"
+    },
+    {
+      "control": "short_literal",
+      "operation": "decrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "input must contain a positive exact number of full blocks"
+    },
+    {
+      "control": "nonstring_literal",
+      "operation": "encrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "literal input must be a string"
+    },
+    {
+      "control": "nonstring_literal",
+      "operation": "decrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "literal input must be a string"
+    },
+    {
+      "control": "bad_start",
+      "operation": "encrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "start_quarters must be 0, 1, 2 or 3"
+    },
+    {
+      "control": "bad_start",
+      "operation": "decrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "start_quarters must be 0, 1, 2 or 3"
+    },
+    {
+      "control": "bad_direction",
+      "operation": "encrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "unknown rotation direction"
+    },
+    {
+      "control": "bad_direction",
+      "operation": "decrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "unknown rotation direction"
+    },
+    {
+      "control": "bad_hole_scan",
+      "operation": "encrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "scan and serialization must be explicit supported orders"
+    },
+    {
+      "control": "bad_hole_scan",
+      "operation": "decrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "scan and serialization must be explicit supported orders"
+    },
+    {
+      "control": "bad_cipher_serialization",
+      "operation": "encrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "scan and serialization must be explicit supported orders"
+    },
+    {
+      "control": "bad_cipher_serialization",
+      "operation": "decrypt",
+      "rejected": true,
+      "exception": "ValueError",
+      "reason": "scan and serialization must be explicit supported orders"
+    }
+  ]
+}

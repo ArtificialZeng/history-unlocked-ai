@@ -1,0 +1,268 @@
+{
+  "target": "HC696",
+  "copied_after_fresh_source_gate": true,
+  "upstream_source_gate": "/Users/zeng/Documents/解谜/historical_cipher_scout/reports/printed_course_backup_source_gate_2026-10-05_v1/FINDINGS_v1.md",
+  "gate_manifest_sha256": "0bf4d4c9cd92168e51b3da1e5036b902060fa5af5f10bbb8f26e80b96bbcb497",
+  "file_hashes": [
+    {
+      "path": "sources/raw/HC696_detail_current.json",
+      "from": "/Users/zeng/Documents/解谜/historical_cipher_scout/reports/printed_course_backup_source_gate_2026-10-05_v1/raw/HC696_detail_current.json",
+      "sha256": "92960b1c4ba71d31d57eba8b62977258261253aeb96d2ff87c702875e4c703d1"
+    },
+    {
+      "path": "sources/raw/HC696_original.jpg",
+      "from": "/Users/zeng/Documents/解谜/historical_cipher_scout/reports/printed_course_backup_source_gate_2026-10-05_v1/raw/HC696_original.jpg",
+      "sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4"
+    }
+  ],
+  "catalogue": {
+    "id": 696,
+    "name": "Cryptogram n. 7 in 12 205",
+    "description": "<p>Plaintext encrypted with polyalphabetic substitution (PORTAX)</p>",
+    "solution": {
+      "id": 1,
+      "name": "Not solved"
+    },
+    "cipher_key_id": null,
+    "category": {
+      "id": 12,
+      "name": "Polyalphabetic",
+      "children": []
+    },
+    "sub_category": {
+      "id": 2,
+      "name": "Substitution"
+    },
+    "date": null,
+    "date_around": "1952",
+    "availability_type": "archive",
+    "availability": null,
+    "language": {
+      "id": 6,
+      "name": "English"
+    },
+    "used_chars": null,
+    "folder": {
+      "id": 22,
+      "name": "box BF388a, 27-19/6-099",
+      "fond_id": 14,
+      "fond": {
+        "id": 14,
+        "name": "ZSGS",
+        "archive_id": 5,
+        "archive": {
+          "id": 5,
+          "name": "Archiv bezpečnostních složek"
+        }
+      }
+    },
+    "tags": [
+      {
+        "id": 18,
+        "name": "Czechoslovakia",
+        "type": "cryptogram"
+      },
+      {
+        "id": 17,
+        "name": "Cryptanalysis course",
+        "type": "cryptogram"
+      }
+    ],
+    "attachments": [
+      {
+        "group_id": 1302,
+        "group_description": "Cryptogram",
+        "id": 1543,
+        "title": "Cryptogram image",
+        "type": "image",
+        "original_url": "https://api.hcportal.eu/media/2001/32451685221415.jpg"
+      }
+    ],
+    "status_gate_passed": true
+  },
+  "network_calls": [
+    {
+      "n": 1,
+      "method": "GET",
+      "url": "https://api.hcportal.eu/api/cryptograms/696",
+      "purpose": "fresh official catalogue metadata",
+      "id": 696,
+      "started_utc": "2026-10-05T14:47:39.801685+00:00",
+      "retries": 0,
+      "redirect_following": false,
+      "ended_utc": "2026-10-05T14:47:42.941342+00:00",
+      "access_date_utc": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://api.hcportal.eu/api/cryptograms/696",
+      "headers": {
+        "Server": "openresty",
+        "Date": "Mon, 05 Oct 2026 14:47:42 GMT",
+        "Content-Type": "application/json",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Vary": "Accept-Encoding",
+        "Cache-Control": "no-cache, private",
+        "X-RateLimit-Limit": "60",
+        "X-RateLimit-Remaining": "59",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "retained_path": "raw/HC696_detail_current.json",
+      "bytes": 1694,
+      "sha256": "92960b1c4ba71d31d57eba8b62977258261253aeb96d2ff87c702875e4c703d1",
+      "completed": true
+    },
+    {
+      "n": 2,
+      "method": "GET",
+      "url": "https://api.hcportal.eu/api/cryptograms/725",
+      "purpose": "fresh official catalogue metadata",
+      "id": 725,
+      "started_utc": "2026-10-05T14:47:42.941993+00:00",
+      "retries": 0,
+      "redirect_following": false,
+      "ended_utc": "2026-10-05T14:47:44.834438+00:00",
+      "access_date_utc": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://api.hcportal.eu/api/cryptograms/725",
+      "headers": {
+        "Server": "openresty",
+        "Date": "Mon, 05 Oct 2026 14:47:44 GMT",
+        "Content-Type": "application/json",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Vary": "Accept-Encoding",
+        "Cache-Control": "no-cache, private",
+        "X-RateLimit-Limit": "60",
+        "X-RateLimit-Remaining": "58",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "retained_path": "raw/HC725_detail_current.json",
+      "bytes": 1670,
+      "sha256": "7352d47d556694fd8a04e90129c52b6d3baeb59278799d54e9800ae49278dd37",
+      "completed": true
+    },
+    {
+      "n": 3,
+      "method": "GET",
+      "url": "https://api.hcportal.eu/api/cryptograms/770",
+      "purpose": "fresh official catalogue metadata",
+      "id": 770,
+      "started_utc": "2026-10-05T14:47:44.835248+00:00",
+      "retries": 0,
+      "redirect_following": false,
+      "ended_utc": "2026-10-05T14:47:46.811261+00:00",
+      "access_date_utc": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://api.hcportal.eu/api/cryptograms/770",
+      "headers": {
+        "Server": "openresty",
+        "Date": "Mon, 05 Oct 2026 14:47:46 GMT",
+        "Content-Type": "application/json",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Vary": "Accept-Encoding",
+        "Cache-Control": "no-cache, private",
+        "X-RateLimit-Limit": "60",
+        "X-RateLimit-Remaining": "57",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "retained_path": "raw/HC770_detail_current.json",
+      "bytes": 1644,
+      "sha256": "120565c0e63b41e0896d600419798989e0f79c25607d480fc4b3e94530647579",
+      "completed": true
+    },
+    {
+      "n": 4,
+      "method": "GET",
+      "url": "https://api.hcportal.eu/media/2001/32451685221415.jpg",
+      "purpose": "public official original source image",
+      "id": 696,
+      "started_utc": "2026-10-05T14:47:46.813460+00:00",
+      "retries": 0,
+      "redirect_following": false,
+      "ended_utc": "2026-10-05T14:47:51.254728+00:00",
+      "access_date_utc": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://api.hcportal.eu/media/2001/32451685221415.jpg",
+      "headers": {
+        "Server": "openresty",
+        "Date": "Mon, 05 Oct 2026 14:47:48 GMT",
+        "Content-Type": "image/jpeg",
+        "Content-Length": "3676640",
+        "Connection": "close",
+        "Last-Modified": "Thu, 20 Nov 2025 09:44:26 GMT",
+        "ETag": "\"3819e0-644038ae36c46\"",
+        "Accept-Ranges": "bytes",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "retained_path": "raw/HC696_original.jpg",
+      "bytes": 3676640,
+      "sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4",
+      "completed": true
+    },
+    {
+      "n": 5,
+      "method": "GET",
+      "url": "https://api.hcportal.eu/media/2088/38731685277491.jpg",
+      "purpose": "public official original source image",
+      "id": 725,
+      "started_utc": "2026-10-05T14:47:51.256724+00:00",
+      "retries": 0,
+      "redirect_following": false,
+      "ended_utc": "2026-10-05T14:48:02.599212+00:00",
+      "access_date_utc": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://api.hcportal.eu/media/2088/38731685277491.jpg",
+      "headers": {
+        "Server": "openresty",
+        "Date": "Mon, 05 Oct 2026 14:47:52 GMT",
+        "Content-Type": "image/jpeg",
+        "Content-Length": "3511639",
+        "Connection": "close",
+        "Last-Modified": "Thu, 20 Nov 2025 09:46:44 GMT",
+        "ETag": "\"359557-64403931d05b6\"",
+        "Accept-Ranges": "bytes",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "retained_path": "raw/HC725_original.jpg",
+      "bytes": 3511639,
+      "sha256": "682e691b74a48a85106bdf4cf1a06530c1b4e56afe84e834c5ad6489320dc269",
+      "completed": true
+    },
+    {
+      "n": 6,
+      "method": "GET",
+      "url": "https://api.hcportal.eu/media/2219/83021685288882.jpg",
+      "purpose": "public official original source image",
+      "id": 770,
+      "started_utc": "2026-10-05T14:48:02.602544+00:00",
+      "retries": 0,
+      "redirect_following": false,
+      "ended_utc": "2026-10-05T14:48:06.708800+00:00",
+      "access_date_utc": "2026-10-05",
+      "http_status": 200,
+      "final_url": "https://api.hcportal.eu/media/2219/83021685288882.jpg",
+      "headers": {
+        "Server": "openresty",
+        "Date": "Mon, 05 Oct 2026 14:48:04 GMT",
+        "Content-Type": "image/jpeg",
+        "Content-Length": "3576319",
+        "Connection": "close",
+        "Last-Modified": "Thu, 20 Nov 2025 09:51:38 GMT",
+        "ETag": "\"3691ff-64403a4ac8619\"",
+        "Accept-Ranges": "bytes",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "retained_path": "raw/HC770_original.jpg",
+      "bytes": 3576319,
+      "sha256": "fe4e208456720dbf27d0e0571d2fdfd9a4bf4396ec1338e3174ef793c0bb25b1",
+      "completed": true
+    }
+  ],
+  "scope": "Only HC696 raw source files copied; no key/plaintext/solver results. Catalogue Not solved accessdated, not global priority proof.",
+  "author": {
+    "name": "Zijian Zeng",
+    "affiliation": "Institute of Computer Science and Digital Innovation, UCSI University, Kuala Lumpur, 56000, MALAYSIA",
+    "email": "zijianzeng@foxmail.com"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schema": "independent-code-precomparison-seal-v1",
+  "sealed_at_utc": "2026-10-05T17:39:00.115179+00:00",
+  "chronology": [
+    "Read AGENTS.md, provided primary capture and root synthetic-control summary only",
+    "Wrote own codec without root grille imports or root code read",
+    "Passed primary worked vector and independently generated 100 distinct grilles / 800 conventions / 720 rejection controls",
+    "Wrote independent report and this seal before opening root codec"
+  ],
+  "target_inputs": 0,
+  "target_raw_or_key_or_cold_ledger_or_outputs_seen": false,
+  "root_codec_read_or_imported": false,
+  "files": [
+    {
+      "path": "scripts/independent_grille_v1.py",
+      "sha256": "94b5e3d7a34f60fad1262f8467b67d8a5915cca9c355590b2564d98c58ac35e1",
+      "bytes": 14351
+    },
+    {
+      "path": "reports/independent_method_v1/INDEPENDENT_METHOD_AND_CONTROLS_v1.md",
+      "sha256": "99b5fbfbd61cb81bb41d912f499c0664cab58f83621ef979d078846b398cbaf9",
+      "bytes": 4301
+    },
+    {
+      "path": "reports/independent_method_v1/INDEPENDENT_SOFTWARE_CONTROLS_v1.json",
+      "sha256": "b690151e642a588014e919f1c05c80badfaafeff2726e84709e9dcb1cc907088",
+      "bytes": 134702
+    },
+    {
+      "path": "reports/independent_method_v1/INDEPENDENT_SYNTHETIC_FIXTURES_v1.json",
+      "sha256": "3c458698861604b67f5bd8cb1c6382cc16b7d51148cd74d5f7abb248ab148c4e",
+      "bytes": 909247
+    }
+  ],
+  "provided_records": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "e62ba7d98be946ca97be1d6ac2907a849cd802e546abaef2d4d95b5fd459ba31",
+      "bytes": 1170
+    },
+    {
+      "path": "sources/adoption/ACA_GRILLE_WORKED_EXAMPLE_CAPTURE_v1.json",
+      "sha256": "b8cbc2f5ea23bcb30d0c0f97280c0d396bb58ce7f3bb2dcd49621ab94b2c24c0",
+      "bytes": 585
+    },
+    {
+      "path": "reports/GRILLE_SYNTHETIC_CONTROLS_v1.json",
+      "sha256": "8f51a7487d14d973e0433fca171cd92b5b54581ace0e7fdd239f320377191447",
+      "bytes": 454
+    }
+  ],
+  "self_excluded": true
+}

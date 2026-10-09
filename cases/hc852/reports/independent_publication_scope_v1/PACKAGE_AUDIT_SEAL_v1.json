@@ -1,0 +1,65 @@
+{
+  "sealed_at_utc": "2026-10-05T22:27:58.510847+00:00",
+  "status": "PASS_EXACT_78_PAYLOAD_STAGE_AND_UNCHANGED_PDF",
+  "scope": "Exact successor78payload before additionofthisreport/seal; notfinal80payload/ZIP/extract certification",
+  "audited_actual_manifest": {
+    "stage_relative_path": "RELEASE_MANIFEST_v1.json",
+    "sha256": "d26066b7c14c6e5f224a7eeb91166d9676d05b678989fada65b7b2838e9f62de",
+    "payload_files": 78,
+    "payload_bytes": 15327221,
+    "image_payloads": 0,
+    "manifest_self_excluded": true,
+    "historical_reference_after_later_manifest_refresh": true
+  },
+  "predecessor_manifest_sha256": "675aae82b045d80834bb98430c42a92f8e40aa0d20f35a6caf53742efd9561ea",
+  "PDF_reference": {
+    "path": "output/pdf/HC852_Source_Assisted_Current_Layer_Reading_v1.pdf",
+    "bytes": 74189,
+    "sha256": "6bc1cbfb3f52db495753d6821c1fff2c8c2682a984846c32f5cf72f08fe981ef"
+  },
+  "public_report": {
+    "path": "reports/independent_publication_scope_v1/PACKAGE_SCOPE_AUDIT_REPORT_v1.md",
+    "bytes": 3471,
+    "sha256": "c0cf04b5778c87ccdd45115bb8bc5269da44c5527bdbeb3dd5af07bbf489127a"
+  },
+  "actual_inventory_default_integrity_commands": "PASS",
+  "integrity_counterfactual_rejections": 5,
+  "full_stage_names_bytes_hashes_unchanged": true,
+  "only_predecessor_payload_change": "README.zh-CN.md four-total-orientations clarification",
+  "source_data_core_PDF_unchanged": true,
+  "historical_context_snapshots": true,
+  "omitted_historical_references_reported_by_checker": 57,
+  "local_QA_evidence_references_not_required_public_payload": [
+    {
+      "path": "reports/independent_publication_scope_v1/PDF_AUDIT_SEAL_v1.json",
+      "sha256": "78e2b2473523d8a7403f5cf6b4c635744aa0fa7c7996c1bbd7737461123584fe"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/EXACT_PDF_DATA_OBJECT_AND_VISUAL_CHECKS_v1.json",
+      "sha256": "6767d7c14fa31c3916a8e4ab3c0a3531b853d6d199d6e372f8764484b6f4e7ca"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/ACTUAL_STAGE_AUDIT_REGISTRATION_v1.json",
+      "sha256": "74fb3e72101a117dac7708dd85f5650dd5aac2b95d6392be1a72037021b3b7f7"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/ACTUAL_STAGE_BEFORE_CENSUS_v1.json",
+      "sha256": "93a032fad8b2e53170a61d90a49bcfd30d1cc69f205da0df11dd66c15dc2089d"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/ACTUAL_STAGE_INVENTORY_AND_CONTENT_SCAN_v1.json",
+      "sha256": "67a1e0dbcf2b073679e7fae40003967261d6d330c0b228eda38951fdd4e56884"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/PREDECESSOR_ACTUAL_STAGE_COMMANDS_AND_CENSUS_v1.json",
+      "sha256": "0b2323211b9f643c826b7b9be65c5eff7f9d96534a5187ddf5bf2ddba0d9e673"
+    },
+    {
+      "path": "reports/independent_publication_scope_v1/SUCCESSOR_ACTUAL_STAGE_COMMANDS_AND_FULL_CENSUS_v1.json",
+      "sha256": "f6bb046a7ae42ae73773a8bf39092192c60f68ac1e1bc60a7fa1079e89868a01"
+    }
+  ],
+  "later_two_doc_addition_manifest_ZIP_extract": "Pendingrootverification; notclaimedhere",
+  "self_excluded": true,
+  "auditor_no_stage_mutations": true
+}

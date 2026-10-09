@@ -1,0 +1,20 @@
+{
+  "sealed_utc": "2026-10-06T04:30:35.909767+00:00",
+  "manifest_SHA256": "454047da4ec5ff2f98fdeaa877a151410be6dee45f61f226f8b8535158691ae6",
+  "unit_ledger_SHA256": "5ba6e38987a59adcd95c090c283c24b8621cf53323231d6568544d4797bc91d1",
+  "manual_preferences_SHA256": "f0b4c30a4056dee34f29e8a375335c503698de2df73b88ce5388770d7c3afd04",
+  "payload_count": 30,
+  "references": 15,
+  "preferred_units": 77,
+  "row_unit_counts": [
+    11,
+    11,
+    12,
+    11,
+    11,
+    11,
+    10
+  ],
+  "status": "CURRENT_PREFERRED_SOURCE_SCOPE_FROZEN_MARKEDCLASS_UNASSIGNED_BEFORE_LOOKUP",
+  "semantic_key_P_decoder_model_peerpreferences_read": false
+}

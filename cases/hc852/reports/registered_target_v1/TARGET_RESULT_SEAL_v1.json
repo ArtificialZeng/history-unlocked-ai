@@ -1,0 +1,26 @@
+{
+  "first_full_tool_decode_utc": "2026-10-05T21:45:52.691157+00:00",
+  "completed_utc": "2026-10-05T21:45:52.789092+00:00",
+  "root_partial_manual_exposure": "DI alreadydisclosed; nofullyblindclaim",
+  "registration_sha256": "2b1fb46af387ef92608b2218437a3079e77135bd700defec6eacb78bc1e2c4bd",
+  "artifacts": [
+    {
+      "path": "reports/registered_target_v1/ALL_32_REGISTERED_PROJECTIONS_v1.json",
+      "bytes": 14306,
+      "sha256": "44c2e7ee20eedcd9fee237b261811caa56acfced0ed21db698772edce8774554"
+    },
+    {
+      "path": "reports/registered_target_v1/ALL_32_SOURCE_POSITION_CERTIFICATES_v1.json",
+      "bytes": 6806243,
+      "sha256": "8e02532b30f2063c9a5aa2610d9285adfd1d1e71ea1e7ba0a1a1ac25b54f851e"
+    },
+    {
+      "path": "reports/registered_target_v1/PREFERRED_CURRENT_LAYER_LITERAL_v1.json",
+      "bytes": 420,
+      "sha256": "02f57f2e4db302713e741555dac1052a6eac281813c4c2438e16d4848d7922ea"
+    }
+  ],
+  "all32_forwards_exact": true,
+  "source_edits": 0,
+  "no_unknown_key_claim": true
+}

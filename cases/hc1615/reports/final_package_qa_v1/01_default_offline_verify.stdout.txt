@@ -1,0 +1,334 @@
+{
+  "units": 77,
+  "primitive_components": 81,
+  "base_primitives": 77,
+  "detached_mark_stroke_primitives": 4,
+  "associated_mark_events": 2,
+  "punctuation_emitted_roles": [
+    "comma/terminalpunctuation"
+  ],
+  "covered_units": 77,
+  "marked_unit_records": 3,
+  "mark_attributes": 3,
+  "groups": 18,
+  "rows": 7,
+  "events": 4,
+  "expanded_NFC_letter_characters": 78,
+  "used_raw_classes": [
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "H_MARK_UNASSIGNED",
+    "R_MARK",
+    "b",
+    "c",
+    "d",
+    "f",
+    "g",
+    "h",
+    "m",
+    "r",
+    "s",
+    "t"
+  ],
+  "unused_fixed_raw_classes": [
+    "1",
+    "9",
+    "n",
+    "p"
+  ],
+  "literal_rows": [
+    "do třetice ti",
+    "preje a v duchu",
+    "na sladka usta",
+    "tvoje vrelou,",
+    "dlouhou pusu",
+    "tiskne vecne",
+    "tvuj pepous."
+  ],
+  "arithmetic_PASS": true,
+  "greedy_text_encryption_PASS": true,
+  "greedy_token_count": 96,
+  "inverse_unit_count": 77,
+  "punctuation_tokens": 2,
+  "space_tokens": 11,
+  "rowbreak_tokens": 6,
+  "greedy_convention": "longest complete fixed-table value; decomposablecaron inversebase plus mark; no source position exceptions",
+  "intrinsic_allograph_predicted": false,
+  "all_source_mark_attributes_carried": true,
+  "native_file_hashes_verified": 0,
+  "native_validation_scope": "PNG file hashes only; sealedcoldsourcepixel replays are separate",
+  "source_pins_verified": 10,
+  "candidate_sha256": "adee6e527cd54586462d1fccc67b8fb8c9c941a784fcce1c943171f50f11f0ec",
+  "literal_sha256": "a3a2dda48101e87303beee1500dcfbee1b861131202bd13decace1108d60b0b1",
+  "model_sha256": "d6158ec6c3b5a67651d995fbe7783da783baa01c9c286b84206cab873066d3ee",
+  "donor_key_sha256": "267fac542b3cc9b3fbb5d788b8d867a0c37de0fa1f4ffefe16776256e1835273",
+  "checker_sha256": "f9b8ace394ea1393758810ba7ce6d765d24563610bbee90c71298a2769233479",
+  "root_decoder_imported": false,
+  "source_edits": 0,
+  "key_refits_or_extensions": 0,
+  "physical_caron_function_is_hypothesis": true,
+  "blind_claim": false,
+  "core_tamper_cases": [
+    {
+      "case": "unit omitted",
+      "rejected": true,
+      "reason": "unit count"
+    },
+    {
+      "case": "unit order reversed",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: R01G01U01"
+    },
+    {
+      "case": "raw label changed",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: R01G01U01"
+    },
+    {
+      "case": "plaintext changed",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: R01G01U01"
+    },
+    {
+      "case": "mark dropped",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: R01G02U02"
+    },
+    {
+      "case": "key refit",
+      "rejected": true,
+      "reason": "exact fixed key dictionary"
+    },
+    {
+      "case": "key extension",
+      "rejected": true,
+      "reason": "exact fixed key dictionary"
+    },
+    {
+      "case": "donor pin changed",
+      "rejected": true,
+      "reason": "donor byte pin"
+    },
+    {
+      "case": "source pin dropped",
+      "rejected": true,
+      "reason": "complete source pin dictionary"
+    },
+    {
+      "case": "group omitted",
+      "rejected": true,
+      "reason": "exact complete grouped literal"
+    },
+    {
+      "case": "group order reversed",
+      "rejected": true,
+      "reason": "exact complete grouped literal"
+    },
+    {
+      "case": "group unit omitted",
+      "rejected": true,
+      "reason": "exact complete grouped literal"
+    },
+    {
+      "case": "group spelling changed",
+      "rejected": true,
+      "reason": "exact complete grouped literal"
+    },
+    {
+      "case": "coverage flag inverted",
+      "rejected": true,
+      "reason": "exact complete grouped literal"
+    },
+    {
+      "case": "row unit omitted",
+      "rejected": true,
+      "reason": "exact rows and preferred terminal display"
+    },
+    {
+      "case": "row text changed",
+      "rejected": true,
+      "reason": "exact rows and preferred terminal display"
+    },
+    {
+      "case": "row display changed",
+      "rejected": true,
+      "reason": "exact rows and preferred terminal display"
+    },
+    {
+      "case": "event omitted",
+      "rejected": true,
+      "reason": "all events exact object equality and order"
+    },
+    {
+      "case": "event shape changed",
+      "rejected": true,
+      "reason": "all events exact object equality and order"
+    },
+    {
+      "case": "event order reversed",
+      "rejected": true,
+      "reason": "all events exact object equality and order"
+    },
+    {
+      "case": "source primitive span changed",
+      "rejected": true,
+      "reason": "exact primitive span"
+    },
+    {
+      "case": "primitive duplicated",
+      "rejected": true,
+      "reason": "unique primitive IDs"
+    },
+    {
+      "case": "primitive owner changed",
+      "rejected": true,
+      "reason": "primitive owner"
+    },
+    {
+      "case": "source group order changed",
+      "rejected": true,
+      "reason": "complete ordered group partition"
+    },
+    {
+      "case": "source row order changed",
+      "rejected": true,
+      "reason": "complete ordered row partition"
+    },
+    {
+      "case": "terminal moved and certificate event copied coherently",
+      "rejected": true,
+      "reason": "registered punctuation after a source unit"
+    },
+    {
+      "case": "native row PNG metadata changed",
+      "rejected": true,
+      "reason": "unit native row provenance"
+    },
+    {
+      "case": "covered count changed",
+      "rejected": true,
+      "reason": "exact certificate counts"
+    },
+    {
+      "case": "duplicate JSON object key",
+      "rejected": true
+    }
+  ],
+  "focused_mark_tamper_cases": [
+    {
+      "case": "operator changed",
+      "rejected": true,
+      "reason": "exact registered operator"
+    },
+    {
+      "case": "model hash changed",
+      "rejected": true,
+      "reason": "registered model byte pin"
+    },
+    {
+      "case": "rule interpretation omitted",
+      "rejected": true,
+      "reason": "every derived rule and order exact"
+    },
+    {
+      "case": "rule interpretation altered",
+      "rejected": true,
+      "reason": "every derived rule and order exact"
+    },
+    {
+      "case": "caron stripped from covered value",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: R01G02U02"
+    },
+    {
+      "case": "known composite table override lost",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: R02G04U03"
+    },
+    {
+      "case": "composite unit expanded into extra record",
+      "rejected": true,
+      "reason": "unit count"
+    },
+    {
+      "case": "new arbitrary marked letter table entry",
+      "rejected": true,
+      "reason": "exact fixed key dictionary"
+    },
+    {
+      "case": "unsupported mark shape with coherent carried attrs",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: R01G02U02"
+    },
+    {
+      "case": "unsupported literal mark type with coherent attrs",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: R01G02U02"
+    },
+    {
+      "case": "one-stroke mark cannot satisfy two-stroke rule",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: R01G02U02"
+    },
+    {
+      "case": "two marks cannot satisfy sole-mark rule",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: R01G02U02"
+    },
+    {
+      "case": "multiletter base cannot satisfy single-letter rule",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: R01G02U02"
+    },
+    {
+      "case": "mark event assigned to foreign unit",
+      "rejected": true,
+      "reason": "mark event primitive span ownership"
+    },
+    {
+      "case": "mark stroke omitted from associated event",
+      "rejected": true,
+      "reason": "every detached mark stroke has exactly one associated mark event"
+    },
+    {
+      "case": "primitive base count changed",
+      "rejected": true,
+      "reason": "complete base/detached-stroke primitive census"
+    },
+    {
+      "case": "primitive detached count changed",
+      "rejected": true,
+      "reason": "complete base/detached-stroke primitive census"
+    },
+    {
+      "case": "preferred comma dropped",
+      "rejected": true,
+      "reason": "exact rows and preferred terminal display"
+    },
+    {
+      "case": "word spelling editorially repaired",
+      "rejected": true,
+      "reason": "exact complete grouped literal"
+    }
+  ],
+  "tamper_count": 48,
+  "synthetic_rule_mechanics": [
+    "position-independent and unknown-label-independent operator",
+    "no mark remains opaque",
+    "two marks remains opaque",
+    "wrong shape remains opaque",
+    "wrong source type remains opaque",
+    "one stroke remains opaque",
+    "three strokes remains opaque",
+    "unknown base remains opaque",
+    "multiletter base remains opaque",
+    "known R_MARK overrides structural conditions",
+    "unprecomposed NFC cluster encrypted without splitting source unit"
+  ],
+  "utc": "2026-10-06T05:21:17.397451+00:00"
+}

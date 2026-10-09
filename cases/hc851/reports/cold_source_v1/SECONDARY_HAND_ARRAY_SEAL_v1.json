@@ -1,0 +1,16 @@
+{
+  "sealed_utc": "2026-10-05T17:35:41.299307+00:00",
+  "source": "secondary handwritten arrays",
+  "files": [
+    {
+      "path": "data/cold_source_v1/SECONDARY_HAND_ARRAY_OCCURRENCES_v1.csv",
+      "sha256": "517cbf02b579c3957130866f0f2dc9be4199ef4ca5990348b0296e142135a4a0"
+    },
+    {
+      "path": "data/cold_source_v1/SECONDARY_HAND_ARRAY_SOURCE_v1.json",
+      "sha256": "e0c4c2d7dbad512032e75cef49120db78c3230184dc0ddcc91674112a6f654df"
+    }
+  ],
+  "letter_occurrences": 144,
+  "primary_comparison_performed_before_seal": false
+}

@@ -1,0 +1,60 @@
+{
+  "written_utc": "2026-10-05T15:36:27.710189+00:00",
+  "own_first_freeze_file_mtime_utc": "2026-10-05T15:27:19.970665+00:00",
+  "initial_own_exposure": {
+    "read": [
+      "AGENTS.md",
+      "sources/SOURCE_ONLY_SCOPE_v1.md",
+      "sources/SOURCE_ADOPTION_RECEIPT_v1.json",
+      "sources/raw/HC696_detail_current.json",
+      "sources/raw/HC696_original.jpg",
+      "own crops only"
+    ],
+    "known_from_scope": [
+      "catalogue cipher category/name PORTAX",
+      "catalogue language English",
+      "catalogue state Not solved",
+      "catalogue date circa 1952"
+    ],
+    "not_read": [
+      "primary observer ledger",
+      "method or key files",
+      "experiments",
+      "plaintext or candidates",
+      "root README/protocol/state",
+      "other-puzzle contents"
+    ],
+    "network_calls": 0,
+    "root_state_changes": false,
+    "git_actions": false
+  },
+  "adoption_receipt_metadata_exposure": "The explicitly permitted adoption receipt also includes fetch receipts (IDs, URLs, dates, bytes and hashes) for HC725 and HC770. No images or actual cipher transcriptions from those cases were accessed.",
+  "after_own_seal_before_primary_content": [
+    "Primary report directory file names, including E03_W_crossing crop names; no file contents at this listing step."
+  ],
+  "primary_content_gate": "Parent reported primary seal complete with expected manifest/ledger hashes; hashes were verified before programmatic comparison.",
+  "primary_source_documents_read": [
+    "FINDINGS_v1.md",
+    "freeze_manifest_v1.json",
+    "source_ledger_v1.json",
+    "marks_and_layer_events_v1.json",
+    "noncipher_ledger_v1.json"
+  ],
+  "post_comparison_pixel_views": [
+    "Own crop postfreeze_r3g4p2_crossing_4x.png",
+    "Own crop postfreeze_r3g6_spacing_2x.png"
+  ],
+  "non_content_notice": "Parent reported that a root program search had run after primary seal. This agent received no search result contents, method details, keys, plaintext or candidate strings.",
+  "chronology_limit": "Own first freeze demonstrably predates own primary-ledger reading. No claim is made that it predates every program run elsewhere; own first-freeze mtime is later than primary seal timestamp.",
+  "forbidden_exposures": {
+    "root_state_docs": false,
+    "cipher_method_code": false,
+    "key": false,
+    "candidate_or_plaintext": false,
+    "experiments": false,
+    "other_puzzle_cipher_images_or_transcriptions": false
+  },
+  "network_calls": 0,
+  "root_state_changes": false,
+  "git_actions": false
+}

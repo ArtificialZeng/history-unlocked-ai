@@ -1,0 +1,25 @@
+{
+  "sealed_utc": "2026-10-05T17:49:56.775489+00:00",
+  "status": "COLD_PRIMARY_SECONDARY_PUBLIC_KEY_GEOMETRY_FROZEN_WITH_SOURCE_HOLDS",
+  "report": "reports/cold_source_v1/SEALED_COLD_SOURCE_REPORT_v1.md",
+  "manifest": "reports/cold_source_v1/MANIFEST_v1.json",
+  "manifest_sha256": "79b54fb37f7d5e651c641fcb18aded8154a5477289b484b1b70c2ae981731307",
+  "files": 85,
+  "primary_active_ASCII_letters": 144,
+  "primary_raw_letter_placements": 145,
+  "secondary_arrays": [
+    4,
+    6,
+    6
+  ],
+  "physical_key_coarse_lattice": [
+    6,
+    6
+  ],
+  "physical_key_cut_cells": 9,
+  "decode_candidate_executed": false,
+  "plaintext_or_words_used_for_source": false,
+  "known_public_key_assisted": true,
+  "third_attachment_uninspected": true,
+  "network_Git_state_nested_agent_changes": false
+}

@@ -1,0 +1,231 @@
+{
+  "utc": "2026-10-06T04:34:33.717213+00:00",
+  "schema_only_adapter_before_actual_source_values_or_P": true,
+  "historical_source_values_key_candidate_reads": 0,
+  "positive": {
+    "units": 6,
+    "primitive_components": 10,
+    "base_primitives": 6,
+    "detached_mark_stroke_primitives": 4,
+    "associated_mark_events": 2,
+    "punctuation_emitted_roles": [
+      "commapunctuation",
+      "terminalpunctuation"
+    ],
+    "covered_units": 5,
+    "marked_unit_records": 2,
+    "mark_attributes": 2,
+    "groups": 3,
+    "rows": 2,
+    "events": 4,
+    "expanded_plaintext_characters": 6,
+    "used_raw_classes": [
+      "SYNTHETIC_UNKNOWN",
+      "X",
+      "XY_MARK",
+      "Y"
+    ],
+    "unused_fixed_raw_classes": [],
+    "literal_rows": [
+      "ab,ab [UNKNOWN]",
+      "ba."
+    ]
+  },
+  "negative_cases": [
+    {
+      "case": "unit omitted",
+      "rejected": true,
+      "reason": "unit count"
+    },
+    {
+      "case": "unit order reversed",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: TOY_R1G1U1"
+    },
+    {
+      "case": "raw label changed",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: TOY_R1G1U1"
+    },
+    {
+      "case": "plaintext changed",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: TOY_R1G1U1"
+    },
+    {
+      "case": "mark dropped",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: TOY_R1G1U3"
+    },
+    {
+      "case": "key refit",
+      "rejected": true,
+      "reason": "exact fixed key dictionary"
+    },
+    {
+      "case": "key extension",
+      "rejected": true,
+      "reason": "exact fixed key dictionary"
+    },
+    {
+      "case": "donor pin changed",
+      "rejected": true,
+      "reason": "donor byte pin"
+    },
+    {
+      "case": "source pin dropped",
+      "rejected": true,
+      "reason": "complete source pin dictionary"
+    },
+    {
+      "case": "group omitted",
+      "rejected": true,
+      "reason": "exact complete grouped literal"
+    },
+    {
+      "case": "group order reversed",
+      "rejected": true,
+      "reason": "exact complete grouped literal"
+    },
+    {
+      "case": "group unit omitted",
+      "rejected": true,
+      "reason": "exact complete grouped literal"
+    },
+    {
+      "case": "group spelling changed",
+      "rejected": true,
+      "reason": "exact complete grouped literal"
+    },
+    {
+      "case": "coverage flag inverted",
+      "rejected": true,
+      "reason": "exact complete grouped literal"
+    },
+    {
+      "case": "row unit omitted",
+      "rejected": true,
+      "reason": "exact rows and preferred terminal display"
+    },
+    {
+      "case": "row text changed",
+      "rejected": true,
+      "reason": "exact rows and preferred terminal display"
+    },
+    {
+      "case": "row display changed",
+      "rejected": true,
+      "reason": "exact rows and preferred terminal display"
+    },
+    {
+      "case": "event omitted",
+      "rejected": true,
+      "reason": "all events exact object equality and order"
+    },
+    {
+      "case": "event shape changed",
+      "rejected": true,
+      "reason": "all events exact object equality and order"
+    },
+    {
+      "case": "event order reversed",
+      "rejected": true,
+      "reason": "all events exact object equality and order"
+    },
+    {
+      "case": "source primitive span changed",
+      "rejected": true,
+      "reason": "exact primitive span"
+    },
+    {
+      "case": "primitive duplicated",
+      "rejected": true,
+      "reason": "unique primitive IDs"
+    },
+    {
+      "case": "primitive owner changed",
+      "rejected": true,
+      "reason": "primitive owner"
+    },
+    {
+      "case": "source group order changed",
+      "rejected": true,
+      "reason": "complete ordered group partition"
+    },
+    {
+      "case": "source row order changed",
+      "rejected": true,
+      "reason": "complete ordered row partition"
+    },
+    {
+      "case": "terminal moved and certificate event copied coherently",
+      "rejected": true,
+      "reason": "registered punctuation after a source unit"
+    },
+    {
+      "case": "native row PNG metadata changed",
+      "rejected": true,
+      "reason": "unit native row provenance"
+    },
+    {
+      "case": "covered count changed",
+      "rejected": true,
+      "reason": "exact certificate counts"
+    },
+    {
+      "case": "duplicate JSON object key",
+      "rejected": true
+    },
+    {
+      "case": "opaque value manufactured",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: TOY_R1G2U1"
+    },
+    {
+      "case": "expanded unit truncated",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: TOY_R1G1U3"
+    },
+    {
+      "case": "associated mark ownership changed with copied event",
+      "rejected": true,
+      "reason": "mark event primitive span ownership"
+    },
+    {
+      "case": "mark event appropriates base primitive with copied event",
+      "rejected": true,
+      "reason": "mark event cannot appropriate base primitive"
+    },
+    {
+      "case": "detached mark stroke omitted from event accounting",
+      "rejected": true,
+      "reason": "every detached mark stroke has exactly one associated mark event"
+    },
+    {
+      "case": "base primitive census changed",
+      "rejected": true,
+      "reason": "complete base/detached-stroke primitive census"
+    },
+    {
+      "case": "detached mark stroke census changed",
+      "rejected": true,
+      "reason": "complete base/detached-stroke primitive census"
+    },
+    {
+      "case": "comma removed from row display",
+      "rejected": true,
+      "reason": "exact rows and preferred terminal display"
+    },
+    {
+      "case": "mark event emitted as text",
+      "rejected": true,
+      "reason": "exact rows and preferred terminal display"
+    }
+  ],
+  "negative_count": 38,
+  "actual_release_gate_rejection": "explicit root source-audit release absent; no target/source/key opened",
+  "checker_sha256": "a65a994e8221b0ad87e214ed022aed94e5f9f94f23fd93a97b984e8411c274a3",
+  "synthetic_script_sha256": "3ee410ffde4096b8759b6eb4576d76d70147045555c2f67f62b01846152189cb",
+  "root_decoder_imported": false,
+  "old_case_data_imported": false
+}

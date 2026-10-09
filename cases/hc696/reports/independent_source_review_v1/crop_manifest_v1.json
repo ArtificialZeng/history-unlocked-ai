@@ -1,0 +1,699 @@
+{
+  "source": "sources/raw/HC696_original.jpg",
+  "source_sha256": "2dc894dd0aaa745eb5c7ba6155b653038cc6625817ef66ec0502125dd93f0ae4",
+  "source_size": [
+    3024,
+    4032
+  ],
+  "bbox_convention": "[left, top, right, bottom); zero-based original pixels",
+  "crops": [
+    {
+      "crop_id": "header",
+      "path": "reports/independent_source_review_v1/crops/header_native.png",
+      "bbox_original_xyxy": [
+        65,
+        90,
+        2740,
+        675
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        2675,
+        585
+      ],
+      "sha256": "aaca7e40b557b545946105566d1fe821fffca23d30abd78038e17f4250b5f773"
+    },
+    {
+      "crop_id": "line_01",
+      "path": "reports/independent_source_review_v1/crops/line_01_native.png",
+      "bbox_original_xyxy": [
+        100,
+        680,
+        2980,
+        875
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        2880,
+        195
+      ],
+      "sha256": "11f18e29281e9c1192259ec1ea596e1a0d982cad95beaa68124f3e7e6f920e74"
+    },
+    {
+      "crop_id": "line_02",
+      "path": "reports/independent_source_review_v1/crops/line_02_native.png",
+      "bbox_original_xyxy": [
+        120,
+        905,
+        2980,
+        1110
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        2860,
+        205
+      ],
+      "sha256": "8af2c685dc81a8a33ab096ea45877f7e3067eea19f4e3522c04789fcf97e8a47"
+    },
+    {
+      "crop_id": "line_03",
+      "path": "reports/independent_source_review_v1/crops/line_03_native.png",
+      "bbox_original_xyxy": [
+        120,
+        1135,
+        2980,
+        1340
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        2860,
+        205
+      ],
+      "sha256": "eecdeb2277f5a26b06f0df5d45c62f283988150f13ec48bda2f729bb85a2856a"
+    },
+    {
+      "crop_id": "line_04",
+      "path": "reports/independent_source_review_v1/crops/line_04_native.png",
+      "bbox_original_xyxy": [
+        120,
+        1370,
+        2980,
+        1560
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        2860,
+        190
+      ],
+      "sha256": "78bfc66ec6c195dad6a4ec35af92595fbff336d5542562c34abb7b5684ed965f"
+    },
+    {
+      "crop_id": "line_05",
+      "path": "reports/independent_source_review_v1/crops/line_05_native.png",
+      "bbox_original_xyxy": [
+        120,
+        1590,
+        2980,
+        1780
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        2860,
+        190
+      ],
+      "sha256": "068a1df2837e39848c98cc8dfcf21e926d326da2ad211371bd7292f8c0bce719"
+    },
+    {
+      "crop_id": "line_06",
+      "path": "reports/independent_source_review_v1/crops/line_06_native.png",
+      "bbox_original_xyxy": [
+        120,
+        1800,
+        2980,
+        2000
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        2860,
+        200
+      ],
+      "sha256": "7e9e5cd9dcc7d3827fdfa6241a5b0dc1600bec58eed63ddcdc0191575ade2f8b"
+    },
+    {
+      "crop_id": "E01_P_overwrite",
+      "path": "reports/independent_source_review_v1/crops/E01_P_overwrite_native.png",
+      "bbox_original_xyxy": [
+        2160,
+        690,
+        2260,
+        825
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        100,
+        135
+      ],
+      "sha256": "e3ea04268220f312408f81884a4d7824cc0738e904ab7c90a4bf2f19c9bd9928"
+    },
+    {
+      "crop_id": "E01_P_overwrite_nearest3x",
+      "path": "reports/independent_source_review_v1/crops/E01_P_overwrite_nearest3x.png",
+      "bbox_original_xyxy": [
+        2160,
+        690,
+        2260,
+        825
+      ],
+      "transform": "native crop followed by exactly 3x nearest-neighbor resize; no filtering",
+      "output_size": [
+        300,
+        405
+      ],
+      "sha256": "87e0f2a198a1e4fb688a43359a003e002480c2789051420da371d0b5e0c560e8"
+    },
+    {
+      "crop_id": "E02_N_overwrite",
+      "path": "reports/independent_source_review_v1/crops/E02_N_overwrite_native.png",
+      "bbox_original_xyxy": [
+        640,
+        1180,
+        745,
+        1290
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        105,
+        110
+      ],
+      "sha256": "00efdb0508d1b296567e9014ddd2b807a56c154afef8c40fdd4632bf9db47005"
+    },
+    {
+      "crop_id": "E02_N_overwrite_nearest3x",
+      "path": "reports/independent_source_review_v1/crops/E02_N_overwrite_nearest3x.png",
+      "bbox_original_xyxy": [
+        640,
+        1180,
+        745,
+        1290
+      ],
+      "transform": "native crop followed by exactly 3x nearest-neighbor resize; no filtering",
+      "output_size": [
+        315,
+        330
+      ],
+      "sha256": "94224065cff980f3b4ff09117b0c06022ff1e55caae756ff790bd3bf16b84429"
+    },
+    {
+      "crop_id": "E03_W_crossing",
+      "path": "reports/independent_source_review_v1/crops/E03_W_crossing_native.png",
+      "bbox_original_xyxy": [
+        1660,
+        1160,
+        1770,
+        1290
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        110,
+        130
+      ],
+      "sha256": "7d846173876d4e673f8120b9956f4869a79d97177f4082c8dad1379e0f6692f6"
+    },
+    {
+      "crop_id": "E03_W_crossing_nearest3x",
+      "path": "reports/independent_source_review_v1/crops/E03_W_crossing_nearest3x.png",
+      "bbox_original_xyxy": [
+        1660,
+        1160,
+        1770,
+        1290
+      ],
+      "transform": "native crop followed by exactly 3x nearest-neighbor resize; no filtering",
+      "output_size": [
+        330,
+        390
+      ],
+      "sha256": "c11bba79828b39dec660d3c008144bfc48b9e0c68780ba9ced85cc994a560051"
+    },
+    {
+      "crop_id": "E04_B_overwrite",
+      "path": "reports/independent_source_review_v1/crops/E04_B_overwrite_native.png",
+      "bbox_original_xyxy": [
+        1865,
+        1145,
+        1965,
+        1280
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        100,
+        135
+      ],
+      "sha256": "becfb47ca89d0cfcc22b4c15d0021c23102e3a030452a7522db6be0ae4192800"
+    },
+    {
+      "crop_id": "E04_B_overwrite_nearest3x",
+      "path": "reports/independent_source_review_v1/crops/E04_B_overwrite_nearest3x.png",
+      "bbox_original_xyxy": [
+        1865,
+        1145,
+        1965,
+        1280
+      ],
+      "transform": "native crop followed by exactly 3x nearest-neighbor resize; no filtering",
+      "output_size": [
+        300,
+        405
+      ],
+      "sha256": "80e7c0bb605d9c0d7a664b6953be5411a6a5046b8a73dcf6b33da8e5286d7c45"
+    },
+    {
+      "crop_id": "E05_H_overwrite",
+      "path": "reports/independent_source_review_v1/crops/E05_H_overwrite_native.png",
+      "bbox_original_xyxy": [
+        1180,
+        1595,
+        1290,
+        1745
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        110,
+        150
+      ],
+      "sha256": "9616ac47beff9847d09446f52f24deedaf214acf5a943196e345fa603fffcbbc"
+    },
+    {
+      "crop_id": "E05_H_overwrite_nearest3x",
+      "path": "reports/independent_source_review_v1/crops/E05_H_overwrite_nearest3x.png",
+      "bbox_original_xyxy": [
+        1180,
+        1595,
+        1290,
+        1745
+      ],
+      "transform": "native crop followed by exactly 3x nearest-neighbor resize; no filtering",
+      "output_size": [
+        330,
+        450
+      ],
+      "sha256": "432d9527dadad86166573899bd1aa04051aa9f047a53adf4b4a5285dea458eba"
+    },
+    {
+      "crop_id": "E06_W_overwrite",
+      "path": "reports/independent_source_review_v1/crops/E06_W_overwrite_native.png",
+      "bbox_original_xyxy": [
+        2090,
+        1800,
+        2210,
+        1940
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        120,
+        140
+      ],
+      "sha256": "603207843012abac9c6de74c34376002ab11dbbb6ff72e0cc3c3cb6a28f41ba7"
+    },
+    {
+      "crop_id": "E06_W_overwrite_nearest3x",
+      "path": "reports/independent_source_review_v1/crops/E06_W_overwrite_nearest3x.png",
+      "bbox_original_xyxy": [
+        2090,
+        1800,
+        2210,
+        1940
+      ],
+      "transform": "native crop followed by exactly 3x nearest-neighbor resize; no filtering",
+      "output_size": [
+        360,
+        420
+      ],
+      "sha256": "0559477b1cd44105266d9e1ebe251f0b50078e5f9a7f6354088dc554a4dcec98"
+    },
+    {
+      "crop_id": "E07_line1_W_I_underline",
+      "path": "reports/independent_source_review_v1/crops/E07_line1_W_I_underline_native.png",
+      "bbox_original_xyxy": [
+        470,
+        760,
+        715,
+        875
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        245,
+        115
+      ],
+      "sha256": "ee014320c61593f1342a94237f23b67d52844bf3070d3cddeff93a2581840ee3"
+    },
+    {
+      "crop_id": "E07_line1_W_I_underline_nearest3x",
+      "path": "reports/independent_source_review_v1/crops/E07_line1_W_I_underline_nearest3x.png",
+      "bbox_original_xyxy": [
+        470,
+        760,
+        715,
+        875
+      ],
+      "transform": "native crop followed by exactly 3x nearest-neighbor resize; no filtering",
+      "output_size": [
+        735,
+        345
+      ],
+      "sha256": "f931b23c765443a200a6835638505e7d6c20b62643e9573544f28d3bb463c7b7"
+    },
+    {
+      "crop_id": "E08_line1_E_R_underline",
+      "path": "reports/independent_source_review_v1/crops/E08_line1_E_R_underline_native.png",
+      "bbox_original_xyxy": [
+        1090,
+        740,
+        1260,
+        850
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        170,
+        110
+      ],
+      "sha256": "38d66a549a5f0d598a87fd1c0539d990e95b9bc085e8e632a70d8737accbcd52"
+    },
+    {
+      "crop_id": "E08_line1_E_R_underline_nearest3x",
+      "path": "reports/independent_source_review_v1/crops/E08_line1_E_R_underline_nearest3x.png",
+      "bbox_original_xyxy": [
+        1090,
+        740,
+        1260,
+        850
+      ],
+      "transform": "native crop followed by exactly 3x nearest-neighbor resize; no filtering",
+      "output_size": [
+        510,
+        330
+      ],
+      "sha256": "7d50fceb4042aad66635140c7b3addf4fe1b02671468189a6c05331b3e1b0fa2"
+    },
+    {
+      "crop_id": "E09_line4_W_I_underline",
+      "path": "reports/independent_source_review_v1/crops/E09_line4_W_I_underline_native.png",
+      "bbox_original_xyxy": [
+        1090,
+        1430,
+        1280,
+        1550
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        190,
+        120
+      ],
+      "sha256": "a811971b5a0ef36e88bd74f3a15cd1c3e3c104799550f270ae4e453432354f28"
+    },
+    {
+      "crop_id": "E09_line4_W_I_underline_nearest3x",
+      "path": "reports/independent_source_review_v1/crops/E09_line4_W_I_underline_nearest3x.png",
+      "bbox_original_xyxy": [
+        1090,
+        1430,
+        1280,
+        1550
+      ],
+      "transform": "native crop followed by exactly 3x nearest-neighbor resize; no filtering",
+      "output_size": [
+        570,
+        360
+      ],
+      "sha256": "b40fab6992d9e93732e5af60eaf9706fed7c1fabc4627ea026117443a912259f"
+    },
+    {
+      "crop_id": "E10_line4_E_Q_underline",
+      "path": "reports/independent_source_review_v1/crops/E10_line4_E_Q_underline_native.png",
+      "bbox_original_xyxy": [
+        1630,
+        1400,
+        1830,
+        1510
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        200,
+        110
+      ],
+      "sha256": "773817c5af042b75cd599100d55121ec1a0ede573b2e38e3ca7594406b68c687"
+    },
+    {
+      "crop_id": "E10_line4_E_Q_underline_nearest3x",
+      "path": "reports/independent_source_review_v1/crops/E10_line4_E_Q_underline_nearest3x.png",
+      "bbox_original_xyxy": [
+        1630,
+        1400,
+        1830,
+        1510
+      ],
+      "transform": "native crop followed by exactly 3x nearest-neighbor resize; no filtering",
+      "output_size": [
+        600,
+        330
+      ],
+      "sha256": "4dfa7f2e775d2b1f5ea3ee25d34c73457b8c9c918510a0842533d0994bebf3e0"
+    },
+    {
+      "crop_id": "E11_left_red_stroke",
+      "path": "reports/independent_source_review_v1/crops/E11_left_red_stroke_native.png",
+      "bbox_original_xyxy": [
+        0,
+        710,
+        110,
+        910
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        110,
+        200
+      ],
+      "sha256": "122df534835b60680ab8acb0a9fe86d52c196d897acdec44fce553429fbc3c59"
+    },
+    {
+      "crop_id": "E11_left_red_stroke_nearest3x",
+      "path": "reports/independent_source_review_v1/crops/E11_left_red_stroke_nearest3x.png",
+      "bbox_original_xyxy": [
+        0,
+        710,
+        110,
+        910
+      ],
+      "transform": "native crop followed by exactly 3x nearest-neighbor resize; no filtering",
+      "output_size": [
+        330,
+        600
+      ],
+      "sha256": "d9e6bfc1cb726d808b371851fa2546cd35edf2d2c1d42bc1546d32eb52acb4a8"
+    },
+    {
+      "crop_id": "E12_below_cipher_blue_stroke",
+      "path": "reports/independent_source_review_v1/crops/E12_below_cipher_blue_stroke_native.png",
+      "bbox_original_xyxy": [
+        350,
+        2000,
+        460,
+        2240
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        110,
+        240
+      ],
+      "sha256": "37a629a8a150298d57758bd91591c56b89166dfea414ac235739e9ab3dd665a4"
+    },
+    {
+      "crop_id": "E12_below_cipher_blue_stroke_nearest3x",
+      "path": "reports/independent_source_review_v1/crops/E12_below_cipher_blue_stroke_nearest3x.png",
+      "bbox_original_xyxy": [
+        350,
+        2000,
+        460,
+        2240
+      ],
+      "transform": "native crop followed by exactly 3x nearest-neighbor resize; no filtering",
+      "output_size": [
+        330,
+        720
+      ],
+      "sha256": "91e2652a465f7a7a3cd32f765af2a4451cda09f3f1f30045ddcc1adca965308d"
+    },
+    {
+      "crop_id": "E13_header_text",
+      "path": "reports/independent_source_review_v1/crops/E13_header_text_native.png",
+      "bbox_original_xyxy": [
+        120,
+        440,
+        985,
+        560
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        865,
+        120
+      ],
+      "sha256": "3b025c41ac2a5d15944f265bfcd87f71f893d64bd98a7a71bbf3bb3adc6c5bd0"
+    },
+    {
+      "crop_id": "E13_header_text_nearest3x",
+      "path": "reports/independent_source_review_v1/crops/E13_header_text_nearest3x.png",
+      "bbox_original_xyxy": [
+        120,
+        440,
+        985,
+        560
+      ],
+      "transform": "native crop followed by exactly 3x nearest-neighbor resize; no filtering",
+      "output_size": [
+        2595,
+        360
+      ],
+      "sha256": "1e6558459a5cd01395e73e33f0b34fac4133f6c7898658741b501341d5399dc8"
+    },
+    {
+      "crop_id": "E14_header_dashed_rule",
+      "path": "reports/independent_source_review_v1/crops/E14_header_dashed_rule_native.png",
+      "bbox_original_xyxy": [
+        120,
+        553,
+        960,
+        610
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        840,
+        57
+      ],
+      "sha256": "cfb9d3b55a6c732aea11ea400e6143f98567133ca01a6ccb9b7ea0c62c0f01c3"
+    },
+    {
+      "crop_id": "E14_header_dashed_rule_nearest3x",
+      "path": "reports/independent_source_review_v1/crops/E14_header_dashed_rule_nearest3x.png",
+      "bbox_original_xyxy": [
+        120,
+        553,
+        960,
+        610
+      ],
+      "transform": "native crop followed by exactly 3x nearest-neighbor resize; no filtering",
+      "output_size": [
+        2520,
+        171
+      ],
+      "sha256": "9044c852165d2d835866d783139c8f103172575d076d0ee37dd4717874b831a9"
+    },
+    {
+      "crop_id": "E15_header_red_stroke",
+      "path": "reports/independent_source_review_v1/crops/E15_header_red_stroke_native.png",
+      "bbox_original_xyxy": [
+        75,
+        395,
+        1240,
+        610
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        1165,
+        215
+      ],
+      "sha256": "61c20d79b8bee3f3963ca91d9044084d90d0f62323d0027bbacc6ff59a44d3c8"
+    },
+    {
+      "crop_id": "E15_header_red_stroke_nearest3x",
+      "path": "reports/independent_source_review_v1/crops/E15_header_red_stroke_nearest3x.png",
+      "bbox_original_xyxy": [
+        75,
+        395,
+        1240,
+        610
+      ],
+      "transform": "native crop followed by exactly 3x nearest-neighbor resize; no filtering",
+      "output_size": [
+        3495,
+        645
+      ],
+      "sha256": "ad669a553d748eec0e759ba9b43a8b33a66ebcee991c752d77940f8bf373a9d3"
+    },
+    {
+      "crop_id": "E16_header_magenta_4",
+      "path": "reports/independent_source_review_v1/crops/E16_header_magenta_4_native.png",
+      "bbox_original_xyxy": [
+        2490,
+        95,
+        2710,
+        360
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        220,
+        265
+      ],
+      "sha256": "6edbb64c949d84705b09fa336b89c615b62de171ed5b3d06a2af0ce9f0098ecb"
+    },
+    {
+      "crop_id": "E16_header_magenta_4_nearest3x",
+      "path": "reports/independent_source_review_v1/crops/E16_header_magenta_4_nearest3x.png",
+      "bbox_original_xyxy": [
+        2490,
+        95,
+        2710,
+        360
+      ],
+      "transform": "native crop followed by exactly 3x nearest-neighbor resize; no filtering",
+      "output_size": [
+        660,
+        795
+      ],
+      "sha256": "c610a6d2071caa656b225db83986cffad43a1990599d58286fc8ed67cb6af449"
+    },
+    {
+      "crop_id": "E17_header_check_mark",
+      "path": "reports/independent_source_review_v1/crops/E17_header_check_mark_native.png",
+      "bbox_original_xyxy": [
+        2120,
+        470,
+        2250,
+        600
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        130,
+        130
+      ],
+      "sha256": "0fd643b179969b5f983f638b8b4c730c8fcc5335c46a0becd5ec7c6875751c75"
+    },
+    {
+      "crop_id": "E17_header_check_mark_nearest3x",
+      "path": "reports/independent_source_review_v1/crops/E17_header_check_mark_nearest3x.png",
+      "bbox_original_xyxy": [
+        2120,
+        470,
+        2250,
+        600
+      ],
+      "transform": "native crop followed by exactly 3x nearest-neighbor resize; no filtering",
+      "output_size": [
+        390,
+        390
+      ],
+      "sha256": "85479542e6e099893e9ec9aaec4ba8aa3b626bc6c61243dc546e50218c8d7585"
+    },
+    {
+      "crop_id": "E18_line5_terminal_I_ink",
+      "path": "reports/independent_source_review_v1/crops/E18_line5_terminal_I_ink_native.png",
+      "bbox_original_xyxy": [
+        2830,
+        1585,
+        2915,
+        1740
+      ],
+      "transform": "PIL.Image.crop only; native RGB pixels; no resize/rotation/filter",
+      "output_size": [
+        85,
+        155
+      ],
+      "sha256": "55a8fb868a2be27dd2066bec850dff8809741e5e7a80320a0da3ea0fab333811"
+    },
+    {
+      "crop_id": "E18_line5_terminal_I_ink_nearest3x",
+      "path": "reports/independent_source_review_v1/crops/E18_line5_terminal_I_ink_nearest3x.png",
+      "bbox_original_xyxy": [
+        2830,
+        1585,
+        2915,
+        1740
+      ],
+      "transform": "native crop followed by exactly 3x nearest-neighbor resize; no filtering",
+      "output_size": [
+        255,
+        465
+      ],
+      "sha256": "e64c8526f7de9379f651a736ee0dbd72d47ae560c61ef3296b6d7c06db09bfc5"
+    }
+  ]
+}

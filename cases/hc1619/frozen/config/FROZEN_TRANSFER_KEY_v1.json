@@ -1,0 +1,43 @@
+{
+  "version": "HC1760_FIXED_OBSERVED_KEY_v2",
+  "date": "2026-10-05",
+  "status": "CANDIDATE_KEY_FROZEN_FOR_INDEPENDENT_TRANSFER",
+  "unit_values": {
+    "1": "y",
+    "2": "u",
+    "3": "o",
+    "4": "i",
+    "5": "e",
+    "6": "a",
+    "7": "j",
+    "8": "l",
+    "9": "z",
+    "R_MARK": "ch",
+    "b": "p",
+    "c": "s",
+    "d": "t",
+    "f": "v",
+    "g": "k",
+    "h": "r",
+    "m": "n",
+    "n": "m",
+    "p": "b",
+    "r": "h",
+    "s": "c",
+    "t": "d"
+  },
+  "source_transcription_sha256": "282b9ba8f7629959ca2680c31161ab95c34cdd4855dda7fd2b77839e13624ceb",
+  "prediction_sha256": "f700249998735913e00a1f9cd588a58f9f32c877ff7d6a3c8265c715b0ab4066",
+  "target_source_edits": 0,
+  "unused_plaintext_letters": "No cipherglyphassertion forabsentletters; full26optimizerkeynot a recoveredhistoricalalphabet",
+  "marked_oval": "raw6+HAT_LIKE is decoded as(a,literalHATattribute), exactstandarddiacriticnotclaimed",
+  "R_MARK_raw_class": "r+CARON_LIKE; distinct cipherunit, expandedvalueCH",
+  "literal_encoded_spelling_retained": [
+    "vzponimas",
+    "tevine"
+  ],
+  "source_c_e": "preferredcbuteremainsvisualalternative",
+  "source_d_a": "preferreddbutaremainsvisualalternative",
+  "historical_priority": false,
+  "external_expert_confirmed": false
+}

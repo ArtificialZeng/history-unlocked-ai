@@ -1,0 +1,3 @@
+# CP010 PASS — final visible source layer
+
+Cold independent observer fixed all180finalvisible uppercaseletters in6rows/36nominalfivelettergroups. All43crops/sourcehashes,18linkedmark/layout events and occurrence ledger independently verified by root read-only helper. Underlying typedletters at23/66/80/132/172 remain unidentified; no specific graphicallysupported alternatives. Theyare separate from finalvisiblecipherbody; not silencerepaired or guessed. Finalvisibletranscription and onevariantregistered beforefirstsearch. Extra within-group spaces/underlinesarelayout, not knownwordboundaries. Secondsourceauditor has own180siteoriginalpixelpass, finalcomparisonpending, no targetresult supplied. PASSsourceonly,notsolve. Continue CP020/030.

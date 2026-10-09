@@ -1,0 +1,22 @@
+{
+  "registered_utc": "2026-10-05T21:43:25.724651+00:00",
+  "case": "HC852",
+  "frozen_source_manifest_sha256": "a2dcab38ce4a18830cd4825ed1ea8c967d7ffba33500642dad30ee90e4d9c6e6",
+  "frozen_source_locations": [
+    "data/cold_source_v1/TYPED_CURRENT_v1.json",
+    "data/cold_source_v1/PHYSICAL_KEY_v1.json"
+  ],
+  "model_scope": "Fixed photographed face. Allfourstarts,bothrotationdirections,bothholescanorders,bothcipherarrayserializationorders=32; not a mirror/face/globalkeyhistorical-order exhaustiveness proof.",
+  "preferred": {
+    "start": 0,
+    "direction": -1,
+    "hole_scan": "row-major",
+    "cipher_order": "column-major"
+  },
+  "preferred_basis": "I-like top marker, rightII-like and bottomIII-like suggestcounterclockwiseif orientationlabelsarebroughtto top sequentially. Exactrightoverdraw/leftclusterrole held. Rowwiseholefill ismodernstandardconvention; psano svisle suggestsverticalarrayreading, notstart/direction/scanproof. RootpartialDIcue alreadyseenandhonestlydisclosed; nofullyblindmethodselectionclaim.",
+  "root_partial_manual_exposure": "D prefreeze; DI postfreeze/preformalreg; no fullP. Sourceobservercontentunexposed.",
+  "source_or_key_or_plaintext_edits_permitted": false,
+  "root_generic_code_sha256": "585830c07b14a252c7e10428ffd175943a049dd9b999f33602b04a255d08a11c",
+  "all32_retained": true,
+  "semantic_acceptance": "Fullpositioncertificates+independentcode/nativeaudit/compactsource-compatibleprocedure+scopelimits required. Fluency/permutationroundtripalone nothistoricalproof."
+}

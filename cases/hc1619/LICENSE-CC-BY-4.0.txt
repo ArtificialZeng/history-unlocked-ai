@@ -1,0 +1,21 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Zijian Zeng, for project-authored expression and compilation
+within the expressly limited scope identified in LICENCE_SCOPE.json.
+
+The designated own research-note prose, own analytical annotations and own
+arrangement/compilation are licensed under CC BY 4.0:
+https://creativecommons.org/licenses/by/4.0/
+Full controlling legal code:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+This is a licence reference and scope notice, not a replacement for the legal
+code. Attribution, a licence link and indication of changes are required under
+the licence. See ATTRIBUTION.md for the original project credit.
+
+Only the contribution identified by LICENCE_SCOPE.json is licensed. This
+notice does not relicense historical plaintext/transcription, third-party
+quotations or content, original scans, catalogue/dictionary material, font
+software, unverified archived programs or rights not held by the licensor.
+Factual information and underlying source rights are not claimed exclusively.
+The CC licence provides no warranty or additional rights beyond its terms.

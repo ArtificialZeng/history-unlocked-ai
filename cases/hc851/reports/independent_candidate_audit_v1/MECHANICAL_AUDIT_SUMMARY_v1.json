@@ -1,0 +1,105 @@
+{
+  "status": "MECHANICAL_PASS_PHYSICAL_SOURCE_CERTIFICATE_PENDING",
+  "completed_at_utc": "2026-10-05T17:52:54.143263+00:00",
+  "preferred_active_length": 144,
+  "raw_transcription_extent_with_cancelled_slot": 145,
+  "raw_cancelled_position": 139,
+  "raw_current_F_overlay_position": 28,
+  "raw_145_whole_block_rejected": true,
+  "raw_145_rejection_reason": "text extent must contain whole square blocks",
+  "full_square_blocks": 4,
+  "side": 6,
+  "holes_zeroindexed": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      3,
+      3
+    ],
+    [
+      5,
+      1
+    ],
+    [
+      5,
+      3
+    ]
+  ],
+  "holes_1indexed": [
+    1,
+    4,
+    8,
+    12,
+    14,
+    17,
+    22,
+    32,
+    34
+  ],
+  "four_rotation_coverage_unique_cells": 36,
+  "independent_codec_sha256": "94b5e3d7a34f60fad1262f8467b67d8a5915cca9c355590b2564d98c58ac35e1",
+  "independent_precomparison_seal_sha256": "0d5ac5ffce2de3963dae6e3b45d4544c662d975ea4242254925c08c2fee2a825",
+  "root_grille_code_imported": false,
+  "eight_decodes_match_root_literal_records": true,
+  "eight_own_forwards_exact_active_144": true,
+  "fixed_literal_exact_conventions": [
+    {
+      "start_turn": 0,
+      "direction": 1
+    }
+  ],
+  "single_orbit_neighbor_count": 27,
+  "neighbors_exact_source_equal": 0,
+  "duplicate_neighbor_output_groups": 0,
+  "literal_selected_start": 0,
+  "literal_selected_direction": 1,
+  "selected_literal": "DIESCHWERENANGRIFFERICHTETENSICHGEGENDIELONDONUNDSONSTIGEHAFENANLAGEDERBRITISCHENHAUPTSTADTXFERNERWURDENGASWERKEUNDBAHNHOEFEMITLBOMBENBELEGTSTOP",
+  "literal_semantic_edit": false,
+  "semantic_intent_status": "HELD; DIELONDON and MITLBOMBEN remain literal, no smooth German replacement",
+  "scope": "Known-key-assisted mechanical reading of current active 144 letters only. Not an original uncorrected145 reading, unknown-key breakthrough, global uniqueness, priority or external acceptance claim.",
+  "input_records": [
+    {
+      "path": "data/root_source_v1/ROOT_SOURCE_FREEZE_v1.json",
+      "sha256": "dadeb0eecbd810cc80ccda31ad55a0cce29b22f0698aba5b3b9b27bbb3f74ef7"
+    },
+    {
+      "path": "data/root_source_v1/preferred_supplied_hand_cipher_v1.txt",
+      "sha256": "a0da353f8cc58e5e3ed2e6b4c06d7e2f60b46ac37398357575288f01d4b1969e"
+    },
+    {
+      "path": "config/GRILLE_SEARCH_REGISTRATION_v1.json",
+      "sha256": "f75cefabcbbb61716ac2a7657b64d71bb30e263f44c7a4d833a52bfb591f10ed"
+    },
+    {
+      "path": "reports/ROOT_TARGET_SOURCE_POLICY_v1.json",
+      "sha256": "a427c406548c4c7957587abcb401c869180df7e05666aa29f1ce1acbe2843d0e"
+    },
+    {
+      "path": "reports/target_decode_v1/ALL_EIGHT_REGISTERED_DECODES_v1.json",
+      "sha256": "a2f9601cdb4bd1fec3d0b384f18762aa496c6621b7894b6750ca1951763d6e56"
+    }
+  ],
+  "physical_source_certification": "PENDING_COLD_SOURCE_FREEZE"
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "path": "sources/inspection/cold_source_v1/typed_r1_left.png",
+    "parent": "sources/raw/HC852_original_1.jpg",
+    "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+    "native_xyxy": [
+      260,
+      310,
+      1660,
+      470
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "6bfb9abe408c153cb3b1763a0e7023faf61cda80dd37b4142989142db1d58951"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/typed_r1_right.png",
+    "parent": "sources/raw/HC852_original_1.jpg",
+    "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+    "native_xyxy": [
+      1580,
+      300,
+      2890,
+      460
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "9d32e7086eae7325c090872b00cb00df4690669aaa8e836facfc31fdbd8851f5"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/typed_r2_left.png",
+    "parent": "sources/raw/HC852_original_1.jpg",
+    "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+    "native_xyxy": [
+      260,
+      490,
+      1660,
+      645
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "028cfdcbc6e81befedead18d48c191ba7687419a38f12a540858bd4314a63790"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/typed_r2_right.png",
+    "parent": "sources/raw/HC852_original_1.jpg",
+    "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+    "native_xyxy": [
+      1580,
+      485,
+      2910,
+      640
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "32bb3d1843b46036d1d880a8e25df952f0dad76b7003c91470f882f7de614a5d"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/typed_r3.png",
+    "parent": "sources/raw/HC852_original_1.jpg",
+    "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+    "native_xyxy": [
+      260,
+      675,
+      665,
+      812
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "46bbb566a7a988a80073135c59fcea00600effdd522a3451a933029904b40480"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/typed_heading.png",
+    "parent": "sources/raw/HC852_original_1.jpg",
+    "parent_sha256": "491ad0757d7ca21b86837522ce148c073a3d570cd9d7d1b6b09aed6a162bb811",
+    "native_xyxy": [
+      280,
+      80,
+      915,
+      245
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "4e80a8948ad290cee22a898a24c49e421d189d6aecc21e38035745b3a6f889a0"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/notebook_array_native.png",
+    "parent": "sources/raw/HC852_original_2.jpg",
+    "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+    "native_xyxy": [
+      95,
+      735,
+      1300,
+      1940
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "237dafbb3ac726608500ae9a927252072b389a3f55d8f5ec8e5f3fe7eacc9c92"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/grouped_copy_native.png",
+    "parent": "sources/raw/HC852_original_2.jpg",
+    "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+    "native_xyxy": [
+      1430,
+      1060,
+      2750,
+      1770
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "b39c312b55de7dc270712923455d753caf2fdd1eac9f8026ea1b75b0b19a5707"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/notebook_caption_native.png",
+    "parent": "sources/raw/HC852_original_2.jpg",
+    "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+    "native_xyxy": [
+      1470,
+      680,
+      2970,
+      980
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "6fa1140ccc019647328dfeddf99a47bb459b78ec04568e6ac4eadb8846c6c90e"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/key_top_native.png",
+    "parent": "sources/raw/HC852_original_3.jpg",
+    "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+    "native_xyxy": [
+      260,
+      70,
+      1470,
+      700
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "45167dbd457d943ac6af00c3f5a8c56372bfcc66830bd848dfe2476f6feb8eb1"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/key_bottom_native.png",
+    "parent": "sources/raw/HC852_original_3.jpg",
+    "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+    "native_xyxy": [
+      260,
+      660,
+      1470,
+      1300
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "9a190866cbf50fb4eeee6ae78193655025617bdb17a398d95fcf4f00443ee51b"
+  },
+  {
+    "path": "sources/inspection/cold_source_v1/key_orientation_overwrites_native.png",
+    "parent": "sources/raw/HC852_original_3.jpg",
+    "parent_sha256": "9c264ed74058f073f50d6b0c50d1f04c90a4bb99e827e47c04ae97f084deabcb",
+    "native_xyxy": [
+      285,
+      645,
+      1450,
+      960
+    ],
+    "rotation": 0,
+    "resampling": "none",
+    "sha256": "9947ca97ce2eca54fc7a904e6487da4846662f52408a381b21b6b2fa95cc1060"
+  }
+]

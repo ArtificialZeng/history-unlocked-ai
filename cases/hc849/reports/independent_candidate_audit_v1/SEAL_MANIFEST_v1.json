@@ -1,0 +1,96 @@
+{
+  "sealed_utc": "2026-10-05T20:18:42.277235+00:00",
+  "status": "PASS SCOPED CURRENT-BODY MECHANICAL CERTIFICATE",
+  "scope": "HC849 current visible 64-character body only, supplied physical grille, finite registered conventions and fixed-literal controls",
+  "source_and_method_prior_manifests_unchanged": true,
+  "full_blind_audit_claim": false,
+  "artifact_count": 17,
+  "artifacts": [
+    {
+      "path": "reports/independent_candidate_audit_v1/AUDIT_CHRONOLOGY_v1.json",
+      "bytes": 2498,
+      "sha256": "a7ef78741fe5c5ec7711b4297337deb3b0f3ec6e5b3d8285e67eb211cba2453e"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/AUDIT_RESULTS_v1.json",
+      "bytes": 2047,
+      "sha256": "80844293a55fa532ac08d72061d1358074500d41a163edd1549c817eafca60e8"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/AUDIT_SCOPE_REGISTRATION_v1.json",
+      "bytes": 2971,
+      "sha256": "99fe7049ff5f1a09e986bc03cd09022db40f5f7593353b46350dc1d97210ecdc"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/FIRST_AUTHORIZED_FILE_READS_v1.json",
+      "bytes": 2191,
+      "sha256": "22ec6e1e845ebf5aacf732b672dbbcc27f81d386e7b3bdb68cdd198a6e2018e4"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/FIXED_LITERAL_FINITE_CONTROLS_v1.json",
+      "bytes": 465213,
+      "sha256": "f39fb392fd1b386201c1d2c6498ea40f5c0abaf43adba0313accb8b1d95300f1"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/INDEPENDENT_CANDIDATE_AUDIT_REPORT_v1.md",
+      "bytes": 8073,
+      "sha256": "a624fab507148eac0466410cda337ffdcbcf8ebcb74e9f6d7f98cf98ca00a01c"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/LITERAL_SPACES_ONLY_GLOSS_v1.json",
+      "bytes": 931,
+      "sha256": "ab6321b80df56c27d0e790e5e61a696a47466c07e3c2a510bd0cdb2316601b67"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/NATIVE_PRIMARY_PIXEL_REPLAY_v1.json",
+      "bytes": 51151,
+      "sha256": "195b916369f99effa92892cc7876a81b48f66366116b15b5e5a5e2a0514d4e34"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/NATIVE_SOURCE_AUDIT_v1.json",
+      "bytes": 54202,
+      "sha256": "f3e8a0ec9299168fc4b6a383fd196f0b6ca88a48ce545ef62f74d5bfec920d0f"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/OWN_2048_SOURCE_POSITION_CERTIFICATES_v1.json",
+      "bytes": 4978112,
+      "sha256": "475d5a4ca6028261c2e8fa471e842b88c6c8fddafadfbe35c3ca91356a507237"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/OWN_ALL_32_LITERAL_PROJECTIONS_v1.json",
+      "bytes": 51582,
+      "sha256": "644213356ffa6dc6763cde433de95204495537339bdc3f6ddfe82ca601306556"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/PRIOR_FREEZES_UNCHANGED_v1.json",
+      "bytes": 385,
+      "sha256": "a331d38273d4963cab7a5ccf7fcb91212f6c12935cb9f25685f230eb7536aca4"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/REPORTING_INVOCATION_FAILURE_v1.json",
+      "bytes": 464,
+      "sha256": "fcc46dc8cf16b641d0cf6571930a6753d801a46e924b6510a352f860e036f754"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/ROOT_LITERAL_COMPARISON_v1.json",
+      "bytes": 5776,
+      "sha256": "4e7feb08281a3501ec3cac59ad137cbd1e70fc1bfaca3ad1aa4fe48883d79887"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/SECONDARY_WITNESS_ROLE_HOLDS_v1.json",
+      "bytes": 13062,
+      "sha256": "9ac4eb06b9813c7819b07abe8ff3d8233cd3242482cce5bc7931ec06d167edc6"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/SOURCE_FREEZE_REPLAY_v1.json",
+      "bytes": 96047,
+      "sha256": "b6b93038f3808951177c5e26d7853701ed431e22153d7cbdbeaf96df21324e6c"
+    },
+    {
+      "path": "scripts/independent_candidate_check_v1.py",
+      "bytes": 16901,
+      "sha256": "a60aca84968e3c4bc7ec9f9b3a04714fef1d75e70345369a48539538526ae932"
+    }
+  ],
+  "self_hash_policy": "Manifest hash reported separately; no self inclusion."
+}

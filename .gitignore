@@ -8,3 +8,10 @@ __pycache__/
 *.pdf
 *.eml
 *.msg
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.ttf

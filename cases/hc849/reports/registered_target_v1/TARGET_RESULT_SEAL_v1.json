@@ -1,0 +1,25 @@
+{
+  "sealed_utc": "2026-10-05T20:06:35.469265+00:00",
+  "artifact_hashes": [
+    {
+      "path": "reports/registered_target_v1/ALL_32_REGISTERED_PROJECTIONS_v1.json",
+      "bytes": 15585,
+      "sha256": "d09ae155af0036c1c5b208ab0663071d3ec630ae8e86d617aea5495e57a47e71"
+    },
+    {
+      "path": "reports/registered_target_v1/ALL_32_SOURCE_POSITION_CERTIFICATES_v1.json",
+      "bytes": 5386115,
+      "sha256": "c5856aa4f99668b0553cb61b51fdf18e6f9968e2e928c3fe7deeb3ab88647b7b"
+    },
+    {
+      "path": "reports/registered_target_v1/PREFERRED_CURRENT_LAYER_LITERAL_v1.json",
+      "bytes": 418,
+      "sha256": "994ed1edd71d8b155f53eccf4d4e30eed867f2eb22c51f6351a4c5e10b429a79"
+    },
+    {
+      "path": "scripts/run_registered_target_v1.py",
+      "bytes": 4059,
+      "sha256": "8d991a8b038cb8f9496acf5e716a6b7a862ac219654a95cb009419f6a3ef8157"
+    }
+  ]
+}

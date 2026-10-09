@@ -1,0 +1,27 @@
+{
+  "source_item": "HC851",
+  "record": "https://crypto.hcportal.eu/dashboard/cryptograms/851",
+  "api": "https://api.hcportal.eu/api/cryptograms/851",
+  "access_date_local": "2026-10-06",
+  "rights": "No license to redistribute archival photographs or derived photo crops asserted. Originals remain at official URLs and are not in release ZIP. Authored code MIT; original note text/functional diagram CC BY4.0. Metadata/transcriptions are factual observations; underlying rights not transferred.",
+  "originals": [
+    {
+      "local_path": "sources/raw/HC851_typed_original.jpg",
+      "url": "https://api.hcportal.eu/media/2511/87581685310199.jpg",
+      "bytes": 1081684,
+      "sha256": "8d2933d6bf57534b19c8a71140144345f8680b471f31e5f24eec80270c9dae6c"
+    },
+    {
+      "local_path": "sources/raw/HC851_public_grille_original.jpg",
+      "url": "https://api.hcportal.eu/media/2512/29041685310199.jpg",
+      "bytes": 3520525,
+      "sha256": "4414909e4f5e14487850a89c0ae498d68d175c45da8d89fe7f9946fea9f63fb7"
+    },
+    {
+      "local_path": "sources/raw/HC851_attachment1_original.jpg",
+      "url": "https://api.hcportal.eu/media/2513/12121685310199.jpg",
+      "bytes": 381416,
+      "sha256": "0d3233a91ed755afa4984ddfcdf9f1379df051c056a2344272d5172550d965f3"
+    }
+  ]
+}

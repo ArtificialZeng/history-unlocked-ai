@@ -1,0 +1,194 @@
+{
+  "utc": "2026-10-06T04:26:46.675351+00:00",
+  "synthetic_fixture_only": true,
+  "historical_source_key_candidate_reads": 0,
+  "positive": {
+    "units": 6,
+    "primitive_components": 7,
+    "covered_units": 5,
+    "marked_unit_records": 2,
+    "mark_attributes": 2,
+    "groups": 3,
+    "rows": 2,
+    "events": 2,
+    "expanded_plaintext_characters": 6,
+    "used_raw_classes": [
+      "SYNTHETIC_UNKNOWN",
+      "X",
+      "XY_MARK",
+      "Y"
+    ],
+    "unused_fixed_raw_classes": [],
+    "literal_rows": [
+      "abab [UNKNOWN]",
+      "ba."
+    ]
+  },
+  "negative_cases": [
+    {
+      "case": "unit omitted",
+      "rejected": true,
+      "reason": "unit count"
+    },
+    {
+      "case": "unit order reversed",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: TOY_R1G1U1"
+    },
+    {
+      "case": "raw label changed",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: TOY_R1G1U1"
+    },
+    {
+      "case": "plaintext changed",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: TOY_R1G1U1"
+    },
+    {
+      "case": "mark dropped",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: TOY_R1G1U3"
+    },
+    {
+      "case": "key refit",
+      "rejected": true,
+      "reason": "exact fixed key dictionary"
+    },
+    {
+      "case": "key extension",
+      "rejected": true,
+      "reason": "exact fixed key dictionary"
+    },
+    {
+      "case": "donor pin changed",
+      "rejected": true,
+      "reason": "donor byte pin"
+    },
+    {
+      "case": "source pin dropped",
+      "rejected": true,
+      "reason": "complete source pin dictionary"
+    },
+    {
+      "case": "group omitted",
+      "rejected": true,
+      "reason": "exact complete grouped literal"
+    },
+    {
+      "case": "group order reversed",
+      "rejected": true,
+      "reason": "exact complete grouped literal"
+    },
+    {
+      "case": "group unit omitted",
+      "rejected": true,
+      "reason": "exact complete grouped literal"
+    },
+    {
+      "case": "group spelling changed",
+      "rejected": true,
+      "reason": "exact complete grouped literal"
+    },
+    {
+      "case": "coverage flag inverted",
+      "rejected": true,
+      "reason": "exact complete grouped literal"
+    },
+    {
+      "case": "row unit omitted",
+      "rejected": true,
+      "reason": "exact rows and preferred terminal display"
+    },
+    {
+      "case": "row text changed",
+      "rejected": true,
+      "reason": "exact rows and preferred terminal display"
+    },
+    {
+      "case": "row display changed",
+      "rejected": true,
+      "reason": "exact rows and preferred terminal display"
+    },
+    {
+      "case": "event omitted",
+      "rejected": true,
+      "reason": "all events exact object equality and order"
+    },
+    {
+      "case": "event shape changed",
+      "rejected": true,
+      "reason": "all events exact object equality and order"
+    },
+    {
+      "case": "event order reversed",
+      "rejected": true,
+      "reason": "all events exact object equality and order"
+    },
+    {
+      "case": "source primitive span changed",
+      "rejected": true,
+      "reason": "exact primitive span"
+    },
+    {
+      "case": "primitive duplicated",
+      "rejected": true,
+      "reason": "unique primitive IDs"
+    },
+    {
+      "case": "primitive owner changed",
+      "rejected": true,
+      "reason": "primitive owner"
+    },
+    {
+      "case": "source group order changed",
+      "rejected": true,
+      "reason": "complete ordered group partition"
+    },
+    {
+      "case": "source row order changed",
+      "rejected": true,
+      "reason": "complete ordered row partition"
+    },
+    {
+      "case": "terminal moved and certificate event copied coherently",
+      "rejected": true,
+      "reason": "terminal event after actual final group/unit"
+    },
+    {
+      "case": "native row PNG metadata changed",
+      "rejected": true,
+      "reason": "unit native row provenance"
+    },
+    {
+      "case": "covered count changed",
+      "rejected": true,
+      "reason": "exact certificate counts"
+    },
+    {
+      "case": "duplicate JSON object key",
+      "rejected": true
+    },
+    {
+      "case": "opaque letter manufactured",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: TOY_R1G2U1"
+    },
+    {
+      "case": "composite expanded value truncated",
+      "rejected": true,
+      "reason": "complete exact unit lookup/mark/order: TOY_R1G1U3"
+    },
+    {
+      "case": "noninjective per-unit inverse rejected",
+      "rejected": true,
+      "reason": "injective per-unit dictionary values"
+    }
+  ],
+  "negative_count": 32,
+  "actual_release_gate_rejection": "explicit root source-audit release absent; no target/source/key opened",
+  "checker_sha256": "a31ace0d72e7b31f568f05a730b43b955c94d7bf4c87516d37ea5ff57641c1cf",
+  "synthetic_script_sha256": "fc06182ca6129be302956bcaba83dbdb4aabd7402109941573968b68baeff5a6",
+  "root_decoder_imported": false,
+  "old_case_data_imported": false
+}

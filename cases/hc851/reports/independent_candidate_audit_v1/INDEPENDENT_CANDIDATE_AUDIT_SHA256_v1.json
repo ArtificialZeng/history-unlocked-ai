@@ -1,0 +1,76 @@
+{
+  "schema": "independent-candidate-audit-sha256-v1",
+  "sealed_at_utc": "2026-10-05T18:04:15.122575+00:00",
+  "status": "PASS_CURRENT_ACTIVE_144_SOURCE_FORWARD_AUDIT_WITH_EXPLICIT_SOURCE_HOLDS",
+  "claim_active_letters": 144,
+  "raw_placements_preserved": 145,
+  "cold_source_manifest_sha256": "79b54fb37f7d5e651c641fcb18aded8154a5477289b484b1b70c2ae981731307",
+  "precontrolled_independent_codec_sha256": "94b5e3d7a34f60fad1262f8467b67d8a5915cca9c355590b2564d98c58ac35e1",
+  "independent_method_precomparison_seal_sha256": "0d5ac5ffce2de3963dae6e3b45d4544c662d975ea4242254925c08c2fee2a825",
+  "all_frozen_source_and_method_files_unchanged": true,
+  "checker_imports_root_grille_code": false,
+  "source_assisted_known_public_key": true,
+  "files": [
+    {
+      "path": "reports/independent_candidate_audit_v1/ALL_144_ACTIVE_MAPPING_MECHANICAL_v1.json",
+      "sha256": "e2eb0f64c133ee5bca1b43a827b87a748c89298902cc39d430fd7b7af7a274e3",
+      "bytes": 72832
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/ALL_144_ACTIVE_SOURCE_FORWARD_CERTIFICATE_v1.json",
+      "sha256": "0e6523292cdcf36b95a5605be7ff14015641944726fd3fc17bee8d24743235b1",
+      "bytes": 453896
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/ALL_145_RAW_PLACEMENTS_SOURCE_CERTIFICATE_v1.json",
+      "sha256": "5064fcd23302c6d58ea476a9096965ca476ecd872caf339b97666c3f5671b4f3",
+      "bytes": 589038
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/ALL_EIGHT_INDEPENDENT_DECODES_v1.json",
+      "sha256": "799ce71d6a3bb4c63fe1840bdcb8c172073891ab9aef938f3e43e3ad50ac02af",
+      "bytes": 7303
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/FINAL_CANDIDATE_AUDIT_SUMMARY_v1.json",
+      "sha256": "4542361c00068d12597e6c8bd243d95a9dad7d9fd44c1f5c407c5f8d1c1bfaff",
+      "bytes": 3996
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/FIXED_LITERAL_27_SINGLE_ORBIT_NEIGHBORS_v1.json",
+      "sha256": "a4f37cd0536ef4b4ef75a4034056067bacfe8da9c381e69d250dc1ff668689a9",
+      "bytes": 46892
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/FIXED_LITERAL_ALL_EIGHT_CONVENTIONS_v1.json",
+      "sha256": "5350d50a459e2929119f752af7c685412a97b9b823b146698bf61a00aa5fab64",
+      "bytes": 12657
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/INDEPENDENT_CANDIDATE_AUDIT_v1.md",
+      "sha256": "06cb1c4cb9786d429547f286f0eb7f1c68daa2c68dc128ffc2adb623f5855834",
+      "bytes": 8516
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/MECHANICAL_AUDIT_SUMMARY_v1.json",
+      "sha256": "1f1be9f4f61468a4f7ea01810dd817be10b2a3e98881611d40a27b781fab1632",
+      "bytes": 2943
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/PHYSICAL_PUBLIC_KEY_CERTIFICATE_v1.json",
+      "sha256": "fa8474cadff4268f459b02ef82e685641ea600bf57a0967983d3c1ad893aaa26",
+      "bytes": 3305
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/SOURCE_LAYER_AND_SECONDARY_DISCREPANCIES_v1.json",
+      "sha256": "5facc5604b8f571aa5937264d58b3824a38b8ef95fb34725d8c6e864e835a3a5",
+      "bytes": 3505
+    },
+    {
+      "path": "scripts/independent_forward_check_v1.py",
+      "sha256": "27a9abfe8e1b380536d369bf5f9c6b75578f34df03a2d2964c5a072ce0b5ea5c",
+      "bytes": 25895
+    }
+  ],
+  "self_excluded": true
+}

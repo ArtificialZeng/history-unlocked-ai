@@ -1,0 +1,233 @@
+{
+  "registered_utc": "2026-10-05T20:05:28.510985+00:00",
+  "target_full_or_partial_decode_runs_before_registration": 0,
+  "root_manual_hole_to_letter_inspection_before_registration": false,
+  "key_is_publicly_supplied": true,
+  "ciphertext_file": "data/cold_source_v1/typed_current_v1.json",
+  "physical_key_file": "data/cold_source_v1/physical_key_v1.json",
+  "frozen_source_manifest_sha256": "b41a1f59b7ab5f624f339abc80cfa1608fa2044515ca52e3eabff4133779c818",
+  "root_method_seal_sha256": "4a9f2f57d94b49db0c429f4b4906a581213a34793d513b8bfd6ecd5f91e2b3cb",
+  "independent_method_seal_sha256": "5cfbb7eceb3f217ad94dd56bf776df1ea06b5ed82bc34cd5c162a40388ff11f8",
+  "source_key_face": "as photographed, even8x8; no mirror-face family tested",
+  "source_current_body_scope": "labelled three aligned typed rows30/30/4; allsourcecurrentglyphs, not selectedfromdivisibility; clippedoffbodyfragments retained",
+  "source_serialization_check": {
+    "preferred_notebook_ASCII_column_major_matches_typed_64": true,
+    "handwritten_alternatives_preserved": true,
+    "note_literal": "psáno svisle.",
+    "conservative_gloss": "written vertically",
+    "not_specifying_hole_scan_start_direction_orcolumnends": true
+  },
+  "settings": [
+    {
+      "start": 0,
+      "direction": -1,
+      "hole_scan": "row-major",
+      "cipher_order": "row-major"
+    },
+    {
+      "start": 0,
+      "direction": -1,
+      "hole_scan": "row-major",
+      "cipher_order": "column-major"
+    },
+    {
+      "start": 0,
+      "direction": -1,
+      "hole_scan": "column-major",
+      "cipher_order": "row-major"
+    },
+    {
+      "start": 0,
+      "direction": -1,
+      "hole_scan": "column-major",
+      "cipher_order": "column-major"
+    },
+    {
+      "start": 0,
+      "direction": 1,
+      "hole_scan": "row-major",
+      "cipher_order": "row-major"
+    },
+    {
+      "start": 0,
+      "direction": 1,
+      "hole_scan": "row-major",
+      "cipher_order": "column-major"
+    },
+    {
+      "start": 0,
+      "direction": 1,
+      "hole_scan": "column-major",
+      "cipher_order": "row-major"
+    },
+    {
+      "start": 0,
+      "direction": 1,
+      "hole_scan": "column-major",
+      "cipher_order": "column-major"
+    },
+    {
+      "start": 1,
+      "direction": -1,
+      "hole_scan": "row-major",
+      "cipher_order": "row-major"
+    },
+    {
+      "start": 1,
+      "direction": -1,
+      "hole_scan": "row-major",
+      "cipher_order": "column-major"
+    },
+    {
+      "start": 1,
+      "direction": -1,
+      "hole_scan": "column-major",
+      "cipher_order": "row-major"
+    },
+    {
+      "start": 1,
+      "direction": -1,
+      "hole_scan": "column-major",
+      "cipher_order": "column-major"
+    },
+    {
+      "start": 1,
+      "direction": 1,
+      "hole_scan": "row-major",
+      "cipher_order": "row-major"
+    },
+    {
+      "start": 1,
+      "direction": 1,
+      "hole_scan": "row-major",
+      "cipher_order": "column-major"
+    },
+    {
+      "start": 1,
+      "direction": 1,
+      "hole_scan": "column-major",
+      "cipher_order": "row-major"
+    },
+    {
+      "start": 1,
+      "direction": 1,
+      "hole_scan": "column-major",
+      "cipher_order": "column-major"
+    },
+    {
+      "start": 2,
+      "direction": -1,
+      "hole_scan": "row-major",
+      "cipher_order": "row-major"
+    },
+    {
+      "start": 2,
+      "direction": -1,
+      "hole_scan": "row-major",
+      "cipher_order": "column-major"
+    },
+    {
+      "start": 2,
+      "direction": -1,
+      "hole_scan": "column-major",
+      "cipher_order": "row-major"
+    },
+    {
+      "start": 2,
+      "direction": -1,
+      "hole_scan": "column-major",
+      "cipher_order": "column-major"
+    },
+    {
+      "start": 2,
+      "direction": 1,
+      "hole_scan": "row-major",
+      "cipher_order": "row-major"
+    },
+    {
+      "start": 2,
+      "direction": 1,
+      "hole_scan": "row-major",
+      "cipher_order": "column-major"
+    },
+    {
+      "start": 2,
+      "direction": 1,
+      "hole_scan": "column-major",
+      "cipher_order": "row-major"
+    },
+    {
+      "start": 2,
+      "direction": 1,
+      "hole_scan": "column-major",
+      "cipher_order": "column-major"
+    },
+    {
+      "start": 3,
+      "direction": -1,
+      "hole_scan": "row-major",
+      "cipher_order": "row-major"
+    },
+    {
+      "start": 3,
+      "direction": -1,
+      "hole_scan": "row-major",
+      "cipher_order": "column-major"
+    },
+    {
+      "start": 3,
+      "direction": -1,
+      "hole_scan": "column-major",
+      "cipher_order": "row-major"
+    },
+    {
+      "start": 3,
+      "direction": -1,
+      "hole_scan": "column-major",
+      "cipher_order": "column-major"
+    },
+    {
+      "start": 3,
+      "direction": 1,
+      "hole_scan": "row-major",
+      "cipher_order": "row-major"
+    },
+    {
+      "start": 3,
+      "direction": 1,
+      "hole_scan": "row-major",
+      "cipher_order": "column-major"
+    },
+    {
+      "start": 3,
+      "direction": 1,
+      "hole_scan": "column-major",
+      "cipher_order": "row-major"
+    },
+    {
+      "start": 3,
+      "direction": 1,
+      "hole_scan": "column-major",
+      "cipher_order": "column-major"
+    }
+  ],
+  "settings_cap": 32,
+  "preferred_before_outputs": {
+    "start": 0,
+    "direction": 1,
+    "hole_scan": "row-major",
+    "cipher_order": "column-major"
+  },
+  "preference_basis": "topI-like/leftII-like/bottomIII-likephysicalorientation; genericACArow-wiseholefilling/CW; sourceverticalnotepluspreferrednotebookcolumnserialization supportscolumn-major. Conventionaltop-to-bottom/left-to-right is registered hypothesis, not historicalproof.",
+  "source_alternatives_cannot_be_resolved_by_language": true,
+  "holes_or_letters_will_not_be_changed": true,
+  "score_or_LLM_ranker": null,
+  "claims_excluded": [
+    "unknownkey recovery",
+    "globalkeyuniqueness",
+    "historicoperationcertainty",
+    "worldpriority",
+    "oldertype-layer reconstruction",
+    "war-dispatch authorship"
+  ]
+}

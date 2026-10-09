@@ -1,0 +1,5 @@
+# Cold-source permissions
+
+Read only these case's three originals and metadata/scoperegistration. Observe all native current64typed positions and anycurrent alternatives/oldlayers directly. Freeze bodygroup/row/extent/ordinarylabels first. Independently inspect notebookarray/groupedcopy revisions/marks without using inferred plaintext or rootprovisionalmask. Define coarsephysicalgrid by nativepaperedges/rulings/scale and assign eachcellmaterial/cutstate using source morphology, not orbitcoverage or words. Retain portraitorientation/physicalface andliteral orientation/graphite/captionuncertainty. ProvideparentSHA/nativeboxes/cropSHA forderivedrows. Humanmanualobservations must beidentified as such, notautomaticOCR.
+
+Rootviewedallthreefullfaces beforeadoption, rough30/30/4 and8x8; root has one tentative mentalfirst-letterprojection beforethisfreeze, heldunverified and notshown toobserver. Theobservermustnotread reports/ROOT_PRE_FREEZE_EXPOSURE_v1.json or rootprovisional/target/codeoutputs beforeownsourcefreeze. No fulltargetcodeexecution yet, no rootfullplaintext/keyconfiguration. Fullyblindroot claim prohibited. Publickeyexposureisrequired sourcecontext.

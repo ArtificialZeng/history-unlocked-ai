@@ -1,0 +1,2344 @@
+{
+  "manual_observation": true,
+  "written_rows": 8,
+  "written_columns": 8,
+  "visible_placements": 64,
+  "preferred_rows_ascii": [
+    "TDPSEIAC",
+    "HMRZETLE",
+    "EAKINIOM",
+    "WITNSIDM",
+    "ESIWSEHT",
+    "IMSTRLIS",
+    "TSTEDAEC",
+    "HRTUEKZT"
+  ],
+  "positions": [
+    {
+      "id": "A11",
+      "row": 1,
+      "column": 1,
+      "raw_current_glyph": "T",
+      "preferred_ascii_base": "T",
+      "alternatives": [
+        "T"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        112,
+        708,
+        251,
+        893
+      ],
+      "native_dimensions": [
+        139,
+        185
+      ],
+      "native_RGB_pixel_sha256": "40ebd05f0ed006156d74dc01f65c40ed9731f61979ef62f2997f8c2fb3fd7a29",
+      "native_PNG_encoding_sha256": "1a1a1aaf4082c9fd3d848880ecdf4c199a7c3c73a807b9be6f6663bca5b86609",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        139,
+        213
+      ]
+    },
+    {
+      "id": "A12",
+      "row": 1,
+      "column": 2,
+      "raw_current_glyph": "D",
+      "preferred_ascii_base": "D",
+      "alternatives": [
+        "D"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        268,
+        708,
+        407,
+        893
+      ],
+      "native_dimensions": [
+        139,
+        185
+      ],
+      "native_RGB_pixel_sha256": "8b9549eaf032af8d6a00f45e3bfaf9a9219c9ab9cfa1ab1198e6689971d71241",
+      "native_PNG_encoding_sha256": "25c1bb9047bce8b1339d8b41de51475a5ce372a012b23eb179a0a2392007a3ce",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        139,
+        28,
+        278,
+        213
+      ]
+    },
+    {
+      "id": "A13",
+      "row": 1,
+      "column": 3,
+      "raw_current_glyph": "P",
+      "preferred_ascii_base": "P",
+      "alternatives": [
+        "P"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        425,
+        708,
+        558,
+        893
+      ],
+      "native_dimensions": [
+        133,
+        185
+      ],
+      "native_RGB_pixel_sha256": "d031f6664205e8fd31c965f1dab21799dfd3b708b491f088c0e61f718b3221a0",
+      "native_PNG_encoding_sha256": "92e2cf8d0fd2c29c8fc14f454802048052535f9b693c0a74a45577e1802c7484",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        278,
+        28,
+        411,
+        213
+      ]
+    },
+    {
+      "id": "A14",
+      "row": 1,
+      "column": 4,
+      "raw_current_glyph": "S",
+      "preferred_ascii_base": "S",
+      "alternatives": [
+        "S"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        574,
+        708,
+        714,
+        893
+      ],
+      "native_dimensions": [
+        140,
+        185
+      ],
+      "native_RGB_pixel_sha256": "77ed8be64aa992f1f11161e2f6a2070011213eca0f7bc8d7303e6035b2563de8",
+      "native_PNG_encoding_sha256": "22e8f8115c0a4b38625d55cab73c9c0d97e7e4e025eff08f2d785457e35408bd",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        411,
+        28,
+        551,
+        213
+      ]
+    },
+    {
+      "id": "A15",
+      "row": 1,
+      "column": 5,
+      "raw_current_glyph": "E",
+      "preferred_ascii_base": "E",
+      "alternatives": [
+        "E"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        726,
+        708,
+        864,
+        893
+      ],
+      "native_dimensions": [
+        138,
+        185
+      ],
+      "native_RGB_pixel_sha256": "4c7a55e8b65cd3d926e11c134181dbca063da8f6cb00ef277c397ff968d8a67a",
+      "native_PNG_encoding_sha256": "403177e996f5770632493c1d82fddf67a335cb78004a35219938118fcd58d565",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        551,
+        28,
+        689,
+        213
+      ]
+    },
+    {
+      "id": "A16",
+      "row": 1,
+      "column": 6,
+      "raw_current_glyph": "I",
+      "preferred_ascii_base": "I",
+      "alternatives": [
+        "I"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        883,
+        708,
+        1008,
+        893
+      ],
+      "native_dimensions": [
+        125,
+        185
+      ],
+      "native_RGB_pixel_sha256": "649d96eb5a46e59e3133cfa69b250a4ab0867465c7f7b8766ee924aeb43607d1",
+      "native_PNG_encoding_sha256": "c9c881e5bba002d0303251624d0097b44774247c658d023b49e3ca45c86eca02",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        689,
+        28,
+        814,
+        213
+      ]
+    },
+    {
+      "id": "A17",
+      "row": 1,
+      "column": 7,
+      "raw_current_glyph": "closed-top block form with mid crossbar",
+      "preferred_ascii_base": "A",
+      "alternatives": [
+        "A",
+        "H"
+      ],
+      "certainty": "preferred A; H retained paleographic alternative",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "Closed top supports A preference; no typed/word/route alignment used to discard H.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1020,
+        708,
+        1160,
+        893
+      ],
+      "native_dimensions": [
+        140,
+        185
+      ],
+      "native_RGB_pixel_sha256": "e3fe991106b4929becc3c62d49a23ec8e63200732a3988ca7376ca8a29d54f36",
+      "native_PNG_encoding_sha256": "5e4bc5230c129b2b187b83e48b06a70330e49eec8606f89b5e15053c6c5c0a20",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        814,
+        28,
+        954,
+        213
+      ]
+    },
+    {
+      "id": "A18",
+      "row": 1,
+      "column": 8,
+      "raw_current_glyph": "C",
+      "preferred_ascii_base": "C",
+      "alternatives": [
+        "C"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1178,
+        708,
+        1355,
+        893
+      ],
+      "native_dimensions": [
+        177,
+        185
+      ],
+      "native_RGB_pixel_sha256": "eba5a8da9080a9cc58aa28ba68f48d09abfa726e280fd0b0b9dead48833fc934",
+      "native_PNG_encoding_sha256": "a0d58935a6358d13e9558b7f7fcbfa347bfeff499aed4e1efd71fb964f301345",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_01.png",
+      "atlas_native_tile_xyxy": [
+        954,
+        28,
+        1131,
+        213
+      ]
+    },
+    {
+      "id": "A21",
+      "row": 2,
+      "column": 1,
+      "raw_current_glyph": "H",
+      "preferred_ascii_base": "H",
+      "alternatives": [
+        "H"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        112,
+        849,
+        251,
+        1041
+      ],
+      "native_dimensions": [
+        139,
+        192
+      ],
+      "native_RGB_pixel_sha256": "eb828e77954f6ee7e83dbfd640567ef3ec0ab14e4a80f137654c98054ee72fb8",
+      "native_PNG_encoding_sha256": "95e55f6df2053b63c8700ddd4b4bdc387b049f578a4140b34237b5a124472bd4",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        139,
+        220
+      ]
+    },
+    {
+      "id": "A22",
+      "row": 2,
+      "column": 2,
+      "raw_current_glyph": "M",
+      "preferred_ascii_base": "M",
+      "alternatives": [
+        "M"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        268,
+        849,
+        407,
+        1041
+      ],
+      "native_dimensions": [
+        139,
+        192
+      ],
+      "native_RGB_pixel_sha256": "3c29ff198e8ea20458680a7336f9fc28f8136dbb19818e6754acc73e71cdef74",
+      "native_PNG_encoding_sha256": "3d8b0e7a50f3bd78581dcef890e2ca07cdb8012598d4ebd23c2ab00d0b10edc9",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        139,
+        28,
+        278,
+        220
+      ]
+    },
+    {
+      "id": "A23",
+      "row": 2,
+      "column": 3,
+      "raw_current_glyph": "R",
+      "preferred_ascii_base": "R",
+      "alternatives": [
+        "R"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        425,
+        849,
+        558,
+        1041
+      ],
+      "native_dimensions": [
+        133,
+        192
+      ],
+      "native_RGB_pixel_sha256": "1d838f50c69cf5e0f77e6ee60ff0d8887703cac4d96443221c70887c8bf42d86",
+      "native_PNG_encoding_sha256": "cd8e8f1e315f8b58bee39fa936dd584e87a341e8429e12ea27e9ce548897cea6",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        278,
+        28,
+        411,
+        220
+      ]
+    },
+    {
+      "id": "A24",
+      "row": 2,
+      "column": 4,
+      "raw_current_glyph": "looped cursive z-like crossed form",
+      "preferred_ascii_base": "Z",
+      "alternatives": [
+        "Z"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [
+        "loop/crossing stroke retained, not silently normalized as diacritic"
+      ],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        574,
+        849,
+        714,
+        1041
+      ],
+      "native_dimensions": [
+        140,
+        192
+      ],
+      "native_RGB_pixel_sha256": "4af14bac9322eda342be8cb4b4b43a43d5c6106865dd72c251cbf3deb7cb1d9e",
+      "native_PNG_encoding_sha256": "c0841f8702e05fda2bd357100f368ba7cfddd96d412bf33a5233d68fccd977fb",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        411,
+        28,
+        551,
+        220
+      ]
+    },
+    {
+      "id": "A25",
+      "row": 2,
+      "column": 5,
+      "raw_current_glyph": "E",
+      "preferred_ascii_base": "E",
+      "alternatives": [
+        "E"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        726,
+        849,
+        864,
+        1041
+      ],
+      "native_dimensions": [
+        138,
+        192
+      ],
+      "native_RGB_pixel_sha256": "64d5dfa1cfefc01f3df2c09036474b815918a604f4ecdc8634299c54c5f93891",
+      "native_PNG_encoding_sha256": "0db5e0b57d1b27d755c56be4f49111a2eb5e2630f6292605374c0142959569c4",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        551,
+        28,
+        689,
+        220
+      ]
+    },
+    {
+      "id": "A26",
+      "row": 2,
+      "column": 6,
+      "raw_current_glyph": "T",
+      "preferred_ascii_base": "T",
+      "alternatives": [
+        "T"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        883,
+        849,
+        1008,
+        1041
+      ],
+      "native_dimensions": [
+        125,
+        192
+      ],
+      "native_RGB_pixel_sha256": "a9bfb36b82e06e9cbbc1fa25ece690b2bdbead144ac79d50ab88d139f317b542",
+      "native_PNG_encoding_sha256": "28594757b4f69e8e1e2d63fcbc6251298fb20cc9f7993f3a5419702db5121411",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        689,
+        28,
+        814,
+        220
+      ]
+    },
+    {
+      "id": "A27",
+      "row": 2,
+      "column": 7,
+      "raw_current_glyph": "L",
+      "preferred_ascii_base": "L",
+      "alternatives": [
+        "L"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1020,
+        849,
+        1160,
+        1041
+      ],
+      "native_dimensions": [
+        140,
+        192
+      ],
+      "native_RGB_pixel_sha256": "ee1e3be394b3b26b425e0ffc57ddde5ab0f79164528de19fb757b856e5ad0d01",
+      "native_PNG_encoding_sha256": "16f0163feaead7413cfa70c1c2ea018d993384b69c9a7e216f1aeff0fc07fed6",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        814,
+        28,
+        954,
+        220
+      ]
+    },
+    {
+      "id": "A28",
+      "row": 2,
+      "column": 8,
+      "raw_current_glyph": "E",
+      "preferred_ascii_base": "E",
+      "alternatives": [
+        "E"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1178,
+        849,
+        1355,
+        1041
+      ],
+      "native_dimensions": [
+        177,
+        192
+      ],
+      "native_RGB_pixel_sha256": "fec0e1d4eef1bac63a702279fd41323d21610d82fd02005da97d11f4a30f00e2",
+      "native_PNG_encoding_sha256": "502f95a09e138a510c440284aafef11f15db37e97586b095b9c9ddb55841d10c",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_02.png",
+      "atlas_native_tile_xyxy": [
+        954,
+        28,
+        1131,
+        220
+      ]
+    },
+    {
+      "id": "A31",
+      "row": 3,
+      "column": 1,
+      "raw_current_glyph": "E",
+      "preferred_ascii_base": "E",
+      "alternatives": [
+        "E"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        112,
+        1000,
+        251,
+        1196
+      ],
+      "native_dimensions": [
+        139,
+        196
+      ],
+      "native_RGB_pixel_sha256": "081b1c97fb67c896f4fb87a6400e1504ba608094b88e64235a74f34bf7d3f640",
+      "native_PNG_encoding_sha256": "7119cf9c1c7e658c1476143666314bb8c9051f4945e2b7fc4caf1a6be64a3ab9",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        139,
+        224
+      ]
+    },
+    {
+      "id": "A32",
+      "row": 3,
+      "column": 2,
+      "raw_current_glyph": "closed-top block form with mid crossbar",
+      "preferred_ascii_base": "A",
+      "alternatives": [
+        "A",
+        "H"
+      ],
+      "certainty": "preferred A; H retained paleographic alternative",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "Closed top supports A preference; no typed/word/route alignment used to discard H.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        268,
+        1000,
+        407,
+        1196
+      ],
+      "native_dimensions": [
+        139,
+        196
+      ],
+      "native_RGB_pixel_sha256": "979e979fa9e8794da646ebcb8349c4ffce3d86faab58f26b7074fca3a0d0089c",
+      "native_PNG_encoding_sha256": "b032fa211b77033ad16d8ee8411e3849fd6c3f183b3cfa28ec53360beabc206e",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        139,
+        28,
+        278,
+        224
+      ]
+    },
+    {
+      "id": "A33",
+      "row": 3,
+      "column": 3,
+      "raw_current_glyph": "K",
+      "preferred_ascii_base": "K",
+      "alternatives": [
+        "K"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        425,
+        1000,
+        558,
+        1196
+      ],
+      "native_dimensions": [
+        133,
+        196
+      ],
+      "native_RGB_pixel_sha256": "6eed7f72573d5e502df90a06fd059cb0bf7b00f6a4cd1088489a05e0a255cbdd",
+      "native_PNG_encoding_sha256": "166236ae05c9dae4a45a906bfc4f52f02c7108b53f072588a7af1e0d4cb6f57a",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        278,
+        28,
+        411,
+        224
+      ]
+    },
+    {
+      "id": "A34",
+      "row": 3,
+      "column": 4,
+      "raw_current_glyph": "lowercase i-like",
+      "preferred_ascii_base": "I",
+      "alternatives": [
+        "I"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [
+        "detached dot"
+      ],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction. ASCII base I is an explicit case transcription, dot retained.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        574,
+        1000,
+        714,
+        1196
+      ],
+      "native_dimensions": [
+        140,
+        196
+      ],
+      "native_RGB_pixel_sha256": "0549ffbfd67a132c62f8c9f8dd537472b96803e7cf6712054cf4557b7e561819",
+      "native_PNG_encoding_sha256": "c22a7bfa30c4a2e294e08490db9b532b16bd16b118abad0d4afb5e0e835bd4d0",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        411,
+        28,
+        551,
+        224
+      ]
+    },
+    {
+      "id": "A35",
+      "row": 3,
+      "column": 5,
+      "raw_current_glyph": "N",
+      "preferred_ascii_base": "N",
+      "alternatives": [
+        "N"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        726,
+        1000,
+        864,
+        1196
+      ],
+      "native_dimensions": [
+        138,
+        196
+      ],
+      "native_RGB_pixel_sha256": "32f4e81cfe7d32dc9b76f34731a23a9f3e44338b63d70eb2f57f8e3e41871c29",
+      "native_PNG_encoding_sha256": "643565862daf9c118a595b2fc5cd8049e0cda4f9f095987ed98c4d394c10e598",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        551,
+        28,
+        689,
+        224
+      ]
+    },
+    {
+      "id": "A36",
+      "row": 3,
+      "column": 6,
+      "raw_current_glyph": "lowercase i-like",
+      "preferred_ascii_base": "I",
+      "alternatives": [
+        "I"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [
+        "detached dot"
+      ],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction. ASCII base I is an explicit case transcription, dot retained.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        883,
+        1000,
+        1008,
+        1196
+      ],
+      "native_dimensions": [
+        125,
+        196
+      ],
+      "native_RGB_pixel_sha256": "85ee3bf7e0e1072bf6029539b18ce4cb2050985e9ec56b0365589cf67a1cee24",
+      "native_PNG_encoding_sha256": "f38d0cae20e8b5554c4a6981150e86d7d813102323ddbba5ba23dd8423a9f467",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        689,
+        28,
+        814,
+        224
+      ]
+    },
+    {
+      "id": "A37",
+      "row": 3,
+      "column": 7,
+      "raw_current_glyph": "O",
+      "preferred_ascii_base": "O",
+      "alternatives": [
+        "O"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1020,
+        1000,
+        1160,
+        1196
+      ],
+      "native_dimensions": [
+        140,
+        196
+      ],
+      "native_RGB_pixel_sha256": "83ef70a1cf53e835ceb5ea5a242be08439aae0ed8aa9366ca9933913942068d1",
+      "native_PNG_encoding_sha256": "26ee849b7c7bc6159832e8da7911a5d66557a6c29b0e91bd03001f7a5699c82e",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        814,
+        28,
+        954,
+        224
+      ]
+    },
+    {
+      "id": "A38",
+      "row": 3,
+      "column": 8,
+      "raw_current_glyph": "M",
+      "preferred_ascii_base": "M",
+      "alternatives": [
+        "M"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1178,
+        1000,
+        1355,
+        1196
+      ],
+      "native_dimensions": [
+        177,
+        196
+      ],
+      "native_RGB_pixel_sha256": "b93ab0616922b325f9a3debaa016f6168d91b648003b7eda789cd760b8ebee45",
+      "native_PNG_encoding_sha256": "4683562b2c3861d1b1748415fc91c377ca3d50e428e3aa17d1b2bc7852413753",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_03.png",
+      "atlas_native_tile_xyxy": [
+        954,
+        28,
+        1131,
+        224
+      ]
+    },
+    {
+      "id": "A41",
+      "row": 4,
+      "column": 1,
+      "raw_current_glyph": "cursive double-u/w-like",
+      "preferred_ascii_base": "W",
+      "alternatives": [
+        "W",
+        "U"
+      ],
+      "certainty": "preferred W with U alternative held",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        112,
+        1154,
+        251,
+        1353
+      ],
+      "native_dimensions": [
+        139,
+        199
+      ],
+      "native_RGB_pixel_sha256": "78dabd365aa9595ae13074ed449e86bd1bf0e8261e94fcded8db3c3d3273b0d5",
+      "native_PNG_encoding_sha256": "975612cda94e4057518fc8920d8ef0734d6ef444369f0a58d430b860bc25a631",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        139,
+        227
+      ]
+    },
+    {
+      "id": "A42",
+      "row": 4,
+      "column": 2,
+      "raw_current_glyph": "lowercase i-like",
+      "preferred_ascii_base": "I",
+      "alternatives": [
+        "I"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [
+        "detached dot"
+      ],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction. ASCII base I is an explicit case transcription, dot retained.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        268,
+        1154,
+        407,
+        1353
+      ],
+      "native_dimensions": [
+        139,
+        199
+      ],
+      "native_RGB_pixel_sha256": "129091f1dc52e98419498e00994fe7f25623ca4bd515596b7d162a91ddcc77f9",
+      "native_PNG_encoding_sha256": "8521d767d770916b98bd114fbac380c5208a4bf7798c902ac6c01f3b19314cba",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        139,
+        28,
+        278,
+        227
+      ]
+    },
+    {
+      "id": "A43",
+      "row": 4,
+      "column": 3,
+      "raw_current_glyph": "T",
+      "preferred_ascii_base": "T",
+      "alternatives": [
+        "T"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        425,
+        1154,
+        558,
+        1353
+      ],
+      "native_dimensions": [
+        133,
+        199
+      ],
+      "native_RGB_pixel_sha256": "4a56f601cb742afbf2c651d4d2f77f1447eaf693578ce3dfdf94d63050b9a187",
+      "native_PNG_encoding_sha256": "f113cf5211f6abd23fca0bbb354796ebb3ec0d8cfb380b88a016b3744b4f41e2",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        278,
+        28,
+        411,
+        227
+      ]
+    },
+    {
+      "id": "A44",
+      "row": 4,
+      "column": 4,
+      "raw_current_glyph": "N",
+      "preferred_ascii_base": "N",
+      "alternatives": [
+        "N"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        574,
+        1154,
+        714,
+        1353
+      ],
+      "native_dimensions": [
+        140,
+        199
+      ],
+      "native_RGB_pixel_sha256": "fbcdfb6cd2cff14c9ba85a35b8426705769940d3904ce1b57336f5626aa12e28",
+      "native_PNG_encoding_sha256": "f18b8c09e2d601a903539b077e150e7a862398ec39dd605f10d3aa851a81eddb",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        411,
+        28,
+        551,
+        227
+      ]
+    },
+    {
+      "id": "A45",
+      "row": 4,
+      "column": 5,
+      "raw_current_glyph": "S",
+      "preferred_ascii_base": "S",
+      "alternatives": [
+        "S"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        726,
+        1154,
+        864,
+        1353
+      ],
+      "native_dimensions": [
+        138,
+        199
+      ],
+      "native_RGB_pixel_sha256": "6df4502e041d28c4813dcce191bd809256908bef4939e5e55471b3b2089e4ac0",
+      "native_PNG_encoding_sha256": "e26db67e312bb49e971c6ddd8711a1ee10db114b7172a243ef1b39435e7eb305",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        551,
+        28,
+        689,
+        227
+      ]
+    },
+    {
+      "id": "A46",
+      "row": 4,
+      "column": 6,
+      "raw_current_glyph": "I",
+      "preferred_ascii_base": "I",
+      "alternatives": [
+        "I"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        883,
+        1154,
+        1008,
+        1353
+      ],
+      "native_dimensions": [
+        125,
+        199
+      ],
+      "native_RGB_pixel_sha256": "fdb24eb25a39431b2ee29e67de0cee8f73225d9d9802783d9117dc87426915d0",
+      "native_PNG_encoding_sha256": "e11ca856980bbf6b83cd57e4a8bb8a6633ad63999d55a54abbf178d1a7dc0feb",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        689,
+        28,
+        814,
+        227
+      ]
+    },
+    {
+      "id": "A47",
+      "row": 4,
+      "column": 7,
+      "raw_current_glyph": "D",
+      "preferred_ascii_base": "D",
+      "alternatives": [
+        "D"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1020,
+        1154,
+        1160,
+        1353
+      ],
+      "native_dimensions": [
+        140,
+        199
+      ],
+      "native_RGB_pixel_sha256": "7566298ec38572d9585778bfdd5d67adef9914d96ac814873dfc0f8fdddfe086",
+      "native_PNG_encoding_sha256": "2dad1c002fbf8823d842f0eb033272d520c6c2840daef060b97c6692a9e6e61f",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        814,
+        28,
+        954,
+        227
+      ]
+    },
+    {
+      "id": "A48",
+      "row": 4,
+      "column": 8,
+      "raw_current_glyph": "M",
+      "preferred_ascii_base": "M",
+      "alternatives": [
+        "M"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1178,
+        1154,
+        1355,
+        1353
+      ],
+      "native_dimensions": [
+        177,
+        199
+      ],
+      "native_RGB_pixel_sha256": "65a5cd5b654d83b0c13a64ec854315b075d0580faed30bfee7b3b035d34909c7",
+      "native_PNG_encoding_sha256": "5226d81052d5026abf86fb2dbc1397c42e72f6371b5d62df849bda4a4fd6e5b3",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_04.png",
+      "atlas_native_tile_xyxy": [
+        954,
+        28,
+        1131,
+        227
+      ]
+    },
+    {
+      "id": "A51",
+      "row": 5,
+      "column": 1,
+      "raw_current_glyph": "E",
+      "preferred_ascii_base": "E",
+      "alternatives": [
+        "E"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        112,
+        1305,
+        251,
+        1508
+      ],
+      "native_dimensions": [
+        139,
+        203
+      ],
+      "native_RGB_pixel_sha256": "d3ad869a1e1711b3650cafcaf2e163a1f1659089817d07de520dc6a22d501887",
+      "native_PNG_encoding_sha256": "3fb4d6c30066abc3a26e356ab49d3d5208e4e0eea9cfa998905d2df2857270af",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        139,
+        231
+      ]
+    },
+    {
+      "id": "A52",
+      "row": 5,
+      "column": 2,
+      "raw_current_glyph": "S",
+      "preferred_ascii_base": "S",
+      "alternatives": [
+        "S"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        268,
+        1305,
+        407,
+        1508
+      ],
+      "native_dimensions": [
+        139,
+        203
+      ],
+      "native_RGB_pixel_sha256": "f30515495d2701713543d67af266589d88d813767e27dd56db259844df527a67",
+      "native_PNG_encoding_sha256": "21f486254e17d9dcc57f0c4556b9e25575610aacfa49c95ca964fe965cbeb5ee",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        139,
+        28,
+        278,
+        231
+      ]
+    },
+    {
+      "id": "A53",
+      "row": 5,
+      "column": 3,
+      "raw_current_glyph": "lowercase i-like",
+      "preferred_ascii_base": "I",
+      "alternatives": [
+        "I"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [
+        "detached dot"
+      ],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction. ASCII base I is an explicit case transcription, dot retained.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        425,
+        1305,
+        558,
+        1508
+      ],
+      "native_dimensions": [
+        133,
+        203
+      ],
+      "native_RGB_pixel_sha256": "16497c600041e79c245859799e7b254b6d88ecb00ef1bfe473c9fc0b9a3a7119",
+      "native_PNG_encoding_sha256": "0162741128f6f0d484a17eced8e0eaca6d9858c4bdd2804c5fbcc0169801e685",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        278,
+        28,
+        411,
+        231
+      ]
+    },
+    {
+      "id": "A54",
+      "row": 5,
+      "column": 4,
+      "raw_current_glyph": "cursive double-u/w-like",
+      "preferred_ascii_base": "W",
+      "alternatives": [
+        "W",
+        "U"
+      ],
+      "certainty": "preferred W with U alternative held",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        574,
+        1305,
+        714,
+        1508
+      ],
+      "native_dimensions": [
+        140,
+        203
+      ],
+      "native_RGB_pixel_sha256": "7bb6f8300d06e4b9e5ed06a1239ea32652f0e5b51c6b45b0700b587f9fba2698",
+      "native_PNG_encoding_sha256": "2e87ff81a4bf4417eab856e9bbd69eca8f11f3bb78edb3496d693ff74305d4f0",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        411,
+        28,
+        551,
+        231
+      ]
+    },
+    {
+      "id": "A55",
+      "row": 5,
+      "column": 5,
+      "raw_current_glyph": "S",
+      "preferred_ascii_base": "S",
+      "alternatives": [
+        "S"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        726,
+        1305,
+        864,
+        1508
+      ],
+      "native_dimensions": [
+        138,
+        203
+      ],
+      "native_RGB_pixel_sha256": "ddffd1cdb79f97cebb2d0f2471d89a8a018e82a382d7f7b0268480920ce6910d",
+      "native_PNG_encoding_sha256": "34014851a20e4c974a93af338273afc1a9d2836e8f5c2e70d4f71e8fd6ebedb1",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        551,
+        28,
+        689,
+        231
+      ]
+    },
+    {
+      "id": "A56",
+      "row": 5,
+      "column": 6,
+      "raw_current_glyph": "E",
+      "preferred_ascii_base": "E",
+      "alternatives": [
+        "E"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        883,
+        1305,
+        1008,
+        1508
+      ],
+      "native_dimensions": [
+        125,
+        203
+      ],
+      "native_RGB_pixel_sha256": "5c617fae79bfa449d10bf79407ebd0ce1448c26e657420cea8903c6dd343780d",
+      "native_PNG_encoding_sha256": "9fe5359a7595a614445503c77fad6252034059e21c2080ca8eae62124f7565e3",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        689,
+        28,
+        814,
+        231
+      ]
+    },
+    {
+      "id": "A57",
+      "row": 5,
+      "column": 7,
+      "raw_current_glyph": "H",
+      "preferred_ascii_base": "H",
+      "alternatives": [
+        "H"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1020,
+        1305,
+        1160,
+        1508
+      ],
+      "native_dimensions": [
+        140,
+        203
+      ],
+      "native_RGB_pixel_sha256": "927f87747d08022015728da91ebc8720c4f46e8ccffc6ba80e4889f4282f0600",
+      "native_PNG_encoding_sha256": "c36f871ed53763923d7e4b9029de9c91d54b5ddd3e44c756233ab23abcdf67bb",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        814,
+        28,
+        954,
+        231
+      ]
+    },
+    {
+      "id": "A58",
+      "row": 5,
+      "column": 8,
+      "raw_current_glyph": "T",
+      "preferred_ascii_base": "T",
+      "alternatives": [
+        "T"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1178,
+        1305,
+        1355,
+        1508
+      ],
+      "native_dimensions": [
+        177,
+        203
+      ],
+      "native_RGB_pixel_sha256": "6ba7758f0e8e937ac7d58ab7d7768dcdc45433d38d18c4fd405d27839a23d3db",
+      "native_PNG_encoding_sha256": "f5e900b0f3d1a231ef5d0857fbf6455a12df982c6fd935687845ecab8ea5d9be",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_05.png",
+      "atlas_native_tile_xyxy": [
+        954,
+        28,
+        1131,
+        231
+      ]
+    },
+    {
+      "id": "A61",
+      "row": 6,
+      "column": 1,
+      "raw_current_glyph": "I",
+      "preferred_ascii_base": "I",
+      "alternatives": [
+        "I"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        112,
+        1462,
+        251,
+        1656
+      ],
+      "native_dimensions": [
+        139,
+        194
+      ],
+      "native_RGB_pixel_sha256": "da2ab1f498feb5bce1de45762f258f363b81301924a1fc2d117d97d569c059e5",
+      "native_PNG_encoding_sha256": "7ac02d6ae3c5a22ddbf66befd9a6d17583c9bd4a38a2e9e6338a51715a3fb097",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        139,
+        222
+      ]
+    },
+    {
+      "id": "A62",
+      "row": 6,
+      "column": 2,
+      "raw_current_glyph": "M",
+      "preferred_ascii_base": "M",
+      "alternatives": [
+        "M"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        268,
+        1462,
+        407,
+        1656
+      ],
+      "native_dimensions": [
+        139,
+        194
+      ],
+      "native_RGB_pixel_sha256": "e26706df45515c8944783bb62e5b5aff2ecb87812af2f6ac97da100d4021af75",
+      "native_PNG_encoding_sha256": "51dfa99e9728b5ec2098ab00a094534f495f418d6dbf95830d88b5ad7f93cbf5",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        139,
+        28,
+        278,
+        222
+      ]
+    },
+    {
+      "id": "A63",
+      "row": 6,
+      "column": 3,
+      "raw_current_glyph": "S",
+      "preferred_ascii_base": "S",
+      "alternatives": [
+        "S"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        425,
+        1462,
+        558,
+        1656
+      ],
+      "native_dimensions": [
+        133,
+        194
+      ],
+      "native_RGB_pixel_sha256": "66b9b22d32bafbd3ef5d09270283977bc91ae81a4093c1441e2d4c064806890c",
+      "native_PNG_encoding_sha256": "42091cd8f37e6bc6d8e0ca41e651cf6940ea1af1ca982485a4c9f54d1177efb5",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        278,
+        28,
+        411,
+        222
+      ]
+    },
+    {
+      "id": "A64",
+      "row": 6,
+      "column": 4,
+      "raw_current_glyph": "T",
+      "preferred_ascii_base": "T",
+      "alternatives": [
+        "T"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        574,
+        1462,
+        714,
+        1656
+      ],
+      "native_dimensions": [
+        140,
+        194
+      ],
+      "native_RGB_pixel_sha256": "0861587ef8a433534d42e775540a4bb17ce8fee04230c24f8f64595c91768596",
+      "native_PNG_encoding_sha256": "c7579a731a662773834ba86efb730f8c054caf3ca46051725b2e21c9d58c219c",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        411,
+        28,
+        551,
+        222
+      ]
+    },
+    {
+      "id": "A65",
+      "row": 6,
+      "column": 5,
+      "raw_current_glyph": "R",
+      "preferred_ascii_base": "R",
+      "alternatives": [
+        "R"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        726,
+        1462,
+        864,
+        1656
+      ],
+      "native_dimensions": [
+        138,
+        194
+      ],
+      "native_RGB_pixel_sha256": "ad8d4f6974d193ec9f38540f017c2c3a984ce646ad273ee32b8667e6b502c612",
+      "native_PNG_encoding_sha256": "8a8f0b0ae4c6d2e5d96f52d85cc7426187f53fd4ea3347951f4a2e3e8bcd5ba4",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        551,
+        28,
+        689,
+        222
+      ]
+    },
+    {
+      "id": "A66",
+      "row": 6,
+      "column": 6,
+      "raw_current_glyph": "L",
+      "preferred_ascii_base": "L",
+      "alternatives": [
+        "L"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        883,
+        1462,
+        1008,
+        1656
+      ],
+      "native_dimensions": [
+        125,
+        194
+      ],
+      "native_RGB_pixel_sha256": "f0d6f0896c7fb9a28640c0fc1a783d6eff97dc275ec74dbfdd2fe67cc2b166f5",
+      "native_PNG_encoding_sha256": "fbd406134ef8de4e5c4a9e25d8ce4a73038cf4da0206d4a4c57db5d86885de91",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        689,
+        28,
+        814,
+        222
+      ]
+    },
+    {
+      "id": "A67",
+      "row": 6,
+      "column": 7,
+      "raw_current_glyph": "I",
+      "preferred_ascii_base": "I",
+      "alternatives": [
+        "I"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1020,
+        1462,
+        1160,
+        1656
+      ],
+      "native_dimensions": [
+        140,
+        194
+      ],
+      "native_RGB_pixel_sha256": "a8e24080be30bcc6c81a28e06a7d346648aa830469a7122eed6c6455e9ad8932",
+      "native_PNG_encoding_sha256": "399b886f34292dccf7a8571d4b0b1b63d7744cf04096121f53ae26074d22d9c5",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        814,
+        28,
+        954,
+        222
+      ]
+    },
+    {
+      "id": "A68",
+      "row": 6,
+      "column": 8,
+      "raw_current_glyph": "S",
+      "preferred_ascii_base": "S",
+      "alternatives": [
+        "S"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1178,
+        1462,
+        1355,
+        1656
+      ],
+      "native_dimensions": [
+        177,
+        194
+      ],
+      "native_RGB_pixel_sha256": "fc303a5726dbc685858d8fab8e0e3cc77da67e547599da18523cea7129f77c74",
+      "native_PNG_encoding_sha256": "7115665add75b1253b6328ba8cc0a18ea1538dbf414894ab77f8a2212b04843c",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_06.png",
+      "atlas_native_tile_xyxy": [
+        954,
+        28,
+        1131,
+        222
+      ]
+    },
+    {
+      "id": "A71",
+      "row": 7,
+      "column": 1,
+      "raw_current_glyph": "T",
+      "preferred_ascii_base": "T",
+      "alternatives": [
+        "T"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        112,
+        1610,
+        251,
+        1812
+      ],
+      "native_dimensions": [
+        139,
+        202
+      ],
+      "native_RGB_pixel_sha256": "5adc8bad93c8803f167c4aa14c0b30cb33d7be8e4a46c32281477b34751ab625",
+      "native_PNG_encoding_sha256": "a4c98406e5cb12a8508db45f91d0f175b145ad86ce17247613cd0c4110f792fb",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        139,
+        230
+      ]
+    },
+    {
+      "id": "A72",
+      "row": 7,
+      "column": 2,
+      "raw_current_glyph": "S",
+      "preferred_ascii_base": "S",
+      "alternatives": [
+        "S"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        268,
+        1610,
+        407,
+        1812
+      ],
+      "native_dimensions": [
+        139,
+        202
+      ],
+      "native_RGB_pixel_sha256": "68660fc246e3ad8bee770a6b78102f6cde56283b1f9fdeea81a90da92f2a5191",
+      "native_PNG_encoding_sha256": "1ca6171c3a0f5aa293c8e69f6380fc0ad9eecb92a62fc5ba634703f40c4b60a3",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        139,
+        28,
+        278,
+        230
+      ]
+    },
+    {
+      "id": "A73",
+      "row": 7,
+      "column": 3,
+      "raw_current_glyph": "T",
+      "preferred_ascii_base": "T",
+      "alternatives": [
+        "T"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        425,
+        1610,
+        558,
+        1812
+      ],
+      "native_dimensions": [
+        133,
+        202
+      ],
+      "native_RGB_pixel_sha256": "59aa63872e42427c1c03cc4e15869a8d1db9ec6e80d3b499e20cb9d6c5b1f947",
+      "native_PNG_encoding_sha256": "3ff7c4a61a8fd950051a80096081408fe540f6f1148b57934a39ffe375c9d789",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        278,
+        28,
+        411,
+        230
+      ]
+    },
+    {
+      "id": "A74",
+      "row": 7,
+      "column": 4,
+      "raw_current_glyph": "E",
+      "preferred_ascii_base": "E",
+      "alternatives": [
+        "E"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        574,
+        1610,
+        714,
+        1812
+      ],
+      "native_dimensions": [
+        140,
+        202
+      ],
+      "native_RGB_pixel_sha256": "ea998897946166ffa4ac98dc332a71df2a7faff2e156ae33a3c995074440cacd",
+      "native_PNG_encoding_sha256": "b965dd7b5fbb5109b6de83671b27500b147d9515e76c27f96d0e5cd4b5b4d294",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        411,
+        28,
+        551,
+        230
+      ]
+    },
+    {
+      "id": "A75",
+      "row": 7,
+      "column": 5,
+      "raw_current_glyph": "D",
+      "preferred_ascii_base": "D",
+      "alternatives": [
+        "D"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        726,
+        1610,
+        864,
+        1812
+      ],
+      "native_dimensions": [
+        138,
+        202
+      ],
+      "native_RGB_pixel_sha256": "fab6f1cd6cc59d262b532a92b1f7c91a2418a0a13524c4b19759b6156e236cf1",
+      "native_PNG_encoding_sha256": "2d9bf85f45759c140421add94756e4d89ebd1ef9b380ae50134cadb3af6a58f4",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        551,
+        28,
+        689,
+        230
+      ]
+    },
+    {
+      "id": "A76",
+      "row": 7,
+      "column": 6,
+      "raw_current_glyph": "closed-top block form with mid crossbar",
+      "preferred_ascii_base": "A",
+      "alternatives": [
+        "A",
+        "H"
+      ],
+      "certainty": "preferred A; H retained paleographic alternative",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "Closed top supports A preference; no typed/word/route alignment used to discard H.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        883,
+        1610,
+        1008,
+        1812
+      ],
+      "native_dimensions": [
+        125,
+        202
+      ],
+      "native_RGB_pixel_sha256": "6915742fa9da308b0981338f4e0bb9250846edda8ff803b47dcf147bc6490c2b",
+      "native_PNG_encoding_sha256": "39b679779f7ba9836179f15a43d4a5e9b70a7b7ecf56389dc0f281b6a069b99d",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        689,
+        28,
+        814,
+        230
+      ]
+    },
+    {
+      "id": "A77",
+      "row": 7,
+      "column": 7,
+      "raw_current_glyph": "E",
+      "preferred_ascii_base": "E",
+      "alternatives": [
+        "E"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1020,
+        1610,
+        1160,
+        1812
+      ],
+      "native_dimensions": [
+        140,
+        202
+      ],
+      "native_RGB_pixel_sha256": "85f9e8900f84fae346e75b46f61b30b4fe0b88319a122dd77fc87183f313c318",
+      "native_PNG_encoding_sha256": "699d1e76291024b6708f4db9dbc7730ba9434093749456bb4263a52a3786015a",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        814,
+        28,
+        954,
+        230
+      ]
+    },
+    {
+      "id": "A78",
+      "row": 7,
+      "column": 8,
+      "raw_current_glyph": "C",
+      "preferred_ascii_base": "C",
+      "alternatives": [
+        "C"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1178,
+        1610,
+        1355,
+        1812
+      ],
+      "native_dimensions": [
+        177,
+        202
+      ],
+      "native_RGB_pixel_sha256": "8b7e31bfa00f348b3d48e977c29518bb6dc61d93e1da89a8a79f9d99c975aca7",
+      "native_PNG_encoding_sha256": "74e55108e6930557f37b1068f53d3af5b5d3a3708a79e4a44519d81f571ebc56",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_07.png",
+      "atlas_native_tile_xyxy": [
+        954,
+        28,
+        1131,
+        230
+      ]
+    },
+    {
+      "id": "A81",
+      "row": 8,
+      "column": 1,
+      "raw_current_glyph": "H",
+      "preferred_ascii_base": "H",
+      "alternatives": [
+        "H"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        112,
+        1761,
+        251,
+        1955
+      ],
+      "native_dimensions": [
+        139,
+        194
+      ],
+      "native_RGB_pixel_sha256": "77db641ed535850a791ae6398da9bc59270bdc2cebb91a7360c40f37376e0871",
+      "native_PNG_encoding_sha256": "1c90363a3ef324a253a517ca90a0a4937d1a0af8290a01fa3d47617d5ede2771",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        0,
+        28,
+        139,
+        222
+      ]
+    },
+    {
+      "id": "A82",
+      "row": 8,
+      "column": 2,
+      "raw_current_glyph": "R",
+      "preferred_ascii_base": "R",
+      "alternatives": [
+        "R"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        268,
+        1761,
+        407,
+        1955
+      ],
+      "native_dimensions": [
+        139,
+        194
+      ],
+      "native_RGB_pixel_sha256": "50d08cdddf3edd8490f8150e33343f19707995f3eb23511a28ca1cf11e11473d",
+      "native_PNG_encoding_sha256": "7330c6405f2338a76516f6651d45a55029c6bf031f81f4d5e02f22f15a88a5fe",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        139,
+        28,
+        278,
+        222
+      ]
+    },
+    {
+      "id": "A83",
+      "row": 8,
+      "column": 3,
+      "raw_current_glyph": "T",
+      "preferred_ascii_base": "T",
+      "alternatives": [
+        "T"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        425,
+        1761,
+        558,
+        1955
+      ],
+      "native_dimensions": [
+        133,
+        194
+      ],
+      "native_RGB_pixel_sha256": "173352d238e797609aa153c9fd7abf05ca3dab8ef7698314e81f75e364e80cb7",
+      "native_PNG_encoding_sha256": "cdd2632abc6a6a29dedc8124528027639b50c92a346d52058898db7a3c61244b",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        278,
+        28,
+        411,
+        222
+      ]
+    },
+    {
+      "id": "A84",
+      "row": 8,
+      "column": 4,
+      "raw_current_glyph": "cursive u-like with detached overbar",
+      "preferred_ascii_base": "U",
+      "alternatives": [
+        "U",
+        "W"
+      ],
+      "certainty": "preferred U with W alternative held",
+      "modifiers": [
+        "detached overbar"
+      ],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        574,
+        1761,
+        714,
+        1955
+      ],
+      "native_dimensions": [
+        140,
+        194
+      ],
+      "native_RGB_pixel_sha256": "fadccb8babcfa90b36e9b0a36ba1da8a0e0d8e327014b0cd09da138b9fc309c6",
+      "native_PNG_encoding_sha256": "ac2b4367286bdceb129ec442a79bab009390170908700332990c71c6558a8adc",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        411,
+        28,
+        551,
+        222
+      ]
+    },
+    {
+      "id": "A85",
+      "row": 8,
+      "column": 5,
+      "raw_current_glyph": "E",
+      "preferred_ascii_base": "E",
+      "alternatives": [
+        "E"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        726,
+        1761,
+        864,
+        1955
+      ],
+      "native_dimensions": [
+        138,
+        194
+      ],
+      "native_RGB_pixel_sha256": "fe9e0cd105bf9c58790c5b5cc44a21b892cc9430fe1134831e9cd8feb67ccfe5",
+      "native_PNG_encoding_sha256": "73b9ce3c094b5e3c2ae7648919603308888e07f0c9212ce1cc66b7e56c0fd541",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        551,
+        28,
+        689,
+        222
+      ]
+    },
+    {
+      "id": "A86",
+      "row": 8,
+      "column": 6,
+      "raw_current_glyph": "K",
+      "preferred_ascii_base": "K",
+      "alternatives": [
+        "K"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        883,
+        1761,
+        1008,
+        1955
+      ],
+      "native_dimensions": [
+        125,
+        194
+      ],
+      "native_RGB_pixel_sha256": "72520414c06125d79f77ed76c7f7e6427b42267af12391e898d970936e67c0d7",
+      "native_PNG_encoding_sha256": "104436b19e24db9ec34e770080097c05e436a41ef2389b9e8fb338fdcf9696b6",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        689,
+        28,
+        814,
+        222
+      ]
+    },
+    {
+      "id": "A87",
+      "row": 8,
+      "column": 7,
+      "raw_current_glyph": "looped cursive z-like crossed form",
+      "preferred_ascii_base": "Z",
+      "alternatives": [
+        "Z"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [
+        "loop/crossing stroke retained, not silently normalized as diacritic"
+      ],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1020,
+        1761,
+        1160,
+        1955
+      ],
+      "native_dimensions": [
+        140,
+        194
+      ],
+      "native_RGB_pixel_sha256": "0d5a6fb9e66227afa84f0f1c348de7717000f24fe5eb3ced4cca1e2b6c0004b7",
+      "native_PNG_encoding_sha256": "7eb7547027f20896397352eb77125b436387a2391c9cef1eb46fe31e139d2c9b",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        814,
+        28,
+        954,
+        222
+      ]
+    },
+    {
+      "id": "A88",
+      "row": 8,
+      "column": 8,
+      "raw_current_glyph": "T",
+      "preferred_ascii_base": "T",
+      "alternatives": [
+        "T"
+      ],
+      "certainty": "high directly legible handwritten base",
+      "modifiers": [],
+      "older_layer": "No distinct older letter certified; loops/retraces may be penform, not automatically corrections.",
+      "note": "No language/array-fit correction.",
+      "parent": "sources/raw/HC852_original_2.jpg",
+      "parent_sha256": "985fdfe30dff74b5c94b01b43a85861ebc7cc27e58239cea53ba01faf8289915",
+      "native_xyxy": [
+        1178,
+        1761,
+        1355,
+        1955
+      ],
+      "native_dimensions": [
+        177,
+        194
+      ],
+      "native_RGB_pixel_sha256": "c4b1e5186052f25e2af1e2fb65921bf77ed027e676dc5f873c6d24ef3c5463c7",
+      "native_PNG_encoding_sha256": "7c9d0c4fc3d16e9f31c9b7a55df506fa3bdfc8d7e01c3a16b03b8512ba69b333",
+      "crop_policy": "Native 1:1 coordinate region, no rotation/resampling; unit crops hashed in memory and retained visually in atlas strips, not individual PNG files.",
+      "atlas": "sources/inspection/cold_source_v1/ARRAY_NATIVE_ROW_08.png",
+      "atlas_native_tile_xyxy": [
+        954,
+        28,
+        1131,
+        222
+      ]
+    }
+  ],
+  "serialization": "Not calculated; row/column coordinates inventory only",
+  "source_modifiers_and_alternatives_preserved": true
+}

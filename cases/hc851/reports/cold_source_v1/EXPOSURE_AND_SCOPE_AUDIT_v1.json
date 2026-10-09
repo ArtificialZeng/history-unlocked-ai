@@ -1,0 +1,25 @@
+{
+  "created_utc": "2026-10-05T17:47:17.026085+00:00",
+  "read_scope": [
+    "AGENTS.md",
+    "sources/SOURCE_ONLY_SCOPE_v1.md",
+    "sources/adoption/SOURCE_COPY_RECEIPT_v1.json",
+    "sources/raw/HC851_detail_2026-10-06.json metadata fields only; description presence checked, content not exposed",
+    "sources/raw/HC851_typed_original.jpg",
+    "sources/raw/HC851_public_grille_original.jpg",
+    "own files in data/cold_source_v1,reports/cold_source_v1,sources/inspection/cold_source_v1"
+  ],
+  "copy_receipt_note": "Authorized copy receipt includes prior metadata-request receipts for847/848/851; no847/848 payloads, source images, keys or results read. Only HC851 image/hash/provenance data used.",
+  "root_README_state_inference_reads": [],
+  "other_case_key_results_imports": [],
+  "network_calls": [],
+  "candidate_decode_keysearch_plaintext_guess_language_scores": false,
+  "plaintext_used_to_choose_source_values_holes": false,
+  "primary_secondary_observer_blinding_claimed": false,
+  "primary_secondary_independent_record_freezes": true,
+  "post_seal_comparison_preserves_each_record": true,
+  "full_plaintext_seen_in_allowed_images": false,
+  "third_attachment_and_description_uninspected": true,
+  "Git_state_nested_agents_mutations": false,
+  "authorized_key_exposure": "Supplied physical historical grille picture explicitly allowed before observation; this is known-key-assisted archival decryption scope."
+}

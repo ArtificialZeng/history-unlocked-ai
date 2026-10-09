@@ -1,0 +1,150 @@
+{
+  "recorded_utc": "2026-10-05T20:42:06.754689+00:00",
+  "kind": "Portable checker frozen-subset expectations; NOT an actual release manifest",
+  "required_artifacts": [
+    {
+      "path": "scripts/independent_grille_v1.py",
+      "bytes": 19484,
+      "sha256": "5c2d8c3bbf1f54ecf8c43583e0f7e8f875a167050ab12d7e4a393f230f095e16"
+    },
+    {
+      "path": "data/cold_source_v1/typed_current_v1.json",
+      "bytes": 63936,
+      "sha256": "b2165d3bd4dbe8824703306767be14716e975f9cd9948e434fd8a67d92da82e9"
+    },
+    {
+      "path": "data/cold_source_v1/physical_key_v1.json",
+      "bytes": 72807,
+      "sha256": "b605c9f494a3d70e5505d259775e4a119f6cfb1279b2cd6dea959cab306ed1a3"
+    },
+    {
+      "path": "data/cold_source_v1/annotations_and_extent_v1.json",
+      "bytes": 13507,
+      "sha256": "257ef4fcee6536fded8c49c81181e29d0001655a9d17f6939bf2931ae6f7f11c"
+    },
+    {
+      "path": "data/cold_source_v1/notebook_array_v1.json",
+      "bytes": 52406,
+      "sha256": "8d335721ed3067b34d48f0a40d4dc7c5752b8e16685c66b8750cc5e685510c07"
+    },
+    {
+      "path": "data/cold_source_v1/notebook_grouped_copy_v1.json",
+      "bytes": 57254,
+      "sha256": "f28b5ba8b59f980e62a20ebf699c0240d6cfd0ef7b3ef43c7b1d028a236425a5"
+    },
+    {
+      "path": "sources/NETWORK_RECEIPTS_v1.json",
+      "bytes": 1645,
+      "sha256": "227f48dc4e66c27da057d7d1fecbd5b8d776a9aa8069c7f004ab1c8375e99f3f"
+    },
+    {
+      "path": "config/TARGET_METHOD_REGISTRATION_v1.json",
+      "bytes": 5944,
+      "sha256": "d93f81dffb37be73c181aeebce988aa79aab47fb2d4e3af7301de635cde90f63"
+    },
+    {
+      "path": "reports/registered_target_v1/PREFERRED_CURRENT_LAYER_LITERAL_v1.json",
+      "bytes": 418,
+      "sha256": "994ed1edd71d8b155f53eccf4d4e30eed867f2eb22c51f6351a4c5e10b429a79"
+    },
+    {
+      "path": "reports/registered_target_v1/ALL_32_REGISTERED_PROJECTIONS_v1.json",
+      "bytes": 15585,
+      "sha256": "d09ae155af0036c1c5b208ab0663071d3ec630ae8e86d617aea5495e57a47e71"
+    },
+    {
+      "path": "reports/registered_target_v1/ALL_32_SOURCE_POSITION_CERTIFICATES_v1.json",
+      "bytes": 5386115,
+      "sha256": "c5856aa4f99668b0553cb61b51fdf18e6f9968e2e928c3fe7deeb3ab88647b7b"
+    },
+    {
+      "path": "reports/registered_target_v1/TARGET_RESULT_SEAL_v1.json",
+      "bytes": 866,
+      "sha256": "3336fff7dfcdfe7b7bdd2f03a7f83517d7898e52ecb365c575a669be986b1159"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/OWN_ALL_32_LITERAL_PROJECTIONS_v1.json",
+      "bytes": 51582,
+      "sha256": "644213356ffa6dc6763cde433de95204495537339bdc3f6ddfe82ca601306556"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/OWN_2048_SOURCE_POSITION_CERTIFICATES_v1.json",
+      "bytes": 4978112,
+      "sha256": "475d5a4ca6028261c2e8fa471e842b88c6c8fddafadfbe35c3ca91356a507237"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/FIXED_LITERAL_FINITE_CONTROLS_v1.json",
+      "bytes": 465213,
+      "sha256": "f39fb392fd1b386201c1d2c6498ea40f5c0abaf43adba0313accb8b1d95300f1"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/LITERAL_SPACES_ONLY_GLOSS_v1.json",
+      "bytes": 931,
+      "sha256": "ab6321b80df56c27d0e790e5e61a696a47466c07e3c2a510bd0cdb2316601b67"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/NATIVE_SOURCE_AUDIT_v1.json",
+      "bytes": 54202,
+      "sha256": "f3e8a0ec9299168fc4b6a383fd196f0b6ca88a48ce545ef62f74d5bfec920d0f"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/NATIVE_PRIMARY_PIXEL_REPLAY_v1.json",
+      "bytes": 51151,
+      "sha256": "195b916369f99effa92892cc7876a81b48f66366116b15b5e5a5e2a0514d4e34"
+    },
+    {
+      "path": "reports/independent_candidate_audit_v1/SEAL_MANIFEST_v1.json",
+      "bytes": 3972,
+      "sha256": "7e6a0a5196e6d994078108ec45c6c0cd6e359d9f9e6da9bc682cd3a033a7f185"
+    },
+    {
+      "path": "reports/root_method_v1/SYNTHETIC_FIXTURES_v1.json",
+      "bytes": 5631171,
+      "sha256": "6de0ce48edd14a22034c29e90e226b3ba0d4a553ebb85115407ada8a6822b070"
+    },
+    {
+      "path": "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+      "bytes": 68222,
+      "sha256": "b41a1f59b7ab5f624f339abc80cfa1608fa2044515ca52e3eabff4133779c818"
+    },
+    {
+      "path": "reports/cold_source_v1/SOURCE_FREEZE_SEAL_v1.json",
+      "bytes": 709,
+      "sha256": "9dcef3e0b73525d4aca4796ce29191850b9c8173347e133f57cea0c37ea83cda"
+    },
+    {
+      "path": "reports/independent_method_v1/SEAL_MANIFEST_v1.json",
+      "bytes": 3024,
+      "sha256": "5cfbb7eceb3f217ad94dd56bf776df1ea06b5ed82bc34cd5c162a40388ff11f8"
+    },
+    {
+      "path": "reports/independent_method_v1/KNOWN_VECTORS_v1.json",
+      "bytes": 2807,
+      "sha256": "5f82685aadb493a913d168672561388874da43b31d8118a1fdc98e0743e6e4e2"
+    }
+  ],
+  "archival_pixels_required": false,
+  "codec_sha256": "5c2d8c3bbf1f54ecf8c43583e0f7e8f875a167050ab12d7e4a393f230f095e16",
+  "source_native_dimensions": {
+    "sources/raw/HC849_original_1.jpg": [
+      3024,
+      809
+    ],
+    "sources/raw/HC849_original_2.jpg": [
+      3024,
+      4032
+    ],
+    "sources/raw/HC849_original_3.jpg": [
+      1581,
+      1533
+    ]
+  },
+  "historical_manifest_paths": [
+    "reports/cold_source_v1/SOURCE_FREEZE_MANIFEST_v1.json",
+    "reports/independent_method_v1/SEAL_MANIFEST_v1.json",
+    "reports/independent_candidate_audit_v1/SEAL_MANIFEST_v1.json",
+    "reports/registered_target_v1/TARGET_RESULT_SEAL_v1.json"
+  ],
+  "root_implementation_hash_read_policy": "No implementation imported/read; historical .py references except own sealed codec are not checked by this checker.",
+  "claim_limit": "Stored hashes and certificates do not independently supply absent archival pixels. References remain URLs/native coordinates/SHA. No global key uniqueness or historical-operation proof."
+}

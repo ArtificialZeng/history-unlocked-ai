@@ -1,0 +1,3376 @@
+{
+  "units": [
+    {
+      "unit_id": "R01G01U01",
+      "occurrence_id": "R01G01U01",
+      "global_preferred_unit_ordinal": 1,
+      "row_id": "R01",
+      "physical_row": 1,
+      "group_id": "R01G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 1,
+      "raw_base_label": "t",
+      "raw_label": "t",
+      "preferred_raw_unit_label": "t",
+      "primitive_component_ids": [
+        "R01G01C01"
+      ],
+      "primitive_span": {
+        "start_component_id": "R01G01C01",
+        "end_component_id": "R01G01C01"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1391,
+        750,
+        1467,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        318,
+        1105,
+        394
+      ],
+      "native_row_crop": "reports/source_v1/R01_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "9aefde8dbb985d0dfe33660936519c9a07335f3608994fdf0094c4d7b61c48d9",
+      "row_RGB_SHA256": "b362ca636b09f5f9b23f15a9017da648fd44aa96c6547789178f5a2e746af2a5",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R01G01U02",
+      "occurrence_id": "R01G01U02",
+      "global_preferred_unit_ordinal": 2,
+      "row_id": "R01",
+      "physical_row": 1,
+      "group_id": "R01G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 2,
+      "raw_base_label": "3",
+      "raw_label": "3",
+      "preferred_raw_unit_label": "3",
+      "primitive_component_ids": [
+        "R01G01C02"
+      ],
+      "primitive_span": {
+        "start_component_id": "R01G01C02",
+        "end_component_id": "R01G01C02"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1391,
+        750,
+        1467,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        318,
+        1105,
+        394
+      ],
+      "native_row_crop": "reports/source_v1/R01_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "9aefde8dbb985d0dfe33660936519c9a07335f3608994fdf0094c4d7b61c48d9",
+      "row_RGB_SHA256": "b362ca636b09f5f9b23f15a9017da648fd44aa96c6547789178f5a2e746af2a5",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R01G02U01",
+      "occurrence_id": "R01G02U01",
+      "global_preferred_unit_ordinal": 3,
+      "row_id": "R01",
+      "physical_row": 1,
+      "group_id": "R01G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 1,
+      "raw_base_label": "d",
+      "raw_label": "d",
+      "preferred_raw_unit_label": "d",
+      "primitive_component_ids": [
+        "R01G02C01"
+      ],
+      "primitive_span": {
+        "start_component_id": "R01G02C01",
+        "end_component_id": "R01G02C01"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1391,
+        750,
+        1467,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        318,
+        1105,
+        394
+      ],
+      "native_row_crop": "reports/source_v1/R01_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "9aefde8dbb985d0dfe33660936519c9a07335f3608994fdf0094c4d7b61c48d9",
+      "row_RGB_SHA256": "b362ca636b09f5f9b23f15a9017da648fd44aa96c6547789178f5a2e746af2a5",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R01G02U02",
+      "occurrence_id": "R01G02U02",
+      "global_preferred_unit_ordinal": 4,
+      "row_id": "R01",
+      "physical_row": 1,
+      "group_id": "R01G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 2,
+      "raw_base_label": "h",
+      "raw_label": "H_MARK_UNASSIGNED",
+      "preferred_raw_unit_label": "H_MARK_UNASSIGNED",
+      "primitive_component_ids": [
+        "R01G02C02",
+        "R01G02C02M01",
+        "R01G02C02M02"
+      ],
+      "primitive_span": {
+        "start_component_id": "R01G02C02",
+        "end_component_id": "R01G02C02M02"
+      },
+      "mark_attributes": [
+        {
+          "raw_shape": "detachedtwo-strokeupperchevron",
+          "literal_source_type": "CARON_LIKE shape only",
+          "stroke_components": [
+            "leftshortstroke",
+            "rightshortstroke"
+          ],
+          "preferred_association": "sameunitbaselinecore, wholegraph keptdistinct frombarebase",
+          "semantic_role": null,
+          "known_raw_prototype_match": false
+        }
+      ],
+      "visual_alternatives": [
+        "R_MARK/corevariant graphicalalternative held, notforced",
+        "markindependentfrombase vsonecompositeunit",
+        "newmarkedfontclass ifdonorgraphicidentityunsupported"
+      ],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1391,
+        750,
+        1467,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        318,
+        1105,
+        394
+      ],
+      "native_row_crop": "reports/source_v1/R01_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "9aefde8dbb985d0dfe33660936519c9a07335f3608994fdf0094c4d7b61c48d9",
+      "row_RGB_SHA256": "b362ca636b09f5f9b23f15a9017da648fd44aa96c6547789178f5a2e746af2a5",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R01G02U03",
+      "occurrence_id": "R01G02U03",
+      "global_preferred_unit_ordinal": 5,
+      "row_id": "R01",
+      "physical_row": 1,
+      "group_id": "R01G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 3,
+      "raw_base_label": "5",
+      "raw_label": "5",
+      "preferred_raw_unit_label": "5",
+      "primitive_component_ids": [
+        "R01G02C03"
+      ],
+      "primitive_span": {
+        "start_component_id": "R01G02C03",
+        "end_component_id": "R01G02C03"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1391,
+        750,
+        1467,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        318,
+        1105,
+        394
+      ],
+      "native_row_crop": "reports/source_v1/R01_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "9aefde8dbb985d0dfe33660936519c9a07335f3608994fdf0094c4d7b61c48d9",
+      "row_RGB_SHA256": "b362ca636b09f5f9b23f15a9017da648fd44aa96c6547789178f5a2e746af2a5",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R01G02U04",
+      "occurrence_id": "R01G02U04",
+      "global_preferred_unit_ordinal": 6,
+      "row_id": "R01",
+      "physical_row": 1,
+      "group_id": "R01G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 4,
+      "raw_base_label": "d",
+      "raw_label": "d",
+      "preferred_raw_unit_label": "d",
+      "primitive_component_ids": [
+        "R01G02C04"
+      ],
+      "primitive_span": {
+        "start_component_id": "R01G02C04",
+        "end_component_id": "R01G02C04"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1391,
+        750,
+        1467,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        318,
+        1105,
+        394
+      ],
+      "native_row_crop": "reports/source_v1/R01_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "9aefde8dbb985d0dfe33660936519c9a07335f3608994fdf0094c4d7b61c48d9",
+      "row_RGB_SHA256": "b362ca636b09f5f9b23f15a9017da648fd44aa96c6547789178f5a2e746af2a5",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R01G02U05",
+      "occurrence_id": "R01G02U05",
+      "global_preferred_unit_ordinal": 7,
+      "row_id": "R01",
+      "physical_row": 1,
+      "group_id": "R01G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 5,
+      "raw_base_label": "4",
+      "raw_label": "4",
+      "preferred_raw_unit_label": "4",
+      "primitive_component_ids": [
+        "R01G02C05"
+      ],
+      "primitive_span": {
+        "start_component_id": "R01G02C05",
+        "end_component_id": "R01G02C05"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1391,
+        750,
+        1467,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        318,
+        1105,
+        394
+      ],
+      "native_row_crop": "reports/source_v1/R01_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "9aefde8dbb985d0dfe33660936519c9a07335f3608994fdf0094c4d7b61c48d9",
+      "row_RGB_SHA256": "b362ca636b09f5f9b23f15a9017da648fd44aa96c6547789178f5a2e746af2a5",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R01G02U06",
+      "occurrence_id": "R01G02U06",
+      "global_preferred_unit_ordinal": 8,
+      "row_id": "R01",
+      "physical_row": 1,
+      "group_id": "R01G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 6,
+      "raw_base_label": "s",
+      "raw_label": "s",
+      "preferred_raw_unit_label": "s",
+      "primitive_component_ids": [
+        "R01G02C06"
+      ],
+      "primitive_span": {
+        "start_component_id": "R01G02C06",
+        "end_component_id": "R01G02C06"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1391,
+        750,
+        1467,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        318,
+        1105,
+        394
+      ],
+      "native_row_crop": "reports/source_v1/R01_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "9aefde8dbb985d0dfe33660936519c9a07335f3608994fdf0094c4d7b61c48d9",
+      "row_RGB_SHA256": "b362ca636b09f5f9b23f15a9017da648fd44aa96c6547789178f5a2e746af2a5",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R01G02U07",
+      "occurrence_id": "R01G02U07",
+      "global_preferred_unit_ordinal": 9,
+      "row_id": "R01",
+      "physical_row": 1,
+      "group_id": "R01G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 7,
+      "raw_base_label": "5",
+      "raw_label": "5",
+      "preferred_raw_unit_label": "5",
+      "primitive_component_ids": [
+        "R01G02C07"
+      ],
+      "primitive_span": {
+        "start_component_id": "R01G02C07",
+        "end_component_id": "R01G02C07"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1391,
+        750,
+        1467,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        318,
+        1105,
+        394
+      ],
+      "native_row_crop": "reports/source_v1/R01_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "9aefde8dbb985d0dfe33660936519c9a07335f3608994fdf0094c4d7b61c48d9",
+      "row_RGB_SHA256": "b362ca636b09f5f9b23f15a9017da648fd44aa96c6547789178f5a2e746af2a5",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R01G03U01",
+      "occurrence_id": "R01G03U01",
+      "global_preferred_unit_ordinal": 10,
+      "row_id": "R01",
+      "physical_row": 1,
+      "group_id": "R01G03",
+      "physical_gap_group": 3,
+      "local_unit_ordinal": 1,
+      "raw_base_label": "d",
+      "raw_label": "d",
+      "preferred_raw_unit_label": "d",
+      "primitive_component_ids": [
+        "R01G03C01"
+      ],
+      "primitive_span": {
+        "start_component_id": "R01G03C01",
+        "end_component_id": "R01G03C01"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1391,
+        750,
+        1467,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        318,
+        1105,
+        394
+      ],
+      "native_row_crop": "reports/source_v1/R01_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "9aefde8dbb985d0dfe33660936519c9a07335f3608994fdf0094c4d7b61c48d9",
+      "row_RGB_SHA256": "b362ca636b09f5f9b23f15a9017da648fd44aa96c6547789178f5a2e746af2a5",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R01G03U02",
+      "occurrence_id": "R01G03U02",
+      "global_preferred_unit_ordinal": 11,
+      "row_id": "R01",
+      "physical_row": 1,
+      "group_id": "R01G03",
+      "physical_gap_group": 3,
+      "local_unit_ordinal": 2,
+      "raw_base_label": "4",
+      "raw_label": "4",
+      "preferred_raw_unit_label": "4",
+      "primitive_component_ids": [
+        "R01G03C02"
+      ],
+      "primitive_span": {
+        "start_component_id": "R01G03C02",
+        "end_component_id": "R01G03C02"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1391,
+        750,
+        1467,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        318,
+        1105,
+        394
+      ],
+      "native_row_crop": "reports/source_v1/R01_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "9aefde8dbb985d0dfe33660936519c9a07335f3608994fdf0094c4d7b61c48d9",
+      "row_RGB_SHA256": "b362ca636b09f5f9b23f15a9017da648fd44aa96c6547789178f5a2e746af2a5",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R02G01U01",
+      "occurrence_id": "R02G01U01",
+      "global_preferred_unit_ordinal": 12,
+      "row_id": "R02",
+      "physical_row": 2,
+      "group_id": "R02G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 1,
+      "raw_base_label": "b",
+      "raw_label": "b",
+      "preferred_raw_unit_label": "b",
+      "primitive_component_ids": [
+        "R02G01C01"
+      ],
+      "primitive_span": {
+        "start_component_id": "R02G01C01",
+        "end_component_id": "R02G01C01"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1325,
+        750,
+        1415,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        370,
+        1105,
+        460
+      ],
+      "native_row_crop": "reports/source_v1/R02_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "a78f369f911375ed5223266cb798e59a600cb33a5bc1108e5d04455276e6582b",
+      "row_RGB_SHA256": "dbe7e6942d2ae9162727bf87252ad2925b2d3a9b61ad9ede6f75826cddc57226",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R02G01U02",
+      "occurrence_id": "R02G01U02",
+      "global_preferred_unit_ordinal": 13,
+      "row_id": "R02",
+      "physical_row": 2,
+      "group_id": "R02G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 2,
+      "raw_base_label": "h",
+      "raw_label": "h",
+      "preferred_raw_unit_label": "h",
+      "primitive_component_ids": [
+        "R02G01C02"
+      ],
+      "primitive_span": {
+        "start_component_id": "R02G01C02",
+        "end_component_id": "R02G01C02"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1325,
+        750,
+        1415,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        370,
+        1105,
+        460
+      ],
+      "native_row_crop": "reports/source_v1/R02_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "a78f369f911375ed5223266cb798e59a600cb33a5bc1108e5d04455276e6582b",
+      "row_RGB_SHA256": "dbe7e6942d2ae9162727bf87252ad2925b2d3a9b61ad9ede6f75826cddc57226",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R02G01U03",
+      "occurrence_id": "R02G01U03",
+      "global_preferred_unit_ordinal": 14,
+      "row_id": "R02",
+      "physical_row": 2,
+      "group_id": "R02G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 3,
+      "raw_base_label": "5",
+      "raw_label": "5",
+      "preferred_raw_unit_label": "5",
+      "primitive_component_ids": [
+        "R02G01C03"
+      ],
+      "primitive_span": {
+        "start_component_id": "R02G01C03",
+        "end_component_id": "R02G01C03"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1325,
+        750,
+        1415,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        370,
+        1105,
+        460
+      ],
+      "native_row_crop": "reports/source_v1/R02_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "a78f369f911375ed5223266cb798e59a600cb33a5bc1108e5d04455276e6582b",
+      "row_RGB_SHA256": "dbe7e6942d2ae9162727bf87252ad2925b2d3a9b61ad9ede6f75826cddc57226",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R02G01U04",
+      "occurrence_id": "R02G01U04",
+      "global_preferred_unit_ordinal": 15,
+      "row_id": "R02",
+      "physical_row": 2,
+      "group_id": "R02G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 4,
+      "raw_base_label": "7",
+      "raw_label": "7",
+      "preferred_raw_unit_label": "7",
+      "primitive_component_ids": [
+        "R02G01C04"
+      ],
+      "primitive_span": {
+        "start_component_id": "R02G01C04",
+        "end_component_id": "R02G01C04"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1325,
+        750,
+        1415,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        370,
+        1105,
+        460
+      ],
+      "native_row_crop": "reports/source_v1/R02_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "a78f369f911375ed5223266cb798e59a600cb33a5bc1108e5d04455276e6582b",
+      "row_RGB_SHA256": "dbe7e6942d2ae9162727bf87252ad2925b2d3a9b61ad9ede6f75826cddc57226",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R02G01U05",
+      "occurrence_id": "R02G01U05",
+      "global_preferred_unit_ordinal": 16,
+      "row_id": "R02",
+      "physical_row": 2,
+      "group_id": "R02G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 5,
+      "raw_base_label": "5",
+      "raw_label": "5",
+      "preferred_raw_unit_label": "5",
+      "primitive_component_ids": [
+        "R02G01C05"
+      ],
+      "primitive_span": {
+        "start_component_id": "R02G01C05",
+        "end_component_id": "R02G01C05"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1325,
+        750,
+        1415,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        370,
+        1105,
+        460
+      ],
+      "native_row_crop": "reports/source_v1/R02_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "a78f369f911375ed5223266cb798e59a600cb33a5bc1108e5d04455276e6582b",
+      "row_RGB_SHA256": "dbe7e6942d2ae9162727bf87252ad2925b2d3a9b61ad9ede6f75826cddc57226",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R02G02U01",
+      "occurrence_id": "R02G02U01",
+      "global_preferred_unit_ordinal": 17,
+      "row_id": "R02",
+      "physical_row": 2,
+      "group_id": "R02G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 1,
+      "raw_base_label": "6",
+      "raw_label": "6",
+      "preferred_raw_unit_label": "6",
+      "primitive_component_ids": [
+        "R02G02C01"
+      ],
+      "primitive_span": {
+        "start_component_id": "R02G02C01",
+        "end_component_id": "R02G02C01"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1325,
+        750,
+        1415,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        370,
+        1105,
+        460
+      ],
+      "native_row_crop": "reports/source_v1/R02_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "a78f369f911375ed5223266cb798e59a600cb33a5bc1108e5d04455276e6582b",
+      "row_RGB_SHA256": "dbe7e6942d2ae9162727bf87252ad2925b2d3a9b61ad9ede6f75826cddc57226",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R02G03U01",
+      "occurrence_id": "R02G03U01",
+      "global_preferred_unit_ordinal": 18,
+      "row_id": "R02",
+      "physical_row": 2,
+      "group_id": "R02G03",
+      "physical_gap_group": 3,
+      "local_unit_ordinal": 1,
+      "raw_base_label": "f",
+      "raw_label": "f",
+      "preferred_raw_unit_label": "f",
+      "primitive_component_ids": [
+        "R02G03C01"
+      ],
+      "primitive_span": {
+        "start_component_id": "R02G03C01",
+        "end_component_id": "R02G03C01"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1325,
+        750,
+        1415,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        370,
+        1105,
+        460
+      ],
+      "native_row_crop": "reports/source_v1/R02_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "a78f369f911375ed5223266cb798e59a600cb33a5bc1108e5d04455276e6582b",
+      "row_RGB_SHA256": "dbe7e6942d2ae9162727bf87252ad2925b2d3a9b61ad9ede6f75826cddc57226",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R02G04U01",
+      "occurrence_id": "R02G04U01",
+      "global_preferred_unit_ordinal": 19,
+      "row_id": "R02",
+      "physical_row": 2,
+      "group_id": "R02G04",
+      "physical_gap_group": 4,
+      "local_unit_ordinal": 1,
+      "raw_base_label": "t",
+      "raw_label": "t",
+      "preferred_raw_unit_label": "t",
+      "primitive_component_ids": [
+        "R02G04C01"
+      ],
+      "primitive_span": {
+        "start_component_id": "R02G04C01",
+        "end_component_id": "R02G04C01"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1325,
+        750,
+        1415,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        370,
+        1105,
+        460
+      ],
+      "native_row_crop": "reports/source_v1/R02_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "a78f369f911375ed5223266cb798e59a600cb33a5bc1108e5d04455276e6582b",
+      "row_RGB_SHA256": "dbe7e6942d2ae9162727bf87252ad2925b2d3a9b61ad9ede6f75826cddc57226",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R02G04U02",
+      "occurrence_id": "R02G04U02",
+      "global_preferred_unit_ordinal": 20,
+      "row_id": "R02",
+      "physical_row": 2,
+      "group_id": "R02G04",
+      "physical_gap_group": 4,
+      "local_unit_ordinal": 2,
+      "raw_base_label": "2",
+      "raw_label": "2",
+      "preferred_raw_unit_label": "2",
+      "primitive_component_ids": [
+        "R02G04C02"
+      ],
+      "primitive_span": {
+        "start_component_id": "R02G04C02",
+        "end_component_id": "R02G04C02"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1325,
+        750,
+        1415,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        370,
+        1105,
+        460
+      ],
+      "native_row_crop": "reports/source_v1/R02_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "a78f369f911375ed5223266cb798e59a600cb33a5bc1108e5d04455276e6582b",
+      "row_RGB_SHA256": "dbe7e6942d2ae9162727bf87252ad2925b2d3a9b61ad9ede6f75826cddc57226",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R02G04U03",
+      "occurrence_id": "R02G04U03",
+      "global_preferred_unit_ordinal": 21,
+      "row_id": "R02",
+      "physical_row": 2,
+      "group_id": "R02G04",
+      "physical_gap_group": 4,
+      "local_unit_ordinal": 3,
+      "raw_base_label": "r",
+      "raw_label": "R_MARK",
+      "preferred_raw_unit_label": "R_MARK",
+      "primitive_component_ids": [
+        "R02G04C03",
+        "R02G04C03M01",
+        "R02G04C03M02"
+      ],
+      "primitive_span": {
+        "start_component_id": "R02G04C03",
+        "end_component_id": "R02G04C03M02"
+      },
+      "mark_attributes": [
+        {
+          "raw_shape": "detachedtwo-strokeupperchevron",
+          "literal_source_type": "CARON_LIKE shape only",
+          "stroke_components": [
+            "leftshortstroke",
+            "rightshortstroke"
+          ],
+          "preferred_association": "sameunitbaselinecore, wholegraph keptdistinct frombarebase",
+          "semantic_role": null,
+          "known_raw_prototype_match": true
+        }
+      ],
+      "visual_alternatives": [
+        "markindependentfrombase vsonecompositeunit",
+        "newmarkedfontclass ifdonorgraphicidentityunsupported"
+      ],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1325,
+        750,
+        1415,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        370,
+        1105,
+        460
+      ],
+      "native_row_crop": "reports/source_v1/R02_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "a78f369f911375ed5223266cb798e59a600cb33a5bc1108e5d04455276e6582b",
+      "row_RGB_SHA256": "dbe7e6942d2ae9162727bf87252ad2925b2d3a9b61ad9ede6f75826cddc57226",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R02G04U04",
+      "occurrence_id": "R02G04U04",
+      "global_preferred_unit_ordinal": 22,
+      "row_id": "R02",
+      "physical_row": 2,
+      "group_id": "R02G04",
+      "physical_gap_group": 4,
+      "local_unit_ordinal": 4,
+      "raw_base_label": "2",
+      "raw_label": "2",
+      "preferred_raw_unit_label": "2",
+      "primitive_component_ids": [
+        "R02G04C04"
+      ],
+      "primitive_span": {
+        "start_component_id": "R02G04C04",
+        "end_component_id": "R02G04C04"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1325,
+        750,
+        1415,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        370,
+        1105,
+        460
+      ],
+      "native_row_crop": "reports/source_v1/R02_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "a78f369f911375ed5223266cb798e59a600cb33a5bc1108e5d04455276e6582b",
+      "row_RGB_SHA256": "dbe7e6942d2ae9162727bf87252ad2925b2d3a9b61ad9ede6f75826cddc57226",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R03G01U01",
+      "occurrence_id": "R03G01U01",
+      "global_preferred_unit_ordinal": 23,
+      "row_id": "R03",
+      "physical_row": 3,
+      "group_id": "R03G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 1,
+      "raw_base_label": "m",
+      "raw_label": "m",
+      "preferred_raw_unit_label": "m",
+      "primitive_component_ids": [
+        "R03G01C01"
+      ],
+      "primitive_span": {
+        "start_component_id": "R03G01C01",
+        "end_component_id": "R03G01C01"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [
+        "cursive entry/exit humps confusable; preferredcurrentoutline retained"
+      ],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1256,
+        750,
+        1355,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        430,
+        1105,
+        529
+      ],
+      "native_row_crop": "reports/source_v1/R03_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "75e72fb4dc1328b0c0258c372dc88f04ff6ecd5efe65eb3cb4250d4b0889e6a8",
+      "row_RGB_SHA256": "fd5aaef99eca76e18187513275dffa7e7f07cd2f7def0b9bfcd22b177e5cb48e",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R03G01U02",
+      "occurrence_id": "R03G01U02",
+      "global_preferred_unit_ordinal": 24,
+      "row_id": "R03",
+      "physical_row": 3,
+      "group_id": "R03G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 2,
+      "raw_base_label": "6",
+      "raw_label": "6",
+      "preferred_raw_unit_label": "6",
+      "primitive_component_ids": [
+        "R03G01C02"
+      ],
+      "primitive_span": {
+        "start_component_id": "R03G01C02",
+        "end_component_id": "R03G01C02"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1256,
+        750,
+        1355,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        430,
+        1105,
+        529
+      ],
+      "native_row_crop": "reports/source_v1/R03_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "75e72fb4dc1328b0c0258c372dc88f04ff6ecd5efe65eb3cb4250d4b0889e6a8",
+      "row_RGB_SHA256": "fd5aaef99eca76e18187513275dffa7e7f07cd2f7def0b9bfcd22b177e5cb48e",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R03G02U01",
+      "occurrence_id": "R03G02U01",
+      "global_preferred_unit_ordinal": 25,
+      "row_id": "R03",
+      "physical_row": 3,
+      "group_id": "R03G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 1,
+      "raw_base_label": "c",
+      "raw_label": "c",
+      "preferred_raw_unit_label": "c",
+      "primitive_component_ids": [
+        "R03G02C01"
+      ],
+      "primitive_span": {
+        "start_component_id": "R03G02C01",
+        "end_component_id": "R03G02C01"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1256,
+        750,
+        1355,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        430,
+        1105,
+        529
+      ],
+      "native_row_crop": "reports/source_v1/R03_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "75e72fb4dc1328b0c0258c372dc88f04ff6ecd5efe65eb3cb4250d4b0889e6a8",
+      "row_RGB_SHA256": "fd5aaef99eca76e18187513275dffa7e7f07cd2f7def0b9bfcd22b177e5cb48e",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R03G02U02",
+      "occurrence_id": "R03G02U02",
+      "global_preferred_unit_ordinal": 26,
+      "row_id": "R03",
+      "physical_row": 3,
+      "group_id": "R03G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 2,
+      "raw_base_label": "8",
+      "raw_label": "8",
+      "preferred_raw_unit_label": "8",
+      "primitive_component_ids": [
+        "R03G02C02"
+      ],
+      "primitive_span": {
+        "start_component_id": "R03G02C02",
+        "end_component_id": "R03G02C02"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1256,
+        750,
+        1355,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        430,
+        1105,
+        529
+      ],
+      "native_row_crop": "reports/source_v1/R03_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "75e72fb4dc1328b0c0258c372dc88f04ff6ecd5efe65eb3cb4250d4b0889e6a8",
+      "row_RGB_SHA256": "fd5aaef99eca76e18187513275dffa7e7f07cd2f7def0b9bfcd22b177e5cb48e",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R03G02U03",
+      "occurrence_id": "R03G02U03",
+      "global_preferred_unit_ordinal": 27,
+      "row_id": "R03",
+      "physical_row": 3,
+      "group_id": "R03G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 3,
+      "raw_base_label": "6",
+      "raw_label": "6",
+      "preferred_raw_unit_label": "6",
+      "primitive_component_ids": [
+        "R03G02C03"
+      ],
+      "primitive_span": {
+        "start_component_id": "R03G02C03",
+        "end_component_id": "R03G02C03"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1256,
+        750,
+        1355,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        430,
+        1105,
+        529
+      ],
+      "native_row_crop": "reports/source_v1/R03_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "75e72fb4dc1328b0c0258c372dc88f04ff6ecd5efe65eb3cb4250d4b0889e6a8",
+      "row_RGB_SHA256": "fd5aaef99eca76e18187513275dffa7e7f07cd2f7def0b9bfcd22b177e5cb48e",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R03G02U04",
+      "occurrence_id": "R03G02U04",
+      "global_preferred_unit_ordinal": 28,
+      "row_id": "R03",
+      "physical_row": 3,
+      "group_id": "R03G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 4,
+      "raw_base_label": "t",
+      "raw_label": "t",
+      "preferred_raw_unit_label": "t",
+      "primitive_component_ids": [
+        "R03G02C04"
+      ],
+      "primitive_span": {
+        "start_component_id": "R03G02C04",
+        "end_component_id": "R03G02C04"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1256,
+        750,
+        1355,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        430,
+        1105,
+        529
+      ],
+      "native_row_crop": "reports/source_v1/R03_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "75e72fb4dc1328b0c0258c372dc88f04ff6ecd5efe65eb3cb4250d4b0889e6a8",
+      "row_RGB_SHA256": "fd5aaef99eca76e18187513275dffa7e7f07cd2f7def0b9bfcd22b177e5cb48e",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R03G02U05",
+      "occurrence_id": "R03G02U05",
+      "global_preferred_unit_ordinal": 29,
+      "row_id": "R03",
+      "physical_row": 3,
+      "group_id": "R03G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 5,
+      "raw_base_label": "g",
+      "raw_label": "g",
+      "preferred_raw_unit_label": "g",
+      "primitive_component_ids": [
+        "R03G02C05"
+      ],
+      "primitive_span": {
+        "start_component_id": "R03G02C05",
+        "end_component_id": "R03G02C05"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1256,
+        750,
+        1355,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        430,
+        1105,
+        529
+      ],
+      "native_row_crop": "reports/source_v1/R03_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "75e72fb4dc1328b0c0258c372dc88f04ff6ecd5efe65eb3cb4250d4b0889e6a8",
+      "row_RGB_SHA256": "fd5aaef99eca76e18187513275dffa7e7f07cd2f7def0b9bfcd22b177e5cb48e",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R03G02U06",
+      "occurrence_id": "R03G02U06",
+      "global_preferred_unit_ordinal": 30,
+      "row_id": "R03",
+      "physical_row": 3,
+      "group_id": "R03G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 6,
+      "raw_base_label": "6",
+      "raw_label": "6",
+      "preferred_raw_unit_label": "6",
+      "primitive_component_ids": [
+        "R03G02C06"
+      ],
+      "primitive_span": {
+        "start_component_id": "R03G02C06",
+        "end_component_id": "R03G02C06"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1256,
+        750,
+        1355,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        430,
+        1105,
+        529
+      ],
+      "native_row_crop": "reports/source_v1/R03_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "75e72fb4dc1328b0c0258c372dc88f04ff6ecd5efe65eb3cb4250d4b0889e6a8",
+      "row_RGB_SHA256": "fd5aaef99eca76e18187513275dffa7e7f07cd2f7def0b9bfcd22b177e5cb48e",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R03G03U01",
+      "occurrence_id": "R03G03U01",
+      "global_preferred_unit_ordinal": 31,
+      "row_id": "R03",
+      "physical_row": 3,
+      "group_id": "R03G03",
+      "physical_gap_group": 3,
+      "local_unit_ordinal": 1,
+      "raw_base_label": "2",
+      "raw_label": "2",
+      "preferred_raw_unit_label": "2",
+      "primitive_component_ids": [
+        "R03G03C01"
+      ],
+      "primitive_span": {
+        "start_component_id": "R03G03C01",
+        "end_component_id": "R03G03C01"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1256,
+        750,
+        1355,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        430,
+        1105,
+        529
+      ],
+      "native_row_crop": "reports/source_v1/R03_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "75e72fb4dc1328b0c0258c372dc88f04ff6ecd5efe65eb3cb4250d4b0889e6a8",
+      "row_RGB_SHA256": "fd5aaef99eca76e18187513275dffa7e7f07cd2f7def0b9bfcd22b177e5cb48e",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R03G03U02",
+      "occurrence_id": "R03G03U02",
+      "global_preferred_unit_ordinal": 32,
+      "row_id": "R03",
+      "physical_row": 3,
+      "group_id": "R03G03",
+      "physical_gap_group": 3,
+      "local_unit_ordinal": 2,
+      "raw_base_label": "c",
+      "raw_label": "c",
+      "preferred_raw_unit_label": "c",
+      "primitive_component_ids": [
+        "R03G03C02"
+      ],
+      "primitive_span": {
+        "start_component_id": "R03G03C02",
+        "end_component_id": "R03G03C02"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1256,
+        750,
+        1355,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        430,
+        1105,
+        529
+      ],
+      "native_row_crop": "reports/source_v1/R03_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "75e72fb4dc1328b0c0258c372dc88f04ff6ecd5efe65eb3cb4250d4b0889e6a8",
+      "row_RGB_SHA256": "fd5aaef99eca76e18187513275dffa7e7f07cd2f7def0b9bfcd22b177e5cb48e",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R03G03U03",
+      "occurrence_id": "R03G03U03",
+      "global_preferred_unit_ordinal": 33,
+      "row_id": "R03",
+      "physical_row": 3,
+      "group_id": "R03G03",
+      "physical_gap_group": 3,
+      "local_unit_ordinal": 3,
+      "raw_base_label": "d",
+      "raw_label": "d",
+      "preferred_raw_unit_label": "d",
+      "primitive_component_ids": [
+        "R03G03C03"
+      ],
+      "primitive_span": {
+        "start_component_id": "R03G03C03",
+        "end_component_id": "R03G03C03"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1256,
+        750,
+        1355,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        430,
+        1105,
+        529
+      ],
+      "native_row_crop": "reports/source_v1/R03_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "75e72fb4dc1328b0c0258c372dc88f04ff6ecd5efe65eb3cb4250d4b0889e6a8",
+      "row_RGB_SHA256": "fd5aaef99eca76e18187513275dffa7e7f07cd2f7def0b9bfcd22b177e5cb48e",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R03G03U04",
+      "occurrence_id": "R03G03U04",
+      "global_preferred_unit_ordinal": 34,
+      "row_id": "R03",
+      "physical_row": 3,
+      "group_id": "R03G03",
+      "physical_gap_group": 3,
+      "local_unit_ordinal": 4,
+      "raw_base_label": "6",
+      "raw_label": "6",
+      "preferred_raw_unit_label": "6",
+      "primitive_component_ids": [
+        "R03G03C04"
+      ],
+      "primitive_span": {
+        "start_component_id": "R03G03C04",
+        "end_component_id": "R03G03C04"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1256,
+        750,
+        1355,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        430,
+        1105,
+        529
+      ],
+      "native_row_crop": "reports/source_v1/R03_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "75e72fb4dc1328b0c0258c372dc88f04ff6ecd5efe65eb3cb4250d4b0889e6a8",
+      "row_RGB_SHA256": "fd5aaef99eca76e18187513275dffa7e7f07cd2f7def0b9bfcd22b177e5cb48e",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R04G01U01",
+      "occurrence_id": "R04G01U01",
+      "global_preferred_unit_ordinal": 35,
+      "row_id": "R04",
+      "physical_row": 4,
+      "group_id": "R04G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 1,
+      "raw_base_label": "d",
+      "raw_label": "d",
+      "preferred_raw_unit_label": "d",
+      "primitive_component_ids": [
+        "R04G01C01"
+      ],
+      "primitive_span": {
+        "start_component_id": "R04G01C01",
+        "end_component_id": "R04G01C01"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1189,
+        750,
+        1297,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        488,
+        1105,
+        596
+      ],
+      "native_row_crop": "reports/source_v1/R04_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "424ddc155afd54ec3b3469fb6895f170f392e3c3f695e7018db93b8ba38095ae",
+      "row_RGB_SHA256": "959c99e1e06ddd5f7d7e45f44ec6638af5f53718472622505355b9ec69db93bb",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R04G01U02",
+      "occurrence_id": "R04G01U02",
+      "global_preferred_unit_ordinal": 36,
+      "row_id": "R04",
+      "physical_row": 4,
+      "group_id": "R04G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 2,
+      "raw_base_label": "f",
+      "raw_label": "f",
+      "preferred_raw_unit_label": "f",
+      "primitive_component_ids": [
+        "R04G01C02"
+      ],
+      "primitive_span": {
+        "start_component_id": "R04G01C02",
+        "end_component_id": "R04G01C02"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1189,
+        750,
+        1297,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        488,
+        1105,
+        596
+      ],
+      "native_row_crop": "reports/source_v1/R04_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "424ddc155afd54ec3b3469fb6895f170f392e3c3f695e7018db93b8ba38095ae",
+      "row_RGB_SHA256": "959c99e1e06ddd5f7d7e45f44ec6638af5f53718472622505355b9ec69db93bb",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R04G01U03",
+      "occurrence_id": "R04G01U03",
+      "global_preferred_unit_ordinal": 37,
+      "row_id": "R04",
+      "physical_row": 4,
+      "group_id": "R04G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 3,
+      "raw_base_label": "3",
+      "raw_label": "3",
+      "preferred_raw_unit_label": "3",
+      "primitive_component_ids": [
+        "R04G01C03"
+      ],
+      "primitive_span": {
+        "start_component_id": "R04G01C03",
+        "end_component_id": "R04G01C03"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1189,
+        750,
+        1297,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        488,
+        1105,
+        596
+      ],
+      "native_row_crop": "reports/source_v1/R04_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "424ddc155afd54ec3b3469fb6895f170f392e3c3f695e7018db93b8ba38095ae",
+      "row_RGB_SHA256": "959c99e1e06ddd5f7d7e45f44ec6638af5f53718472622505355b9ec69db93bb",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R04G01U04",
+      "occurrence_id": "R04G01U04",
+      "global_preferred_unit_ordinal": 38,
+      "row_id": "R04",
+      "physical_row": 4,
+      "group_id": "R04G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 4,
+      "raw_base_label": "7",
+      "raw_label": "7",
+      "preferred_raw_unit_label": "7",
+      "primitive_component_ids": [
+        "R04G01C04"
+      ],
+      "primitive_span": {
+        "start_component_id": "R04G01C04",
+        "end_component_id": "R04G01C04"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1189,
+        750,
+        1297,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        488,
+        1105,
+        596
+      ],
+      "native_row_crop": "reports/source_v1/R04_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "424ddc155afd54ec3b3469fb6895f170f392e3c3f695e7018db93b8ba38095ae",
+      "row_RGB_SHA256": "959c99e1e06ddd5f7d7e45f44ec6638af5f53718472622505355b9ec69db93bb",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R04G01U05",
+      "occurrence_id": "R04G01U05",
+      "global_preferred_unit_ordinal": 39,
+      "row_id": "R04",
+      "physical_row": 4,
+      "group_id": "R04G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 5,
+      "raw_base_label": "5",
+      "raw_label": "5",
+      "preferred_raw_unit_label": "5",
+      "primitive_component_ids": [
+        "R04G01C05"
+      ],
+      "primitive_span": {
+        "start_component_id": "R04G01C05",
+        "end_component_id": "R04G01C05"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1189,
+        750,
+        1297,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        488,
+        1105,
+        596
+      ],
+      "native_row_crop": "reports/source_v1/R04_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "424ddc155afd54ec3b3469fb6895f170f392e3c3f695e7018db93b8ba38095ae",
+      "row_RGB_SHA256": "959c99e1e06ddd5f7d7e45f44ec6638af5f53718472622505355b9ec69db93bb",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R04G02U01",
+      "occurrence_id": "R04G02U01",
+      "global_preferred_unit_ordinal": 40,
+      "row_id": "R04",
+      "physical_row": 4,
+      "group_id": "R04G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 1,
+      "raw_base_label": "f",
+      "raw_label": "f",
+      "preferred_raw_unit_label": "f",
+      "primitive_component_ids": [
+        "R04G02C01"
+      ],
+      "primitive_span": {
+        "start_component_id": "R04G02C01",
+        "end_component_id": "R04G02C01"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1189,
+        750,
+        1297,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        488,
+        1105,
+        596
+      ],
+      "native_row_crop": "reports/source_v1/R04_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "424ddc155afd54ec3b3469fb6895f170f392e3c3f695e7018db93b8ba38095ae",
+      "row_RGB_SHA256": "959c99e1e06ddd5f7d7e45f44ec6638af5f53718472622505355b9ec69db93bb",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R04G02U02",
+      "occurrence_id": "R04G02U02",
+      "global_preferred_unit_ordinal": 41,
+      "row_id": "R04",
+      "physical_row": 4,
+      "group_id": "R04G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 2,
+      "raw_base_label": "h",
+      "raw_label": "h",
+      "preferred_raw_unit_label": "h",
+      "primitive_component_ids": [
+        "R04G02C02"
+      ],
+      "primitive_span": {
+        "start_component_id": "R04G02C02",
+        "end_component_id": "R04G02C02"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1189,
+        750,
+        1297,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        488,
+        1105,
+        596
+      ],
+      "native_row_crop": "reports/source_v1/R04_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "424ddc155afd54ec3b3469fb6895f170f392e3c3f695e7018db93b8ba38095ae",
+      "row_RGB_SHA256": "959c99e1e06ddd5f7d7e45f44ec6638af5f53718472622505355b9ec69db93bb",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R04G02U03",
+      "occurrence_id": "R04G02U03",
+      "global_preferred_unit_ordinal": 42,
+      "row_id": "R04",
+      "physical_row": 4,
+      "group_id": "R04G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 3,
+      "raw_base_label": "5",
+      "raw_label": "5",
+      "preferred_raw_unit_label": "5",
+      "primitive_component_ids": [
+        "R04G02C03"
+      ],
+      "primitive_span": {
+        "start_component_id": "R04G02C03",
+        "end_component_id": "R04G02C03"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1189,
+        750,
+        1297,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        488,
+        1105,
+        596
+      ],
+      "native_row_crop": "reports/source_v1/R04_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "424ddc155afd54ec3b3469fb6895f170f392e3c3f695e7018db93b8ba38095ae",
+      "row_RGB_SHA256": "959c99e1e06ddd5f7d7e45f44ec6638af5f53718472622505355b9ec69db93bb",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R04G02U04",
+      "occurrence_id": "R04G02U04",
+      "global_preferred_unit_ordinal": 43,
+      "row_id": "R04",
+      "physical_row": 4,
+      "group_id": "R04G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 4,
+      "raw_base_label": "8",
+      "raw_label": "8",
+      "preferred_raw_unit_label": "8",
+      "primitive_component_ids": [
+        "R04G02C04"
+      ],
+      "primitive_span": {
+        "start_component_id": "R04G02C04",
+        "end_component_id": "R04G02C04"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1189,
+        750,
+        1297,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        488,
+        1105,
+        596
+      ],
+      "native_row_crop": "reports/source_v1/R04_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "424ddc155afd54ec3b3469fb6895f170f392e3c3f695e7018db93b8ba38095ae",
+      "row_RGB_SHA256": "959c99e1e06ddd5f7d7e45f44ec6638af5f53718472622505355b9ec69db93bb",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R04G02U05",
+      "occurrence_id": "R04G02U05",
+      "global_preferred_unit_ordinal": 44,
+      "row_id": "R04",
+      "physical_row": 4,
+      "group_id": "R04G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 5,
+      "raw_base_label": "3",
+      "raw_label": "3",
+      "preferred_raw_unit_label": "3",
+      "primitive_component_ids": [
+        "R04G02C05"
+      ],
+      "primitive_span": {
+        "start_component_id": "R04G02C05",
+        "end_component_id": "R04G02C05"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1189,
+        750,
+        1297,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        488,
+        1105,
+        596
+      ],
+      "native_row_crop": "reports/source_v1/R04_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "424ddc155afd54ec3b3469fb6895f170f392e3c3f695e7018db93b8ba38095ae",
+      "row_RGB_SHA256": "959c99e1e06ddd5f7d7e45f44ec6638af5f53718472622505355b9ec69db93bb",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R04G02U06",
+      "occurrence_id": "R04G02U06",
+      "global_preferred_unit_ordinal": 45,
+      "row_id": "R04",
+      "physical_row": 4,
+      "group_id": "R04G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 6,
+      "raw_base_label": "2",
+      "raw_label": "2",
+      "preferred_raw_unit_label": "2",
+      "primitive_component_ids": [
+        "R04G02C06"
+      ],
+      "primitive_span": {
+        "start_component_id": "R04G02C06",
+        "end_component_id": "R04G02C06"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1189,
+        750,
+        1297,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        488,
+        1105,
+        596
+      ],
+      "native_row_crop": "reports/source_v1/R04_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "424ddc155afd54ec3b3469fb6895f170f392e3c3f695e7018db93b8ba38095ae",
+      "row_RGB_SHA256": "959c99e1e06ddd5f7d7e45f44ec6638af5f53718472622505355b9ec69db93bb",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R05G01U01",
+      "occurrence_id": "R05G01U01",
+      "global_preferred_unit_ordinal": 46,
+      "row_id": "R05",
+      "physical_row": 5,
+      "group_id": "R05G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 1,
+      "raw_base_label": "t",
+      "raw_label": "t",
+      "preferred_raw_unit_label": "t",
+      "primitive_component_ids": [
+        "R05G01C01"
+      ],
+      "primitive_span": {
+        "start_component_id": "R05G01C01",
+        "end_component_id": "R05G01C01"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1128,
+        750,
+        1228,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        557,
+        1105,
+        657
+      ],
+      "native_row_crop": "reports/source_v1/R05_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "39590304b2099989a2c17d68f96ea273a4aa460935af5c2ea20401eb55f62af9",
+      "row_RGB_SHA256": "9e38bb38ac7cdd4f66f4bcd104c434aa8fac76b4a4f94cff66a3412145fb4b63",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R05G01U02",
+      "occurrence_id": "R05G01U02",
+      "global_preferred_unit_ordinal": 47,
+      "row_id": "R05",
+      "physical_row": 5,
+      "group_id": "R05G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 2,
+      "raw_base_label": "8",
+      "raw_label": "8",
+      "preferred_raw_unit_label": "8",
+      "primitive_component_ids": [
+        "R05G01C02"
+      ],
+      "primitive_span": {
+        "start_component_id": "R05G01C02",
+        "end_component_id": "R05G01C02"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1128,
+        750,
+        1228,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        557,
+        1105,
+        657
+      ],
+      "native_row_crop": "reports/source_v1/R05_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "39590304b2099989a2c17d68f96ea273a4aa460935af5c2ea20401eb55f62af9",
+      "row_RGB_SHA256": "9e38bb38ac7cdd4f66f4bcd104c434aa8fac76b4a4f94cff66a3412145fb4b63",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R05G01U03",
+      "occurrence_id": "R05G01U03",
+      "global_preferred_unit_ordinal": 48,
+      "row_id": "R05",
+      "physical_row": 5,
+      "group_id": "R05G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 3,
+      "raw_base_label": "3",
+      "raw_label": "3",
+      "preferred_raw_unit_label": "3",
+      "primitive_component_ids": [
+        "R05G01C03"
+      ],
+      "primitive_span": {
+        "start_component_id": "R05G01C03",
+        "end_component_id": "R05G01C03"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1128,
+        750,
+        1228,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        557,
+        1105,
+        657
+      ],
+      "native_row_crop": "reports/source_v1/R05_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "39590304b2099989a2c17d68f96ea273a4aa460935af5c2ea20401eb55f62af9",
+      "row_RGB_SHA256": "9e38bb38ac7cdd4f66f4bcd104c434aa8fac76b4a4f94cff66a3412145fb4b63",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R05G01U04",
+      "occurrence_id": "R05G01U04",
+      "global_preferred_unit_ordinal": 49,
+      "row_id": "R05",
+      "physical_row": 5,
+      "group_id": "R05G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 4,
+      "raw_base_label": "2",
+      "raw_label": "2",
+      "preferred_raw_unit_label": "2",
+      "primitive_component_ids": [
+        "R05G01C04"
+      ],
+      "primitive_span": {
+        "start_component_id": "R05G01C04",
+        "end_component_id": "R05G01C04"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1128,
+        750,
+        1228,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        557,
+        1105,
+        657
+      ],
+      "native_row_crop": "reports/source_v1/R05_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "39590304b2099989a2c17d68f96ea273a4aa460935af5c2ea20401eb55f62af9",
+      "row_RGB_SHA256": "9e38bb38ac7cdd4f66f4bcd104c434aa8fac76b4a4f94cff66a3412145fb4b63",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R05G01U05",
+      "occurrence_id": "R05G01U05",
+      "global_preferred_unit_ordinal": 50,
+      "row_id": "R05",
+      "physical_row": 5,
+      "group_id": "R05G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 5,
+      "raw_base_label": "r",
+      "raw_label": "r",
+      "preferred_raw_unit_label": "r",
+      "primitive_component_ids": [
+        "R05G01C05"
+      ],
+      "primitive_span": {
+        "start_component_id": "R05G01C05",
+        "end_component_id": "R05G01C05"
+      },
+      "mark_attributes": [
+        {
+          "raw_shape": "small upperentry/hook near rcore",
+          "preferred_association": "intrinsicbaseentrystroke",
+          "alternative": "uppermarkroleheld; no clearlydetachedchevron assigned",
+          "semantic_role": null
+        }
+      ],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1128,
+        750,
+        1228,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        557,
+        1105,
+        657
+      ],
+      "native_row_crop": "reports/source_v1/R05_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "39590304b2099989a2c17d68f96ea273a4aa460935af5c2ea20401eb55f62af9",
+      "row_RGB_SHA256": "9e38bb38ac7cdd4f66f4bcd104c434aa8fac76b4a4f94cff66a3412145fb4b63",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R05G01U06",
+      "occurrence_id": "R05G01U06",
+      "global_preferred_unit_ordinal": 51,
+      "row_id": "R05",
+      "physical_row": 5,
+      "group_id": "R05G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 6,
+      "raw_base_label": "3",
+      "raw_label": "3",
+      "preferred_raw_unit_label": "3",
+      "primitive_component_ids": [
+        "R05G01C06"
+      ],
+      "primitive_span": {
+        "start_component_id": "R05G01C06",
+        "end_component_id": "R05G01C06"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1128,
+        750,
+        1228,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        557,
+        1105,
+        657
+      ],
+      "native_row_crop": "reports/source_v1/R05_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "39590304b2099989a2c17d68f96ea273a4aa460935af5c2ea20401eb55f62af9",
+      "row_RGB_SHA256": "9e38bb38ac7cdd4f66f4bcd104c434aa8fac76b4a4f94cff66a3412145fb4b63",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R05G01U07",
+      "occurrence_id": "R05G01U07",
+      "global_preferred_unit_ordinal": 52,
+      "row_id": "R05",
+      "physical_row": 5,
+      "group_id": "R05G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 7,
+      "raw_base_label": "2",
+      "raw_label": "2",
+      "preferred_raw_unit_label": "2",
+      "primitive_component_ids": [
+        "R05G01C07"
+      ],
+      "primitive_span": {
+        "start_component_id": "R05G01C07",
+        "end_component_id": "R05G01C07"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1128,
+        750,
+        1228,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        557,
+        1105,
+        657
+      ],
+      "native_row_crop": "reports/source_v1/R05_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "39590304b2099989a2c17d68f96ea273a4aa460935af5c2ea20401eb55f62af9",
+      "row_RGB_SHA256": "9e38bb38ac7cdd4f66f4bcd104c434aa8fac76b4a4f94cff66a3412145fb4b63",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R05G02U01",
+      "occurrence_id": "R05G02U01",
+      "global_preferred_unit_ordinal": 53,
+      "row_id": "R05",
+      "physical_row": 5,
+      "group_id": "R05G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 1,
+      "raw_base_label": "b",
+      "raw_label": "b",
+      "preferred_raw_unit_label": "b",
+      "primitive_component_ids": [
+        "R05G02C01"
+      ],
+      "primitive_span": {
+        "start_component_id": "R05G02C01",
+        "end_component_id": "R05G02C01"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1128,
+        750,
+        1228,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        557,
+        1105,
+        657
+      ],
+      "native_row_crop": "reports/source_v1/R05_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "39590304b2099989a2c17d68f96ea273a4aa460935af5c2ea20401eb55f62af9",
+      "row_RGB_SHA256": "9e38bb38ac7cdd4f66f4bcd104c434aa8fac76b4a4f94cff66a3412145fb4b63",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R05G02U02",
+      "occurrence_id": "R05G02U02",
+      "global_preferred_unit_ordinal": 54,
+      "row_id": "R05",
+      "physical_row": 5,
+      "group_id": "R05G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 2,
+      "raw_base_label": "2",
+      "raw_label": "2",
+      "preferred_raw_unit_label": "2",
+      "primitive_component_ids": [
+        "R05G02C02"
+      ],
+      "primitive_span": {
+        "start_component_id": "R05G02C02",
+        "end_component_id": "R05G02C02"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1128,
+        750,
+        1228,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        557,
+        1105,
+        657
+      ],
+      "native_row_crop": "reports/source_v1/R05_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "39590304b2099989a2c17d68f96ea273a4aa460935af5c2ea20401eb55f62af9",
+      "row_RGB_SHA256": "9e38bb38ac7cdd4f66f4bcd104c434aa8fac76b4a4f94cff66a3412145fb4b63",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R05G02U03",
+      "occurrence_id": "R05G02U03",
+      "global_preferred_unit_ordinal": 55,
+      "row_id": "R05",
+      "physical_row": 5,
+      "group_id": "R05G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 3,
+      "raw_base_label": "c",
+      "raw_label": "c",
+      "preferred_raw_unit_label": "c",
+      "primitive_component_ids": [
+        "R05G02C03"
+      ],
+      "primitive_span": {
+        "start_component_id": "R05G02C03",
+        "end_component_id": "R05G02C03"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1128,
+        750,
+        1228,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        557,
+        1105,
+        657
+      ],
+      "native_row_crop": "reports/source_v1/R05_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "39590304b2099989a2c17d68f96ea273a4aa460935af5c2ea20401eb55f62af9",
+      "row_RGB_SHA256": "9e38bb38ac7cdd4f66f4bcd104c434aa8fac76b4a4f94cff66a3412145fb4b63",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R05G02U04",
+      "occurrence_id": "R05G02U04",
+      "global_preferred_unit_ordinal": 56,
+      "row_id": "R05",
+      "physical_row": 5,
+      "group_id": "R05G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 4,
+      "raw_base_label": "2",
+      "raw_label": "2",
+      "preferred_raw_unit_label": "2",
+      "primitive_component_ids": [
+        "R05G02C04"
+      ],
+      "primitive_span": {
+        "start_component_id": "R05G02C04",
+        "end_component_id": "R05G02C04"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1128,
+        750,
+        1228,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        557,
+        1105,
+        657
+      ],
+      "native_row_crop": "reports/source_v1/R05_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "39590304b2099989a2c17d68f96ea273a4aa460935af5c2ea20401eb55f62af9",
+      "row_RGB_SHA256": "9e38bb38ac7cdd4f66f4bcd104c434aa8fac76b4a4f94cff66a3412145fb4b63",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R06G01U01",
+      "occurrence_id": "R06G01U01",
+      "global_preferred_unit_ordinal": 57,
+      "row_id": "R06",
+      "physical_row": 6,
+      "group_id": "R06G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 1,
+      "raw_base_label": "d",
+      "raw_label": "d",
+      "preferred_raw_unit_label": "d",
+      "primitive_component_ids": [
+        "R06G01C01"
+      ],
+      "primitive_span": {
+        "start_component_id": "R06G01C01",
+        "end_component_id": "R06G01C01"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1064,
+        750,
+        1171,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        614,
+        1105,
+        721
+      ],
+      "native_row_crop": "reports/source_v1/R06_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "b955cdf4195291a71a506a7996149df6b1a2412b4568c6c66f74b15e1da26ff8",
+      "row_RGB_SHA256": "fe0758157e3fbf43e9df0db039191a92ec4e9cd94973867bc94e9344b434d86d",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R06G01U02",
+      "occurrence_id": "R06G01U02",
+      "global_preferred_unit_ordinal": 58,
+      "row_id": "R06",
+      "physical_row": 6,
+      "group_id": "R06G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 2,
+      "raw_base_label": "4",
+      "raw_label": "4",
+      "preferred_raw_unit_label": "4",
+      "primitive_component_ids": [
+        "R06G01C02"
+      ],
+      "primitive_span": {
+        "start_component_id": "R06G01C02",
+        "end_component_id": "R06G01C02"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1064,
+        750,
+        1171,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        614,
+        1105,
+        721
+      ],
+      "native_row_crop": "reports/source_v1/R06_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "b955cdf4195291a71a506a7996149df6b1a2412b4568c6c66f74b15e1da26ff8",
+      "row_RGB_SHA256": "fe0758157e3fbf43e9df0db039191a92ec4e9cd94973867bc94e9344b434d86d",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R06G01U03",
+      "occurrence_id": "R06G01U03",
+      "global_preferred_unit_ordinal": 59,
+      "row_id": "R06",
+      "physical_row": 6,
+      "group_id": "R06G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 3,
+      "raw_base_label": "c",
+      "raw_label": "c",
+      "preferred_raw_unit_label": "c",
+      "primitive_component_ids": [
+        "R06G01C03"
+      ],
+      "primitive_span": {
+        "start_component_id": "R06G01C03",
+        "end_component_id": "R06G01C03"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1064,
+        750,
+        1171,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        614,
+        1105,
+        721
+      ],
+      "native_row_crop": "reports/source_v1/R06_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "b955cdf4195291a71a506a7996149df6b1a2412b4568c6c66f74b15e1da26ff8",
+      "row_RGB_SHA256": "fe0758157e3fbf43e9df0db039191a92ec4e9cd94973867bc94e9344b434d86d",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R06G01U04",
+      "occurrence_id": "R06G01U04",
+      "global_preferred_unit_ordinal": 60,
+      "row_id": "R06",
+      "physical_row": 6,
+      "group_id": "R06G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 4,
+      "raw_base_label": "g",
+      "raw_label": "g",
+      "preferred_raw_unit_label": "g",
+      "primitive_component_ids": [
+        "R06G01C04"
+      ],
+      "primitive_span": {
+        "start_component_id": "R06G01C04",
+        "end_component_id": "R06G01C04"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1064,
+        750,
+        1171,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        614,
+        1105,
+        721
+      ],
+      "native_row_crop": "reports/source_v1/R06_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "b955cdf4195291a71a506a7996149df6b1a2412b4568c6c66f74b15e1da26ff8",
+      "row_RGB_SHA256": "fe0758157e3fbf43e9df0db039191a92ec4e9cd94973867bc94e9344b434d86d",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R06G01U05",
+      "occurrence_id": "R06G01U05",
+      "global_preferred_unit_ordinal": 61,
+      "row_id": "R06",
+      "physical_row": 6,
+      "group_id": "R06G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 5,
+      "raw_base_label": "m",
+      "raw_label": "m",
+      "preferred_raw_unit_label": "m",
+      "primitive_component_ids": [
+        "R06G01C05"
+      ],
+      "primitive_span": {
+        "start_component_id": "R06G01C05",
+        "end_component_id": "R06G01C05"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [
+        "cursive entry/exit humps confusable; preferredcurrentoutline retained"
+      ],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1064,
+        750,
+        1171,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        614,
+        1105,
+        721
+      ],
+      "native_row_crop": "reports/source_v1/R06_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "b955cdf4195291a71a506a7996149df6b1a2412b4568c6c66f74b15e1da26ff8",
+      "row_RGB_SHA256": "fe0758157e3fbf43e9df0db039191a92ec4e9cd94973867bc94e9344b434d86d",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R06G01U06",
+      "occurrence_id": "R06G01U06",
+      "global_preferred_unit_ordinal": 62,
+      "row_id": "R06",
+      "physical_row": 6,
+      "group_id": "R06G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 6,
+      "raw_base_label": "5",
+      "raw_label": "5",
+      "preferred_raw_unit_label": "5",
+      "primitive_component_ids": [
+        "R06G01C06"
+      ],
+      "primitive_span": {
+        "start_component_id": "R06G01C06",
+        "end_component_id": "R06G01C06"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1064,
+        750,
+        1171,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        614,
+        1105,
+        721
+      ],
+      "native_row_crop": "reports/source_v1/R06_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "b955cdf4195291a71a506a7996149df6b1a2412b4568c6c66f74b15e1da26ff8",
+      "row_RGB_SHA256": "fe0758157e3fbf43e9df0db039191a92ec4e9cd94973867bc94e9344b434d86d",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R06G02U01",
+      "occurrence_id": "R06G02U01",
+      "global_preferred_unit_ordinal": 63,
+      "row_id": "R06",
+      "physical_row": 6,
+      "group_id": "R06G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 1,
+      "raw_base_label": "f",
+      "raw_label": "f",
+      "preferred_raw_unit_label": "f",
+      "primitive_component_ids": [
+        "R06G02C01"
+      ],
+      "primitive_span": {
+        "start_component_id": "R06G02C01",
+        "end_component_id": "R06G02C01"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1064,
+        750,
+        1171,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        614,
+        1105,
+        721
+      ],
+      "native_row_crop": "reports/source_v1/R06_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "b955cdf4195291a71a506a7996149df6b1a2412b4568c6c66f74b15e1da26ff8",
+      "row_RGB_SHA256": "fe0758157e3fbf43e9df0db039191a92ec4e9cd94973867bc94e9344b434d86d",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R06G02U02",
+      "occurrence_id": "R06G02U02",
+      "global_preferred_unit_ordinal": 64,
+      "row_id": "R06",
+      "physical_row": 6,
+      "group_id": "R06G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 2,
+      "raw_base_label": "5",
+      "raw_label": "5",
+      "preferred_raw_unit_label": "5",
+      "primitive_component_ids": [
+        "R06G02C02"
+      ],
+      "primitive_span": {
+        "start_component_id": "R06G02C02",
+        "end_component_id": "R06G02C02"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1064,
+        750,
+        1171,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        614,
+        1105,
+        721
+      ],
+      "native_row_crop": "reports/source_v1/R06_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "b955cdf4195291a71a506a7996149df6b1a2412b4568c6c66f74b15e1da26ff8",
+      "row_RGB_SHA256": "fe0758157e3fbf43e9df0db039191a92ec4e9cd94973867bc94e9344b434d86d",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R06G02U03",
+      "occurrence_id": "R06G02U03",
+      "global_preferred_unit_ordinal": 65,
+      "row_id": "R06",
+      "physical_row": 6,
+      "group_id": "R06G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 3,
+      "raw_base_label": "s",
+      "raw_label": "s",
+      "preferred_raw_unit_label": "s",
+      "primitive_component_ids": [
+        "R06G02C03"
+      ],
+      "primitive_span": {
+        "start_component_id": "R06G02C03",
+        "end_component_id": "R06G02C03"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1064,
+        750,
+        1171,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        614,
+        1105,
+        721
+      ],
+      "native_row_crop": "reports/source_v1/R06_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "b955cdf4195291a71a506a7996149df6b1a2412b4568c6c66f74b15e1da26ff8",
+      "row_RGB_SHA256": "fe0758157e3fbf43e9df0db039191a92ec4e9cd94973867bc94e9344b434d86d",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R06G02U04",
+      "occurrence_id": "R06G02U04",
+      "global_preferred_unit_ordinal": 66,
+      "row_id": "R06",
+      "physical_row": 6,
+      "group_id": "R06G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 4,
+      "raw_base_label": "m",
+      "raw_label": "m",
+      "preferred_raw_unit_label": "m",
+      "primitive_component_ids": [
+        "R06G02C04"
+      ],
+      "primitive_span": {
+        "start_component_id": "R06G02C04",
+        "end_component_id": "R06G02C04"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [
+        "cursive entry/exit humps confusable; preferredcurrentoutline retained"
+      ],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1064,
+        750,
+        1171,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        614,
+        1105,
+        721
+      ],
+      "native_row_crop": "reports/source_v1/R06_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "b955cdf4195291a71a506a7996149df6b1a2412b4568c6c66f74b15e1da26ff8",
+      "row_RGB_SHA256": "fe0758157e3fbf43e9df0db039191a92ec4e9cd94973867bc94e9344b434d86d",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R06G02U05",
+      "occurrence_id": "R06G02U05",
+      "global_preferred_unit_ordinal": 67,
+      "row_id": "R06",
+      "physical_row": 6,
+      "group_id": "R06G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 5,
+      "raw_base_label": "5",
+      "raw_label": "5",
+      "preferred_raw_unit_label": "5",
+      "primitive_component_ids": [
+        "R06G02C05"
+      ],
+      "primitive_span": {
+        "start_component_id": "R06G02C05",
+        "end_component_id": "R06G02C05"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1064,
+        750,
+        1171,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        614,
+        1105,
+        721
+      ],
+      "native_row_crop": "reports/source_v1/R06_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "b955cdf4195291a71a506a7996149df6b1a2412b4568c6c66f74b15e1da26ff8",
+      "row_RGB_SHA256": "fe0758157e3fbf43e9df0db039191a92ec4e9cd94973867bc94e9344b434d86d",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R07G01U01",
+      "occurrence_id": "R07G01U01",
+      "global_preferred_unit_ordinal": 68,
+      "row_id": "R07",
+      "physical_row": 7,
+      "group_id": "R07G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 1,
+      "raw_base_label": "d",
+      "raw_label": "d",
+      "preferred_raw_unit_label": "d",
+      "primitive_component_ids": [
+        "R07G01C01"
+      ],
+      "primitive_span": {
+        "start_component_id": "R07G01C01",
+        "end_component_id": "R07G01C01"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1018,
+        750,
+        1111,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        674,
+        1105,
+        767
+      ],
+      "native_row_crop": "reports/source_v1/R07_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "470f4c74c24c415919def26ad55980fa78e7cae6f54b6c490c124b03d2051574",
+      "row_RGB_SHA256": "c6242b4177e9360bee0bea97d2752eab2223e58b9555fab9c1aceb4d6f1ef751",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R07G01U02",
+      "occurrence_id": "R07G01U02",
+      "global_preferred_unit_ordinal": 69,
+      "row_id": "R07",
+      "physical_row": 7,
+      "group_id": "R07G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 2,
+      "raw_base_label": "f",
+      "raw_label": "f",
+      "preferred_raw_unit_label": "f",
+      "primitive_component_ids": [
+        "R07G01C02"
+      ],
+      "primitive_span": {
+        "start_component_id": "R07G01C02",
+        "end_component_id": "R07G01C02"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1018,
+        750,
+        1111,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        674,
+        1105,
+        767
+      ],
+      "native_row_crop": "reports/source_v1/R07_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "470f4c74c24c415919def26ad55980fa78e7cae6f54b6c490c124b03d2051574",
+      "row_RGB_SHA256": "c6242b4177e9360bee0bea97d2752eab2223e58b9555fab9c1aceb4d6f1ef751",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R07G01U03",
+      "occurrence_id": "R07G01U03",
+      "global_preferred_unit_ordinal": 70,
+      "row_id": "R07",
+      "physical_row": 7,
+      "group_id": "R07G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 3,
+      "raw_base_label": "2",
+      "raw_label": "2",
+      "preferred_raw_unit_label": "2",
+      "primitive_component_ids": [
+        "R07G01C03"
+      ],
+      "primitive_span": {
+        "start_component_id": "R07G01C03",
+        "end_component_id": "R07G01C03"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1018,
+        750,
+        1111,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        674,
+        1105,
+        767
+      ],
+      "native_row_crop": "reports/source_v1/R07_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "470f4c74c24c415919def26ad55980fa78e7cae6f54b6c490c124b03d2051574",
+      "row_RGB_SHA256": "c6242b4177e9360bee0bea97d2752eab2223e58b9555fab9c1aceb4d6f1ef751",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R07G01U04",
+      "occurrence_id": "R07G01U04",
+      "global_preferred_unit_ordinal": 71,
+      "row_id": "R07",
+      "physical_row": 7,
+      "group_id": "R07G01",
+      "physical_gap_group": 1,
+      "local_unit_ordinal": 4,
+      "raw_base_label": "7",
+      "raw_label": "7",
+      "preferred_raw_unit_label": "7",
+      "primitive_component_ids": [
+        "R07G01C04"
+      ],
+      "primitive_span": {
+        "start_component_id": "R07G01C04",
+        "end_component_id": "R07G01C04"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1018,
+        750,
+        1111,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        674,
+        1105,
+        767
+      ],
+      "native_row_crop": "reports/source_v1/R07_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "470f4c74c24c415919def26ad55980fa78e7cae6f54b6c490c124b03d2051574",
+      "row_RGB_SHA256": "c6242b4177e9360bee0bea97d2752eab2223e58b9555fab9c1aceb4d6f1ef751",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R07G02U01",
+      "occurrence_id": "R07G02U01",
+      "global_preferred_unit_ordinal": 72,
+      "row_id": "R07",
+      "physical_row": 7,
+      "group_id": "R07G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 1,
+      "raw_base_label": "b",
+      "raw_label": "b",
+      "preferred_raw_unit_label": "b",
+      "primitive_component_ids": [
+        "R07G02C01"
+      ],
+      "primitive_span": {
+        "start_component_id": "R07G02C01",
+        "end_component_id": "R07G02C01"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1018,
+        750,
+        1111,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        674,
+        1105,
+        767
+      ],
+      "native_row_crop": "reports/source_v1/R07_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "470f4c74c24c415919def26ad55980fa78e7cae6f54b6c490c124b03d2051574",
+      "row_RGB_SHA256": "c6242b4177e9360bee0bea97d2752eab2223e58b9555fab9c1aceb4d6f1ef751",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R07G02U02",
+      "occurrence_id": "R07G02U02",
+      "global_preferred_unit_ordinal": 73,
+      "row_id": "R07",
+      "physical_row": 7,
+      "group_id": "R07G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 2,
+      "raw_base_label": "5",
+      "raw_label": "5",
+      "preferred_raw_unit_label": "5",
+      "primitive_component_ids": [
+        "R07G02C02"
+      ],
+      "primitive_span": {
+        "start_component_id": "R07G02C02",
+        "end_component_id": "R07G02C02"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1018,
+        750,
+        1111,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        674,
+        1105,
+        767
+      ],
+      "native_row_crop": "reports/source_v1/R07_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "470f4c74c24c415919def26ad55980fa78e7cae6f54b6c490c124b03d2051574",
+      "row_RGB_SHA256": "c6242b4177e9360bee0bea97d2752eab2223e58b9555fab9c1aceb4d6f1ef751",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R07G02U03",
+      "occurrence_id": "R07G02U03",
+      "global_preferred_unit_ordinal": 74,
+      "row_id": "R07",
+      "physical_row": 7,
+      "group_id": "R07G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 3,
+      "raw_base_label": "b",
+      "raw_label": "b",
+      "preferred_raw_unit_label": "b",
+      "primitive_component_ids": [
+        "R07G02C03"
+      ],
+      "primitive_span": {
+        "start_component_id": "R07G02C03",
+        "end_component_id": "R07G02C03"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1018,
+        750,
+        1111,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        674,
+        1105,
+        767
+      ],
+      "native_row_crop": "reports/source_v1/R07_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "470f4c74c24c415919def26ad55980fa78e7cae6f54b6c490c124b03d2051574",
+      "row_RGB_SHA256": "c6242b4177e9360bee0bea97d2752eab2223e58b9555fab9c1aceb4d6f1ef751",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R07G02U04",
+      "occurrence_id": "R07G02U04",
+      "global_preferred_unit_ordinal": 75,
+      "row_id": "R07",
+      "physical_row": 7,
+      "group_id": "R07G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 4,
+      "raw_base_label": "3",
+      "raw_label": "3",
+      "preferred_raw_unit_label": "3",
+      "primitive_component_ids": [
+        "R07G02C04"
+      ],
+      "primitive_span": {
+        "start_component_id": "R07G02C04",
+        "end_component_id": "R07G02C04"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1018,
+        750,
+        1111,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        674,
+        1105,
+        767
+      ],
+      "native_row_crop": "reports/source_v1/R07_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "470f4c74c24c415919def26ad55980fa78e7cae6f54b6c490c124b03d2051574",
+      "row_RGB_SHA256": "c6242b4177e9360bee0bea97d2752eab2223e58b9555fab9c1aceb4d6f1ef751",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R07G02U05",
+      "occurrence_id": "R07G02U05",
+      "global_preferred_unit_ordinal": 76,
+      "row_id": "R07",
+      "physical_row": 7,
+      "group_id": "R07G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 5,
+      "raw_base_label": "2",
+      "raw_label": "2",
+      "preferred_raw_unit_label": "2",
+      "primitive_component_ids": [
+        "R07G02C05"
+      ],
+      "primitive_span": {
+        "start_component_id": "R07G02C05",
+        "end_component_id": "R07G02C05"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1018,
+        750,
+        1111,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        674,
+        1105,
+        767
+      ],
+      "native_row_crop": "reports/source_v1/R07_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "470f4c74c24c415919def26ad55980fa78e7cae6f54b6c490c124b03d2051574",
+      "row_RGB_SHA256": "c6242b4177e9360bee0bea97d2752eab2223e58b9555fab9c1aceb4d6f1ef751",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    },
+    {
+      "unit_id": "R07G02U06",
+      "occurrence_id": "R07G02U06",
+      "global_preferred_unit_ordinal": 77,
+      "row_id": "R07",
+      "physical_row": 7,
+      "group_id": "R07G02",
+      "physical_gap_group": 2,
+      "local_unit_ordinal": 6,
+      "raw_base_label": "c",
+      "raw_label": "c",
+      "preferred_raw_unit_label": "c",
+      "primitive_component_ids": [
+        "R07G02C06"
+      ],
+      "primitive_span": {
+        "start_component_id": "R07G02C06",
+        "end_component_id": "R07G02C06"
+      },
+      "mark_attributes": [],
+      "visual_alternatives": [],
+      "confidence": "preferredvisiblecurrentoutline; markedclass/grammar alternatives explicit",
+      "current_layer": "visiblecurrentblackink",
+      "earlier_layer": null,
+      "earlier_layer_status": "unknown, no inventedolderletters",
+      "source_RAW_SHA256": "165a51c7058535585b1fe7ebd6f5421dbbc874739a123dfc688d02cf357972b3",
+      "source_native_row_box_xyxy": [
+        1018,
+        750,
+        1111,
+        1105
+      ],
+      "aligned_row_box_xyxy": [
+        750,
+        674,
+        1105,
+        767
+      ],
+      "native_row_crop": "reports/source_v1/R07_FULL_NATIVE_ROW_v1.png",
+      "row_PNG_SHA256": "470f4c74c24c415919def26ad55980fa78e7cae6f54b6c490c124b03d2051574",
+      "row_RGB_SHA256": "c6242b4177e9360bee0bea97d2752eab2223e58b9555fab9c1aceb4d6f1ef751",
+      "provenance_precision": "FullnativeROW authority plusgroup/localordinal, notexclusiveglyphmask/wordbox"
+    }
+  ],
+  "preferred_unit_count": 77,
+  "row_unit_counts": [
+    11,
+    11,
+    12,
+    11,
+    11,
+    11,
+    10
+  ],
+  "preferred_unitgrammar": "eachbaselineglyphcore oneunit; two markedcore+detachedchevron compositions eachoneunit; fourupperstrokes preservedascomponents",
+  "unique_historical_unit_count": null,
+  "semantic_values_seen": false
+}
