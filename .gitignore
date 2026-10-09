@@ -1,0 +1,10 @@
+private*/
+press/
+editorial/
+__pycache__/
+*.pyc
+.DS_Store
+*.docx
+*.pdf
+*.eml
+*.msg
