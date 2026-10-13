@@ -1,12 +1,12 @@
 {
-  "updated_utc": "2026-10-13T17:19:01.720178+00:00",
+  "updated_utc": "2026-10-13T18:21:53.378815+00:00",
   "portfolio_entries": 11,
   "new_complete_historical_solutions_since_previous_code_release": 0,
-  "registered_no_repeat_identities": 2565,
+  "registered_no_repeat_identities": 2568,
   "main_ledger_rows": 47,
-  "screening_ledger_rows": 1477,
+  "screening_ledger_rows": 1480,
   "counts_are_administrative_not_solved_counts": true,
-  "scope": "Existing audited cipher replays, refreshed no-repeat identities, exact prior exclusions, current primary metadata and portable static-loader controls",
+  "scope": "Existing audited cipher replays plus completed static-resource/metadata evidence and three new discovery-route holds",
   "officially_confirmed_case_ids": [
     "hcportal:615"
   ],
@@ -18,11 +18,11 @@
     "portable_fixture": "Synthetic cell values; actual observed ID/URL roles retained",
     "network_calls_required": false
   },
-  "newly_added_registry_identities": 11,
+  "newly_added_registry_identities": 3,
   "latest_screening_report": "SCREENING_UPDATE.json",
   "new_complete_historical_solutions_in_this_update": 0,
-  "added_registry_identities_since_code_core_v3": 44,
-  "release": "code-core-v6",
+  "added_registry_identities_since_code_core_v3": 47,
+  "release": "code-core-v7",
   "public_display_date": "2026-10-14",
   "current_primary_inventory": {
     "rows": 1875,
@@ -36,5 +36,13 @@
     "historical_target_runs": 0
   },
   "most_recent_published_partial_case": "hcportal:1679",
-  "newly_published_cipher_cases_in_this_update": 0
+  "newly_published_cipher_cases_in_this_update": 0,
+  "source_catalogue_metadata": {
+    "objects": 846,
+    "verified_UI_bindings": 10,
+    "UI_open_group": 266,
+    "native_open_count": null,
+    "qualified_new_targets": 0,
+    "report": "CATALOGUE_MAPPING.json"
+  }
 }

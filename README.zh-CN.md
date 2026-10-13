@@ -46,7 +46,9 @@ python3 -B scripts/verify_portfolio.py --replay
 
 **新增便携源码：** 目录解析工具现在配有静态 JavaScript 加载链追踪器。4 个合成控制覆盖共享起始位置的嵌套调用、局部函数封装、页面内数据容器和假资源反例。它只解析源码，不执行网页 JavaScript，不请求数据；动态或不支持的表达式保留为未知。[运行 4 个控制](research/catalogue_metadata/static_loader/README.md)。
 
-**去重记录扩展到 2,565 个身份：** 全部旧排除记录保留，本轮新增 11 个档案线索与发现路线，自 code-core-v3 起累计新增 44 个筛选身份。身份包含来源与访问路线，不等于密文数量。一次带日期的 HC Portal 全表核查包含 1,875 条记录，其中 1,047 条标为 Not solved；这些开放条目编号已全部登记，HC615 仍为 Solved。[目录核查范围](research/CATALOGUE_REFRESH.json)。
+**去重记录扩展到 2,568 个身份：** 保留全部 2,565 条旧记录，新增 3 条文章级发现路线，自 code-core-v3 起累计新增 47 个筛选身份。来源和访问路线不等于密文数量。带日期的 HC Portal 核查包含 1,875 条记录，其中 1,047 条标为 Not solved；这些开放条目编号已全部登记，HC615 仍为 Solved。[目录核查范围](research/CATALOGUE_REFRESH.json)。
+
+**先弄清目录究竟在统计什么：** 新取得的公开索引包含 846 个文章／对象，10 条字段关系已对照实际界面代码核实。其中 266 个对象所在的“open”分类，也包括部分释读与密钥记录。它们提供发现线索，仍需逐题核对原始来源、已有释读和准确身份。[字段核查证据](research/CATALOGUE_MAPPING.json)。
 
 **已有释读，先排除再研究：** 布鲁塞尔 R982、R984 找到准确条目对应的公开部分释读声明，已排除出新题队列。英国图书馆与 SP53/16 的新线索仍需补足来源、身份、语言或方法证据。本轮推进的是可复现工具与选题核查，没有新增完整破解。[筛选说明](research/SCREENING_NOTES.md) · [证据与尚存障碍](research/SCREENING_UPDATE.json)。
 

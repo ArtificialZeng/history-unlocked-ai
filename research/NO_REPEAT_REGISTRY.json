@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-10-13T17:19:01.720178+00:00",
+  "generated_utc": "2026-10-13T18:21:53.378815+00:00",
   "records": [
     {
       "case_id": "alabama:u0003_0000535_1657004_0001",
@@ -953,6 +953,42 @@
       "case_id": "catalogue-route:bl-arundel-ms151-cross-reference",
       "aliases": [
         "https://searcharchives.bl.uk/catalog/040-002039434"
+      ],
+      "flags": [
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "catalogue-route:cryptiana-francis1530",
+      "aliases": [
+        "https://cryptiana.web.fc2.com/code/francis2.htm"
+      ],
+      "flags": [
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "catalogue-route:cryptiana-napoleon-elba1814",
+      "aliases": [
+        "https://cryptiana.web.fc2.com/code/napoleon3.htm"
+      ],
+      "flags": [
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "catalogue-route:cryptiana-orozco1604",
+      "aliases": [
+        "https://cryptiana.web.fc2.com/code/orozco.htm"
       ],
       "flags": [
         "source_checked"

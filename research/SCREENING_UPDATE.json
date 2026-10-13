@@ -1,19 +1,11 @@
 {
-  "snapshot_utc": "2026-10-13T17:19:01.720178+00:00",
-  "scope": "Completed catalogue metadata, exact prior-reading exclusions and target-independent tool controls; no new complete historical reading.",
-  "new_registered_identity_count": 11,
+  "snapshot_utc": "2026-10-13T18:21:53.378815+00:00",
+  "scope": "Completed static resource and metadata-field qualification plus three article-level discovery holds; no new historical decipherment.",
+  "new_registered_identity_count": 3,
   "new_registered_ids": [
-    "archive-lead:bl-add-ms-32093-f423-monck-1659-1660",
-    "archive-lead:bl-cotton-vitellius-b-xiii-ff15-25-ghinucci",
-    "archive-lead:bl-cotton-vitellius-b-xiii-ff33-37-ghinucci",
-    "archive-lead:tna-sp53-16-no78-tempest-c1585",
-    "archive-lead:tna-sp53-16-no79-barret-c1585",
-    "blog-item:cipherbrain-kaliningrad-bottle-post",
-    "blog-item:cipherbrain-postcard-17-letters-2018",
-    "catalogue-route:bl-arundel-ms151-cross-reference",
-    "catalogue-route:cryptoole-satoru-public-index",
-    "catalogue-route:satoru-cryptiana-static-index",
-    "catalogue-route:schellingaf-cipher-trial-1"
+    "catalogue-route:cryptiana-francis1530",
+    "catalogue-route:cryptiana-napoleon-elba1814",
+    "catalogue-route:cryptiana-orozco1604"
   ],
   "list_page_checks": [
     {
@@ -240,9 +232,44 @@
       "public_record_urls": [
         "https://cryptoole.satoru.net/"
       ],
-      "level": "LOADER_FLOW_CONFIRMED_RESOURCE_EXPRESSION_HOLD",
-      "observation": "Static parsing established the actual fetch→response.json→catalogue callback chain. Its first fetch argument is not a complete literal; the exact resource URL remains unknown.",
-      "remaining": "No guessed endpoint, dynamic page execution or cipher admission. The generic node-identity tracer passed four synthetic fixtures."
+      "level": "RESOURCE_ACQUIRED_TEN_FIELD_BINDINGS_ARTICLE_IDENTITY_HOLD",
+      "observation": "A static literal resource address was established and one response parsed as846 objects. Ten UI field bindings were verified. The open UI category contains266 objects but merges native open,part,key.",
+      "remaining": "Native open counts, exact message/parent cross-route identities and individual prior/source/method gates are not established. Initial mixed-system parent proposals were withdrawn; no new solver admission.",
+      "metadata_report": "CATALOGUE_MAPPING.json",
+      "earlier_resource_expression_hold_preserved": true
+    },
+    {
+      "case_ids": [
+        "catalogue-route:cryptiana-orozco1604"
+      ],
+      "public_record_urls": [
+        "https://cryptiana.web.fc2.com/code/orozco.htm"
+      ],
+      "level": "ARTICLE_DISCOVERY_EXACT_ITEM_SOURCE_PRIOR_HOLD",
+      "observation": "A Memorial in Line Segment Cipher from Peru(1604) was checked at article-metadata level.",
+      "remaining": "Exact archival identity, readable original, current open status, language and exact prior-reading clearance remain unqualified. No target analysis."
+    },
+    {
+      "case_ids": [
+        "catalogue-route:cryptiana-francis1530"
+      ],
+      "public_record_urls": [
+        "https://cryptiana.web.fc2.com/code/francis2.htm"
+      ],
+      "level": "ARTICLE_DISCOVERY_READING_CLAIMS_NOT_EXACTLY_BOUND",
+      "observation": "A Numerical Cipher in a Letter to Francis I(1530) provides BnF fr3096/Italian/substitution context at article level.",
+      "remaining": "Reading/open claims are not securely bound to an individual message. Original-source and exact prior checks remain required. No target analysis."
+    },
+    {
+      "case_ids": [
+        "catalogue-route:cryptiana-napoleon-elba1814"
+      ],
+      "public_record_urls": [
+        "https://cryptiana.web.fc2.com/code/napoleon3.htm"
+      ],
+      "level": "ARTICLE_DISCOVERY_PRIOR_AND_MODEL_HOLD",
+      "observation": "Enciphered Proclamation to Army Attributed to Napoleon in Elba(1814) contains prior-reading claims and polyalphabetic context.",
+      "remaining": "Exact subject, current open status, prior-reading scope and method suitability remain unqualified. Answer-bearing source-query exposure occurred locally; no blind target claim or target analysis."
     }
   ],
   "identity_guard_correction": {
@@ -257,8 +284,8 @@
     "Administrative exclusions are not counts of attempted or solved ciphers.",
     "Missing source access is not evidence that a cipher is mathematically unsolvable."
   ],
-  "release": "code-core-v6",
-  "added_since_code_core_v3_count": 44,
+  "release": "code-core-v7",
+  "added_since_code_core_v3_count": 47,
   "added_since_code_core_v3_ids": [
     "archive-lead:bl-add-ms-32093-f423-monck-1659-1660",
     "archive-lead:bl-cotton-vitellius-b-xiii-ff15-25-ghinucci",
@@ -271,6 +298,9 @@
     "catalogue-route:agatha-be-a0510-000027-005873-ep4372",
     "catalogue-route:arch-be-a0510-000027-002526-fre-findingaid",
     "catalogue-route:bl-arundel-ms151-cross-reference",
+    "catalogue-route:cryptiana-francis1530",
+    "catalogue-route:cryptiana-napoleon-elba1814",
+    "catalogue-route:cryptiana-orozco1604",
     "catalogue-route:cryptoole-satoru-public-index",
     "catalogue-route:satoru-cryptiana-static-index",
     "catalogue-route:schellingaf-cipher-trial-1",
@@ -314,7 +344,17 @@
       "research_STOP_late_seconds": 16.78046,
       "seal_timely": true
     },
-    "interpretation": "These completed observations are retained with their scope and deadline exceptions; no timing compliance PASS or cryptanalytic failure is asserted."
+    "interpretation": "These completed observations are retained with their scope and deadline exceptions; no timing compliance PASS or cryptanalytic failure is asserted.",
+    "latest_source_metadata_checks": {
+      "scope": "Latest bounded source-metadata checks",
+      "global_BV_STOP_late_seconds": 13.734652,
+      "resource_FIRST_SAFE_late_seconds": 23.178238,
+      "article_shortlist_seal_late_seconds": 3.4597,
+      "UI_binding_STOP_late_seconds": 54.185389,
+      "post_cutoff_UI_source_read_rejected": true,
+      "historical_solver_runs": 0,
+      "note": "Administrative timing exceptions are preserved; they are not cryptanalytic failures or scientific PASS."
+    }
   },
   "catalogue_refresh": "CATALOGUE_REFRESH.json",
   "generic_ast_tool": {
@@ -322,7 +362,9 @@
     "fixture_total": 4,
     "fixtures_passed": 4,
     "scope": "Synthetic software controls only; no historical cipher solution",
-    "qualified_actual_resource_url": "UNKNOWN",
-    "no_page_javascript_execution": true
-  }
+    "qualified_actual_resource_url": "https://cryptoole.satoru.net/idx.json?v=20261012092820",
+    "no_page_javascript_execution": true,
+    "actual_resource_derivation_scope": "Static literal address observed; runtime immutability not proved"
+  },
+  "catalogue_mapping": "CATALOGUE_MAPPING.json"
 }

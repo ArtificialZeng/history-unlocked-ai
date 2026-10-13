@@ -1,5 +1,16 @@
 # Changes
 
+## 14 October 2026 — code-core-v7
+
+- Added a bounded public metadata report:846 catalogue articles/objects and ten
+  verified interface field bindings. The266-object UI open group includes
+  partial readings and key records; no unsolved-message count is inferred.
+- Expanded the sanitized no-repeat registry to2,568 identities, preserving all
+  2,565 previous records and adding three article-level discovery-route holds.
+- Updated the English, Chinese, Czech and Japanese READMEs, progress counts and
+  provenance. The11-entry portfolio and857 frozen scientific files are unchanged.
+  No new complete historical reading or additional expert verdict is asserted.
+
 ## 14 October 2026 — code-core-v6
 
 - Added a portable static-loader tracer with four synthetic controls and a

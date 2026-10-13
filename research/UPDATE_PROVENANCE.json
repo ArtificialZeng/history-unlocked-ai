@@ -1,26 +1,18 @@
 {
-  "release": "code-core-v6",
-  "generated_utc": "2026-10-13T17:19:01.720178+00:00",
-  "previous_public_commit": "7d05b3a4ec95f2a42a3c62485c509e5ec1555558",
-  "previous_public_registry_sha256": "db7cc45bb9bec552e00b492b9ee63e15b8997ac4312e71210488501fbea96bc2",
-  "authoritative_full_registry_sha256": "03b930d3a88839e5a1b32f78a7fdb924809f9efb49f1640a235b39822f61bab7",
-  "authoritative_registry_updated_utc": "2026-10-13T16:16:11.724638Z",
-  "published_sanitized_registry_sha256": "249795ff20bc63800782946d6fccb4efb66d333e8796d4b551bf67e322517380",
-  "old_registry_ids_retained": 2554,
+  "release": "code-core-v7",
+  "generated_utc": "2026-10-13T18:21:53.378815+00:00",
+  "previous_public_commit": "c7e59e157f6d147f32d9810f2882e4783aa2d39b",
+  "previous_public_registry_sha256": "249795ff20bc63800782946d6fccb4efb66d333e8796d4b551bf67e322517380",
+  "authoritative_full_registry_sha256": "541e24fb15445096c61af41f4a0ccbf92a4a6124f74067dea37ca4df83800737",
+  "authoritative_registry_updated_utc": "2026-10-13T17:52:35.746922Z",
+  "published_sanitized_registry_sha256": "2b41f1fd278367458bb98c4bcef86099521e01e79cd82cb26de37912cb9d0573",
+  "old_registry_ids_retained": 2565,
   "new_registry_ids": [
-    "archive-lead:bl-add-ms-32093-f423-monck-1659-1660",
-    "archive-lead:bl-cotton-vitellius-b-xiii-ff15-25-ghinucci",
-    "archive-lead:bl-cotton-vitellius-b-xiii-ff33-37-ghinucci",
-    "archive-lead:tna-sp53-16-no78-tempest-c1585",
-    "archive-lead:tna-sp53-16-no79-barret-c1585",
-    "blog-item:cipherbrain-kaliningrad-bottle-post",
-    "blog-item:cipherbrain-postcard-17-letters-2018",
-    "catalogue-route:bl-arundel-ms151-cross-reference",
-    "catalogue-route:cryptoole-satoru-public-index",
-    "catalogue-route:satoru-cryptiana-static-index",
-    "catalogue-route:schellingaf-cipher-trial-1"
+    "catalogue-route:cryptiana-francis1530",
+    "catalogue-route:cryptiana-napoleon-elba1814",
+    "catalogue-route:cryptiana-orozco1604"
   ],
-  "public_registry_records": 2565,
+  "public_registry_records": 2568,
   "omitted_fields": [
     "narrative histories",
     "contacts",
@@ -64,6 +56,18 @@
     {
       "receipt": "ROOT_ACTUAL_FETCH_CHAIN_INTAKE.json",
       "sha256": "179875a85441ef74e3fcab7f83e7f02bcd3ee782e43c5b544eb6331c2bf922b6"
+    },
+    {
+      "receipt": "FINAL.json",
+      "sha256": "5fc4532feb290e861490e30dcc5cca678760cb47285878004b1b4281528a20f2"
+    },
+    {
+      "receipt": "ROOT_ARTICLE_SHORTLIST_INTAKE.json",
+      "sha256": "2f35966287f14a558ee334c6bed54ce3defd6221aede55107b85ae6bb4aaa614"
+    },
+    {
+      "receipt": "ROOT_COMPLETED_UI_FIELD_BINDINGS_INTAKE.json",
+      "sha256": "e89b4c488d05b8e8e35fcdffbbee2b69e13d2d61cbe2a8fb2401ff117f113438"
     }
   ],
   "local_receipts_not_distributed": true,

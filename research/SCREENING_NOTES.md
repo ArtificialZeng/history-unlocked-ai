@@ -1,6 +1,6 @@
 # Finding the next genuinely open cipher
 
-Snapshot: 14 October 2026, code-core-v6. Eleven research entries retain the
+Snapshot: 14 October 2026, code-core-v7. Eleven research entries retain the
 officially confirmed HC615 result and HC1679's audited conditional partial
 reading. This release adds selection evidence and portable code; no new complete
 historical reading or external verdict is asserted.
@@ -16,7 +16,8 @@ historical reading or external verdict is asserted.
 | Kaliningrad bottle / 17-letter postcard | Unknown context/family in one case; very short advertised text without strong anchor in the other. | Insufficient evidence for feasibility above 80; no target attack. |
 | Zurich-labelled postcard | Clipped top/bottom writing and unresolved source identity. | Existing source freeze retained. Another card's solved claim does not solve this card. |
 | Unofficial Cryptiana index | 295 article metadata records counted. | Discovery route only: articles are not cipher-item counts and do not prove primary open status. |
-| Cryptoole catalogue loader | Actual fetch→response.json→callback chain traced statically. | The fetch URL expression remains unknown; no guessed endpoint or page JavaScript execution. |
+| Cryptoole catalogue index | A static literal address led to846 articles/objects;10 interface field bindings and UI category counts were established. | The266-object UI open group merges native open/part/key. Exact message identities, native open counts and single-message family/prior qualification remain held. |
+| Peru1604 / Francis I1530 / Elba1814 articles | Three article-level discovery routes checked and recorded. | Exact archival sources, subject-bound prior-reading claims and current open status remain unqualified. No solver admission. |
 
 ## What the current inventory establishes
 
@@ -29,9 +30,9 @@ The first envelope-schema assertion failed; the corrected cached parse required
 no additional request. Failed observations remain recorded rather than becoming
 false empty results.
 
-The public registry now retains **2,565 identities**, including 11 additions in
-this release and 44 since code-core-v3. Access routes and collection leads count
-as identities, not independent messages. The 47 main rows and 1,477 screening rows
+The public registry now retains **2,568 identities**, including three additions in
+this release and 47 since code-core-v3. Access routes and collection leads count
+as identities, not independent messages. The 47 main rows and 1,480 screening rows
 are administrative totals.
 
 ## Portable code added
@@ -49,4 +50,4 @@ fresh exact-item evidence and feasibility strictly above 80/100; scores are
 judgments, not calibrated success probabilities.
 
 [Structured evidence](SCREENING_UPDATE.json) · [Provenance](UPDATE_PROVENANCE.json)
-· [Progress counts](PROGRESS.json)
+· [Progress counts](PROGRESS.json) · [Catalogue field evidence](CATALOGUE_MAPPING.json)

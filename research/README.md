@@ -11,9 +11,9 @@ The second command deliberately returns `REJECT` (exit2), because the known conf
 
 Fresh primary status, exact-item prior review, source qualification, matched method controls and transparent feasibility strictly above 80/100 precede any historical solver assignment. Scores are judgments, not calibrated probabilities. Root coordinates; isolated workers solve only admitted cases. The local registry lock coordinates a single current directory, not disconnected machines.
 
-Snapshot display date: 14 October 2026. The snapshot contains **2,565 registered
-identities**, preserving all 2,554 earlier exclusions and adding 11 archive leads
-and discovery routes; 44 were added since code-core-v3. These are administrative
+Snapshot display date: 14 October 2026. The snapshot contains **2,568 registered
+identities**, preserving all 2,565 previous records and adding three article-level
+discovery routes; 47 were added since code-core-v3. These are administrative
 identities, not solved or attempted cipher counts. [PROGRESS.json](PROGRESS.json)
 tracks the 11-entry portfolio separately. Frozen attempts remain frozen.
 
@@ -48,3 +48,12 @@ node research/catalogue_metadata/static_loader/check_controls.mjs
 The [tool guide](catalogue_metadata/static_loader/README.md) explains AST node
 identity, supported syntax and unresolved dynamic expressions. Acorn 8.19.0 is
 vendored with its MIT notice. This is a selection utility, not a cipher solver.
+
+## Verified catalogue fields, with unresolved item identity
+
+The [dated metadata check](CATALOGUE_MAPPING.json) establishes 846 catalogue
+articles/objects and ten interface-to-field bindings. The UI groups native
+`open`, `part` and `key` together: its 266-object open group is not an independently
+qualified unsolved-message count. Initial parent/mixed-system prospects were
+withdrawn. No original response bodies, source scans or answer-bearing queries
+are distributed. Individual open/prior/source/method qualification remains required.

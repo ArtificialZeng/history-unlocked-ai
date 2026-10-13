@@ -1,0 +1,92 @@
+{
+  "observed_source_page": "https://cryptoole.satoru.net/",
+  "observed_static_resource_url": "https://cryptoole.satoru.net/idx.json?v=20261012092820",
+  "resource_completed_at_utc": "2026-10-13T17:57:00.082585+00:00",
+  "source_projection_at_utc": "2026-10-13T18:11:44.705122+00:00",
+  "source_response_bytes": 1120027,
+  "source_response_sha256": "8b6aa64b074c912181156da8a8d4dc95f70553bb4837a6b743d686290958f801",
+  "source_unit": "catalogue article/object, not an individual cryptogram",
+  "object_count": 846,
+  "verified_UI_field_relationships": 10,
+  "field_bindings": [
+    {
+      "field": "c",
+      "meaning": "status",
+      "AST_offset": 13032
+    },
+    {
+      "field": "S",
+      "meaning": "source",
+      "AST_offset": 13055
+    },
+    {
+      "field": "y",
+      "meaning": "type",
+      "AST_offset": 13072
+    },
+    {
+      "field": "L",
+      "meaning": "language",
+      "AST_offset": 13090
+    },
+    {
+      "field": "R",
+      "meaning": "region",
+      "AST_offset": 13108
+    },
+    {
+      "field": "C",
+      "meaning": "century",
+      "AST_offset": 13125
+    },
+    {
+      "field": "K",
+      "meaning": "country",
+      "AST_offset": 13142
+    },
+    {
+      "field": "Y",
+      "meaning": "system",
+      "AST_offset": 13168
+    },
+    {
+      "field": "i",
+      "meaning": "rendered article/item identity",
+      "AST_offset": 7174
+    },
+    {
+      "field": "pid",
+      "meaning": "parent identity used preferentially for article link",
+      "AST_offset": 7167
+    }
+  ],
+  "UI_status_mapping": {
+    "open": "open",
+    "part": "open",
+    "key": "open",
+    "solved": "solved",
+    "ptx": "solved",
+    "na": "na",
+    "ref": "ref"
+  },
+  "UI_group_counts": {
+    "open": 266,
+    "solved": 195,
+    "ref": 187,
+    "na": 198
+  },
+  "native_open_count": null,
+  "qualified_new_cipher_candidates": 0,
+  "raw_resource_body_distributed": false,
+  "dynamic_page_javascript_executed": false,
+  "historical_solver_runs": 0,
+  "limitations": [
+    "The UI open group merges native open, part and key. Its 266 objects are not 266 independently open messages.",
+    "The article/item and parent fields do not certify an exact cross-catalogue message identity.",
+    "Language and cipher-family memberships can be multiple per article; no single-message qualification follows.",
+    "Title, date, source-URL and freeform field semantics remain unqualified.",
+    "Three initial mixed-system/parent proposals were withdrawn; no eligible shortlist remains.",
+    "The resource URL is an observed static literal derivation, not proof of runtime immutability.",
+    "Earlier source-reading exposure and deadline exceptions are retained locally; no process-wide blindness claim."
+  ]
+}
