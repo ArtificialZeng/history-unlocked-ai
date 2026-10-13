@@ -1,5 +1,19 @@
 # Changes
 
+## 13 October 2026 — code-core-v5
+
+- Refreshed the public no-repeat registry to 2,554 identities, preserving all
+  2,550 earlier exclusions and adding two inventory routes and two card candidates.
+- Updated BnF leads with historical-answer and published partial-reading claims;
+  they remain excluded from new-target admission, with exact region matches held.
+- Published completed Brussels prior-reference checks and the first Zurich-labelled
+  postcard source check. Clipped writing, incomplete identity and prior uncertainty
+  remain explicit; no historical solver was admitted.
+- Distinguished the subjects of cached postcard comments instead of assigning
+  another card's solved claim to Zurich. Deadline exceptions are recorded.
+- Refreshed English, Chinese, Czech and Japanese homepages and readable progress
+  notes. All 857 frozen scientific files and the 11-entry portfolio remain unchanged.
+
 ## 13 October 2026 — code-core-v4
 
 - Refreshed the sanitized no-repeat registry to 2,550 identities, retaining all

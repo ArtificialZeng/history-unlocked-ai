@@ -11,15 +11,17 @@ The second command deliberately returns `REJECT` (exit2), because the known conf
 
 Fresh primary status, exact-item prior review, source qualification, matched method controls and transparent feasibility strictly above80/100 precede any historical solver assignment. Scores are judgments, not calibrated probabilities. Root coordinates; isolated workers solve only admitted cases. The local registry lock coordinates a single current directory, not disconnected machines.
 
-Snapshot date:13October2026. The snapshot contains **2,550 registered identities**,
-including 29 additional screening records since code-core-v3.
+Snapshot date:13October2026. The snapshot contains **2,554 registered identities**,
+including 33 additional screening records since code-core-v3, four of them added
+in code-core-v5. Identities also include access routes and source candidates.
 These are administrative exclusions, not counts of cryptanalytic attempts or
 solved ciphers. Case counts are in [PROGRESS.json](PROGRESS.json). Existing frozen
 attempts remain frozen; this file does not authorize their restart.
 
-The [latest screening report](SCREENING_UPDATE.json) records the source and
-identity holds alongside the new Italian and Spanish catalogue leads. None was
-admitted to historical key search. The [update provenance](UPDATE_PROVENANCE.json)
+The [readable screening notes](SCREENING_NOTES.md) and
+[latest screening report](SCREENING_UPDATE.json) record the source and identity
+holds, published-reading claims and Italian and Spanish catalogue leads. None
+was admitted to historical key search. The [update provenance](UPDATE_PROVENANCE.json)
 pins the full local registry and its different sanitized public derivative.
 
 Exact parent aliases must be checked as well as child IDs. The portable helper

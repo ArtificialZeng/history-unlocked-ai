@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-10-13T11:13:34.225230+00:00",
+  "generated_utc": "2026-10-13T12:14:55.453519+00:00",
   "records": [
     {
       "case_id": "alabama:u0003_0000535_1657004_0001",
@@ -691,6 +691,19 @@
       "sources": []
     },
     {
+      "case_id": "blog-item:cipherbrain-albuquerque-2010",
+      "aliases": [
+        "Postcard-Albuquerque.png",
+        "https://scienceblogs.de/klausis-krypto-kolumne/files/2016/11/Postcard-Albuquerque.png"
+      ],
+      "flags": [
+        "attempted"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
       "case_id": "blog-item:cipherbrain-spiez-bonn-paula-lange-1931",
       "aliases": [
         "https://mk-manuscripts.com/briefe-des-monats-2016",
@@ -820,6 +833,30 @@
       ],
       "flags": [
         "prior_reading",
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "catalogue-route:agatha-be-a0510-000027-005873-ep4372",
+      "aliases": [
+        "https://agatha.arch.be/data/ead/BE-A0510_000027_005873/annexes/EP4372.pdf"
+      ],
+      "flags": [
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "catalogue-route:arch-be-a0510-000027-002526-fre-findingaid",
+      "aliases": [
+        "https://search.arch.be/ead/pdf/BE-A0510_000027_002526_FRE.ead.pdf"
+      ],
+      "flags": [
         "source_checked"
       ],
       "disposition": "skip",
@@ -2337,6 +2374,7 @@
     {
       "case_id": "decrypt:4274",
       "aliases": [
+        "https://commons.wikimedia.org/wiki/File:Recueil_de_lettres_et_de_pi%C3%A8ces_originales,_et_de_copies_de_pi%C3%A8ces_indiqu%C3%A9es_comme_telles_dans_le_d%C3%A9pouillement_qui_suit._-_btv1b90601662_(013_of_102).jpg",
         "https://de-crypt.org/decrypt-web/RecordsView/4274"
       ],
       "flags": [
@@ -2356,6 +2394,7 @@
     {
       "case_id": "decrypt:4279",
       "aliases": [
+        "https://dbourdeau.github.io/cyphersolver/guiche1551.html",
         "https://de-crypt.org/decrypt-web/RecordsView/4279"
       ],
       "flags": [
@@ -4273,10 +4312,12 @@
     {
       "case_id": "decrypt:992",
       "aliases": [
+        "https://dbourdeau.github.io/cyphersolver/balbases1677.html",
         "https://de-crypt.org/decrypt-web/RecordsView/992"
       ],
       "flags": [
-        "attempted"
+        "attempted",
+        "source_checked"
       ],
       "disposition": "skip",
       "source_fingerprints": [],
@@ -4321,10 +4362,12 @@
     {
       "case_id": "decrypt:996",
       "aliases": [
+        "https://dbourdeau.github.io/cyphersolver/balbases1677.html",
         "https://de-crypt.org/decrypt-web/RecordsView/996"
       ],
       "flags": [
-        "attempted"
+        "attempted",
+        "source_checked"
       ],
       "disposition": "skip",
       "source_fingerprints": [],
@@ -4393,10 +4436,12 @@
     {
       "case_id": "decrypt:997",
       "aliases": [
+        "https://dbourdeau.github.io/cyphersolver/balbases1677.html",
         "https://de-crypt.org/decrypt-web/RecordsView/997"
       ],
       "flags": [
-        "attempted"
+        "attempted",
+        "source_checked"
       ],
       "disposition": "skip",
       "source_fingerprints": [],
@@ -4417,10 +4462,12 @@
     {
       "case_id": "decrypt:998",
       "aliases": [
+        "https://dbourdeau.github.io/cyphersolver/balbases1677.html",
         "https://de-crypt.org/decrypt-web/RecordsView/998"
       ],
       "flags": [
-        "attempted"
+        "attempted",
+        "source_checked"
       ],
       "disposition": "skip",
       "source_fingerprints": [],
@@ -50624,6 +50671,26 @@
           "evidence_type": "PUBLIC_IDENTITY_LOCATOR_ONLY_NOT_STATUS_PROOF"
         }
       ]
+    },
+    {
+      "case_id": "source-candidate:cipherbrain-postcard-baden-ch-tex",
+      "aliases": [
+        "Postcard-Baden-CH-tex.jpg",
+        "https://scienceblogs.de/klausis-krypto-kolumne/files/2016/11/Postcard-Baden-CH-tex.jpg"
+      ],
+      "flags": [
+        "attempted",
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [
+        {
+          "kind": "sha256_file",
+          "sha256": "3ea6d45aa1d80654dcc410a7c8886c1c82aa888b13244358585232fac4d43aa6",
+          "scope": "whole_source_image"
+        }
+      ],
+      "sources": []
     },
     {
       "case_id": "teaching-route:lig-prost-m1-meef-nsi-cryptanalyse",

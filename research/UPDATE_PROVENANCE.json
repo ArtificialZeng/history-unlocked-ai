@@ -1,44 +1,19 @@
 {
-  "release": "code-core-v4",
-  "generated_utc": "2026-10-13T11:13:34.225230+00:00",
-  "previous_public_commit": "8b9964642f1ee8dcc3da597e54a5e657077a811c",
-  "previous_public_registry_sha256": "ce722b99c90905350bd14c1a359786016cba30817730a8ae2984ebe567ce287c",
-  "authoritative_full_registry_sha256": "a5be47b1f8f5058aaa627936b1a986ce4a1248764854c08e757a1a99d148b5c0",
-  "authoritative_registry_updated_utc": "2026-10-13T11:13:34.225230+00:00",
-  "published_sanitized_registry_sha256": "8864a208bfb31a6eb016ce865404a6127dfb59cc3dc615d6a83f57e54e28d536",
-  "old_registry_ids_retained": 2521,
+  "release": "code-core-v5",
+  "generated_utc": "2026-10-13T12:14:55.453519+00:00",
+  "previous_public_commit": "3ce9102118872e794ad7af5ebb19049ad96dea80",
+  "previous_public_registry_sha256": "8864a208bfb31a6eb016ce865404a6127dfb59cc3dc615d6a83f57e54e28d536",
+  "authoritative_full_registry_sha256": "d2a10444c83f1701e48544981f5dfe9a9c98fcdddcb286342d7cfbbdbce69be5",
+  "authoritative_registry_updated_utc": "2026-10-13T12:05:26.967739Z",
+  "published_sanitized_registry_sha256": "db7cc45bb9bec552e00b492b9ee63e15b8997ac4312e71210488501fbea96bc2",
+  "old_registry_ids_retained": 2550,
   "new_registry_ids": [
-    "cyphersolver:262",
-    "decrypt:1004",
-    "decrypt:1005",
-    "decrypt:1894",
-    "decrypt:2288",
-    "decrypt:2289",
-    "decrypt:2290",
-    "decrypt:2291",
-    "decrypt:2292",
-    "decrypt:2293",
-    "decrypt:2294",
-    "decrypt:2295",
-    "decrypt:2753",
-    "decrypt:4223",
-    "decrypt:4224",
-    "decrypt:4230",
-    "decrypt:4249",
-    "decrypt:4256",
-    "decrypt:4258",
-    "decrypt:4267",
-    "decrypt:4269",
-    "decrypt:4273",
-    "decrypt:91",
-    "decrypt:982",
-    "decrypt:984",
-    "decrypt:992",
-    "decrypt:996",
-    "decrypt:997",
-    "decrypt:998"
+    "blog-item:cipherbrain-albuquerque-2010",
+    "catalogue-route:agatha-be-a0510-000027-005873-ep4372",
+    "catalogue-route:arch-be-a0510-000027-002526-fre-findingaid",
+    "source-candidate:cipherbrain-postcard-baden-ch-tex"
   ],
-  "public_registry_records": 2550,
+  "public_registry_records": 2554,
   "omitted_fields": [
     "narrative histories",
     "contacts",
@@ -48,43 +23,41 @@
   ],
   "local_evidence_pins": [
     {
-      "receipt": "ROOT_PARENT_AND_CHILD_EXACT_ALIAS_GUARD_v1.json",
-      "sha256": "d93572cac49b759db3abecbb9e8432e2cde80e4c7f6a707dfed01607981bedf9"
+      "receipt": "ROOT_OFFICIAL_INVENTORY_FIRST_METADATA_INTAKE.json",
+      "sha256": "8f078f3d4e1fb6ea1df178a68172a5cff227bf134aca268b2946c209f8bcfb81"
     },
     {
-      "receipt": "ROOT_BNF_SOURCE_ACCESS_CLOSURE.json",
-      "sha256": "93fa83bd3a13001254163c5e5750ae0e748617b020381c7c92791967b2e61c05"
+      "receipt": "ROOT_PRIOR_CHILD_AND_BOUND_INVENTORY_INTAKE.json",
+      "sha256": "0b4bd377f06557ae83f84e864e9008fb88f1d628016e1b2b373248cab5ec4289"
     },
     {
-      "receipt": "ROOT_FIRST_VATICAN_METADATA_INTAKE.json",
-      "sha256": "049027b5d75be314f1e2fb3d9c2a2c2d30b0800ee422f714d3ae773ba66e0d92"
+      "receipt": "ROOT_COMMONS_PRIOR_AND_CARD_METADATA_INTAKE.json",
+      "sha256": "332c51407b3a2159b9b6ced48b3fd6921317b0ee093565fbf149e7ef2d02c010"
     },
     {
-      "receipt": "ROOT_CLOSURE.json",
-      "sha256": "9ef6b01fb2a11cf8849042fdd9bf3b5b9ea6dbf48ed50f7901e71419273815f4"
+      "receipt": "ROOT_FIRST_ZURICH_CHEAP_SOURCE_HOLD_INTAKE.json",
+      "sha256": "7327c6aeaad701242ca565e17b38079c4dd4ad1fe30d59d8cbebd719601c38d1"
     },
     {
-      "receipt": "ROOT_CLOSURE.json",
-      "sha256": "f1ea9270e80d116aafb33b42c1ae6b2738266da054721281f9796045f0647a59"
-    },
-    {
-      "receipt": "ROOT_BRUSSELS_DETAILS_PRIOR_INTAKE.json",
-      "sha256": "d03c120a4c437492e68f81ca9ffddd2fa868d0b1f033ac372f3883f365900f1d"
-    },
-    {
-      "receipt": "ROOT_NON_TEXT_SOURCE_HOLD_INTAKE.json",
-      "sha256": "932c4a4aafa047f82d6d06117593106ff451f979aa105803bbbc303262a43430"
+      "receipt": "ROOT_CACHED_PRIOR_CLOSURE.json",
+      "sha256": "aa797e6fa96d07367ef1673637c712f64d418615aa9f274a3e58d3a450afc8d1"
     }
   ],
   "local_receipts_not_distributed": true,
   "scientific_case_payloads_changed": false,
   "new_complete_historical_solutions": 0,
   "source_response_body_not_distributed": true,
-  "fingerprint_correction": {
+  "historical_fingerprint_correction": {
     "case_id": "decrypt:1046",
     "removed_error_response_sha256": "1e47167c4db694fe06f61f4c5650ac54eff2ce3ee2eff9dea78c7f15aa55b606",
     "non_cipher_response_fingerprints_removed": 1,
     "historical_flags_and_exclusions_preserved": true,
     "explanation": "A server error image cannot identify a historical ciphertext. The local before-snapshot and correction receipt are retained; the error body is not published."
+  },
+  "cached_prior_manifest_replay_limit": {
+    "immutable_references_verified": 23,
+    "old_live_registry_input_pins_not_replayed": 1,
+    "sealed_worker_manifest_preserved": true,
+    "reason": "The live controller registry changed during the worker scope; no whole-manifest scientific PASS is asserted."
   }
 }

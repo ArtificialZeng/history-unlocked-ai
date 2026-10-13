@@ -1,37 +1,12 @@
 {
-  "snapshot_utc": "2026-10-13T11:13:34.225230+00:00",
-  "scope": "Metadata and source qualification only; no new historical cipher attack or reading.",
-  "new_registered_identity_count": 29,
+  "snapshot_utc": "2026-10-13T12:14:55.453519+00:00",
+  "scope": "Completed metadata, exact prior-claim attribution and first source feasibility checks only; no new historical cipher attack or complete reading.",
+  "new_registered_identity_count": 4,
   "new_registered_ids": [
-    "cyphersolver:262",
-    "decrypt:1004",
-    "decrypt:1005",
-    "decrypt:1894",
-    "decrypt:2288",
-    "decrypt:2289",
-    "decrypt:2290",
-    "decrypt:2291",
-    "decrypt:2292",
-    "decrypt:2293",
-    "decrypt:2294",
-    "decrypt:2295",
-    "decrypt:2753",
-    "decrypt:4223",
-    "decrypt:4224",
-    "decrypt:4230",
-    "decrypt:4249",
-    "decrypt:4256",
-    "decrypt:4258",
-    "decrypt:4267",
-    "decrypt:4269",
-    "decrypt:4273",
-    "decrypt:91",
-    "decrypt:982",
-    "decrypt:984",
-    "decrypt:992",
-    "decrypt:996",
-    "decrypt:997",
-    "decrypt:998"
+    "blog-item:cipherbrain-albuquerque-2010",
+    "catalogue-route:agatha-be-a0510-000027-005873-ep4372",
+    "catalogue-route:arch-be-a0510-000027-002526-fre-findingaid",
+    "source-candidate:cipherbrain-postcard-baden-ch-tex"
   ],
   "list_page_checks": [
     {
@@ -88,9 +63,15 @@
         "https://de-crypt.org/decrypt-web/RecordsView/4274",
         "https://de-crypt.org/decrypt-web/RecordsView/4279"
       ],
-      "level": "SOURCE_HOLD",
-      "observation": "Retained 200x144 and 200x149 previews were insufficient to read reliably; original viewer and documented IIIF requests returned HTTP 403.",
-      "remaining": "Exact folio, complete readable source, exact prior clearance and matched method qualification."
+      "level": "PRIOR_READING_OR_HISTORICAL_ANSWER_CLAIM_NO_NEW_ATTACK",
+      "observation": "A new public Commons catalogue describes Tournon to the king, 27 February 1556, with cipher and decipherment. A modern Guiche 22 November 1551 study claims key recovery and a substantial partial reading. These claims prevent new-target admission; exact folio/source-region matches remain unverified.",
+      "remaining": "Retain separate item IDs and prior exclusions; do not count known-answer reproduction as a new decipherment.",
+      "new_public_references": [
+        "https://commons.wikimedia.org/wiki/File:Recueil_de_lettres_et_de_pi%C3%A8ces_originales,_et_de_copies_de_pi%C3%A8ces_indiqu%C3%A9es_comme_telles_dans_le_d%C3%A9pouillement_qui_suit._-_btv1b90601662_(013_of_102).jpg",
+        "https://dbourdeau.github.io/cyphersolver/guiche1551.html"
+      ],
+      "original_access_failures_preserved": true,
+      "native_source_image_downloaded": false
     },
     {
       "case_ids": [
@@ -126,6 +107,60 @@
       "level": "METADATA_ONLY",
       "observation": "Primary record lists Cipher / Non-decrypted / Nomenclatures and Spanish plaintext language; an advertised transcription attachment has not been inspected.",
       "remaining": "A metadata pointer is not a readable source or a complete prior-art clearance."
+    },
+    {
+      "case_ids": [
+        "decrypt:992",
+        "decrypt:996",
+        "decrypt:997",
+        "decrypt:998"
+      ],
+      "public_record_urls": [
+        "https://dbourdeau.github.io/cyphersolver/balbases1677.html"
+      ],
+      "level": "EXACT_CHILD_REFERENCE_MODERN_READING_IDENTITY_HOLD",
+      "observation": "A public study explicitly references R985–R998 and identifies these four letters as lacking original decipherment. This historical observation does not establish absence of a modern reading.",
+      "remaining": "Exact modern claim-to-letter identity and source qualification remain incomplete."
+    },
+    {
+      "case_ids": [
+        "catalogue-route:agatha-be-a0510-000027-005873-ep4372",
+        "catalogue-route:arch-be-a0510-000027-002526-fre-findingaid"
+      ],
+      "level": "INVENTORY_ACCESS_HOLD",
+      "public_record_urls": [
+        "https://projetos.dhlab.fcsh.unl.pt/s/wsdroadmap/item/54367"
+      ],
+      "observation": "One inventory request returned a redirect without a PDF. A separate catalogue-bound finding-aid request redirected to an HTML page titled Visu - Login. No PDF contents were acquired; whether credentials are essential was not established.",
+      "remaining": "Inventory routes are access checks, not two new cipher messages or qualified source texts."
+    },
+    {
+      "case_ids": [
+        "source-candidate:cipherbrain-postcard-baden-ch-tex"
+      ],
+      "level": "FROZEN_SOURCE_AND_CURRENT_PRIOR_HOLD",
+      "public_record_urls": [
+        "https://scienceblogs.de/klausis-krypto-kolumne/2016/11/24/four-encrypted-postcards-wait-to-be-solved-part-2/"
+      ],
+      "observation": "The first native 1601x1009 image inspection found writing clipped at the top and bottom. Zurich and a year suffix 07 are visible; absolute date, complete card and opposite face are not certified. Six cached claim blocks identify a Zurich shorthand guess, not a reading claim.",
+      "remaining": "Complete source, exact artifact identity, current prior clearance, language and matched method are unqualified. No transcription ledger or target trial.",
+      "estimated_physical_positions_not_certified_tokens": [
+        70,
+        160
+      ],
+      "inspected_source_sha256": "3ea6d45aa1d80654dcc410a7c8886c1c82aa888b13244358585232fac4d43aa6",
+      "source_pixels_distributed": false
+    },
+    {
+      "case_ids": [
+        "blog-item:cipherbrain-albuquerque-2010"
+      ],
+      "level": "PUBLIC_PRIOR_SOLUTION_CLAIM_EXACT_IMAGE_IDENTITY_HOLD_NO_NEW_ATTACK",
+      "public_record_urls": [
+        "https://scienceblogs.de/klausis-krypto-kolumne/2016/11/24/four-encrypted-postcards-wait-to-be-solved-part-2/"
+      ],
+      "observation": "A cached comment claims the first/2010 postcard had a published solution and cites a 2010 LA Times article. The page recipient metadata supports that attribution; exact image correspondence is still unverified. A different solved-card sentence refers explicitly to another card.",
+      "remaining": "Exclude from the new-solving queue. A 2016 article headline and neighbouring solved wording do not certify any particular card as currently open or solved."
     }
   ],
   "identity_guard_correction": {
@@ -139,5 +174,53 @@
     "One-page catalogue checks do not certify global completeness or enforcement of server filters.",
     "Administrative exclusions are not counts of attempted or solved ciphers.",
     "Missing source access is not evidence that a cipher is mathematically unsolvable."
-  ]
+  ],
+  "release": "code-core-v5",
+  "added_since_code_core_v3_count": 33,
+  "added_since_code_core_v3_ids": [
+    "blog-item:cipherbrain-albuquerque-2010",
+    "catalogue-route:agatha-be-a0510-000027-005873-ep4372",
+    "catalogue-route:arch-be-a0510-000027-002526-fre-findingaid",
+    "cyphersolver:262",
+    "decrypt:1004",
+    "decrypt:1005",
+    "decrypt:1894",
+    "decrypt:2288",
+    "decrypt:2289",
+    "decrypt:2290",
+    "decrypt:2291",
+    "decrypt:2292",
+    "decrypt:2293",
+    "decrypt:2294",
+    "decrypt:2295",
+    "decrypt:2753",
+    "decrypt:4223",
+    "decrypt:4224",
+    "decrypt:4230",
+    "decrypt:4249",
+    "decrypt:4256",
+    "decrypt:4258",
+    "decrypt:4267",
+    "decrypt:4269",
+    "decrypt:4273",
+    "decrypt:91",
+    "decrypt:982",
+    "decrypt:984",
+    "decrypt:992",
+    "decrypt:996",
+    "decrypt:997",
+    "decrypt:998",
+    "source-candidate:cipherbrain-postcard-baden-ch-tex"
+  ],
+  "timing_exceptions": {
+    "Commons_Guiche_metadata_scope": {
+      "research_STOP_late_seconds": 27.824661,
+      "seal_late_seconds": 63.673393
+    },
+    "cached_card_claim_scope": {
+      "research_STOP_late_seconds": 16.78046,
+      "seal_timely": true
+    },
+    "interpretation": "These completed observations are retained with their scope and deadline exceptions; no timing compliance PASS or cryptanalytic failure is asserted."
+  }
 }
