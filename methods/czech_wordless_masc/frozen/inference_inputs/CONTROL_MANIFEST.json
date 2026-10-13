@@ -1,0 +1,86 @@
+{
+  "created_utc": "2026-10-13T22:34:50.635136+00:00",
+  "controls": [
+    {
+      "id": "P01",
+      "kind": "positive",
+      "length": 200,
+      "seed": 2026101401,
+      "cipher_path": "inference_inputs/P01.cipher.txt",
+      "cipher_sha256": "321ef5f57aa0e9b97e80b8668927df938c5bdf996bd5105c9af93e79404c757f"
+    },
+    {
+      "id": "P02",
+      "kind": "positive",
+      "length": 200,
+      "seed": 2026101402,
+      "cipher_path": "inference_inputs/P02.cipher.txt",
+      "cipher_sha256": "6930b4c093ac9d39f3cb30058b06eeea548b2a0acb61e606b5c195a03c99a33d"
+    },
+    {
+      "id": "P03",
+      "kind": "positive",
+      "length": 400,
+      "seed": 2026101403,
+      "cipher_path": "inference_inputs/P03.cipher.txt",
+      "cipher_sha256": "8aa43985575a0968f20ba797088e2e2eaada9d5b10b6cf778707656ba0478cd0"
+    },
+    {
+      "id": "P04",
+      "kind": "positive",
+      "length": 400,
+      "seed": 2026101404,
+      "cipher_path": "inference_inputs/P04.cipher.txt",
+      "cipher_sha256": "f9789718b73a0d9f305752242462f9f712a75006867759ad42eda2323c1b0e5b"
+    },
+    {
+      "id": "P05",
+      "kind": "positive",
+      "length": 600,
+      "seed": 2026101405,
+      "cipher_path": "inference_inputs/P05.cipher.txt",
+      "cipher_sha256": "39fee734d2bd324a72707302c04eb28a0aa02b81abdb2fa471775de6c503e8df"
+    },
+    {
+      "id": "P06",
+      "kind": "positive",
+      "length": 600,
+      "seed": 2026101406,
+      "cipher_path": "inference_inputs/P06.cipher.txt",
+      "cipher_sha256": "66d37e00f7241b00a76d75bf689e1b455f258f81907a8b8707daddb75d5b7ccd"
+    },
+    {
+      "id": "N01",
+      "kind": "matched_frequency_shuffle",
+      "length": 200,
+      "seed": 2026102301,
+      "matched_positive": "P01",
+      "cipher_path": "inference_inputs/N01.cipher.txt",
+      "cipher_sha256": "088e59e979c2aea26313f7f1a6116196add531b044fbc94dbd4cf107b100ad63",
+      "histogram_exactly_preserved": true
+    },
+    {
+      "id": "N02",
+      "kind": "matched_frequency_shuffle",
+      "length": 400,
+      "seed": 2026102303,
+      "matched_positive": "P03",
+      "cipher_path": "inference_inputs/N02.cipher.txt",
+      "cipher_sha256": "35325683b334902c21d1dbea5f0e15caf7648ab7f0da12d272db87801d048cfb",
+      "histogram_exactly_preserved": true
+    },
+    {
+      "id": "N03",
+      "kind": "matched_frequency_shuffle",
+      "length": 600,
+      "seed": 2026102305,
+      "matched_positive": "P05",
+      "cipher_path": "inference_inputs/N03.cipher.txt",
+      "cipher_sha256": "8add7edf1251e94a3723c7a0a1fa5fa35fb586f3c10d1c5ec8466beae018f89e",
+      "histogram_exactly_preserved": true
+    }
+  ],
+  "model_path": "inference_inputs/quadgram_model.bin",
+  "frequency_path": "inference_inputs/training_frequency_order.txt",
+  "no_plaintext_or_key_values": true
+}

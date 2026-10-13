@@ -1,5 +1,21 @@
 # Reusable methods and known-answer controls
 
+## Czech substitution without word spaces
+
+The [portable Czech solver](czech_wordless_masc/README.md) adds independently
+audited known-answer controls for clean, accent-folded Czech with word boundaries
+removed. Six frozen messages of 200, 400 and 600 letters were recovered exactly:
+2,400/2,400 characters and 132/132 observed key entries. Frequency-only ranking
+recovered 596/2,400 characters. The independent audit checked 156 assertions,
+candidate-key forward reconstruction and one fresh compiled replay.
+
+Code, seeds, frozen evidence and reproduction instructions are included. This
+profile does not certify historical handwriting, erasures or a target's cipher
+family. Three frequency-preserving shuffled controls do not establish statistical
+significance or a calibrated historical success probability.
+
+## Indexed cells
+
 The indexed-cell resource is a self-contained, target-independent codec and
 verifier. Its 11 frozen files are copied unchanged. It preserves literal tokens,
 explicit lengths and source-supported distinctions; it rejects duplicate,

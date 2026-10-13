@@ -23,3 +23,10 @@ The static-loader tracer and synthetic fixture harness are original project code
 under the top-level MIT licence. Vendored Acorn 8.19.0 retains its own MIT
 copyright notice in `research/catalogue_metadata/static_loader/vendor/acorn/LICENSE`;
 see that tool's `THIRD_PARTY_LICENSES.md` for its source and pinned file hash.
+
+The Czech wordless-substitution module's program code is MIT-licensed. Its
+UD_Czech-PDTC corpus-derived model, text fixtures and derived result data retain
+CC BY-NC-SA 4.0, including its noncommercial and share-alike conditions. Raw
+corpus files are omitted. See
+`methods/czech_wordless_masc/THIRD_PARTY_NOTICES.md` for exact upstream attribution,
+source revisions, modifications and the individual file licence scope.

@@ -58,3 +58,12 @@ node research/catalogue_metadata/static_loader/check_controls.mjs
 
 See its [supported syntax and limits](../research/catalogue_metadata/static_loader/README.md).
 Passing these controls is software validation, not a historical cipher result.
+
+## Czech substitution controls without word spaces
+
+The [Czech solver module](../methods/czech_wordless_masc/README.md) provides
+portable source code and frozen known-answer evidence for six messages of
+200, 400 and 600 letters. Its artifact checker and optional freshly compiled
+replay are separate from the nine historical-case verification commands above.
+Consult the module guide for exact commands, corpus attribution and profile
+limits. Synthetic recovery does not add a solved historical case to the portfolio.

@@ -12,8 +12,9 @@ The second command deliberately returns `REJECT` (exit2), because the known conf
 Fresh primary status, exact-item prior review, source qualification, matched method controls and transparent feasibility strictly above 80/100 precede any historical solver assignment. Scores are judgments, not calibrated probabilities. Root coordinates; isolated workers solve only admitted cases. The local registry lock coordinates a single current directory, not disconnected machines.
 
 Snapshot display date: 14 October 2026. The snapshot contains **2,579 registered
-identities**, preserving all 2,568 previous records and adding 11 screening
-identities; 58 were added since code-core-v3. These are administrative
+identities**, preserving all previous exclusions and refreshing observed source
+locators and image fingerprints. No new identity was added in code-core-v9;
+58 were added since code-core-v3. These are administrative
 identities, not solved or attempted cipher counts. [PROGRESS.json](PROGRESS.json)
 tracks the 11-entry portfolio separately. Frozen attempts remain frozen.
 
@@ -64,3 +65,11 @@ are distributed. Individual open/prior/source/method qualification remains requi
 official Decrypted exclusions and held 1646 source prospects. Catalogue status,
 public original access, exact prior clearance and decipherment remain distinct.
 No new target trial or complete reading was added.
+
+## Wordless Czech method qualification
+
+The [new solver module](../methods/czech_wordless_masc/README.md) includes six
+known-answer controls without word boundaries and an independently reviewed
+6/6 exact result. This qualifies only its documented clean modern-Czech
+synthetic profile; it does not admit a historical target or clear its source
+ambiguities.

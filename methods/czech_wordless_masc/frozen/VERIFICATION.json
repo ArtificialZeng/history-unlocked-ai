@@ -1,0 +1,103 @@
+{
+  "verified_utc": "2026-10-13T22:37:01.817909+00:00",
+  "status": "PASS",
+  "generic_cpp_core_byte_identical": true,
+  "gold_opened_after_all_nine_main_runs": true,
+  "inference_argv_contains_only_model_cipher_training_frequency_seed_budget_output": true,
+  "checked_controls": [
+    {
+      "id": "P01",
+      "key_is_bijection": true,
+      "decode_matches_returned_plaintext": true,
+      "score_recomputed_from_frozen_model": true,
+      "quadgram_denominator": 197,
+      "actual_restarts": 18,
+      "gold_encrypts_to_original_cipher_exactly": true,
+      "full_plaintext_exact": true
+    },
+    {
+      "id": "P02",
+      "key_is_bijection": true,
+      "decode_matches_returned_plaintext": true,
+      "score_recomputed_from_frozen_model": true,
+      "quadgram_denominator": 197,
+      "actual_restarts": 18,
+      "gold_encrypts_to_original_cipher_exactly": true,
+      "full_plaintext_exact": true
+    },
+    {
+      "id": "P03",
+      "key_is_bijection": true,
+      "decode_matches_returned_plaintext": true,
+      "score_recomputed_from_frozen_model": true,
+      "quadgram_denominator": 397,
+      "actual_restarts": 18,
+      "gold_encrypts_to_original_cipher_exactly": true,
+      "full_plaintext_exact": true
+    },
+    {
+      "id": "P04",
+      "key_is_bijection": true,
+      "decode_matches_returned_plaintext": true,
+      "score_recomputed_from_frozen_model": true,
+      "quadgram_denominator": 397,
+      "actual_restarts": 18,
+      "gold_encrypts_to_original_cipher_exactly": true,
+      "full_plaintext_exact": true
+    },
+    {
+      "id": "P05",
+      "key_is_bijection": true,
+      "decode_matches_returned_plaintext": true,
+      "score_recomputed_from_frozen_model": true,
+      "quadgram_denominator": 597,
+      "actual_restarts": 18,
+      "gold_encrypts_to_original_cipher_exactly": true,
+      "full_plaintext_exact": true
+    },
+    {
+      "id": "P06",
+      "key_is_bijection": true,
+      "decode_matches_returned_plaintext": true,
+      "score_recomputed_from_frozen_model": true,
+      "quadgram_denominator": 597,
+      "actual_restarts": 18,
+      "gold_encrypts_to_original_cipher_exactly": true,
+      "full_plaintext_exact": true
+    },
+    {
+      "id": "N01",
+      "key_is_bijection": true,
+      "decode_matches_returned_plaintext": true,
+      "score_recomputed_from_frozen_model": true,
+      "quadgram_denominator": 197,
+      "actual_restarts": 18,
+      "matched_frequency_histograms_equal": true
+    },
+    {
+      "id": "N02",
+      "key_is_bijection": true,
+      "decode_matches_returned_plaintext": true,
+      "score_recomputed_from_frozen_model": true,
+      "quadgram_denominator": 397,
+      "actual_restarts": 18,
+      "matched_frequency_histograms_equal": true
+    },
+    {
+      "id": "N03",
+      "key_is_bijection": true,
+      "decode_matches_returned_plaintext": true,
+      "score_recomputed_from_frozen_model": true,
+      "quadgram_denominator": 597,
+      "actual_restarts": 18,
+      "matched_frequency_histograms_equal": true
+    }
+  ],
+  "exact_positive_recoveries": 6,
+  "character_correct": 2400,
+  "baseline_character_correct": 596,
+  "observed_key_correct_total": 132,
+  "observed_key_denominator_total": 132,
+  "gold_forward_correct_total": 2400,
+  "no_method_revision_or_answer_tuning": true
+}

@@ -1,5 +1,12 @@
 # Changes
 
+## 14 October 2026 — code-core-v9
+
+- Added a portable Czech monoalphabetic-substitution solver and independently audited wordless synthetic controls:6/6 messages,2,400/2,400 characters,132/132 observed mappings; frequency-only baseline596/2,400.
+- Updated all four language homepages with the new method, reproducibility guide and narrow profile limits.
+- Refreshed observed source aliases and fingerprints while retaining all2,579 no-repeat identities and every existing exclusion.
+- Preserved all11 historical research entries and857 scientific files unchanged; no new complete historical reading or expert verdict.
+
 ## 14 October 2026 — code-core-v8
 
 - Updated all four READMEs with current source/status evidence and the 2,579-identity sanitized registry.

@@ -21,3 +21,5 @@ jobs:
         run: node research/catalogue_metadata/static_loader/check_controls.mjs
       - name: Replay target-independent indexed-cell controls
         run: node scripts/verify_methods.mjs
+      - name: Verify frozen wordless Czech substitution controls
+        run: python -B methods/czech_wordless_masc/verify_frozen.py

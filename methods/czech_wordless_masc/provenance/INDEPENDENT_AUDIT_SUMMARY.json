@@ -1,0 +1,93 @@
+{
+  "started_utc": "2026-10-13T22:58:40.295980+00:00",
+  "completed_utc": "2026-10-13T22:58:42.160065+00:00",
+  "scope": "Independent synthetic Czech ASCII-26 wordless monoalphabetic controls only",
+  "status": "PASS_SYNTHETIC_PROFILE",
+  "aggregate": {
+    "exact_plaintexts": 6,
+    "characters_correct": 2400,
+    "characters_denominator": 2400,
+    "observed_key_correct": 132,
+    "observed_key_denominator": 132,
+    "baseline_characters_correct": 596,
+    "baseline_exact_plaintexts": 0,
+    "candidate_forward_correct": 2400,
+    "gold_forward_correct": 2400
+  },
+  "actual_source_separation": [
+    {
+      "id": "P01",
+      "selected_document_id_sha256": "57a0809cc846a48804176ca779515f3d2e12b5b8ada745bbbe399cd86ee13655",
+      "full_sentence_count": 3,
+      "selected_document_absent_from_train": true,
+      "full_sentences_absent_from_train": true,
+      "entire_excerpt_absent_from_train_documents": true
+    },
+    {
+      "id": "P02",
+      "selected_document_id_sha256": "ef12cc8d9efcd9792d1b641bedb2bea5aeeea4e7dada07d3e7049113e5346c4e",
+      "full_sentence_count": 2,
+      "selected_document_absent_from_train": true,
+      "full_sentences_absent_from_train": true,
+      "entire_excerpt_absent_from_train_documents": true
+    },
+    {
+      "id": "P03",
+      "selected_document_id_sha256": "fd1c07b3eb78a19822468049d0406650a5b660f6aa94da84e376598162dfaec1",
+      "full_sentence_count": 6,
+      "selected_document_absent_from_train": true,
+      "full_sentences_absent_from_train": true,
+      "entire_excerpt_absent_from_train_documents": true
+    },
+    {
+      "id": "P04",
+      "selected_document_id_sha256": "902843ffba5119a44c07abb35ae30851b2846a63f434f972b7c6fc2eff5640da",
+      "full_sentence_count": 4,
+      "selected_document_absent_from_train": true,
+      "full_sentences_absent_from_train": true,
+      "entire_excerpt_absent_from_train_documents": true
+    },
+    {
+      "id": "P05",
+      "selected_document_id_sha256": "15973713e1ce9becd6fcd0ae07ca6d0acb661c9298f3a9a8e254996b7943b3a8",
+      "full_sentence_count": 6,
+      "selected_document_absent_from_train": true,
+      "full_sentences_absent_from_train": true,
+      "entire_excerpt_absent_from_train_documents": true
+    },
+    {
+      "id": "P06",
+      "selected_document_id_sha256": "551f93ac7a564f24cb57944593b750eff9e7b35c01f0d8ad918d39d8d6c1d5b8",
+      "full_sentence_count": 7,
+      "selected_document_absent_from_train": true,
+      "full_sentences_absent_from_train": true,
+      "entire_excerpt_absent_from_train_documents": true
+    }
+  ],
+  "limitations": [
+    "Artifact/code audit confirms separate gold-free input interface and recorded temporal order. No OS access log or sandbox proves the absence of unrecorded manual reads; retrospective receipts are evidence, not independent attestation.",
+    "The compile receipt was administratively recorded after grading; source equality and binary pin are verified, but that receipt alone does not establish executable provenance.",
+    "The inference process receives gold.json SHA-256 indirectly in INPUT_FREEZE; no plaintext/key values are exposed by argv or inference inputs. Gold resides in a separate folder, not an OS-enforced inaccessible store.",
+    "P06 timing probe is an extra same-seed diagnostic before freeze. Runner captures a score in stderr but never parses it; recorded configuration depends on elapsed time only. No evidence of probe-based tuning or ranking in inspected code.",
+    "Modern UD resource excerpts are disjoint in explicit document ID, full normalized sentence, and entire excerpt. Shared collections, author/genre dependence and near duplicates were not audited.",
+    "Six selected fixed-seed modern-corpus samples and three histogram shuffles do not estimate historical-case success probabilities or establish language/cipher-family identity.",
+    "Candidate-forward consistency establishes key/output compatibility; synthetic recovery is established separately by exact comparison to sealed known answers."
+  ],
+  "record_type": "Summary of original independent audit, not a new public replay",
+  "checks_passed": 156,
+  "checks_failed": 0,
+  "original_report_sha256": "a128d4404a00cc6a2e2c99370ca9debca801e054727adcf0758e8f9665da72c5",
+  "all_58_original_benchmark_refs_hash_verified": true,
+  "training_model_independently_rebuilt_byte_identically": true,
+  "all_main_restart_outputs_verified": 162,
+  "source_selection_and_enciphering_replayed": true,
+  "targeted_replay": {
+    "control": "P06",
+    "restarts": 18,
+    "steps": 100000,
+    "unchanged_source": true,
+    "bytes_identical_to_retained_output": true,
+    "original_receipt_sha256": "6fea9ae0cc77eddc70b73d5cca315a1875d3c8e51e0d1076936af8335d76da87"
+  },
+  "all_nine_original_solver_rerun_by_referee": false
+}

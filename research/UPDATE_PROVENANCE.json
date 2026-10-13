@@ -1,25 +1,13 @@
 {
-  "release": "code-core-v8",
-  "generated_utc": "2026-10-13T20:26:06.811291+00:00",
-  "previous_public_commit": "d5aa1bc8f888c23f86c6613b6319f065d05f226e",
-  "previous_public_registry_sha256": "2b41f1fd278367458bb98c4bcef86099521e01e79cd82cb26de37912cb9d0573",
-  "authoritative_full_registry_sha256": "8ebf4719f97459a9b822e7c8b68e758223c13af5bf773acb653c3490c2d780e6",
-  "authoritative_registry_updated_utc": "2026-10-13T20:23:32.550798Z",
-  "published_sanitized_registry_sha256": "326d6f941c91bd1c2b9110c58ae589d9a73002420e589bed78a78adda7ec2ac9",
-  "old_registry_ids_retained": 2568,
-  "new_registry_ids": [
-    "decrypt:1185",
-    "decrypt:189",
-    "decrypt:2242",
-    "decrypt:2284",
-    "decrypt:2323",
-    "decrypt:2874",
-    "decrypt:8589",
-    "decrypt:8602",
-    "decrypt:8613",
-    "decrypt:8623",
-    "decrypt:8624"
-  ],
+  "release": "code-core-v9",
+  "generated_utc": "2026-10-13T23:15:30.216087+00:00",
+  "previous_public_commit": "9f3339ca215c08e49fca8f459a5107b10d53eb81",
+  "previous_public_registry_sha256": "326d6f941c91bd1c2b9110c58ae589d9a73002420e589bed78a78adda7ec2ac9",
+  "authoritative_full_registry_sha256": "df93cd6a911541154eaee33ca243b430e25ac568476fe691b8162eea39f371aa",
+  "authoritative_registry_updated_utc": "2026-10-13T22:53:27.248836Z",
+  "published_sanitized_registry_sha256": "1f728652e57bb1e26c3ea45e2304919d97db43ad2eadf560a5474acd4fbaaf47",
+  "old_registry_ids_retained": 2579,
+  "new_registry_ids": [],
   "public_registry_records": 2579,
   "omitted_fields": [
     "narrative histories",
@@ -98,6 +86,18 @@
     {
       "receipt": "FINAL.json",
       "sha256": "9c735dba93c6a2d47b73d37b6b8f0dc04302d754c65b194d3f044521e4a38621"
+    },
+    {
+      "receipt": "ROOT_WORDLESS_RESOURCE_INTAKE.json",
+      "sha256": "0c599565a62180d95ca35e3dfa5cd8d0bca5a83862a1f449af76357038113cc3",
+      "manifest_sha256": "8ece450579a39241dd5cf46c2806549af9a0b75447ad9f16dcc7bff711fdc6e1",
+      "references_verified": 58
+    },
+    {
+      "receipt": "ROOT_WORDLESS_INDEPENDENT_REFEREE_INTAKE.json",
+      "sha256": "28a0690c785a76acef9640cf679d33ad078f4cc077aac896a8edf22514506291",
+      "manifest_sha256": "fbd8cd29110cfef4f3f9276bbd0a3bb883927bf0ea6e496bbea2c93537d443ff",
+      "references_verified": 73
     }
   ],
   "local_receipts_not_distributed": true,
@@ -116,5 +116,7 @@
     "old_live_registry_input_pins_not_replayed": 1,
     "sealed_worker_manifest_preserved": true,
     "reason": "The live controller registry changed during the worker scope; no whole-manifest scientific PASS is asserted."
-  }
+  },
+  "source_fingerprints_added": 6,
+  "new_method": "methods/czech_wordless_masc"
 }

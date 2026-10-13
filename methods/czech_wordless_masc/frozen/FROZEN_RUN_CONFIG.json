@@ -1,0 +1,26 @@
+{
+  "frozen_utc": "2026-10-13T22:35:15.956103+00:00",
+  "restarts_per_main_control": 18,
+  "steps_per_restart": 100000,
+  "preflight_seconds": 0.43986816700000003,
+  "estimated_full_seconds": 1662.7016712600002,
+  "seconds_until_stop_at_freeze": 571.599256,
+  "uniform_runtime_reduction": true,
+  "major_method_revisions": 0,
+  "threshold_exact_positives": 5,
+  "required_positives": 6,
+  "timing_probe": "P06, 1 restart x 10000 steps, output never read by runner; all main runs identical budget; total P06 restarts <=64",
+  "temperature": "original core max(0.05, 6*(1-it/steps))",
+  "gold_files_opened_by_runner": false,
+  "all_seeds": [
+    2026101401,
+    2026101402,
+    2026101403,
+    2026101404,
+    2026101405,
+    2026101406,
+    2026102301,
+    2026102303,
+    2026102305
+  ]
+}

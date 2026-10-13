@@ -1,0 +1,31 @@
+{
+  "scope": "Target-independent prospective generic Czech ASCII-26 MASC wordless qualification; no historical item assigned.",
+  "alphabet": "Latin A-Z26, corpus NFKD accents removed for this explicitly limited model. No claim about actual historical alphabets.",
+  "preserved_word_boundaries": false,
+  "training_corpus_file_role": "public UD Czech train-la language resource, never historical cipher training",
+  "test_corpus_file_role": "public UD Czech dev language resource, six distinct document-contained excerpts where available, no train/development overlaps; reject duplicate/same-document intersections",
+  "lengths": [
+    200,
+    200,
+    400,
+    400,
+    600,
+    600
+  ],
+  "positive_controls_max": 6,
+  "matched_frequency_shuffle_negative_controls_max": 3,
+  "configuration": "One fixed SA configuration, at most64restarts and at most100000iterations/restart per control; reduce uniformly before all inference if preflight runtime estimate needs it. Record exact final frozen setting.",
+  "seeds": [
+    2026101401,
+    2026101402,
+    2026101403,
+    2026101404,
+    2026101405,
+    2026101406
+  ],
+  "plaintext_or_observed_key_PASS_threshold": "At least5/6 exact plaintext recoveries across6independent positive excerpts; observed-key agreement and exact forward rates also report. If6independent excerpts are unavailable or inputs overlap, profile unqualified.",
+  "baseline": "training-letter-frequency rank assignment, identical normalization/profile",
+  "negative_limits": "Three shuffled controls are a falsification diagnostic only; no significant p-value/family-dominance or language-identification claim.",
+  "historical_domain_limit": "Modern corpus and idealized substitutions do not certify1903 handwriting/old spelling/errors/transcription/othercipherfamilies. Later exact-case source matching remains required.",
+  "zero_target_data": true
+}
