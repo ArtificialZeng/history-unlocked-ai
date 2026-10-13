@@ -20,7 +20,7 @@ cd history-unlocked-ai
 python3 -B scripts/verify_portfolio.py --replay
 ```
 
-Python 3.10+. Offline verification needs only the standard library. The runner checks scientific input hashes and executes **eight verification commands across seven runnable cases**, including forward reconstruction and applicable negative tests. It makes no AI or network calls. Cloning a private repository requires access; the verification itself needs no account.
+Python 3.10+. Offline verification needs only the standard library. The runner checks scientific input hashes and executes **nine verification commands across eight runnable cases**, including forward reconstruction and applicable negative tests. It makes no AI or network calls. Cloning a private repository requires access; the verification itself needs no account.
 
 ### Explore the results
 
@@ -36,8 +36,17 @@ Python 3.10+. Offline verification needs only the standard library. The runner c
 | HC1760 | Comparative card analysis | Conditional proposal; no standalone solver in this release | [Index note](cases/hc1760/) |
 | HC1446 | Symbol / ordering analysis | Partial result; four marks remain unassigned | [Partial note](cases/hc1446/) |
 | HC1098 | Symbol / ordering analysis | Partial result; 48 source fields remain erasures | [Partial note](cases/hc1098/) |
+| HC1679 | Conditional substitution | Independently audited partial reading; 276 selected positions checked, 15 unresolved spans | [Replay](cases/hc1679/) |
 
-The portfolio contains ten research entries, with explicit differences between confirmed readings, local exact readings, supplied-key replays and partial work. The HC1619 comparator is counted once. [Machine-readable index](data/CASE_INDEX.json).
+The portfolio contains eleven research entries, with explicit differences between confirmed readings, local exact readings, supplied-key replays and partial work. The HC1619 comparator is counted once. [Machine-readable index](data/CASE_INDEX.json).
+
+### Latest update · 13 October 2026
+
+**More evidence, ready to replay:** HC1679 now adds an independently audited partial-reading checker with 2,633 passing checks and no new key search. The unchanged candidate still contains 15 unresolved spans; it is published as a partial result.
+
+The research toolkit also includes a sanitized **2,507-identity no-repeat registry** and frozen indexed-cell code with 3 known-answer controls, 30 refusal controls and 4,368 finite decode variants. These tools help others extend the project without repeating known cases or treating plausible prose as proof.
+
+[Latest research tools](research/README.md) · [Method controls](methods/README.md) · [Release changes](CHANGELOG.md)
 
 ### Why it matters
 

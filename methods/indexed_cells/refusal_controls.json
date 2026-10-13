@@ -1,0 +1,542 @@
+{
+  "schema": "indexed-cell-refusal-controls-v1",
+  "construction": "Literal malformed inputs and expected refusal codes frozen before implementation.",
+  "alphabet": [
+    {
+      "cell_id": "r-9",
+      "token": "A"
+    },
+    {
+      "cell_id": "r-2",
+      "token": "CH"
+    },
+    {
+      "cell_id": "r-5",
+      "token": "é"
+    }
+  ],
+  "controls": [
+    {
+      "id": "REF-01-missing",
+      "operation": "decode",
+      "ciphertext": {
+        "length": 3,
+        "groups": [
+          {
+            "cell_id": "r-9",
+            "indices": [
+              1
+            ]
+          },
+          {
+            "cell_id": "r-2",
+            "indices": [
+              3
+            ]
+          }
+        ]
+      },
+      "expected_code": "missing_indices"
+    },
+    {
+      "id": "REF-02-duplicate-within",
+      "operation": "decode",
+      "ciphertext": {
+        "length": 3,
+        "groups": [
+          {
+            "cell_id": "r-9",
+            "indices": [
+              1,
+              1
+            ]
+          },
+          {
+            "cell_id": "r-2",
+            "indices": [
+              2,
+              3
+            ]
+          }
+        ]
+      },
+      "expected_code": "duplicate_index"
+    },
+    {
+      "id": "REF-03-duplicate-between",
+      "operation": "decode",
+      "ciphertext": {
+        "length": 2,
+        "groups": [
+          {
+            "cell_id": "r-9",
+            "indices": [
+              1
+            ]
+          },
+          {
+            "cell_id": "r-2",
+            "indices": [
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      "expected_code": "duplicate_index"
+    },
+    {
+      "id": "REF-04-zero",
+      "operation": "decode",
+      "ciphertext": {
+        "length": 2,
+        "groups": [
+          {
+            "cell_id": "r-9",
+            "indices": [
+              0,
+              1
+            ]
+          },
+          {
+            "cell_id": "r-2",
+            "indices": [
+              2
+            ]
+          }
+        ]
+      },
+      "expected_code": "zero_index"
+    },
+    {
+      "id": "REF-05-negative",
+      "operation": "decode",
+      "ciphertext": {
+        "length": 2,
+        "groups": [
+          {
+            "cell_id": "r-9",
+            "indices": [
+              -1,
+              1
+            ]
+          },
+          {
+            "cell_id": "r-2",
+            "indices": [
+              2
+            ]
+          }
+        ]
+      },
+      "expected_code": "negative_index"
+    },
+    {
+      "id": "REF-06-fraction",
+      "operation": "decode",
+      "ciphertext": {
+        "length": 2,
+        "groups": [
+          {
+            "cell_id": "r-9",
+            "indices": [
+              1.5
+            ]
+          },
+          {
+            "cell_id": "r-2",
+            "indices": [
+              2
+            ]
+          }
+        ]
+      },
+      "expected_code": "noninteger_index"
+    },
+    {
+      "id": "REF-07-string-index",
+      "operation": "decode",
+      "ciphertext": {
+        "length": 2,
+        "groups": [
+          {
+            "cell_id": "r-9",
+            "indices": [
+              "1"
+            ]
+          },
+          {
+            "cell_id": "r-2",
+            "indices": [
+              2
+            ]
+          }
+        ]
+      },
+      "expected_code": "noninteger_index"
+    },
+    {
+      "id": "REF-08-bool-index",
+      "operation": "decode",
+      "ciphertext": {
+        "length": 1,
+        "groups": [
+          {
+            "cell_id": "r-9",
+            "indices": [
+              true
+            ]
+          }
+        ]
+      },
+      "expected_code": "noninteger_index"
+    },
+    {
+      "id": "REF-09-null-index",
+      "operation": "decode",
+      "ciphertext": {
+        "length": 1,
+        "groups": [
+          {
+            "cell_id": "r-9",
+            "indices": [
+              null
+            ]
+          }
+        ]
+      },
+      "expected_code": "noninteger_index"
+    },
+    {
+      "id": "REF-10-unknown-cell",
+      "operation": "decode",
+      "ciphertext": {
+        "length": 1,
+        "groups": [
+          {
+            "cell_id": "unregistered",
+            "indices": [
+              1
+            ]
+          }
+        ]
+      },
+      "expected_code": "unknown_cell"
+    },
+    {
+      "id": "REF-11-duplicate-token",
+      "operation": "decode",
+      "alphabet": [
+        {
+          "cell_id": "r-9",
+          "token": "A"
+        },
+        {
+          "cell_id": "r-2",
+          "token": "A"
+        }
+      ],
+      "ciphertext": {
+        "length": 1,
+        "groups": [
+          {
+            "cell_id": "r-9",
+            "indices": [
+              1
+            ]
+          }
+        ]
+      },
+      "expected_code": "duplicate_token_label"
+    },
+    {
+      "id": "REF-12-duplicate-cell",
+      "operation": "decode",
+      "alphabet": [
+        {
+          "cell_id": "r-9",
+          "token": "A"
+        },
+        {
+          "cell_id": "r-9",
+          "token": "CH"
+        }
+      ],
+      "ciphertext": {
+        "length": 1,
+        "groups": [
+          {
+            "cell_id": "r-9",
+            "indices": [
+              1
+            ]
+          }
+        ]
+      },
+      "expected_code": "duplicate_cell_id"
+    },
+    {
+      "id": "REF-13-out-of-range",
+      "operation": "decode",
+      "ciphertext": {
+        "length": 2,
+        "groups": [
+          {
+            "cell_id": "r-9",
+            "indices": [
+              1,
+              3
+            ]
+          }
+        ]
+      },
+      "expected_code": "out_of_range_index"
+    },
+    {
+      "id": "REF-14-duplicate-group",
+      "operation": "decode",
+      "ciphertext": {
+        "length": 2,
+        "groups": [
+          {
+            "cell_id": "r-9",
+            "indices": [
+              1
+            ]
+          },
+          {
+            "cell_id": "r-9",
+            "indices": [
+              2
+            ]
+          }
+        ]
+      },
+      "expected_code": "duplicate_group_cell"
+    },
+    {
+      "id": "REF-15-index-list-string",
+      "operation": "decode",
+      "ciphertext": {
+        "length": 1,
+        "groups": [
+          {
+            "cell_id": "r-9",
+            "indices": "1"
+          }
+        ]
+      },
+      "expected_code": "indices_type"
+    },
+    {
+      "id": "REF-16-length-fraction",
+      "operation": "decode",
+      "ciphertext": {
+        "length": 1.5,
+        "groups": [
+          {
+            "cell_id": "r-9",
+            "indices": [
+              1
+            ]
+          }
+        ]
+      },
+      "expected_code": "invalid_length"
+    },
+    {
+      "id": "REF-17-length-missing",
+      "operation": "decode",
+      "ciphertext": {
+        "groups": [
+          {
+            "cell_id": "r-9",
+            "indices": [
+              1
+            ]
+          }
+        ]
+      },
+      "expected_code": "ciphertext_fields"
+    },
+    {
+      "id": "REF-18-length-bool",
+      "operation": "decode",
+      "ciphertext": {
+        "length": true,
+        "groups": [
+          {
+            "cell_id": "r-9",
+            "indices": [
+              1
+            ]
+          }
+        ]
+      },
+      "expected_code": "invalid_length"
+    },
+    {
+      "id": "REF-19-empty-token",
+      "operation": "decode",
+      "alphabet": [
+        {
+          "cell_id": "r-9",
+          "token": ""
+        }
+      ],
+      "ciphertext": {
+        "length": 1,
+        "groups": [
+          {
+            "cell_id": "r-9",
+            "indices": [
+              1
+            ]
+          }
+        ]
+      },
+      "expected_code": "empty_token"
+    },
+    {
+      "id": "REF-20-null-token",
+      "operation": "decode",
+      "alphabet": [
+        {
+          "cell_id": "r-9",
+          "token": null
+        }
+      ],
+      "ciphertext": {
+        "length": 1,
+        "groups": [
+          {
+            "cell_id": "r-9",
+            "indices": [
+              1
+            ]
+          }
+        ]
+      },
+      "expected_code": "token_type"
+    },
+    {
+      "id": "REF-21-unknown-token",
+      "operation": "encode",
+      "tokens": [
+        "A",
+        "ZZ"
+      ],
+      "expected_code": "unknown_token_label"
+    },
+    {
+      "id": "REF-22-raw-string",
+      "operation": "encode",
+      "tokens": "ACHé",
+      "expected_code": "tokens_type"
+    },
+    {
+      "id": "REF-23-null-list-token",
+      "operation": "encode",
+      "tokens": [
+        "A",
+        null
+      ],
+      "expected_code": "token_type"
+    },
+    {
+      "id": "REF-24-empty-list-token",
+      "operation": "encode",
+      "tokens": [
+        "A",
+        ""
+      ],
+      "expected_code": "empty_token"
+    },
+    {
+      "id": "REF-25-token-not-folded",
+      "operation": "encode",
+      "tokens": [
+        "é"
+      ],
+      "expected_code": "unknown_token_label"
+    },
+    {
+      "id": "REF-26-unsafe-index",
+      "operation": "decode",
+      "ciphertext": {
+        "length": 1,
+        "groups": [
+          {
+            "cell_id": "r-9",
+            "indices": [
+              9007199254740992
+            ]
+          }
+        ]
+      },
+      "expected_code": "noninteger_index"
+    },
+    {
+      "id": "REF-27-unknown-empty-cell",
+      "operation": "decode",
+      "ciphertext": {
+        "length": 0,
+        "groups": [
+          {
+            "cell_id": "unregistered",
+            "indices": []
+          }
+        ]
+      },
+      "expected_code": "unknown_cell"
+    },
+    {
+      "id": "REF-28-extra-ciphertext-field",
+      "operation": "decode",
+      "ciphertext": {
+        "length": 1,
+        "groups": [
+          {
+            "cell_id": "r-9",
+            "indices": [
+              1
+            ]
+          }
+        ],
+        "exception": 1
+      },
+      "expected_code": "ciphertext_fields"
+    },
+    {
+      "id": "REF-29-empty-cell",
+      "operation": "decode",
+      "alphabet": [
+        {
+          "cell_id": "",
+          "token": "A"
+        }
+      ],
+      "ciphertext": {
+        "length": 1,
+        "groups": [
+          {
+            "cell_id": "",
+            "indices": [
+              1
+            ]
+          }
+        ]
+      },
+      "expected_code": "empty_cell_id"
+    },
+    {
+      "id": "REF-30-negative-length",
+      "operation": "decode",
+      "ciphertext": {
+        "length": -1,
+        "groups": []
+      },
+      "expected_code": "invalid_length"
+    }
+  ]
+}

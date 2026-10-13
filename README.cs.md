@@ -20,7 +20,7 @@ cd history-unlocked-ai
 python3 -B scripts/verify_portfolio.py --replay
 ```
 
-Python 3.10 nebo novější. Ověření funguje offline se standardní knihovnou: kontroluje SHA-256 a spouští osm ověřovacích příkazů pro sedm případů. Nevyžaduje AI ani síťové volání. Klonování soukromého repozitáře vyžaduje přístup.
+Python 3.10 nebo novější. Ověření funguje offline se standardní knihovnou: kontroluje SHA-256 a spouští devět ověřovacích příkazů pro osm případů. Nevyžaduje AI ani síťové volání. Klonování soukromého repozitáře vyžaduje přístup.
 
 ### Přehled
 
@@ -36,8 +36,17 @@ Python 3.10 nebo novější. Ověření funguje offline se standardní knihovnou
 | HC1760 | Podmíněný návrh; bez samostatného solveru v tomto vydání | [Poznámka](cases/hc1760/) |
 | HC1446 | Dílčí výsledek; čtyři značky nejsou přiřazeny | [Poznámka](cases/hc1446/) |
 | HC1098 | Dílčí výsledek; 48 polí zůstává nečitelných | [Poznámka](cases/hc1098/) |
+| HC1679 | Nezávisle auditované podmíněné dílčí čtení; 276 pozic ověřeno, 15 nevyřešených úseků | [Ověření](cases/hc1679/) |
 
-Deset záznamů není deset potvrzených řešení. Srovnávací materiál HC1619 se počítá pouze jednou. [Strojově čitelný seznam](data/CASE_INDEX.json).
+Jedenáct výzkumných záznamů má jasně rozlišenou úroveň důkazů. Srovnávací materiál HC1619 se počítá pouze jednou. [Strojově čitelný seznam](data/CASE_INDEX.json).
+
+### Novinky · 13. října 2026
+
+**Nové důkazy k vlastnímu ověření:** HC1679 přidává nezávisle auditované podmíněné dílčí čtení. Ověřovač projde 2 633 kontrolami bez nového hledání klíče; 15 úseků zůstává nevyřešených.
+
+Zveřejňujeme také očištěný registr **2 507 známých identit**, který brání opakovaným útokům, a kód indexovaných buněk: 3 kontroly se známou odpovědí, 30 odmítacích kontrol a 4 368 konečných variant dekódování. Jde o softwarové kontroly, nikoli nová historická řešení.
+
+[Výzkumné nástroje](research/README.md) · [Kontroly metod](methods/README.md) · [Změny](CHANGELOG.md)
 
 ### Historie, kterou lze zkontrolovat
 

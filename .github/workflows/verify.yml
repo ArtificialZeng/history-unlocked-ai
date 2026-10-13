@@ -8,7 +8,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
       - name: Check repository boundary, scientific hashes and case certificates
         run: python -B scripts/verify_portfolio.py --replay
       - name: Check accidental-publication rejection
         run: python -B -m unittest discover -s tests
+      - name: Replay target-independent indexed-cell controls
+        run: node scripts/verify_methods.mjs

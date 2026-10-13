@@ -8,8 +8,8 @@ python3 -B scripts/verify_portfolio.py --replay
 
 This command checks the derivative's own SHA-256 manifest, confirms that the
 selected scientific payloads remain byte-identical to their original packages,
-checks the repository's public-content boundary, and executes eight verification
-commands covering seven cases. No accounts, API keys, AI calls, downloads, or
+checks the repository's public-content boundary, and executes nine verification
+commands covering eight cases. No accounts, API keys, AI calls, downloads, or
 new target searches are needed. Outputs are printed; HC1619's generated receipt
 is created in a temporary directory outside the frozen inputs.
 
@@ -22,6 +22,7 @@ is created in a temporary directory outside the frozen inputs.
 | HC852 | Given-grille mechanical projections, held source alternatives and integrity tests |
 | HC1615 | Donor-key/mark-carry projection; source certificates; 48 tamper checks |
 | HC1619 | Preferred 80/80 and conservative 79/80 transfer packets; ten pinned input files |
+| HC1679 | Conditional partial reading; 276 selected positions; all 15 unresolved spans and 114 saved trials preserved; 2,633 derivative checks |
 
 HC1760 is an index entry; HC1446 and HC1098 are partial-result notes. These three
 entries are not runnable solver releases. The HC1619 comparator in the HC1760
@@ -36,3 +37,14 @@ The earlier full-package manifests are not the manifest for this derivative.
 Historical internal manifests retain their source references and may explicitly
 report omitted scans or documents. `CODE_CORE_MANIFEST.json` defines this release;
 `docs/CORE_PROVENANCE.json` pins the unchanged scientific subset.
+
+## Target-independent research tools
+
+With Node.js 22 or later, run `node scripts/verify_methods.mjs` for the frozen
+indexed-cell software and independent synthetic-only audit. Its controls are
+not historical-target trials. See [method scope](../methods/README.md).
+
+The [portable registry guide](../research/README.md) explains how to initialize
+a separate working state from the sanitized identity snapshot. A known ID is
+rejected; a shared page/image hash requests review. A clear registry result
+does not replace fresh primary status, prior-art, source and method qualification.

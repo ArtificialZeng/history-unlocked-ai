@@ -1,0 +1,72 @@
+{
+  "case_id": "hcportal:1679",
+  "selected_branch": "SB_A18",
+  "branch_ids": [
+    "SB_A00",
+    "SB_A03",
+    "SB_A04",
+    "SB_A05",
+    "SB_A06",
+    "SB_A07",
+    "SB_A08",
+    "SB_A09",
+    "SB_A10",
+    "SB_A11",
+    "SB_A12",
+    "SB_A13",
+    "SB_A14",
+    "SB_A15",
+    "SB_A16",
+    "SB_A17",
+    "SB_A18",
+    "SB_A19",
+    "SB_A21"
+  ],
+  "excluded_branch_ids": [
+    "SB_A01",
+    "SB_A02",
+    "SB_A20",
+    "SB_O00",
+    "SB_O01",
+    "SB_O02",
+    "SB_O03",
+    "SB_O04",
+    "SB_O05",
+    "SB_O06",
+    "SB_O07",
+    "SB_O08",
+    "SB_O09",
+    "SB_O10",
+    "SB_O11",
+    "SB_O12",
+    "SB_O13"
+  ],
+  "seeds": [
+    1471001,
+    1471002,
+    1471003
+  ],
+  "solver_settings": {
+    "binary_sha256": "e7358c783bc574e6ccacb9679502d62e8fd64c0c494c9a6b34a545d910cf3861",
+    "hill_sweeps": 50,
+    "restarts": 12,
+    "seeds": [
+      1471001,
+      1471002,
+      1471003
+    ],
+    "source_sha256": "85d186a600e292de1ed63953e3e97b4b6eb031df3cc0fe80a8fe9cd96e53e086",
+    "steps": 20000,
+    "t0": 18.0,
+    "t1": 0.3
+  },
+  "search_calls": 114,
+  "positive_calls": 57,
+  "shuffle_calls": 57,
+  "shuffle_seed_rule": "1679000 + numeric SB_A suffix",
+  "maximum_global_solver_seconds": 1800,
+  "maximum_seconds_per_call": 90,
+  "selection_original": "Record all scores; highest normalizedQ4 candidate is ranking only, not correctness. Preserve alternatives and all rejected/failed results. No hand-manufactured text or LLM substitutions.",
+  "portable_paths": true,
+  "replay_runs_search": false
+}

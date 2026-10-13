@@ -11,3 +11,10 @@ HC1619 retains its scoped MIT checker and CC BY 4.0 original-contribution notice
 HC1446 and HC1098 distribute partial explanatory notes rather than their original
 full archives. HC1760 distributes an index description, not the original paper
 or a standalone evidence repository. Follow the individual case notices for reuse.
+
+HC1679's retained checker and original research contribution are CC BY 4.0.
+Its code-only derivative omits the earlier solver, model derivatives, scans,
+fonts and PDF; their rights are not changed. The indexed-cell original project
+code, synthetic controls and portable registry utility are covered by the
+top-level MIT grant. The public registry is identity metadata, not a licence
+grant over linked archival material.

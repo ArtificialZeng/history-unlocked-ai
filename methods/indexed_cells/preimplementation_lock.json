@@ -1,0 +1,23 @@
+{
+  "schema": "indexed-cell-preimplementation-lock-v1",
+  "locked_at_utc": "2026-10-07T04:28:57.391Z",
+  "statement": "These literal pairs, gold answers, gold occurrence certificates, malformed refusal expectations and budgets are frozen before any kernel implementation or execution. No encoder produced the three known-answer controls.",
+  "scope": "synthetic/software only; historical applicability unreviewed",
+  "files": [
+    {
+      "path": "controls.json",
+      "bytes": 16211,
+      "sha256": "2956b76a368cdaad22eb985c2b8a74acaccd422e1941fb554f36f34090ce24eb"
+    },
+    {
+      "path": "refusal_controls.json",
+      "bytes": 10417,
+      "sha256": "2e0e6f6783e5c544a22ee23fbe9371c433fe5c34a3c71d6affa191dfb17469a8"
+    },
+    {
+      "path": "validation_config.json",
+      "bytes": 1390,
+      "sha256": "8cf71456917a437af0a659779b57687b0bc76b8c07eb9ecb72b7370249751258"
+    }
+  ]
+}

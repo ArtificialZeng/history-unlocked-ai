@@ -1,0 +1,3 @@
+License retrieval failed: HTTP Error 403: Forbidden
+Authoritative locator: https://creativecommons.org/licenses/by/4.0/legalcode.txt
+Recorded model license remains CC BY-NC-SA 4.0.

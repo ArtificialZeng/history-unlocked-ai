@@ -1,4 +1,4 @@
-"""Verify this code derivative and replay seven existing cipher cases offline."""
+"""Verify this code derivative and replay eight frozen cipher cases offline."""
 import argparse
 import hashlib
 import json
@@ -19,6 +19,7 @@ COMMANDS = {
     "hc1615": [["verify.py", "--root", ".", "--donor-key",
                 "data/key/DONOR_FIXED_OBSERVED_KEY_v2.json", "--tamper"]],
     "hc1619": [["checker.py", "--output-dir", "{fresh_output}"]],
+    "hc1679": [["code/check_release.py"]],
 }
 
 
@@ -73,7 +74,7 @@ def replay():
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--replay", action="store_true", help="Run the eight case verification commands")
+    parser.add_argument("--replay", action="store_true", help="Run the nine case verification commands")
     args = parser.parse_args()
     result = {"status": "PASS", "boundary": check(), **verify_files(),
               "frozen_replays": replay() if args.replay else [],

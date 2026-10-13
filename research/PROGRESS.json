@@ -1,0 +1,15 @@
+{
+  "updated_utc": "2026-10-13T08:25:34.936252+00:00",
+  "portfolio_entries": 11,
+  "newly_published_partial_case": "hcportal:1679",
+  "new_complete_historical_solutions_since_previous_code_release": 0,
+  "registered_no_repeat_identities": 2507,
+  "main_ledger_rows": 47,
+  "screening_ledger_rows": 1418,
+  "counts_are_administrative_not_solved_counts": true,
+  "scope": "Public release update: audited partial certificate replay and target-independent research tools",
+  "officially_confirmed_case_ids": [
+    "hcportal:615"
+  ],
+  "external_reviews_for_other_problem_results": "User-reported ongoing expert review; no new verdict asserted"
+}

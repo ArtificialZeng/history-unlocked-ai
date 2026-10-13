@@ -1,0 +1,62 @@
+{
+  "schema": "indexed-cell-validation-config-v1",
+  "method_family": "fixed-injective-indexed-cell",
+  "scope": "synthetic/software only",
+  "random_seed": null,
+  "randomized_search": false,
+  "known_answer_controls": 3,
+  "refusal_controls": 30,
+  "historical_inputs": 0,
+  "historical_method_calls": 0,
+  "input_policy": {
+    "explicit_length": true,
+    "empty_message": "length 0 with no occurrences",
+    "literal_tokens": true,
+    "unicode_normalization": "none",
+    "raw_string_tokenization": "forbidden",
+    "null_or_empty_tokens": "forbidden",
+    "groups_may_be_omitted_if_empty": true,
+    "repeated_group_ids": "forbidden"
+  },
+  "enumeration": {
+    "alphabet": [
+      {
+        "cell_id": "n-7",
+        "token": "A"
+      },
+      {
+        "cell_id": "n-1",
+        "token": "CH"
+      },
+      {
+        "cell_id": "n-4",
+        "token": "é"
+      }
+    ],
+    "lengths": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "all_token_sequences": true,
+    "cell_group_permutations": 6,
+    "index_orders": [
+      "ascending",
+      "descending"
+    ],
+    "sequence_count": 364,
+    "decode_variants": 4368
+  },
+  "budgets": {
+    "kernel_calls_max": 4800,
+    "verifier_calls_max": 4400,
+    "source_reads_max": 0,
+    "target_reads_max": 0,
+    "language_scores_max": 0,
+    "external_calls_max": 0
+  },
+  "frozen_before_implementation": true
+}

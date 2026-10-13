@@ -1,0 +1,4232 @@
+{
+  "root_safe": false,
+  "case_id": "hcportal:1679",
+  "status": "review_pending",
+  "branch_id": "SB_A18",
+  "candidate_sha256": "5a6da2b1a9cfe4b95d9c36a5ceb7b47dfa4f54c57eeb9a87d478579513cc9d2a",
+  "scope": "Exact conditional selected-branch emitted-body forward replay through the original reversible adapter. Historical meaning, source choice, and complete visible-source reading remain unaudited.",
+  "decoder_key": "dumvleoranicshkjtyzpgbqxwf",
+  "source_class_to_proposed_folded_letter": {
+    "FORM_t": "d",
+    "FORM_2": "u",
+    "FORM_n": "m",
+    "FORM_f": "v",
+    "FORM_8": "l",
+    "FORM_5": "e",
+    "FORM_3": "o",
+    "FORM_h": "r",
+    "FORM_6": "a",
+    "FORM_m": "n",
+    "FORM_4": "i",
+    "FORM_s": "c",
+    "FORM_c": "s",
+    "FORM_r": "h",
+    "FORM_g": "k",
+    "FORM_7": "j",
+    "FORM_d": "t",
+    "FORM_1": "y",
+    "FORM_9": "z",
+    "FORM_b": "p",
+    "FORM_o": "g",
+    "FORM_p": "b"
+  },
+  "global_key_count": 1,
+  "position_exceptions": 0,
+  "source_repairs": 0,
+  "nulls_or_unknown_fills": 0,
+  "source_object_count": 276,
+  "observed_class_count": 22,
+  "unobserved_key_assignments_are_unidentified": 4,
+  "forward_wire_exact": true,
+  "forward_ordered_source_classes_exact": true,
+  "frozen_source_packet_inverse_exact": true,
+  "all_source_accounting": {
+    "original_packet_pin": {
+      "path": "independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A18.json",
+      "sha256": "6717306e7cd1e4fb2eeb5ce504f1277b29f474bd6c6921acd925812c710338e6",
+      "bytes": 590994
+    },
+    "complete_sidecar_pin": {
+      "path": "input_adapter_v1/sidecars/SB_A18.json",
+      "sha256": "aa8f3f9dd542cefea3ce63e3c86600fd6fb337fbfa1dad630cdbbed68c231736",
+      "bytes": 629437
+    },
+    "excluded_separator_occurrence_ids": [
+      "PIC_TOP_R02_G02_O06",
+      "PIC_MAIN_R01_G02_O04",
+      "PIC_MAIN_R01_G03_O10",
+      "PIC_MAIN_R01_G07_O11",
+      "PIC_MAIN_R02_G05_O01",
+      "PIC_MAIN_R03_G03_O09",
+      "PIC_MAIN_R03_G05_O06",
+      "PIC_MAIN_R03_G07_O08",
+      "PIC_MAIN_R04_G05_O06",
+      "PIC_MAIN_R04_G06_O05",
+      "PIC_MAIN_R05_G03_O11",
+      "PIC_MAIN_R06_G02_O06",
+      "PIC_MAIN_R06_G09_O07"
+    ],
+    "unassigned_visible_run_packets": [],
+    "unassigned_bounded_body_clusters": [],
+    "detached_roles_preserved": [
+      {
+        "mark_id": "MARK_LEADING_DOUBLELOBE",
+        "selected_role": "DETACHED_BODY_MARK"
+      },
+      {
+        "mark_id": "MARK_R02_RAISED_WEDGE",
+        "selected_role": "DETACHED_RAISED_MARK"
+      }
+    ],
+    "original_projection_and_all_context_retained_in_sidecar": true,
+    "terminal_or_component_uncertainty_retained": true,
+    "excluded_and_context_material_deciphered": false,
+    "all_36_frozen_alternatives_retained": true,
+    "17_branches_outside_this_clean_trial_not_falsified": true
+  },
+  "occurrences": [
+    {
+      "index_zero_based": 0,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G01_O01"
+        ],
+        "source_class_id": "FORM_t",
+        "source_form_id": "FORM_t",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "a",
+      "solver_wire_symbol": "A",
+      "literal_proposed_folded_letter": "d"
+    },
+    {
+      "index_zero_based": 1,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G01_O02"
+        ],
+        "source_class_id": "FORM_2",
+        "source_form_id": "FORM_2",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "b",
+      "solver_wire_symbol": "B",
+      "literal_proposed_folded_letter": "u"
+    },
+    {
+      "index_zero_based": 2,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G01_O03"
+        ],
+        "source_class_id": "FORM_n",
+        "source_form_id": "FORM_n",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "c",
+      "solver_wire_symbol": "C",
+      "literal_proposed_folded_letter": "m"
+    },
+    {
+      "index_zero_based": 3,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G02_O01"
+        ],
+        "source_class_id": "FORM_f",
+        "source_form_id": "FORM_f",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "d",
+      "solver_wire_symbol": "D",
+      "literal_proposed_folded_letter": "v"
+    },
+    {
+      "index_zero_based": 4,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G03_O01"
+        ],
+        "source_class_id": "FORM_8",
+        "source_form_id": "FORM_8",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "e",
+      "solver_wire_symbol": "E",
+      "literal_proposed_folded_letter": "l"
+    },
+    {
+      "index_zero_based": 5,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G03_O02"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 6,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G03_O03"
+        ],
+        "source_class_id": "FORM_f",
+        "source_form_id": "FORM_f",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "d",
+      "solver_wire_symbol": "D",
+      "literal_proposed_folded_letter": "v"
+    },
+    {
+      "index_zero_based": 7,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G03_O04"
+        ],
+        "source_class_id": "FORM_3",
+        "source_form_id": "FORM_3",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "g",
+      "solver_wire_symbol": "G",
+      "literal_proposed_folded_letter": "o"
+    },
+    {
+      "index_zero_based": 8,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G04_O01"
+        ],
+        "source_class_id": "FORM_3",
+        "source_form_id": "FORM_3",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "g",
+      "solver_wire_symbol": "G",
+      "literal_proposed_folded_letter": "o"
+    },
+    {
+      "index_zero_based": 9,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G04_O02"
+        ],
+        "source_class_id": "FORM_t",
+        "source_form_id": "FORM_t",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "a",
+      "solver_wire_symbol": "A",
+      "literal_proposed_folded_letter": "d"
+    },
+    {
+      "index_zero_based": 10,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G05_O01"
+        ],
+        "source_class_id": "FORM_h",
+        "source_form_id": "FORM_h",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "h",
+      "solver_wire_symbol": "H",
+      "literal_proposed_folded_letter": "r"
+    },
+    {
+      "index_zero_based": 11,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G05_O02"
+        ],
+        "source_class_id": "FORM_6",
+        "source_form_id": "FORM_6",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "i",
+      "solver_wire_symbol": "I",
+      "literal_proposed_folded_letter": "a"
+    },
+    {
+      "index_zero_based": 12,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G05_O03"
+        ],
+        "source_class_id": "FORM_t",
+        "source_form_id": "FORM_t",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "a",
+      "solver_wire_symbol": "A",
+      "literal_proposed_folded_letter": "d"
+    },
+    {
+      "index_zero_based": 13,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G05_O04"
+        ],
+        "source_class_id": "FORM_m",
+        "source_form_id": "FORM_m",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "j",
+      "solver_wire_symbol": "J",
+      "literal_proposed_folded_letter": "n"
+    },
+    {
+      "index_zero_based": 14,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G05_O05"
+        ],
+        "source_class_id": "FORM_4",
+        "source_form_id": "FORM_4",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "k",
+      "solver_wire_symbol": "K",
+      "literal_proposed_folded_letter": "i"
+    },
+    {
+      "index_zero_based": 15,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G05_O06"
+        ],
+        "source_class_id": "FORM_s",
+        "source_form_id": "FORM_s",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "l",
+      "solver_wire_symbol": "L",
+      "literal_proposed_folded_letter": "c"
+    },
+    {
+      "index_zero_based": 16,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G05_O07"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 17,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G06_O01"
+        ],
+        "source_class_id": "FORM_c",
+        "source_form_id": "FORM_c",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "m",
+      "solver_wire_symbol": "M",
+      "literal_proposed_folded_letter": "s"
+    },
+    {
+      "index_zero_based": 18,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G07_O01"
+        ],
+        "source_class_id": "FORM_s",
+        "source_form_id": "FORM_s",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "l",
+      "solver_wire_symbol": "L",
+      "literal_proposed_folded_letter": "c"
+    },
+    {
+      "index_zero_based": 19,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G07_O02"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 20,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G07_O03"
+        ],
+        "source_class_id": "FORM_h",
+        "source_form_id": "FORM_h",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "h",
+      "solver_wire_symbol": "H",
+      "literal_proposed_folded_letter": "r"
+    },
+    {
+      "index_zero_based": 21,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G07_O04"
+        ],
+        "source_class_id": "FORM_f",
+        "source_form_id": "FORM_f",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "d",
+      "solver_wire_symbol": "D",
+      "literal_proposed_folded_letter": "v"
+    },
+    {
+      "index_zero_based": 22,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G07_O05"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 23,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G07_O06"
+        ],
+        "source_class_id": "FORM_m",
+        "source_form_id": "FORM_m",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "j",
+      "solver_wire_symbol": "J",
+      "literal_proposed_folded_letter": "n"
+    },
+    {
+      "index_zero_based": 24,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G07_O07"
+        ],
+        "source_class_id": "FORM_3",
+        "source_form_id": "FORM_3",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "g",
+      "solver_wire_symbol": "G",
+      "literal_proposed_folded_letter": "o"
+    },
+    {
+      "index_zero_based": 25,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G07_O08"
+        ],
+        "source_class_id": "FORM_2",
+        "source_form_id": "FORM_2",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "b",
+      "solver_wire_symbol": "B",
+      "literal_proposed_folded_letter": "u"
+    },
+    {
+      "index_zero_based": 26,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G08_O01"
+        ],
+        "source_class_id": "FORM_r",
+        "source_form_id": "FORM_r",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "n",
+      "solver_wire_symbol": "N",
+      "literal_proposed_folded_letter": "h"
+    },
+    {
+      "index_zero_based": 27,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G08_O02"
+        ],
+        "source_class_id": "FORM_f",
+        "source_form_id": "FORM_f",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "d",
+      "solver_wire_symbol": "D",
+      "literal_proposed_folded_letter": "v"
+    },
+    {
+      "index_zero_based": 28,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G08_O03"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 29,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G08_O04"
+        ],
+        "source_class_id": "FORM_g",
+        "source_form_id": "FORM_g",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "o",
+      "solver_wire_symbol": "O",
+      "literal_proposed_folded_letter": "k"
+    },
+    {
+      "index_zero_based": 30,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G08_O05"
+        ],
+        "source_class_id": "FORM_t",
+        "source_form_id": "FORM_t",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "a",
+      "solver_wire_symbol": "A",
+      "literal_proposed_folded_letter": "d"
+    },
+    {
+      "index_zero_based": 31,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G08_O06"
+        ],
+        "source_class_id": "FORM_4",
+        "source_form_id": "FORM_4",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "k",
+      "solver_wire_symbol": "K",
+      "literal_proposed_folded_letter": "i"
+    },
+    {
+      "index_zero_based": 32,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G08_O07"
+        ],
+        "source_class_id": "FORM_s",
+        "source_form_id": "FORM_s",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "l",
+      "solver_wire_symbol": "L",
+      "literal_proposed_folded_letter": "c"
+    },
+    {
+      "index_zero_based": 33,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G08_O08"
+        ],
+        "source_class_id": "FORM_g",
+        "source_form_id": "FORM_g",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "o",
+      "solver_wire_symbol": "O",
+      "literal_proposed_folded_letter": "k"
+    },
+    {
+      "index_zero_based": 34,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G08_O09"
+        ],
+        "source_class_id": "FORM_3",
+        "source_form_id": "FORM_3",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "g",
+      "solver_wire_symbol": "G",
+      "literal_proposed_folded_letter": "o"
+    },
+    {
+      "index_zero_based": 35,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G08_O10"
+        ],
+        "source_class_id": "FORM_2",
+        "source_form_id": "FORM_2",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "b",
+      "solver_wire_symbol": "B",
+      "literal_proposed_folded_letter": "u"
+    },
+    {
+      "index_zero_based": 36,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G09_O01"
+        ],
+        "source_class_id": "FORM_7",
+        "source_form_id": "FORM_7",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "p",
+      "solver_wire_symbol": "P",
+      "literal_proposed_folded_letter": "j"
+    },
+    {
+      "index_zero_based": 37,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G09_O02"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 38,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G09_O03"
+        ],
+        "source_class_id": "FORM_c",
+        "source_form_id": "FORM_c",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "m",
+      "solver_wire_symbol": "M",
+      "literal_proposed_folded_letter": "s"
+    },
+    {
+      "index_zero_based": 39,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R01_G09_O04"
+        ],
+        "source_class_id": "FORM_d",
+        "source_form_id": "FORM_d",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "q",
+      "solver_wire_symbol": "Q",
+      "literal_proposed_folded_letter": "t"
+    },
+    {
+      "index_zero_based": 40,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R02_G01_O01"
+        ],
+        "source_class_id": "FORM_n",
+        "source_form_id": "FORM_n",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "c",
+      "solver_wire_symbol": "C",
+      "literal_proposed_folded_letter": "m"
+    },
+    {
+      "index_zero_based": 41,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R02_G01_O02"
+        ],
+        "source_class_id": "FORM_2",
+        "source_form_id": "FORM_2",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "b",
+      "solver_wire_symbol": "B",
+      "literal_proposed_folded_letter": "u"
+    },
+    {
+      "index_zero_based": 42,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R02_G01_O03"
+        ],
+        "source_class_id": "FORM_7",
+        "source_form_id": "FORM_7",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "p",
+      "solver_wire_symbol": "P",
+      "literal_proposed_folded_letter": "j"
+    },
+    {
+      "index_zero_based": 43,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R02_G02_O01"
+        ],
+        "source_class_id": "FORM_t",
+        "source_form_id": "FORM_t",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "a",
+      "solver_wire_symbol": "A",
+      "literal_proposed_folded_letter": "d"
+    },
+    {
+      "index_zero_based": 44,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R02_G02_O02"
+        ],
+        "source_class_id": "FORM_3",
+        "source_form_id": "FORM_3",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "g",
+      "solver_wire_symbol": "G",
+      "literal_proposed_folded_letter": "o"
+    },
+    {
+      "index_zero_based": 45,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R02_G02_O03"
+        ],
+        "source_class_id": "FORM_m",
+        "source_form_id": "FORM_m",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "j",
+      "solver_wire_symbol": "J",
+      "literal_proposed_folded_letter": "n"
+    },
+    {
+      "index_zero_based": 46,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R02_G02_O04"
+        ],
+        "source_class_id": "FORM_3",
+        "source_form_id": "FORM_3",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "g",
+      "solver_wire_symbol": "G",
+      "literal_proposed_folded_letter": "o"
+    },
+    {
+      "index_zero_based": 47,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_TOP_R02_G02_O05"
+        ],
+        "source_class_id": "FORM_f",
+        "source_form_id": "FORM_f",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "d",
+      "solver_wire_symbol": "D",
+      "literal_proposed_folded_letter": "v"
+    },
+    {
+      "index_zero_based": 48,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G01_O01"
+        ],
+        "source_class_id": "FORM_d",
+        "source_form_id": "FORM_d",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "q",
+      "solver_wire_symbol": "Q",
+      "literal_proposed_folded_letter": "t"
+    },
+    {
+      "index_zero_based": 49,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G01_O02"
+        ],
+        "source_class_id": "FORM_4",
+        "source_form_id": "FORM_4",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "k",
+      "solver_wire_symbol": "K",
+      "literal_proposed_folded_letter": "i"
+    },
+    {
+      "index_zero_based": 50,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G01_O03"
+        ],
+        "source_class_id": "FORM_c",
+        "source_form_id": "FORM_c",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "m",
+      "solver_wire_symbol": "M",
+      "literal_proposed_folded_letter": "s"
+    },
+    {
+      "index_zero_based": 51,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G01_O04"
+        ],
+        "source_class_id": "FORM_4",
+        "source_form_id": "FORM_4",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "k",
+      "solver_wire_symbol": "K",
+      "literal_proposed_folded_letter": "i"
+    },
+    {
+      "index_zero_based": 52,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G01_O05"
+        ],
+        "source_class_id": "FORM_s",
+        "source_form_id": "FORM_s",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "l",
+      "solver_wire_symbol": "L",
+      "literal_proposed_folded_letter": "c"
+    },
+    {
+      "index_zero_based": 53,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G01_O06"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 54,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G01_O07"
+        ],
+        "source_class_id": "FORM_h",
+        "source_form_id": "FORM_h",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "h",
+      "solver_wire_symbol": "H",
+      "literal_proposed_folded_letter": "r"
+    },
+    {
+      "index_zero_based": 55,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G01_O08"
+        ],
+        "source_class_id": "FORM_1",
+        "source_form_id": "FORM_1",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "r",
+      "solver_wire_symbol": "R",
+      "literal_proposed_folded_letter": "y"
+    },
+    {
+      "index_zero_based": 56,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G02_O01"
+        ],
+        "source_class_id": "FORM_t",
+        "source_form_id": "FORM_t",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "a",
+      "solver_wire_symbol": "A",
+      "literal_proposed_folded_letter": "d"
+    },
+    {
+      "index_zero_based": 57,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G02_O02"
+        ],
+        "source_class_id": "FORM_4",
+        "source_form_id": "FORM_4",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "k",
+      "solver_wire_symbol": "K",
+      "literal_proposed_folded_letter": "i"
+    },
+    {
+      "index_zero_based": 58,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G02_O03"
+        ],
+        "source_class_id": "FORM_g",
+        "source_form_id": "FORM_g",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "o",
+      "solver_wire_symbol": "O",
+      "literal_proposed_folded_letter": "k"
+    },
+    {
+      "index_zero_based": 59,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G03_O01"
+        ],
+        "source_class_id": "FORM_t",
+        "source_form_id": "FORM_t",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "a",
+      "solver_wire_symbol": "A",
+      "literal_proposed_folded_letter": "d"
+    },
+    {
+      "index_zero_based": 60,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G03_O02"
+        ],
+        "source_class_id": "FORM_h",
+        "source_form_id": "FORM_h",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "h",
+      "solver_wire_symbol": "H",
+      "literal_proposed_folded_letter": "r"
+    },
+    {
+      "index_zero_based": 61,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G03_O03"
+        ],
+        "source_class_id": "FORM_6",
+        "source_form_id": "FORM_6",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "i",
+      "solver_wire_symbol": "I",
+      "literal_proposed_folded_letter": "a"
+    },
+    {
+      "index_zero_based": 62,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G03_O04"
+        ],
+        "source_class_id": "FORM_r",
+        "source_form_id": "FORM_r",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "n",
+      "solver_wire_symbol": "N",
+      "literal_proposed_folded_letter": "h"
+    },
+    {
+      "index_zero_based": 63,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G03_O05"
+        ],
+        "source_class_id": "FORM_3",
+        "source_form_id": "FORM_3",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "g",
+      "solver_wire_symbol": "G",
+      "literal_proposed_folded_letter": "o"
+    },
+    {
+      "index_zero_based": 64,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G03_O06"
+        ],
+        "source_class_id": "FORM_2",
+        "source_form_id": "FORM_2",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "b",
+      "solver_wire_symbol": "B",
+      "literal_proposed_folded_letter": "u"
+    },
+    {
+      "index_zero_based": 65,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G03_O07"
+        ],
+        "source_class_id": "FORM_c",
+        "source_form_id": "FORM_c",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "m",
+      "solver_wire_symbol": "M",
+      "literal_proposed_folded_letter": "s"
+    },
+    {
+      "index_zero_based": 66,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G03_O08"
+        ],
+        "source_class_id": "FORM_g",
+        "source_form_id": "FORM_g",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "o",
+      "solver_wire_symbol": "O",
+      "literal_proposed_folded_letter": "k"
+    },
+    {
+      "index_zero_based": 67,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G03_O09"
+        ],
+        "source_class_id": "FORM_2",
+        "source_form_id": "FORM_2",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "b",
+      "solver_wire_symbol": "B",
+      "literal_proposed_folded_letter": "u"
+    },
+    {
+      "index_zero_based": 68,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G04_O01"
+        ],
+        "source_class_id": "FORM_g",
+        "source_form_id": "FORM_g",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "o",
+      "solver_wire_symbol": "O",
+      "literal_proposed_folded_letter": "k"
+    },
+    {
+      "index_zero_based": 69,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G04_O02"
+        ],
+        "source_class_id": "FORM_6",
+        "source_form_id": "FORM_6",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "i",
+      "solver_wire_symbol": "I",
+      "literal_proposed_folded_letter": "a"
+    },
+    {
+      "index_zero_based": 70,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G05_O01"
+        ],
+        "source_class_id": "FORM_c",
+        "source_form_id": "FORM_c",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "m",
+      "solver_wire_symbol": "M",
+      "literal_proposed_folded_letter": "s"
+    },
+    {
+      "index_zero_based": 71,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G05_O02"
+        ],
+        "source_class_id": "FORM_8",
+        "source_form_id": "FORM_8",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "e",
+      "solver_wire_symbol": "E",
+      "literal_proposed_folded_letter": "l"
+    },
+    {
+      "index_zero_based": 72,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G05_O03"
+        ],
+        "source_class_id": "FORM_3",
+        "source_form_id": "FORM_3",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "g",
+      "solver_wire_symbol": "G",
+      "literal_proposed_folded_letter": "o"
+    },
+    {
+      "index_zero_based": 73,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G05_O04"
+        ],
+        "source_class_id": "FORM_f",
+        "source_form_id": "FORM_f",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "d",
+      "solver_wire_symbol": "D",
+      "literal_proposed_folded_letter": "v"
+    },
+    {
+      "index_zero_based": 74,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G05_O05"
+        ],
+        "source_class_id": "FORM_6",
+        "source_form_id": "FORM_6",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "i",
+      "solver_wire_symbol": "I",
+      "literal_proposed_folded_letter": "a"
+    },
+    {
+      "index_zero_based": 75,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G06_O01"
+        ],
+        "source_class_id": "FORM_f",
+        "source_form_id": "FORM_f",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "d",
+      "solver_wire_symbol": "D",
+      "literal_proposed_folded_letter": "v"
+    },
+    {
+      "index_zero_based": 76,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G06_O02"
+        ],
+        "source_class_id": "FORM_h",
+        "source_form_id": "FORM_h",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "h",
+      "solver_wire_symbol": "H",
+      "literal_proposed_folded_letter": "r"
+    },
+    {
+      "index_zero_based": 77,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G06_O03"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 78,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G06_O04"
+        ],
+        "source_class_id": "FORM_8",
+        "source_form_id": "FORM_8",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "e",
+      "solver_wire_symbol": "E",
+      "literal_proposed_folded_letter": "l"
+    },
+    {
+      "index_zero_based": 79,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G06_O05"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 80,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G07_O01"
+        ],
+        "source_class_id": "FORM_c",
+        "source_form_id": "FORM_c",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "m",
+      "solver_wire_symbol": "M",
+      "literal_proposed_folded_letter": "s"
+    },
+    {
+      "index_zero_based": 81,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G07_O02"
+        ],
+        "source_class_id": "FORM_3",
+        "source_form_id": "FORM_3",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "g",
+      "solver_wire_symbol": "G",
+      "literal_proposed_folded_letter": "o"
+    },
+    {
+      "index_zero_based": 82,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G07_O03"
+        ],
+        "source_class_id": "FORM_2",
+        "source_form_id": "FORM_2",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "b",
+      "solver_wire_symbol": "B",
+      "literal_proposed_folded_letter": "u"
+    },
+    {
+      "index_zero_based": 83,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G07_O04"
+        ],
+        "source_class_id": "FORM_c",
+        "source_form_id": "FORM_c",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "m",
+      "solver_wire_symbol": "M",
+      "literal_proposed_folded_letter": "s"
+    },
+    {
+      "index_zero_based": 84,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G07_O05"
+        ],
+        "source_class_id": "FORM_d",
+        "source_form_id": "FORM_d",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "q",
+      "solver_wire_symbol": "Q",
+      "literal_proposed_folded_letter": "t"
+    },
+    {
+      "index_zero_based": 85,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G07_O06"
+        ],
+        "source_class_id": "FORM_h",
+        "source_form_id": "FORM_h",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "h",
+      "solver_wire_symbol": "H",
+      "literal_proposed_folded_letter": "r"
+    },
+    {
+      "index_zero_based": 86,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G07_O07"
+        ],
+        "source_class_id": "FORM_6",
+        "source_form_id": "FORM_6",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "i",
+      "solver_wire_symbol": "I",
+      "literal_proposed_folded_letter": "a"
+    },
+    {
+      "index_zero_based": 87,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G07_O08"
+        ],
+        "source_class_id": "FORM_c",
+        "source_form_id": "FORM_c",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "m",
+      "solver_wire_symbol": "M",
+      "literal_proposed_folded_letter": "s"
+    },
+    {
+      "index_zero_based": 88,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G07_O09"
+        ],
+        "source_class_id": "FORM_d",
+        "source_form_id": "FORM_d",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "q",
+      "solver_wire_symbol": "Q",
+      "literal_proposed_folded_letter": "t"
+    },
+    {
+      "index_zero_based": 89,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R01_G07_O10"
+        ],
+        "source_class_id": "FORM_4",
+        "source_form_id": "FORM_4",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "k",
+      "solver_wire_symbol": "K",
+      "literal_proposed_folded_letter": "i"
+    },
+    {
+      "index_zero_based": 90,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G01_O01"
+        ],
+        "source_class_id": "FORM_7",
+        "source_form_id": "FORM_7",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "p",
+      "solver_wire_symbol": "P",
+      "literal_proposed_folded_letter": "j"
+    },
+    {
+      "index_zero_based": 91,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G01_O02"
+        ],
+        "source_class_id": "FORM_4",
+        "source_form_id": "FORM_4",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "k",
+      "solver_wire_symbol": "K",
+      "literal_proposed_folded_letter": "i"
+    },
+    {
+      "index_zero_based": 92,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G01_O03"
+        ],
+        "source_class_id": "FORM_r",
+        "source_form_id": "FORM_r",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "n",
+      "solver_wire_symbol": "N",
+      "literal_proposed_folded_letter": "h"
+    },
+    {
+      "index_zero_based": 93,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G01_O04"
+        ],
+        "source_class_id": "FORM_9",
+        "source_form_id": "FORM_9",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "s",
+      "solver_wire_symbol": "S",
+      "literal_proposed_folded_letter": "z"
+    },
+    {
+      "index_zero_based": 94,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G02_O01"
+        ],
+        "source_class_id": "FORM_2",
+        "source_form_id": "FORM_2",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "b",
+      "solver_wire_symbol": "B",
+      "literal_proposed_folded_letter": "u"
+    },
+    {
+      "index_zero_based": 95,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G02_O02"
+        ],
+        "source_class_id": "FORM_b",
+        "source_form_id": "FORM_b",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "t",
+      "solver_wire_symbol": "T",
+      "literal_proposed_folded_letter": "p"
+    },
+    {
+      "index_zero_based": 96,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G02_O03"
+        ],
+        "source_class_id": "FORM_h",
+        "source_form_id": "FORM_h",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "h",
+      "solver_wire_symbol": "H",
+      "literal_proposed_folded_letter": "r"
+    },
+    {
+      "index_zero_based": 97,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G02_O04"
+        ],
+        "source_class_id": "FORM_4",
+        "source_form_id": "FORM_4",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "k",
+      "solver_wire_symbol": "K",
+      "literal_proposed_folded_letter": "i"
+    },
+    {
+      "index_zero_based": 98,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G02_O05"
+        ],
+        "source_class_id": "FORM_n",
+        "source_form_id": "FORM_n",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "c",
+      "solver_wire_symbol": "C",
+      "literal_proposed_folded_letter": "m"
+    },
+    {
+      "index_zero_based": 99,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G02_O06"
+        ],
+        "source_class_id": "FORM_m",
+        "source_form_id": "FORM_m",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "j",
+      "solver_wire_symbol": "J",
+      "literal_proposed_folded_letter": "n"
+    },
+    {
+      "index_zero_based": 100,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G02_O07"
+        ],
+        "source_class_id": "FORM_3",
+        "source_form_id": "FORM_3",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "g",
+      "solver_wire_symbol": "G",
+      "literal_proposed_folded_letter": "o"
+    },
+    {
+      "index_zero_based": 101,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G02_O08"
+        ],
+        "source_class_id": "FORM_c",
+        "source_form_id": "FORM_c",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "m",
+      "solver_wire_symbol": "M",
+      "literal_proposed_folded_letter": "s"
+    },
+    {
+      "index_zero_based": 102,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G02_O09"
+        ],
+        "source_class_id": "FORM_d",
+        "source_form_id": "FORM_d",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "q",
+      "solver_wire_symbol": "Q",
+      "literal_proposed_folded_letter": "t"
+    },
+    {
+      "index_zero_based": 103,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G02_O10"
+        ],
+        "source_class_id": "FORM_4",
+        "source_form_id": "FORM_4",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "k",
+      "solver_wire_symbol": "K",
+      "literal_proposed_folded_letter": "i"
+    },
+    {
+      "index_zero_based": 104,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G03_O01"
+        ],
+        "source_class_id": "FORM_7",
+        "source_form_id": "FORM_7",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "p",
+      "solver_wire_symbol": "P",
+      "literal_proposed_folded_letter": "j"
+    },
+    {
+      "index_zero_based": 105,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G03_O02"
+        ],
+        "source_class_id": "FORM_c",
+        "source_form_id": "FORM_c",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "m",
+      "solver_wire_symbol": "M",
+      "literal_proposed_folded_letter": "s"
+    },
+    {
+      "index_zero_based": 106,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G03_O03"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 107,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G03_O04"
+        ],
+        "source_class_id": "FORM_n",
+        "source_form_id": "FORM_n",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "c",
+      "solver_wire_symbol": "C",
+      "literal_proposed_folded_letter": "m"
+    },
+    {
+      "index_zero_based": 108,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G04_O01"
+        ],
+        "source_class_id": "FORM_b",
+        "source_form_id": "FORM_b",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "t",
+      "solver_wire_symbol": "T",
+      "literal_proposed_folded_letter": "p"
+    },
+    {
+      "index_zero_based": 109,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G04_O02"
+        ],
+        "source_class_id": "FORM_h",
+        "source_form_id": "FORM_h",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "h",
+      "solver_wire_symbol": "H",
+      "literal_proposed_folded_letter": "r"
+    },
+    {
+      "index_zero_based": 110,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G04_O03"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 111,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G04_O04"
+        ],
+        "source_class_id": "FORM_c",
+        "source_form_id": "FORM_c",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "m",
+      "solver_wire_symbol": "M",
+      "literal_proposed_folded_letter": "s"
+    },
+    {
+      "index_zero_based": 112,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G04_O05"
+        ],
+        "source_class_id": "FORM_f",
+        "source_form_id": "FORM_f",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "d",
+      "solver_wire_symbol": "D",
+      "literal_proposed_folded_letter": "v"
+    },
+    {
+      "index_zero_based": 113,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G04_O06"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 114,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G04_O07"
+        ],
+        "source_class_id": "FORM_t",
+        "source_form_id": "FORM_t",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "a",
+      "solver_wire_symbol": "A",
+      "literal_proposed_folded_letter": "d"
+    },
+    {
+      "index_zero_based": 115,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G04_O08"
+        ],
+        "source_class_id": "FORM_o",
+        "source_form_id": "FORM_o",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "u",
+      "solver_wire_symbol": "U",
+      "literal_proposed_folded_letter": "g"
+    },
+    {
+      "index_zero_based": 116,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G04_O09"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 117,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G04_O10"
+        ],
+        "source_class_id": "FORM_n",
+        "source_form_id": "FORM_n",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "c",
+      "solver_wire_symbol": "C",
+      "literal_proposed_folded_letter": "m"
+    },
+    {
+      "index_zero_based": 118,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G06_O01"
+        ],
+        "source_class_id": "FORM_f",
+        "source_form_id": "FORM_f",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "d",
+      "solver_wire_symbol": "D",
+      "literal_proposed_folded_letter": "v"
+    },
+    {
+      "index_zero_based": 119,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G06_O02"
+        ],
+        "source_class_id": "FORM_9",
+        "source_form_id": "FORM_9",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "s",
+      "solver_wire_symbol": "S",
+      "literal_proposed_folded_letter": "z"
+    },
+    {
+      "index_zero_based": 120,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G06_O03"
+        ],
+        "source_class_id": "FORM_t",
+        "source_form_id": "FORM_t",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "a",
+      "solver_wire_symbol": "A",
+      "literal_proposed_folded_letter": "d"
+    },
+    {
+      "index_zero_based": 121,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G06_O04"
+        ],
+        "source_class_id": "FORM_1",
+        "source_form_id": "FORM_1",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "r",
+      "solver_wire_symbol": "R",
+      "literal_proposed_folded_letter": "y"
+    },
+    {
+      "index_zero_based": 122,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G06_O05"
+        ],
+        "source_class_id": "FORM_d",
+        "source_form_id": "FORM_d",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "q",
+      "solver_wire_symbol": "Q",
+      "literal_proposed_folded_letter": "t"
+    },
+    {
+      "index_zero_based": 123,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G07_O01"
+        ],
+        "source_class_id": "FORM_g",
+        "source_form_id": "FORM_g",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "o",
+      "solver_wire_symbol": "O",
+      "literal_proposed_folded_letter": "k"
+    },
+    {
+      "index_zero_based": 124,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G07_O02"
+        ],
+        "source_class_id": "FORM_m",
+        "source_form_id": "FORM_m",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "j",
+      "solver_wire_symbol": "J",
+      "literal_proposed_folded_letter": "n"
+    },
+    {
+      "index_zero_based": 125,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G07_O03"
+        ],
+        "source_class_id": "FORM_6",
+        "source_form_id": "FORM_6",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "i",
+      "solver_wire_symbol": "I",
+      "literal_proposed_folded_letter": "a"
+    },
+    {
+      "index_zero_based": 126,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R02_G07_O04"
+        ],
+        "source_class_id": "FORM_n",
+        "source_form_id": "FORM_n",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "c",
+      "solver_wire_symbol": "C",
+      "literal_proposed_folded_letter": "m"
+    },
+    {
+      "index_zero_based": 127,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G01_O01"
+        ],
+        "source_class_id": "FORM_7",
+        "source_form_id": "FORM_7",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "p",
+      "solver_wire_symbol": "P",
+      "literal_proposed_folded_letter": "j"
+    },
+    {
+      "index_zero_based": 128,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G01_O02"
+        ],
+        "source_class_id": "FORM_4",
+        "source_form_id": "FORM_4",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "k",
+      "solver_wire_symbol": "K",
+      "literal_proposed_folded_letter": "i"
+    },
+    {
+      "index_zero_based": 129,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G01_O03"
+        ],
+        "source_class_id": "FORM_9",
+        "source_form_id": "FORM_9",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "s",
+      "solver_wire_symbol": "S",
+      "literal_proposed_folded_letter": "z"
+    },
+    {
+      "index_zero_based": 130,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G02_O01"
+        ],
+        "source_class_id": "FORM_c",
+        "source_form_id": "FORM_c",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "m",
+      "solver_wire_symbol": "M",
+      "literal_proposed_folded_letter": "s"
+    },
+    {
+      "index_zero_based": 131,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G03_O01"
+        ],
+        "source_class_id": "FORM_t",
+        "source_form_id": "FORM_t",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "a",
+      "solver_wire_symbol": "A",
+      "literal_proposed_folded_letter": "d"
+    },
+    {
+      "index_zero_based": 132,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G03_O02"
+        ],
+        "source_class_id": "FORM_3",
+        "source_form_id": "FORM_3",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "g",
+      "solver_wire_symbol": "G",
+      "literal_proposed_folded_letter": "o"
+    },
+    {
+      "index_zero_based": 133,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G03_O03"
+        ],
+        "source_class_id": "FORM_c",
+        "source_form_id": "FORM_c",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "m",
+      "solver_wire_symbol": "M",
+      "literal_proposed_folded_letter": "s"
+    },
+    {
+      "index_zero_based": 134,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G03_O04"
+        ],
+        "source_class_id": "FORM_d",
+        "source_form_id": "FORM_d",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "q",
+      "solver_wire_symbol": "Q",
+      "literal_proposed_folded_letter": "t"
+    },
+    {
+      "index_zero_based": 135,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G03_O05"
+        ],
+        "source_class_id": "FORM_6",
+        "source_form_id": "FORM_6",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "i",
+      "solver_wire_symbol": "I",
+      "literal_proposed_folded_letter": "a"
+    },
+    {
+      "index_zero_based": 136,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G03_O06"
+        ],
+        "source_class_id": "FORM_d",
+        "source_form_id": "FORM_d",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "q",
+      "solver_wire_symbol": "Q",
+      "literal_proposed_folded_letter": "t"
+    },
+    {
+      "index_zero_based": 137,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G03_O07"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 138,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G03_O08"
+        ],
+        "source_class_id": "FORM_g",
+        "source_form_id": "FORM_g",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "o",
+      "solver_wire_symbol": "O",
+      "literal_proposed_folded_letter": "k"
+    },
+    {
+      "index_zero_based": 139,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G04_O01"
+        ],
+        "source_class_id": "FORM_d",
+        "source_form_id": "FORM_d",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "q",
+      "solver_wire_symbol": "Q",
+      "literal_proposed_folded_letter": "t"
+    },
+    {
+      "index_zero_based": 140,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G04_O02"
+        ],
+        "source_class_id": "FORM_f",
+        "source_form_id": "FORM_f",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "d",
+      "solver_wire_symbol": "D",
+      "literal_proposed_folded_letter": "v"
+    },
+    {
+      "index_zero_based": 141,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G04_O03"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 142,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G05_O01"
+        ],
+        "source_class_id": "FORM_t",
+        "source_form_id": "FORM_t",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "a",
+      "solver_wire_symbol": "A",
+      "literal_proposed_folded_letter": "d"
+    },
+    {
+      "index_zero_based": 143,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G05_O02"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 144,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G05_O03"
+        ],
+        "source_class_id": "FORM_b",
+        "source_form_id": "FORM_b",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "t",
+      "solver_wire_symbol": "T",
+      "literal_proposed_folded_letter": "p"
+    },
+    {
+      "index_zero_based": 145,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G05_O04"
+        ],
+        "source_class_id": "FORM_h",
+        "source_form_id": "FORM_h",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "h",
+      "solver_wire_symbol": "H",
+      "literal_proposed_folded_letter": "r"
+    },
+    {
+      "index_zero_based": 146,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G05_O05"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 147,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G06_O01"
+        ],
+        "source_class_id": "FORM_g",
+        "source_form_id": "FORM_g",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "o",
+      "solver_wire_symbol": "O",
+      "literal_proposed_folded_letter": "k"
+    },
+    {
+      "index_zero_based": 148,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G06_O02"
+        ],
+        "source_class_id": "FORM_8",
+        "source_form_id": "FORM_8",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "e",
+      "solver_wire_symbol": "E",
+      "literal_proposed_folded_letter": "l"
+    },
+    {
+      "index_zero_based": 149,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G06_O03"
+        ],
+        "source_class_id": "FORM_6",
+        "source_form_id": "FORM_6",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "i",
+      "solver_wire_symbol": "I",
+      "literal_proposed_folded_letter": "a"
+    },
+    {
+      "index_zero_based": 150,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G06_O04"
+        ],
+        "source_class_id": "FORM_d",
+        "source_form_id": "FORM_d",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "q",
+      "solver_wire_symbol": "Q",
+      "literal_proposed_folded_letter": "t"
+    },
+    {
+      "index_zero_based": 151,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G06_O05"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 152,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G07_O01"
+        ],
+        "source_class_id": "FORM_c",
+        "source_form_id": "FORM_c",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "m",
+      "solver_wire_symbol": "M",
+      "literal_proposed_folded_letter": "s"
+    },
+    {
+      "index_zero_based": 153,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G07_O02"
+        ],
+        "source_class_id": "FORM_h",
+        "source_form_id": "FORM_h",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "h",
+      "solver_wire_symbol": "H",
+      "literal_proposed_folded_letter": "r"
+    },
+    {
+      "index_zero_based": 154,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G07_O03"
+        ],
+        "source_class_id": "FORM_t",
+        "source_form_id": "FORM_t",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "a",
+      "solver_wire_symbol": "A",
+      "literal_proposed_folded_letter": "d"
+    },
+    {
+      "index_zero_based": 155,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G07_O04"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 156,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G07_O05"
+        ],
+        "source_class_id": "FORM_s",
+        "source_form_id": "FORM_s",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "l",
+      "solver_wire_symbol": "L",
+      "literal_proposed_folded_letter": "c"
+    },
+    {
+      "index_zero_based": 157,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G07_O06"
+        ],
+        "source_class_id": "FORM_g",
+        "source_form_id": "FORM_g",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "o",
+      "solver_wire_symbol": "O",
+      "literal_proposed_folded_letter": "k"
+    },
+    {
+      "index_zero_based": 158,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G07_O07"
+        ],
+        "source_class_id": "FORM_3",
+        "source_form_id": "FORM_3",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "g",
+      "solver_wire_symbol": "G",
+      "literal_proposed_folded_letter": "o"
+    },
+    {
+      "index_zero_based": 159,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G08_O01"
+        ],
+        "source_class_id": "FORM_7",
+        "source_form_id": "FORM_7",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "p",
+      "solver_wire_symbol": "P",
+      "literal_proposed_folded_letter": "j"
+    },
+    {
+      "index_zero_based": 160,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G08_O02"
+        ],
+        "source_class_id": "FORM_6",
+        "source_form_id": "FORM_6",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "i",
+      "solver_wire_symbol": "I",
+      "literal_proposed_folded_letter": "a"
+    },
+    {
+      "index_zero_based": 161,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G08_O03"
+        ],
+        "source_class_id": "FORM_g",
+        "source_form_id": "FORM_g",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "o",
+      "solver_wire_symbol": "O",
+      "literal_proposed_folded_letter": "k"
+    },
+    {
+      "index_zero_based": 162,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G08_O04"
+        ],
+        "source_class_id": "FORM_n",
+        "source_form_id": "FORM_n",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "c",
+      "solver_wire_symbol": "C",
+      "literal_proposed_folded_letter": "m"
+    },
+    {
+      "index_zero_based": 163,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G08_O05"
+        ],
+        "source_class_id": "FORM_2",
+        "source_form_id": "FORM_2",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "b",
+      "solver_wire_symbol": "B",
+      "literal_proposed_folded_letter": "u"
+    },
+    {
+      "index_zero_based": 164,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G08_O06"
+        ],
+        "source_class_id": "FORM_8",
+        "source_form_id": "FORM_8",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "e",
+      "solver_wire_symbol": "E",
+      "literal_proposed_folded_letter": "l"
+    },
+    {
+      "index_zero_based": 165,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R03_G08_O07"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 166,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G01_O01"
+        ],
+        "source_class_id": "FORM_7",
+        "source_form_id": "FORM_7",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "p",
+      "solver_wire_symbol": "P",
+      "literal_proposed_folded_letter": "j"
+    },
+    {
+      "index_zero_based": 167,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G01_O02"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 168,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G01_O03"
+        ],
+        "source_class_id": "FORM_m",
+        "source_form_id": "FORM_m",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "j",
+      "solver_wire_symbol": "J",
+      "literal_proposed_folded_letter": "n"
+    },
+    {
+      "index_zero_based": 169,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G02_O01"
+        ],
+        "source_class_id": "FORM_d",
+        "source_form_id": "FORM_d",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "q",
+      "solver_wire_symbol": "Q",
+      "literal_proposed_folded_letter": "t"
+    },
+    {
+      "index_zero_based": 170,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G02_O02"
+        ],
+        "source_class_id": "FORM_h",
+        "source_form_id": "FORM_h",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "h",
+      "solver_wire_symbol": "H",
+      "literal_proposed_folded_letter": "r"
+    },
+    {
+      "index_zero_based": 171,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G02_O03"
+        ],
+        "source_class_id": "FORM_3",
+        "source_form_id": "FORM_3",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "g",
+      "solver_wire_symbol": "G",
+      "literal_proposed_folded_letter": "o"
+    },
+    {
+      "index_zero_based": 172,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G02_O04"
+        ],
+        "source_class_id": "FORM_r",
+        "source_form_id": "FORM_r",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "n",
+      "solver_wire_symbol": "N",
+      "literal_proposed_folded_letter": "h"
+    },
+    {
+      "index_zero_based": 173,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G02_O05"
+        ],
+        "source_class_id": "FORM_2",
+        "source_form_id": "FORM_2",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "b",
+      "solver_wire_symbol": "B",
+      "literal_proposed_folded_letter": "u"
+    },
+    {
+      "index_zero_based": 174,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G03_O01"
+        ],
+        "source_class_id": "FORM_t",
+        "source_form_id": "FORM_t",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "a",
+      "solver_wire_symbol": "A",
+      "literal_proposed_folded_letter": "d"
+    },
+    {
+      "index_zero_based": 175,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G03_O02"
+        ],
+        "source_class_id": "FORM_3",
+        "source_form_id": "FORM_3",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "g",
+      "solver_wire_symbol": "G",
+      "literal_proposed_folded_letter": "o"
+    },
+    {
+      "index_zero_based": 176,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G03_O03"
+        ],
+        "source_class_id": "FORM_r",
+        "source_form_id": "FORM_r",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "n",
+      "solver_wire_symbol": "N",
+      "literal_proposed_folded_letter": "h"
+    },
+    {
+      "index_zero_based": 177,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G03_O04"
+        ],
+        "source_class_id": "FORM_3",
+        "source_form_id": "FORM_3",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "g",
+      "solver_wire_symbol": "G",
+      "literal_proposed_folded_letter": "o"
+    },
+    {
+      "index_zero_based": 178,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G03_O05"
+        ],
+        "source_class_id": "FORM_m",
+        "source_form_id": "FORM_m",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "j",
+      "solver_wire_symbol": "J",
+      "literal_proposed_folded_letter": "n"
+    },
+    {
+      "index_zero_based": 179,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G03_O06"
+        ],
+        "source_class_id": "FORM_4",
+        "source_form_id": "FORM_4",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "k",
+      "solver_wire_symbol": "K",
+      "literal_proposed_folded_letter": "i"
+    },
+    {
+      "index_zero_based": 180,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G03_O07"
+        ],
+        "source_class_id": "FORM_n",
+        "source_form_id": "FORM_n",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "c",
+      "solver_wire_symbol": "C",
+      "literal_proposed_folded_letter": "m"
+    },
+    {
+      "index_zero_based": 181,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G04_O01"
+        ],
+        "source_class_id": "FORM_g",
+        "source_form_id": "FORM_g",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "o",
+      "solver_wire_symbol": "O",
+      "literal_proposed_folded_letter": "k"
+    },
+    {
+      "index_zero_based": 182,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G04_O02"
+        ],
+        "source_class_id": "FORM_6",
+        "source_form_id": "FORM_6",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "i",
+      "solver_wire_symbol": "I",
+      "literal_proposed_folded_letter": "a"
+    },
+    {
+      "index_zero_based": 183,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G04_O03"
+        ],
+        "source_class_id": "FORM_m",
+        "source_form_id": "FORM_m",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "j",
+      "solver_wire_symbol": "J",
+      "literal_proposed_folded_letter": "n"
+    },
+    {
+      "index_zero_based": 184,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G04_O04"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 185,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G04_O05"
+        ],
+        "source_class_id": "FORM_t",
+        "source_form_id": "FORM_t",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "a",
+      "solver_wire_symbol": "A",
+      "literal_proposed_folded_letter": "d"
+    },
+    {
+      "index_zero_based": 186,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G04_O06"
+        ],
+        "source_class_id": "FORM_h",
+        "source_form_id": "FORM_h",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "h",
+      "solver_wire_symbol": "H",
+      "literal_proposed_folded_letter": "r"
+    },
+    {
+      "index_zero_based": 187,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G04_O07"
+        ],
+        "source_class_id": "FORM_6",
+        "source_form_id": "FORM_6",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "i",
+      "solver_wire_symbol": "I",
+      "literal_proposed_folded_letter": "a"
+    },
+    {
+      "index_zero_based": 188,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G04_O08"
+        ],
+        "source_class_id": "FORM_m",
+        "source_form_id": "FORM_m",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "j",
+      "solver_wire_symbol": "J",
+      "literal_proposed_folded_letter": "n"
+    },
+    {
+      "index_zero_based": 189,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G04_O09"
+        ],
+        "source_class_id": "FORM_3",
+        "source_form_id": "FORM_3",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "g",
+      "solver_wire_symbol": "G",
+      "literal_proposed_folded_letter": "o"
+    },
+    {
+      "index_zero_based": 190,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G04_O10"
+        ],
+        "source_class_id": "FORM_2",
+        "source_form_id": "FORM_2",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "b",
+      "solver_wire_symbol": "B",
+      "literal_proposed_folded_letter": "u"
+    },
+    {
+      "index_zero_based": 191,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G05_O01"
+        ],
+        "source_class_id": "FORM_b",
+        "source_form_id": "FORM_b",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "t",
+      "solver_wire_symbol": "T",
+      "literal_proposed_folded_letter": "p"
+    },
+    {
+      "index_zero_based": 192,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G05_O02"
+        ],
+        "source_class_id": "FORM_h",
+        "source_form_id": "FORM_h",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "h",
+      "solver_wire_symbol": "H",
+      "literal_proposed_folded_letter": "r"
+    },
+    {
+      "index_zero_based": 193,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G05_O03"
+        ],
+        "source_class_id": "FORM_6",
+        "source_form_id": "FORM_6",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "i",
+      "solver_wire_symbol": "I",
+      "literal_proposed_folded_letter": "a"
+    },
+    {
+      "index_zero_based": 194,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G05_O04"
+        ],
+        "source_class_id": "FORM_d",
+        "source_form_id": "FORM_d",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "q",
+      "solver_wire_symbol": "Q",
+      "literal_proposed_folded_letter": "t"
+    },
+    {
+      "index_zero_based": 195,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G05_O05"
+        ],
+        "source_class_id": "FORM_4",
+        "source_form_id": "FORM_4",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "k",
+      "solver_wire_symbol": "K",
+      "literal_proposed_folded_letter": "i"
+    },
+    {
+      "index_zero_based": 196,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G06_O01"
+        ],
+        "source_class_id": "FORM_p",
+        "source_form_id": "FORM_p",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "v",
+      "solver_wire_symbol": "V",
+      "literal_proposed_folded_letter": "b"
+    },
+    {
+      "index_zero_based": 197,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G06_O02"
+        ],
+        "source_class_id": "FORM_2",
+        "source_form_id": "FORM_2",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "b",
+      "solver_wire_symbol": "B",
+      "literal_proposed_folded_letter": "u"
+    },
+    {
+      "index_zero_based": 198,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G06_O03"
+        ],
+        "source_class_id": "FORM_t",
+        "source_form_id": "FORM_t",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "a",
+      "solver_wire_symbol": "A",
+      "literal_proposed_folded_letter": "d"
+    },
+    {
+      "index_zero_based": 199,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R04_G06_O04"
+        ],
+        "source_class_id": "FORM_2",
+        "source_form_id": "FORM_2",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "b",
+      "solver_wire_symbol": "B",
+      "literal_proposed_folded_letter": "u"
+    },
+    {
+      "index_zero_based": 200,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G01_O01"
+        ],
+        "source_class_id": "FORM_d",
+        "source_form_id": "FORM_d",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "q",
+      "solver_wire_symbol": "Q",
+      "literal_proposed_folded_letter": "t"
+    },
+    {
+      "index_zero_based": 201,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G01_O02"
+        ],
+        "source_class_id": "FORM_4",
+        "source_form_id": "FORM_4",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "k",
+      "solver_wire_symbol": "K",
+      "literal_proposed_folded_letter": "i"
+    },
+    {
+      "index_zero_based": 202,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G02_O01"
+        ],
+        "source_class_id": "FORM_b",
+        "source_form_id": "FORM_b",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "t",
+      "solver_wire_symbol": "T",
+      "literal_proposed_folded_letter": "p"
+    },
+    {
+      "index_zero_based": 203,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G02_O02"
+        ],
+        "source_class_id": "FORM_c",
+        "source_form_id": "FORM_c",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "m",
+      "solver_wire_symbol": "M",
+      "literal_proposed_folded_letter": "s"
+    },
+    {
+      "index_zero_based": 204,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G02_O03"
+        ],
+        "source_class_id": "FORM_6",
+        "source_form_id": "FORM_6",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "i",
+      "solver_wire_symbol": "I",
+      "literal_proposed_folded_letter": "a"
+    },
+    {
+      "index_zero_based": 205,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G02_O04"
+        ],
+        "source_class_id": "FORM_d",
+        "source_form_id": "FORM_d",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "q",
+      "solver_wire_symbol": "Q",
+      "literal_proposed_folded_letter": "t"
+    },
+    {
+      "index_zero_based": 206,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G02_O05"
+        ],
+        "source_class_id": "FORM_4",
+        "source_form_id": "FORM_4",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "k",
+      "solver_wire_symbol": "K",
+      "literal_proposed_folded_letter": "i"
+    },
+    {
+      "index_zero_based": 207,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G03_O01"
+        ],
+        "source_class_id": "FORM_b",
+        "source_form_id": "FORM_b",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "t",
+      "solver_wire_symbol": "T",
+      "literal_proposed_folded_letter": "p"
+    },
+    {
+      "index_zero_based": 208,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G03_O02"
+        ],
+        "source_class_id": "FORM_3",
+        "source_form_id": "FORM_3",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "g",
+      "solver_wire_symbol": "G",
+      "literal_proposed_folded_letter": "o"
+    },
+    {
+      "index_zero_based": 209,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G03_O03"
+        ],
+        "source_class_id": "FORM_t",
+        "source_form_id": "FORM_t",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "a",
+      "solver_wire_symbol": "A",
+      "literal_proposed_folded_letter": "d"
+    },
+    {
+      "index_zero_based": 210,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G03_O04"
+        ],
+        "source_class_id": "FORM_h",
+        "source_form_id": "FORM_h",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "h",
+      "solver_wire_symbol": "H",
+      "literal_proposed_folded_letter": "r"
+    },
+    {
+      "index_zero_based": 211,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G03_O05"
+        ],
+        "source_class_id": "FORM_3",
+        "source_form_id": "FORM_3",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "g",
+      "solver_wire_symbol": "G",
+      "literal_proposed_folded_letter": "o"
+    },
+    {
+      "index_zero_based": 212,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G03_O06"
+        ],
+        "source_class_id": "FORM_p",
+        "source_form_id": "FORM_p",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "v",
+      "solver_wire_symbol": "V",
+      "literal_proposed_folded_letter": "b"
+    },
+    {
+      "index_zero_based": 213,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G03_O07"
+        ],
+        "source_class_id": "FORM_m",
+        "source_form_id": "FORM_m",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "j",
+      "solver_wire_symbol": "J",
+      "literal_proposed_folded_letter": "n"
+    },
+    {
+      "index_zero_based": 214,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G03_O08"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 215,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G03_O09"
+        ],
+        "source_class_id": "FORM_7",
+        "source_form_id": "FORM_7",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "p",
+      "solver_wire_symbol": "P",
+      "literal_proposed_folded_letter": "j"
+    },
+    {
+      "index_zero_based": 216,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G03_O10"
+        ],
+        "source_class_id": "FORM_4",
+        "source_form_id": "FORM_4",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "k",
+      "solver_wire_symbol": "K",
+      "literal_proposed_folded_letter": "i"
+    },
+    {
+      "index_zero_based": 217,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G04_O01"
+        ],
+        "source_class_id": "FORM_g",
+        "source_form_id": "FORM_g",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "o",
+      "solver_wire_symbol": "O",
+      "literal_proposed_folded_letter": "k"
+    },
+    {
+      "index_zero_based": 218,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G04_O02"
+        ],
+        "source_class_id": "FORM_6",
+        "source_form_id": "FORM_6",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "i",
+      "solver_wire_symbol": "I",
+      "literal_proposed_folded_letter": "a"
+    },
+    {
+      "index_zero_based": 219,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G04_O03"
+        ],
+        "source_class_id": "FORM_m",
+        "source_form_id": "FORM_m",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "j",
+      "solver_wire_symbol": "J",
+      "literal_proposed_folded_letter": "n"
+    },
+    {
+      "index_zero_based": 220,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G04_O04"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 221,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G04_O05"
+        ],
+        "source_class_id": "FORM_t",
+        "source_form_id": "FORM_t",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "a",
+      "solver_wire_symbol": "A",
+      "literal_proposed_folded_letter": "d"
+    },
+    {
+      "index_zero_based": 222,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G04_O06"
+        ],
+        "source_class_id": "FORM_h",
+        "source_form_id": "FORM_h",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "h",
+      "solver_wire_symbol": "H",
+      "literal_proposed_folded_letter": "r"
+    },
+    {
+      "index_zero_based": 223,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G04_O07"
+        ],
+        "source_class_id": "FORM_6",
+        "source_form_id": "FORM_6",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "i",
+      "solver_wire_symbol": "I",
+      "literal_proposed_folded_letter": "a"
+    },
+    {
+      "index_zero_based": 224,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G04_O08"
+        ],
+        "source_class_id": "FORM_8",
+        "source_form_id": "FORM_8",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "e",
+      "solver_wire_symbol": "E",
+      "literal_proposed_folded_letter": "l"
+    },
+    {
+      "index_zero_based": 225,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G05_O01"
+        ],
+        "source_class_id": "FORM_7",
+        "source_form_id": "FORM_7",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "p",
+      "solver_wire_symbol": "P",
+      "literal_proposed_folded_letter": "j"
+    },
+    {
+      "index_zero_based": 226,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G05_O02"
+        ],
+        "source_class_id": "FORM_c",
+        "source_form_id": "FORM_c",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "m",
+      "solver_wire_symbol": "M",
+      "literal_proposed_folded_letter": "s"
+    },
+    {
+      "index_zero_based": 227,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G05_O03"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 228,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G05_O04"
+        ],
+        "source_class_id": "FORM_n",
+        "source_form_id": "FORM_n",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "c",
+      "solver_wire_symbol": "C",
+      "literal_proposed_folded_letter": "m"
+    },
+    {
+      "index_zero_based": 229,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G06_O01"
+        ],
+        "source_class_id": "FORM_c",
+        "source_form_id": "FORM_c",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "m",
+      "solver_wire_symbol": "M",
+      "literal_proposed_folded_letter": "s"
+    },
+    {
+      "index_zero_based": 230,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G06_O02"
+        ],
+        "source_class_id": "FORM_g",
+        "source_form_id": "FORM_g",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "o",
+      "solver_wire_symbol": "O",
+      "literal_proposed_folded_letter": "k"
+    },
+    {
+      "index_zero_based": 231,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G06_O03"
+        ],
+        "source_class_id": "FORM_3",
+        "source_form_id": "FORM_3",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "g",
+      "solver_wire_symbol": "G",
+      "literal_proposed_folded_letter": "o"
+    },
+    {
+      "index_zero_based": 232,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G06_O04"
+        ],
+        "source_class_id": "FORM_h",
+        "source_form_id": "FORM_h",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "h",
+      "solver_wire_symbol": "H",
+      "literal_proposed_folded_letter": "r"
+    },
+    {
+      "index_zero_based": 233,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R05_G06_O05"
+        ],
+        "source_class_id": "FORM_3",
+        "source_form_id": "FORM_3",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "g",
+      "solver_wire_symbol": "G",
+      "literal_proposed_folded_letter": "o"
+    },
+    {
+      "index_zero_based": 234,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G01_O01"
+        ],
+        "source_class_id": "FORM_s",
+        "source_form_id": "FORM_s",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "l",
+      "solver_wire_symbol": "L",
+      "literal_proposed_folded_letter": "c"
+    },
+    {
+      "index_zero_based": 235,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G01_O02"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 236,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G01_O03"
+        ],
+        "source_class_id": "FORM_8",
+        "source_form_id": "FORM_8",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "e",
+      "solver_wire_symbol": "E",
+      "literal_proposed_folded_letter": "l"
+    },
+    {
+      "index_zero_based": 237,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G01_O04"
+        ],
+        "source_class_id": "FORM_1",
+        "source_form_id": "FORM_1",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "r",
+      "solver_wire_symbol": "R",
+      "literal_proposed_folded_letter": "y"
+    },
+    {
+      "index_zero_based": 238,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G02_O01"
+        ],
+        "source_class_id": "FORM_n",
+        "source_form_id": "FORM_n",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "c",
+      "solver_wire_symbol": "C",
+      "literal_proposed_folded_letter": "m"
+    },
+    {
+      "index_zero_based": 239,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G02_O02"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 240,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G02_O03"
+        ],
+        "source_class_id": "FORM_c",
+        "source_form_id": "FORM_c",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "m",
+      "solver_wire_symbol": "M",
+      "literal_proposed_folded_letter": "s"
+    },
+    {
+      "index_zero_based": 241,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G02_O04"
+        ],
+        "source_class_id": "FORM_4",
+        "source_form_id": "FORM_4",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "k",
+      "solver_wire_symbol": "K",
+      "literal_proposed_folded_letter": "i"
+    },
+    {
+      "index_zero_based": 242,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G02_O05"
+        ],
+        "source_class_id": "FORM_o",
+        "source_form_id": "FORM_o",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "u",
+      "solver_wire_symbol": "U",
+      "literal_proposed_folded_letter": "g"
+    },
+    {
+      "index_zero_based": 243,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G03_O01"
+        ],
+        "source_class_id": "FORM_g",
+        "source_form_id": "FORM_g",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "o",
+      "solver_wire_symbol": "O",
+      "literal_proposed_folded_letter": "k"
+    },
+    {
+      "index_zero_based": 244,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G03_O02"
+        ],
+        "source_class_id": "FORM_6",
+        "source_form_id": "FORM_6",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "i",
+      "solver_wire_symbol": "I",
+      "literal_proposed_folded_letter": "a"
+    },
+    {
+      "index_zero_based": 245,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G03_O03"
+        ],
+        "source_class_id": "FORM_d",
+        "source_form_id": "FORM_d",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "q",
+      "solver_wire_symbol": "Q",
+      "literal_proposed_folded_letter": "t"
+    },
+    {
+      "index_zero_based": 246,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G03_O04"
+        ],
+        "source_class_id": "FORM_4",
+        "source_form_id": "FORM_4",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "k",
+      "solver_wire_symbol": "K",
+      "literal_proposed_folded_letter": "i"
+    },
+    {
+      "index_zero_based": 247,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G03_O05"
+        ],
+        "source_class_id": "FORM_n",
+        "source_form_id": "FORM_n",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "c",
+      "solver_wire_symbol": "C",
+      "literal_proposed_folded_letter": "m"
+    },
+    {
+      "index_zero_based": 248,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G04_O01"
+        ],
+        "source_class_id": "FORM_d",
+        "source_form_id": "FORM_d",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "q",
+      "solver_wire_symbol": "Q",
+      "literal_proposed_folded_letter": "t"
+    },
+    {
+      "index_zero_based": 249,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G04_O02"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 250,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G05_O01"
+        ],
+        "source_class_id": "FORM_f",
+        "source_form_id": "FORM_f",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "d",
+      "solver_wire_symbol": "D",
+      "literal_proposed_folded_letter": "v"
+    },
+    {
+      "index_zero_based": 251,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G05_O02"
+        ],
+        "source_class_id": "FORM_h",
+        "source_form_id": "FORM_h",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "h",
+      "solver_wire_symbol": "H",
+      "literal_proposed_folded_letter": "r"
+    },
+    {
+      "index_zero_based": 252,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G05_O03"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 253,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G05_O04"
+        ],
+        "source_class_id": "FORM_8",
+        "source_form_id": "FORM_8",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "e",
+      "solver_wire_symbol": "E",
+      "literal_proposed_folded_letter": "l"
+    },
+    {
+      "index_zero_based": 254,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G05_O05"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 255,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G06_O01"
+        ],
+        "source_class_id": "FORM_g",
+        "source_form_id": "FORM_g",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "o",
+      "solver_wire_symbol": "O",
+      "literal_proposed_folded_letter": "k"
+    },
+    {
+      "index_zero_based": 256,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G06_O02"
+        ],
+        "source_class_id": "FORM_t",
+        "source_form_id": "FORM_t",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "a",
+      "solver_wire_symbol": "A",
+      "literal_proposed_folded_letter": "d"
+    },
+    {
+      "index_zero_based": 257,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G06_O03"
+        ],
+        "source_class_id": "FORM_h",
+        "source_form_id": "FORM_h",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "h",
+      "solver_wire_symbol": "H",
+      "literal_proposed_folded_letter": "r"
+    },
+    {
+      "index_zero_based": 258,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G06_O04"
+        ],
+        "source_class_id": "FORM_6",
+        "source_form_id": "FORM_6",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "i",
+      "solver_wire_symbol": "I",
+      "literal_proposed_folded_letter": "a"
+    },
+    {
+      "index_zero_based": 259,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G06_O05"
+        ],
+        "source_class_id": "FORM_f",
+        "source_form_id": "FORM_f",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "d",
+      "solver_wire_symbol": "D",
+      "literal_proposed_folded_letter": "v"
+    },
+    {
+      "index_zero_based": 260,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G06_O06"
+        ],
+        "source_class_id": "FORM_4",
+        "source_form_id": "FORM_4",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "k",
+      "solver_wire_symbol": "K",
+      "literal_proposed_folded_letter": "i"
+    },
+    {
+      "index_zero_based": 261,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G06_O07"
+        ],
+        "source_class_id": "FORM_6",
+        "source_form_id": "FORM_6",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "i",
+      "solver_wire_symbol": "I",
+      "literal_proposed_folded_letter": "a"
+    },
+    {
+      "index_zero_based": 262,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G07_O01"
+        ],
+        "source_class_id": "FORM_8",
+        "source_form_id": "FORM_8",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "e",
+      "solver_wire_symbol": "E",
+      "literal_proposed_folded_letter": "l"
+    },
+    {
+      "index_zero_based": 263,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G07_O02"
+        ],
+        "source_class_id": "FORM_4",
+        "source_form_id": "FORM_4",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "k",
+      "solver_wire_symbol": "K",
+      "literal_proposed_folded_letter": "i"
+    },
+    {
+      "index_zero_based": 264,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G07_O03"
+        ],
+        "source_class_id": "FORM_p",
+        "source_form_id": "FORM_p",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "v",
+      "solver_wire_symbol": "V",
+      "literal_proposed_folded_letter": "b"
+    },
+    {
+      "index_zero_based": 265,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G07_O04"
+        ],
+        "source_class_id": "FORM_6",
+        "source_form_id": "FORM_6",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "i",
+      "solver_wire_symbol": "I",
+      "literal_proposed_folded_letter": "a"
+    },
+    {
+      "index_zero_based": 266,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G08_O01"
+        ],
+        "source_class_id": "FORM_d",
+        "source_form_id": "FORM_d",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "q",
+      "solver_wire_symbol": "Q",
+      "literal_proposed_folded_letter": "t"
+    },
+    {
+      "index_zero_based": 267,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G08_O02"
+        ],
+        "source_class_id": "FORM_f",
+        "source_form_id": "FORM_f",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "d",
+      "solver_wire_symbol": "D",
+      "literal_proposed_folded_letter": "v"
+    },
+    {
+      "index_zero_based": 268,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G08_O03"
+        ],
+        "source_class_id": "FORM_2",
+        "source_form_id": "FORM_2",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "b",
+      "solver_wire_symbol": "B",
+      "literal_proposed_folded_letter": "u"
+    },
+    {
+      "index_zero_based": 269,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G08_O04"
+        ],
+        "source_class_id": "FORM_7",
+        "source_form_id": "FORM_7",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "p",
+      "solver_wire_symbol": "P",
+      "literal_proposed_folded_letter": "j"
+    },
+    {
+      "index_zero_based": 270,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G09_O01"
+        ],
+        "source_class_id": "FORM_b",
+        "source_form_id": "FORM_b",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "t",
+      "solver_wire_symbol": "T",
+      "literal_proposed_folded_letter": "p"
+    },
+    {
+      "index_zero_based": 271,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G09_O02"
+        ],
+        "source_class_id": "FORM_5",
+        "source_form_id": "FORM_5",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "f",
+      "solver_wire_symbol": "F",
+      "literal_proposed_folded_letter": "e"
+    },
+    {
+      "index_zero_based": 272,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G09_O03"
+        ],
+        "source_class_id": "FORM_h",
+        "source_form_id": "FORM_h",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "h",
+      "solver_wire_symbol": "H",
+      "literal_proposed_folded_letter": "r"
+    },
+    {
+      "index_zero_based": 273,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G09_O04"
+        ],
+        "source_class_id": "FORM_3",
+        "source_form_id": "FORM_3",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "g",
+      "solver_wire_symbol": "G",
+      "literal_proposed_folded_letter": "o"
+    },
+    {
+      "index_zero_based": 274,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G09_O05"
+        ],
+        "source_class_id": "FORM_2",
+        "source_form_id": "FORM_2",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "b",
+      "solver_wire_symbol": "B",
+      "literal_proposed_folded_letter": "u"
+    },
+    {
+      "index_zero_based": 275,
+      "frozen_source_object": {
+        "origin_atom_ids": [
+          "PIC_MAIN_R06_G09_O06"
+        ],
+        "source_class_id": "FORM_c",
+        "source_form_id": "FORM_c",
+        "component_mark_ids": [],
+        "role": "body_contour"
+      },
+      "carrier_symbol": "m",
+      "solver_wire_symbol": "M",
+      "literal_proposed_folded_letter": "s"
+    }
+  ],
+  "whole_content_confirmation": false,
+  "complete_historical_solution": false,
+  "forward_exact_alone_cannot_establish_the_plaintext": true
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "segment_index_1based": 7,
+    "span_1based_inclusive": [
+      27,
+      36
+    ],
+    "literal": "hvekdickou",
+    "issue": "The inflected noun in the house description is not recognizable as ordinary literal Czech.",
+    "repair_performed": false
+  },
+  {
+    "segment_index_1based": 10,
+    "span_1based_inclusive": [
+      44,
+      48
+    ],
+    "literal": "donov",
+    "issue": "The possessive predicate has a nonstandard noun token.",
+    "repair_performed": false
+  },
+  {
+    "segment_index_1based": 14,
+    "span_1based_inclusive": [
+      69,
+      70
+    ],
+    "literal": "ka",
+    "issue": "After the thanks phrase this is not a clear literal Czech preposition for the following noun phrase.",
+    "repair_performed": false
+  },
+  {
+    "segment_index_1based": 18,
+    "span_1based_inclusive": [
+      91,
+      94
+    ],
+    "literal": "jihz",
+    "issue": "The relative connective/inflection in the condolence clause is unresolved.",
+    "repair_performed": false
+  },
+  {
+    "segment_index_1based": 21,
+    "span_1based_inclusive": [
+      109,
+      118
+    ],
+    "literal": "presvedgem",
+    "issue": "The apparent predicate participle is nonstandard.",
+    "repair_performed": false
+  },
+  {
+    "segment_index_1based": 29,
+    "span_1based_inclusive": [
+      143,
+      152
+    ],
+    "literal": "depreklate",
+    "issue": "The modifier of the following diminutive noun cannot be established from unchanged letters.",
+    "repair_performed": false
+  },
+  {
+    "segment_index_1based": 31,
+    "span_1based_inclusive": [
+      160,
+      166
+    ],
+    "literal": "jakmule",
+    "issue": "The apparent temporal connective is nonstandard.",
+    "repair_performed": false
+  },
+  {
+    "segment_index_1based": 33,
+    "span_1based_inclusive": [
+      170,
+      174
+    ],
+    "literal": "trohu",
+    "issue": "The apparent quantity/adverb token is nonstandard.",
+    "repair_performed": false
+  },
+  {
+    "segment_index_1based": 35,
+    "span_1based_inclusive": [
+      182,
+      191
+    ],
+    "literal": "kanedranou",
+    "issue": "The adjective qualifying the work noun is nonstandard.",
+    "repair_performed": false
+  },
+  {
+    "segment_index_1based": 36,
+    "span_1based_inclusive": [
+      192,
+      196
+    ],
+    "literal": "prati",
+    "issue": "The following object noun is not established in literal Czech.",
+    "repair_performed": false
+  },
+  {
+    "segment_index_1based": 41,
+    "span_1based_inclusive": [
+      218,
+      225
+    ],
+    "literal": "kanedral",
+    "issue": "The verb in the month-long-delay sentence is nonstandard.",
+    "repair_performed": false
+  },
+  {
+    "segment_index_1based": 45,
+    "span_1based_inclusive": [
+      239,
+      243
+    ],
+    "literal": "mesig",
+    "issue": "The time-unit noun is nonstandard.",
+    "repair_performed": false
+  },
+  {
+    "segment_index_1based": 46,
+    "span_1based_inclusive": [
+      244,
+      248
+    ],
+    "literal": "katim",
+    "issue": "The apparent transitional adverb is nonstandard.",
+    "repair_performed": false
+  },
+  {
+    "segment_index_1based": 49,
+    "span_1based_inclusive": [
+      256,
+      261
+    ],
+    "literal": "kdravi",
+    "issue": "The salutation verb is nonstandard.",
+    "repair_performed": false
+  },
+  {
+    "segment_index_1based": 53,
+    "span_1based_inclusive": [
+      271,
+      276
+    ],
+    "literal": "perous",
+    "issue": "Could be a personal nickname, but identity and spelling are unsupported at cold stage.",
+    "repair_performed": false
+  }
+]

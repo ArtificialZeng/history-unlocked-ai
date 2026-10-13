@@ -1,0 +1,847 @@
+{
+  "schema": "indexed-cell-controls-v1",
+  "scope": "synthetic/software only; no historical target or authentic-language calibration",
+  "construction": "Literal alphabet/ciphertext input pairs and explicit gold token/certificate lists authored before kernel implementation; no encoder produced these controls.",
+  "controls": [
+    {
+      "id": "SYN-01-repeated-multigraph",
+      "alphabet": [
+        {
+          "cell_id": "opaque-y",
+          "token": "CH"
+        },
+        {
+          "cell_id": "opaque-q",
+          "token": "á"
+        },
+        {
+          "cell_id": "opaque-m",
+          "token": "æ"
+        },
+        {
+          "cell_id": "opaque-z",
+          "token": "Ω"
+        }
+      ],
+      "display_order": [
+        "opaque-m",
+        "opaque-z",
+        "opaque-q",
+        "opaque-y"
+      ],
+      "ciphertext": {
+        "length": 12,
+        "groups": [
+          {
+            "cell_id": "opaque-q",
+            "indices": [
+              12,
+              2,
+              7
+            ]
+          },
+          {
+            "cell_id": "opaque-y",
+            "indices": [
+              11,
+              1,
+              6,
+              4
+            ]
+          },
+          {
+            "cell_id": "opaque-z",
+            "indices": [
+              8,
+              3
+            ]
+          },
+          {
+            "cell_id": "opaque-m",
+            "indices": [
+              9,
+              5,
+              10
+            ]
+          }
+        ]
+      },
+      "gold_tokens": [
+        "CH",
+        "á",
+        "Ω",
+        "CH",
+        "æ",
+        "CH",
+        "á",
+        "Ω",
+        "æ",
+        "æ",
+        "CH",
+        "á"
+      ],
+      "gold_certificate": [
+        {
+          "position": 1,
+          "cell_id": "opaque-y",
+          "token": "CH"
+        },
+        {
+          "position": 2,
+          "cell_id": "opaque-q",
+          "token": "á"
+        },
+        {
+          "position": 3,
+          "cell_id": "opaque-z",
+          "token": "Ω"
+        },
+        {
+          "position": 4,
+          "cell_id": "opaque-y",
+          "token": "CH"
+        },
+        {
+          "position": 5,
+          "cell_id": "opaque-m",
+          "token": "æ"
+        },
+        {
+          "position": 6,
+          "cell_id": "opaque-y",
+          "token": "CH"
+        },
+        {
+          "position": 7,
+          "cell_id": "opaque-q",
+          "token": "á"
+        },
+        {
+          "position": 8,
+          "cell_id": "opaque-z",
+          "token": "Ω"
+        },
+        {
+          "position": 9,
+          "cell_id": "opaque-m",
+          "token": "æ"
+        },
+        {
+          "position": 10,
+          "cell_id": "opaque-m",
+          "token": "æ"
+        },
+        {
+          "position": 11,
+          "cell_id": "opaque-y",
+          "token": "CH"
+        },
+        {
+          "position": 12,
+          "cell_id": "opaque-q",
+          "token": "á"
+        }
+      ]
+    },
+    {
+      "id": "SYN-02-unicode-literal-identity",
+      "alphabet": [
+        {
+          "cell_id": "c-8",
+          "token": "é"
+        },
+        {
+          "cell_id": "c-2",
+          "token": "LL"
+        },
+        {
+          "cell_id": "c-0",
+          "token": "é"
+        },
+        {
+          "cell_id": "c-9",
+          "token": "ß"
+        },
+        {
+          "cell_id": "c-1",
+          "token": "Ж"
+        },
+        {
+          "cell_id": "c-7",
+          "token": "ø"
+        }
+      ],
+      "display_order": [
+        "c-0",
+        "c-7",
+        "c-2",
+        "c-8",
+        "c-9",
+        "c-1"
+      ],
+      "ciphertext": {
+        "length": 14,
+        "groups": [
+          {
+            "cell_id": "c-1",
+            "indices": [
+              13,
+              3
+            ]
+          },
+          {
+            "cell_id": "c-0",
+            "indices": [
+              11,
+              2
+            ]
+          },
+          {
+            "cell_id": "c-9",
+            "indices": [
+              9,
+              4
+            ]
+          },
+          {
+            "cell_id": "c-7",
+            "indices": [
+              14,
+              6
+            ]
+          },
+          {
+            "cell_id": "c-8",
+            "indices": [
+              10,
+              1,
+              8
+            ]
+          },
+          {
+            "cell_id": "c-2",
+            "indices": [
+              12,
+              5,
+              7
+            ]
+          }
+        ]
+      },
+      "gold_tokens": [
+        "é",
+        "é",
+        "Ж",
+        "ß",
+        "LL",
+        "ø",
+        "LL",
+        "é",
+        "ß",
+        "é",
+        "é",
+        "LL",
+        "Ж",
+        "ø"
+      ],
+      "gold_certificate": [
+        {
+          "position": 1,
+          "cell_id": "c-8",
+          "token": "é"
+        },
+        {
+          "position": 2,
+          "cell_id": "c-0",
+          "token": "é"
+        },
+        {
+          "position": 3,
+          "cell_id": "c-1",
+          "token": "Ж"
+        },
+        {
+          "position": 4,
+          "cell_id": "c-9",
+          "token": "ß"
+        },
+        {
+          "position": 5,
+          "cell_id": "c-2",
+          "token": "LL"
+        },
+        {
+          "position": 6,
+          "cell_id": "c-7",
+          "token": "ø"
+        },
+        {
+          "position": 7,
+          "cell_id": "c-2",
+          "token": "LL"
+        },
+        {
+          "position": 8,
+          "cell_id": "c-8",
+          "token": "é"
+        },
+        {
+          "position": 9,
+          "cell_id": "c-9",
+          "token": "ß"
+        },
+        {
+          "position": 10,
+          "cell_id": "c-8",
+          "token": "é"
+        },
+        {
+          "position": 11,
+          "cell_id": "c-0",
+          "token": "é"
+        },
+        {
+          "position": 12,
+          "cell_id": "c-2",
+          "token": "LL"
+        },
+        {
+          "position": 13,
+          "cell_id": "c-1",
+          "token": "Ж"
+        },
+        {
+          "position": 14,
+          "cell_id": "c-7",
+          "token": "ø"
+        }
+      ]
+    },
+    {
+      "id": "SYN-03-covering-alphabet-30",
+      "alphabet": [
+        {
+          "cell_id": "cell-29",
+          "token": "Ω"
+        },
+        {
+          "cell_id": "cell-00",
+          "token": "A"
+        },
+        {
+          "cell_id": "cell-18",
+          "token": "CH"
+        },
+        {
+          "cell_id": "cell-08",
+          "token": "I"
+        },
+        {
+          "cell_id": "cell-09",
+          "token": "J"
+        },
+        {
+          "cell_id": "cell-20",
+          "token": "IJ"
+        },
+        {
+          "cell_id": "cell-01",
+          "token": "B"
+        },
+        {
+          "cell_id": "cell-02",
+          "token": "C"
+        },
+        {
+          "cell_id": "cell-03",
+          "token": "D"
+        },
+        {
+          "cell_id": "cell-04",
+          "token": "E"
+        },
+        {
+          "cell_id": "cell-05",
+          "token": "F"
+        },
+        {
+          "cell_id": "cell-06",
+          "token": "G"
+        },
+        {
+          "cell_id": "cell-07",
+          "token": "H"
+        },
+        {
+          "cell_id": "cell-10",
+          "token": "K"
+        },
+        {
+          "cell_id": "cell-11",
+          "token": "L"
+        },
+        {
+          "cell_id": "cell-12",
+          "token": "M"
+        },
+        {
+          "cell_id": "cell-13",
+          "token": "N"
+        },
+        {
+          "cell_id": "cell-14",
+          "token": "O"
+        },
+        {
+          "cell_id": "cell-15",
+          "token": "P"
+        },
+        {
+          "cell_id": "cell-16",
+          "token": "Q"
+        },
+        {
+          "cell_id": "cell-17",
+          "token": "R"
+        },
+        {
+          "cell_id": "cell-19",
+          "token": "LL"
+        },
+        {
+          "cell_id": "cell-21",
+          "token": "Ñ"
+        },
+        {
+          "cell_id": "cell-22",
+          "token": "Æ"
+        },
+        {
+          "cell_id": "cell-23",
+          "token": "Œ"
+        },
+        {
+          "cell_id": "cell-24",
+          "token": "ä"
+        },
+        {
+          "cell_id": "cell-25",
+          "token": "é"
+        },
+        {
+          "cell_id": "cell-26",
+          "token": "é"
+        },
+        {
+          "cell_id": "cell-27",
+          "token": "ß"
+        },
+        {
+          "cell_id": "cell-28",
+          "token": "ø"
+        }
+      ],
+      "display_order": [
+        "cell-02",
+        "cell-20",
+        "cell-27",
+        "cell-07",
+        "cell-14",
+        "cell-00",
+        "cell-26",
+        "cell-18",
+        "cell-11",
+        "cell-29",
+        "cell-08",
+        "cell-21",
+        "cell-23",
+        "cell-09",
+        "cell-25",
+        "cell-15",
+        "cell-16",
+        "cell-19",
+        "cell-22",
+        "cell-03",
+        "cell-28",
+        "cell-04",
+        "cell-24",
+        "cell-12",
+        "cell-10",
+        "cell-05",
+        "cell-13",
+        "cell-17",
+        "cell-06",
+        "cell-01"
+      ],
+      "ciphertext": {
+        "length": 30,
+        "groups": [
+          {
+            "cell_id": "cell-29",
+            "indices": [
+              8
+            ]
+          },
+          {
+            "cell_id": "cell-28",
+            "indices": [
+              17
+            ]
+          },
+          {
+            "cell_id": "cell-27",
+            "indices": [
+              3
+            ]
+          },
+          {
+            "cell_id": "cell-26",
+            "indices": [
+              5
+            ]
+          },
+          {
+            "cell_id": "cell-25",
+            "indices": [
+              13
+            ]
+          },
+          {
+            "cell_id": "cell-24",
+            "indices": [
+              21
+            ]
+          },
+          {
+            "cell_id": "cell-23",
+            "indices": [
+              19
+            ]
+          },
+          {
+            "cell_id": "cell-22",
+            "indices": [
+              15
+            ]
+          },
+          {
+            "cell_id": "cell-21",
+            "indices": [
+              11
+            ]
+          },
+          {
+            "cell_id": "cell-20",
+            "indices": [
+              1
+            ]
+          },
+          {
+            "cell_id": "cell-19",
+            "indices": [
+              12
+            ]
+          },
+          {
+            "cell_id": "cell-18",
+            "indices": [
+              6
+            ]
+          },
+          {
+            "cell_id": "cell-17",
+            "indices": [
+              4
+            ]
+          },
+          {
+            "cell_id": "cell-16",
+            "indices": [
+              14
+            ]
+          },
+          {
+            "cell_id": "cell-15",
+            "indices": [
+              26
+            ]
+          },
+          {
+            "cell_id": "cell-14",
+            "indices": [
+              24
+            ]
+          },
+          {
+            "cell_id": "cell-13",
+            "indices": [
+              28
+            ]
+          },
+          {
+            "cell_id": "cell-12",
+            "indices": [
+              22
+            ]
+          },
+          {
+            "cell_id": "cell-11",
+            "indices": [
+              30
+            ]
+          },
+          {
+            "cell_id": "cell-10",
+            "indices": [
+              25
+            ]
+          },
+          {
+            "cell_id": "cell-09",
+            "indices": [
+              10
+            ]
+          },
+          {
+            "cell_id": "cell-08",
+            "indices": [
+              9
+            ]
+          },
+          {
+            "cell_id": "cell-07",
+            "indices": [
+              18
+            ]
+          },
+          {
+            "cell_id": "cell-06",
+            "indices": [
+              29
+            ]
+          },
+          {
+            "cell_id": "cell-05",
+            "indices": [
+              27
+            ]
+          },
+          {
+            "cell_id": "cell-04",
+            "indices": [
+              20
+            ]
+          },
+          {
+            "cell_id": "cell-03",
+            "indices": [
+              16
+            ]
+          },
+          {
+            "cell_id": "cell-02",
+            "indices": [
+              23
+            ]
+          },
+          {
+            "cell_id": "cell-01",
+            "indices": [
+              7
+            ]
+          },
+          {
+            "cell_id": "cell-00",
+            "indices": [
+              2
+            ]
+          }
+        ]
+      },
+      "gold_tokens": [
+        "IJ",
+        "A",
+        "ß",
+        "R",
+        "é",
+        "CH",
+        "B",
+        "Ω",
+        "I",
+        "J",
+        "Ñ",
+        "LL",
+        "é",
+        "Q",
+        "Æ",
+        "D",
+        "ø",
+        "H",
+        "Œ",
+        "E",
+        "ä",
+        "M",
+        "C",
+        "O",
+        "K",
+        "P",
+        "F",
+        "N",
+        "G",
+        "L"
+      ],
+      "gold_certificate": [
+        {
+          "position": 1,
+          "cell_id": "cell-20",
+          "token": "IJ"
+        },
+        {
+          "position": 2,
+          "cell_id": "cell-00",
+          "token": "A"
+        },
+        {
+          "position": 3,
+          "cell_id": "cell-27",
+          "token": "ß"
+        },
+        {
+          "position": 4,
+          "cell_id": "cell-17",
+          "token": "R"
+        },
+        {
+          "position": 5,
+          "cell_id": "cell-26",
+          "token": "é"
+        },
+        {
+          "position": 6,
+          "cell_id": "cell-18",
+          "token": "CH"
+        },
+        {
+          "position": 7,
+          "cell_id": "cell-01",
+          "token": "B"
+        },
+        {
+          "position": 8,
+          "cell_id": "cell-29",
+          "token": "Ω"
+        },
+        {
+          "position": 9,
+          "cell_id": "cell-08",
+          "token": "I"
+        },
+        {
+          "position": 10,
+          "cell_id": "cell-09",
+          "token": "J"
+        },
+        {
+          "position": 11,
+          "cell_id": "cell-21",
+          "token": "Ñ"
+        },
+        {
+          "position": 12,
+          "cell_id": "cell-19",
+          "token": "LL"
+        },
+        {
+          "position": 13,
+          "cell_id": "cell-25",
+          "token": "é"
+        },
+        {
+          "position": 14,
+          "cell_id": "cell-16",
+          "token": "Q"
+        },
+        {
+          "position": 15,
+          "cell_id": "cell-22",
+          "token": "Æ"
+        },
+        {
+          "position": 16,
+          "cell_id": "cell-03",
+          "token": "D"
+        },
+        {
+          "position": 17,
+          "cell_id": "cell-28",
+          "token": "ø"
+        },
+        {
+          "position": 18,
+          "cell_id": "cell-07",
+          "token": "H"
+        },
+        {
+          "position": 19,
+          "cell_id": "cell-23",
+          "token": "Œ"
+        },
+        {
+          "position": 20,
+          "cell_id": "cell-04",
+          "token": "E"
+        },
+        {
+          "position": 21,
+          "cell_id": "cell-24",
+          "token": "ä"
+        },
+        {
+          "position": 22,
+          "cell_id": "cell-12",
+          "token": "M"
+        },
+        {
+          "position": 23,
+          "cell_id": "cell-02",
+          "token": "C"
+        },
+        {
+          "position": 24,
+          "cell_id": "cell-14",
+          "token": "O"
+        },
+        {
+          "position": 25,
+          "cell_id": "cell-10",
+          "token": "K"
+        },
+        {
+          "position": 26,
+          "cell_id": "cell-15",
+          "token": "P"
+        },
+        {
+          "position": 27,
+          "cell_id": "cell-05",
+          "token": "F"
+        },
+        {
+          "position": 28,
+          "cell_id": "cell-13",
+          "token": "N"
+        },
+        {
+          "position": 29,
+          "cell_id": "cell-06",
+          "token": "G"
+        },
+        {
+          "position": 30,
+          "cell_id": "cell-11",
+          "token": "L"
+        }
+      ]
+    }
+  ]
+}

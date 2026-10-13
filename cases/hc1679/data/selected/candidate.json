@@ -1,0 +1,75 @@
+{
+  "root_safe": false,
+  "case_id": "hcportal:1679",
+  "status": "review_pending",
+  "scope": "Ranking output under a conditional folded-Czech global MASC hypothesis; no confirmed historical reading.",
+  "branch_id": "SB_A18",
+  "seed": 1471001,
+  "original_branch_index": 16,
+  "literal_compact_folded_output": "dumvlevoodradnicescervenouhvekdickoujestmujdonovtisicerydikdrahouskukaslovavrelesoustrastijihzuprimnostijsempresvedgemvzdytknamjizsdostatektvedepreklatesrdeckojakmulejentrohudohonimkanedranoupratibudutipsatipodrobnejikanedraljsemskorocelymesigkatimtevrelekdravialibatvujperous",
+  "decoder_key": "dumvleoranicshkjtyzpgbqxwf",
+  "source_packet_path": "independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A18.json",
+  "sidecar_path": "input_adapter_v1/sidecars/SB_A18.json",
+  "original_carrier_path": "input_adapter_v1/inputs/SB_A18.txt",
+  "wire_input_path": "solve_v1/inputs/SB_A18_positive.txt",
+  "solver_output_path": "solve_v1/outputs/SB_A18_positive_seed1471001.json",
+  "normalised_Q4_ranking_only": -4.891920114174871,
+  "single_matched_shuffle_ranking_only": -5.936039380538169,
+  "other_positive_seeds_retained": [
+    "solve_v1/outputs/SB_A18_positive_seed1471001.json",
+    "solve_v1/outputs/SB_A18_positive_seed1471002.json",
+    "solve_v1/outputs/SB_A18_positive_seed1471003.json"
+  ],
+  "whole_content_confirmed": false,
+  "editorial_accents_spaces_or_punctuation_added": false,
+  "given_public_key_used": false,
+  "complete_visible_source_reading": false,
+  "source_glyph_repair_or_position_exceptions": 0,
+  "input_pins": [
+    {
+      "path": "independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A18.json",
+      "sha256": "6717306e7cd1e4fb2eeb5ce504f1277b29f474bd6c6921acd925812c710338e6",
+      "bytes": 590994
+    },
+    {
+      "path": "input_adapter_v1/sidecars/SB_A18.json",
+      "sha256": "aa8f3f9dd542cefea3ce63e3c86600fd6fb337fbfa1dad630cdbbed68c231736",
+      "bytes": 629437
+    },
+    {
+      "path": "input_adapter_v1/inputs/SB_A18.txt",
+      "sha256": "d2ae9aa526926834254c9514d3f4ce9d5062c479b1c67a85a75b7ae5534b6e98",
+      "bytes": 277
+    },
+    {
+      "path": "solve_v1/inputs/SB_A18_positive.txt",
+      "sha256": "c3a819aa94370b08628d027591ab5323feda631643afc3edc0d19078f44d8690",
+      "bytes": 277
+    },
+    {
+      "path": "solve_v1/outputs/SB_A18_positive_seed1471001.json",
+      "sha256": "cbf7603b19303a4f6bcfcc614e34337dc686d332d2c2c07c67d02a6ac9984969",
+      "bytes": 5427
+    },
+    {
+      "path": "input_adapter_v1/adapter.py",
+      "sha256": "c043f893d132a1315cacd412ceb23764f0faafb52312f5a964d35243412ba216",
+      "bytes": 3321
+    },
+    {
+      "path": "config/HISTORICAL_TRIAL_REGISTRATION_v1.json",
+      "sha256": "a0c2fc559687adbcd561f2a10fe150be0bcee2585f31a592a033e0e574d99844",
+      "bytes": 34531
+    },
+    {
+      "path": "config/SOLVE_SOURCE_MANIFEST_v1.json",
+      "sha256": "59ab203925da4c695db57f334ac30243f4447ef2740a2057787de2a22dd5ec31",
+      "bytes": 44250
+    },
+    {
+      "path": "config/SOLVE_METHOD_MANIFEST_v1.json",
+      "sha256": "173ede48f0d23c05a9073c7e0c4fa4c7840aa5281fde35db9a9572b1c9238a96",
+      "bytes": 2638
+    }
+  ]
+}

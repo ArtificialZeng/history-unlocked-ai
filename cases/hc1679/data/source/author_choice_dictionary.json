@@ -1,0 +1,290 @@
+{
+  "schema_version": 1,
+  "case_id": "hcportal:1679",
+  "actual_utc": "2026-10-10T19:09:58.914679+00:00",
+  "dimensions": [
+    {
+      "dimension_id": "class_mode",
+      "options": [
+        {
+          "option_id": "RAW_OCCURRENCE_IDENTITY",
+          "description": "Keep every physically observed occurrence unmerged."
+        },
+        {
+          "option_id": "PROVISIONAL_GRAPHIC_FORM",
+          "description": "Use explicit graphic-likeness form classes; no semantic identity asserted."
+        }
+      ],
+      "default": "RAW_OCCURRENCE_IDENTITY",
+      "evidence": "Both preserve all occurrence provenance; graphic grouping based only on observed shape similarity."
+    },
+    {
+      "dimension_id": "segmentation",
+      "options": [
+        {
+          "option_id": "SMALL_CONTOURS",
+          "description": "Provisional small visually identifiable contours in each run."
+        },
+        {
+          "option_id": "VISIBLE_RUNS",
+          "description": "Keep each visibly separated graphic run as an aggregate unit."
+        }
+      ],
+      "default": "SMALL_CONTOURS",
+      "evidence": "Pen joins make semantic unit interpretation uncertain; both levels retain child contours reversibly."
+    },
+    {
+      "dimension_id": "band_order",
+      "options": [
+        {
+          "option_id": "TOP_THEN_MAIN",
+          "description": "Separated long/short band before six-row main band."
+        },
+        {
+          "option_id": "MAIN_THEN_TOP",
+          "description": "Six-row main band before separated long/short band."
+        }
+      ],
+      "default": "TOP_THEN_MAIN",
+      "evidence": "Physically separated bands provide no certified historical traversal."
+    },
+    {
+      "dimension_id": "gap_role",
+      "options": [
+        {
+          "option_id": "GRAPHIC_GAP_EVENT",
+          "description": "Retain visible gap event as an explicit projected separator."
+        },
+        {
+          "option_id": "LOCATOR_ONLY",
+          "description": "Gap remains a source locator, no emitted separator token."
+        }
+      ],
+      "default": "GRAPHIC_GAP_EVENT",
+      "evidence": "Spacing visible; linguistic/encoding boundary not assumed."
+    },
+    {
+      "dimension_id": "punctuation_role",
+      "options": [
+        {
+          "option_id": "VISIBLE_SEPARATOR",
+          "description": "Comma/point/terminal-curve-like forms retained as visible separator marks."
+        },
+        {
+          "option_id": "BODY_GRAPHIC",
+          "description": "These same contours emitted as ordinary unresolved body graphic units."
+        }
+      ],
+      "default": "VISIBLE_SEPARATOR",
+      "evidence": "Observed contour resemblance only; encoded/punctuation role is unknown."
+    },
+    {
+      "dimension_id": "top_link",
+      "options": [
+        {
+          "option_id": "SEPARATE_PHYSICAL_LINES",
+          "description": "Keep separated short line separate from long line."
+        },
+        {
+          "option_id": "SHORT_CONTINUES_LONG",
+          "description": "Declare optional long-to-short continuation with physical line break retained."
+        }
+      ],
+      "default": "SEPARATE_PHYSICAL_LINES",
+      "evidence": "Short run is adjacent to latter part of long row, but continuation is not proved."
+    },
+    {
+      "dimension_id": "leading_mark_role",
+      "options": [
+        {
+          "option_id": "DETACHED_BODY_MARK",
+          "description": "Leave isolated double-lobed form unowned."
+        },
+        {
+          "option_id": "LEADING_R02_CONTOUR",
+          "description": "Prepend isolated form as leading contour of main R02."
+        },
+        {
+          "option_id": "TRAILING_R01_CONTOUR",
+          "description": "Attach as spatially displaced trailing contour of main R01."
+        },
+        {
+          "option_id": "INCIDENTAL_MARGIN_MARK",
+          "description": "Retain as separate incidental margin mark."
+        }
+      ],
+      "default": "DETACHED_BODY_MARK",
+      "evidence": "Small isolated form lies between/at left of two physical rows; exact semantic ownership unknown."
+    },
+    {
+      "dimension_id": "raised_wedge_role",
+      "options": [
+        {
+          "option_id": "DETACHED_RAISED_MARK",
+          "description": "Keep raised wedge unowned."
+        },
+        {
+          "option_id": "ATTACH_PRECEDING_4LIKE",
+          "description": "Associate with preceding four-like contour."
+        },
+        {
+          "option_id": "ATTACH_FOLLOWING_RLIKE",
+          "description": "Associate with following shoulder/r-like contour."
+        }
+      ],
+      "default": "DETACHED_RAISED_MARK",
+      "evidence": "Raised wedge lies over interval between these two contours."
+    },
+    {
+      "dimension_id": "g_terminal_hook",
+      "options": [
+        {
+          "option_id": "SEPARATE_CURVED_MARK",
+          "description": "Keep trailing curve after g-like contour separate."
+        },
+        {
+          "option_id": "PART_OF_GLIKE",
+          "description": "Treat terminal curve as component of preceding g-like contour."
+        }
+      ],
+      "default": "SEPARATE_CURVED_MARK",
+      "evidence": "Connected appearance uncertain next to long returning g-like descender."
+    },
+    {
+      "dimension_id": "top_terminal_point",
+      "options": [
+        {
+          "option_id": "SEPARATE_POINT",
+          "description": "Keep terminal dark point after short-row f-like form separate."
+        },
+        {
+          "option_id": "PART_OF_FLIKE",
+          "description": "Associate point with preceding f-like form."
+        }
+      ],
+      "default": "SEPARATE_POINT",
+      "evidence": "Point near terminal flourish; role cannot be uniquely inferred."
+    },
+    {
+      "dimension_id": "U_INITIAL_MAIN_R06",
+      "options": [
+        {
+          "option_id": "FORM_s",
+          "description": "Explicit finite graphic alternative at PIC_MAIN_R06_G01_O01"
+        },
+        {
+          "option_id": "FORM_DARK_SMALL_UNRESOLVED",
+          "description": "Explicit finite graphic alternative at PIC_MAIN_R06_G01_O01"
+        }
+      ],
+      "default": "FORM_s",
+      "evidence": "Dark thick initial small form; triangular-hook / cursive-s-like provisional label uncertain."
+    },
+    {
+      "dimension_id": "U_ROUNDED_MAIN_R06",
+      "options": [
+        {
+          "option_id": "FORM_o",
+          "description": "Explicit finite graphic alternative at PIC_MAIN_R06_G02_O05"
+        },
+        {
+          "option_id": "FORM_ROUND_ZERO_LIKE",
+          "description": "Explicit finite graphic alternative at PIC_MAIN_R06_G02_O05"
+        }
+      ],
+      "default": "FORM_o",
+      "evidence": "Small closed rounded form may be classified by graphic roundness or retained as unique."
+    },
+    {
+      "dimension_id": "U_ROUNDED_MAIN_R02",
+      "options": [
+        {
+          "option_id": "FORM_o",
+          "description": "Explicit finite graphic alternative at PIC_MAIN_R02_G04_O08"
+        },
+        {
+          "option_id": "FORM_ROUND_ZERO_LIKE",
+          "description": "Explicit finite graphic alternative at PIC_MAIN_R02_G04_O08"
+        }
+      ],
+      "default": "FORM_o",
+      "evidence": "Rounded connected form after t-like stem; provisional o-like observation uncertain."
+    },
+    {
+      "dimension_id": "U_LAST_MAIN_R06",
+      "options": [
+        {
+          "option_id": "FORM_h",
+          "description": "Explicit finite graphic alternative at PIC_MAIN_R06_G09_O03"
+        },
+        {
+          "option_id": "FORM_b",
+          "description": "Explicit finite graphic alternative at PIC_MAIN_R06_G09_O03"
+        }
+      ],
+      "default": "FORM_h",
+      "evidence": "Tall loop/shoulder form in last run; h/b-like graphic distinction uncertain."
+    },
+    {
+      "dimension_id": "U_FIRST_MAIN_R02_G02",
+      "options": [
+        {
+          "option_id": "FORM_h",
+          "description": "Explicit finite graphic alternative at PIC_MAIN_R02_G02_O02"
+        },
+        {
+          "option_id": "FORM_b",
+          "description": "Explicit finite graphic alternative at PIC_MAIN_R02_G02_O02"
+        }
+      ],
+      "default": "FORM_h",
+      "evidence": "Tall joined stem with loop/shoulder; h/b-like distinction uncertain."
+    }
+  ],
+  "form_class_ids": [
+    "FORM_d",
+    "FORM_4",
+    "FORM_c",
+    "FORM_s",
+    "FORM_5",
+    "FORM_h",
+    "FORM_1",
+    "FORM_t",
+    "FORM_g",
+    "FORM_COMMA_LIKE",
+    "FORM_6",
+    "FORM_r",
+    "FORM_3",
+    "FORM_2",
+    "FORM_8",
+    "FORM_f",
+    "FORM_7",
+    "FORM_9",
+    "FORM_n",
+    "FORM_m",
+    "FORM_b",
+    "FORM_o",
+    "FORM_POINT_LIKE",
+    "FORM_CURVE_TERMINAL",
+    "FORM_p",
+    "FORM_DARK_SMALL_UNRESOLVED",
+    "FORM_ROUND_ZERO_LIKE"
+  ],
+  "compatibility_rules": [
+    {
+      "rule_id": "C_SMALL_ROLE_LINK",
+      "condition": "segmentation=VISIBLE_RUNS AND (g_terminal_hook=PART_OF_GLIKE OR top_terminal_point=PART_OF_FLIKE)",
+      "reject_reason": "Inner-contour component attachment cannot also be represented as an aggregate run-level merge in this minimal projection; use SMALL_CONTOURS for those attachments."
+    },
+    {
+      "rule_id": "C_LEADING_ROLE",
+      "condition": "segmentation=VISIBLE_RUNS AND leading_mark_role in {LEADING_R02_CONTOUR,TRAILING_R01_CONTOUR}",
+      "reject_reason": "Explicit contour placement choice needs SMALL_CONTOURS; unowned/incidental marks remain allowed at run level."
+    }
+  ],
+  "unknown_options_rejected": true,
+  "defaults_are_not_historical_certainties": true,
+  "projection_preserves": "All raw source objects, choice vector, explicit occurrence provenance and selected roles; no inferred hidden ink.",
+  "joint_exhaustion_required": false,
+  "family_and_wordmeaning_absent": true
+}

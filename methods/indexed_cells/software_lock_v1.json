@@ -1,0 +1,37 @@
+{
+  "schema": "indexed-cell-software-lock-v1",
+  "locked_at_utc": "2026-10-07T04:34:16.458Z",
+  "statement": "Generic software and proof files frozen before the first kernel/verifier execution. Controls and configuration remain unchanged from preimplementation_lock.json.",
+  "files": [
+    {
+      "path": "kernel.mjs",
+      "bytes": 5649,
+      "sha256": "11b0026354c024dbaae3fdd9e5d103999c17cf72954f7961397382f15f30c281"
+    },
+    {
+      "path": "independent_verifier.mjs",
+      "bytes": 6968,
+      "sha256": "ca4961832338395bae274df13f1cdb3ce20062d0ac4f8d0bfbeaba0843730b67"
+    },
+    {
+      "path": "run_validation.mjs",
+      "bytes": 11230,
+      "sha256": "08a4c55196b90ad7b24421a2c0816a799dc873cb1de6d72c1fcd8b98fa7b9b8e"
+    },
+    {
+      "path": "verify_frozen_controls.mjs",
+      "bytes": 2458,
+      "sha256": "bfba7c09e6702e6244e19e65d816030a688f0974f9ded78d6640b02fc658b4d0"
+    },
+    {
+      "path": "MATHEMATICAL_SPEC.md",
+      "bytes": 3931,
+      "sha256": "95c1b11aa4bf0017ccfc410576bfd4fe5ee09875e9106468a7d754e7463f5a16"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3890,
+      "sha256": "18caf3df2b40a9dcdee52f7f0665b0b8da70e7d63b760e2f8c543c6823800c29"
+    }
+  ]
+}

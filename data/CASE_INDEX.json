@@ -1,5 +1,5 @@
 {
-  "version": "code-core-v1",
+  "version": "code-core-v2",
   "cases": [
     {
       "case_id": "hcportal:615",
@@ -110,6 +110,17 @@
       "complete_expert_confirmed_observed_message": false,
       "entry": "cases/hc1098/README.md",
       "checker": null
+    },
+    {
+      "case_id": "hcportal:1679",
+      "source": "https://api.hcportal.eu/api/cryptograms/1679",
+      "cipher_family": "Conditional monoalphabetic substitution under frozen source alternatives",
+      "evidence_status": "Independently audited conditional partial reading; not solved",
+      "scope": "276selectedpositions from289sourceoccurrences;15unresolvedspans;36sourcebranches,19tested;114recordedruns; no coherentwholemessage or newexpertverdict",
+      "runnable": true,
+      "complete_expert_confirmed_observed_message": false,
+      "entry": "cases/hc1679/README.md",
+      "checker": "code/check_release.py"
     }
   ],
   "other_problem_results_under_expert_verification": "User-reported ongoing review; no additional external verdict asserted."

@@ -1,0 +1,874 @@
+{
+  "schema": "FROZEN_FINITE_PAIRED_SOURCE_BANK_v1",
+  "sealed": true,
+  "case_id": "hcportal:1679",
+  "created_utc": "2026-10-10T19:35:35.585265+00:00",
+  "branches": [
+    {
+      "branch_id": "SB_A00",
+      "origin": "AUTHOR",
+      "case_name": "BASE",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A00.json",
+        "bytes": 590967,
+        "sha256": "a213db0519237574018c923cf70dc3b8c9fc8563dd6c556b4d282a8749ab145c"
+      },
+      "projection_canonical_sha256": "e3e3c726f5dc5cfcbe3d6d51a5bf81bbd5b7be399201698db4be8a27b68a3452",
+      "profile_canonical_sha256": "2ed0464eb1d0b8e1a6eda554ecf3866470716e57ebcc331658d51891d12ffdfa",
+      "scalar_profile": {
+        "emitted_object_count": 276,
+        "active_emitted_class_count": 22,
+        "source_form_inventory_count": 22,
+        "excluded_separator_count": 13,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 0,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "PROVISIONAL_GRAPHIC_FORM"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_A01",
+      "origin": "AUTHOR",
+      "case_name": "OPT_class_mode_RAW_OCCURRENCE_IDENTITY",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A01.json",
+        "bytes": 600952,
+        "sha256": "3c5a4b04c6f029c49b51439304d566d2e68600999459387aa31e60652cbef56e"
+      },
+      "projection_canonical_sha256": "15ffb42df23fa17dba96ec250900e43bd586451910260f177932f0521747edd9",
+      "profile_canonical_sha256": "3e7b84e6ccbf3ef666f419b6b7cd0f1ed787d154e337c5b8a755ee50bb6b5bf7",
+      "scalar_profile": {
+        "emitted_object_count": 276,
+        "active_emitted_class_count": 276,
+        "source_form_inventory_count": 22,
+        "excluded_separator_count": 13,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 0,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "RAW_OCCURRENCE_IDENTITY"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_A02",
+      "origin": "AUTHOR",
+      "case_name": "OPT_segmentation_VISIBLE_RUNS",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A02.json",
+        "bytes": 446531,
+        "sha256": "0786b7ece8c7ba5c52af0127e2319d0698b3f44b122fedc54f5e2bf8effe8825"
+      },
+      "projection_canonical_sha256": "bdd09a6440278e906f47076144a5aca81a4c64056d0e6bce4152aa4a58d4f781",
+      "profile_canonical_sha256": "7c4470580be4a4faa739fe8ac46fc6c55a9b6b1f0ee0815e892ca969cb8ddb2b",
+      "scalar_profile": {
+        "emitted_object_count": 0,
+        "active_emitted_class_count": 0,
+        "source_form_inventory_count": 0,
+        "excluded_separator_count": 0,
+        "unassigned_capture_packet_count": 54,
+        "unassigned_bounded_body_cluster_count": 0,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "PROVISIONAL_GRAPHIC_FORM"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_A03",
+      "origin": "AUTHOR",
+      "case_name": "OPT_band_order_MAIN_THEN_TOP",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A03.json",
+        "bytes": 590991,
+        "sha256": "c292e58d78e8423b46c58e51bba2d243776fc0ffb12d48d4e403d860b6b29efc"
+      },
+      "projection_canonical_sha256": "3a1118dfb567d13e09eff9a6deafefaef61b069a742522b166c9619934857a0c",
+      "profile_canonical_sha256": "bb64a7db59ccf5ec1785b9567c1f6220e4e3869d810f1caa53d844f726a57d3d",
+      "scalar_profile": {
+        "emitted_object_count": 276,
+        "active_emitted_class_count": 22,
+        "source_form_inventory_count": 22,
+        "excluded_separator_count": 13,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 0,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "PROVISIONAL_GRAPHIC_FORM"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_A04",
+      "origin": "AUTHOR",
+      "case_name": "OPT_gap_role_LOCATOR_ONLY",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A04.json",
+        "bytes": 579924,
+        "sha256": "523968b239303de86040104750acbdd4115dabd7e37f7a62efe7eeef2c46ec44"
+      },
+      "projection_canonical_sha256": "147b44a27e95408268428e3191700dedeef4e04136e6a1a9d70ae734b3d30929",
+      "profile_canonical_sha256": "2ed0464eb1d0b8e1a6eda554ecf3866470716e57ebcc331658d51891d12ffdfa",
+      "scalar_profile": {
+        "emitted_object_count": 276,
+        "active_emitted_class_count": 22,
+        "source_form_inventory_count": 22,
+        "excluded_separator_count": 13,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 0,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "PROVISIONAL_GRAPHIC_FORM"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_A05",
+      "origin": "AUTHOR",
+      "case_name": "OPT_punctuation_role_BODY_GRAPHIC",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A05.json",
+        "bytes": 593776,
+        "sha256": "c60f61a8f9f43a1253339a4e1c2722348ac0f501eda0cf37ca5d98ac330c1e7b"
+      },
+      "projection_canonical_sha256": "fd34fca25f5f67f1d225b05866c783ebf83b717e6f2e1c61834a661967546bb7",
+      "profile_canonical_sha256": "35633fcbf71ec1be4e0ef7b62ba51da2ec8eadb676b7a831c7805b5926c97ec2",
+      "scalar_profile": {
+        "emitted_object_count": 289,
+        "active_emitted_class_count": 25,
+        "source_form_inventory_count": 25,
+        "excluded_separator_count": 0,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 0,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "PROVISIONAL_GRAPHIC_FORM"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_A06",
+      "origin": "AUTHOR",
+      "case_name": "OPT_top_link_SHORT_CONTINUES_LONG",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A06.json",
+        "bytes": 591193,
+        "sha256": "d6adc42dd68b03c9e3ef522bb49083b334a465267b59692c2f9dd8acb204a839"
+      },
+      "projection_canonical_sha256": "408bc0903b9cdbb1a6132c6756ea6125fccbd9a032c34220d00bf13cdfc7bced",
+      "profile_canonical_sha256": "2ed0464eb1d0b8e1a6eda554ecf3866470716e57ebcc331658d51891d12ffdfa",
+      "scalar_profile": {
+        "emitted_object_count": 276,
+        "active_emitted_class_count": 22,
+        "source_form_inventory_count": 22,
+        "excluded_separator_count": 13,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 0,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "PROVISIONAL_GRAPHIC_FORM"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_A07",
+      "origin": "AUTHOR",
+      "case_name": "OPT_leading_mark_role_LEADING_R02_CONTOUR",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A07.json",
+        "bytes": 591270,
+        "sha256": "ee8ca8f6d98fa37fa708d6c4fd32f91e4f023254bbfb1699b15449949d7c7e29"
+      },
+      "projection_canonical_sha256": "a63cea4f12d9f41a405ca5b1cbfd2930197bc1ab2be054ae5eb3d15a26fbc91e",
+      "profile_canonical_sha256": "8b965c3400beebab3828c897181d39cd4405e6153a1759b5f5197b04d97b5516",
+      "scalar_profile": {
+        "emitted_object_count": 277,
+        "active_emitted_class_count": 23,
+        "source_form_inventory_count": 23,
+        "excluded_separator_count": 13,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 0,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "PROVISIONAL_GRAPHIC_FORM"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_A08",
+      "origin": "AUTHOR",
+      "case_name": "OPT_leading_mark_role_TRAILING_R01_CONTOUR",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A08.json",
+        "bytes": 591274,
+        "sha256": "b5151baeb27a84e1a86ca6efc4a6e32c3ffea0ec5fdc2e0fce1a76dad8448c3a"
+      },
+      "projection_canonical_sha256": "9012b9ace86f598369b00d06d37b2f65bb01c69c374abff1f92c1a4bf801a902",
+      "profile_canonical_sha256": "2edcd4f3456c3968061db89d30694eb097b66436de3f41fc79ea90036a87d8f2",
+      "scalar_profile": {
+        "emitted_object_count": 277,
+        "active_emitted_class_count": 23,
+        "source_form_inventory_count": 23,
+        "excluded_separator_count": 13,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 0,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "PROVISIONAL_GRAPHIC_FORM"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_A09",
+      "origin": "AUTHOR",
+      "case_name": "OPT_leading_mark_role_INCIDENTAL_MARGIN_MARK",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A09.json",
+        "bytes": 591019,
+        "sha256": "3ef14eb4be71ad6cb13b4c0ad2c6c0c55123a2e33e0dbf705547c390a5534fc1"
+      },
+      "projection_canonical_sha256": "4e139309017d176526f7ff98a487cf2467cfb5ef47211a748b19600ca53cd00c",
+      "profile_canonical_sha256": "e954ec6e77234d171addf9a23e9382b9f4e2701371e5c798f1a41237cf5a9e7c",
+      "scalar_profile": {
+        "emitted_object_count": 276,
+        "active_emitted_class_count": 22,
+        "source_form_inventory_count": 22,
+        "excluded_separator_count": 13,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 0,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "PROVISIONAL_GRAPHIC_FORM"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_A10",
+      "origin": "AUTHOR",
+      "case_name": "OPT_raised_wedge_role_ATTACH_PRECEDING_4LIKE",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A10.json",
+        "bytes": 590877,
+        "sha256": "a300fcbb6691350717b7fb7f3c98e722c6b42ae8df7a316ca092c80587582c43"
+      },
+      "projection_canonical_sha256": "37325bba022a7d9b5d52c7a201168b9a29e47f86ff100d15ced374ecee0aadbb",
+      "profile_canonical_sha256": "e6495ff304e464925488ed666ad6324ac8c1ff2fc8cfa9135278fe197775ead5",
+      "scalar_profile": {
+        "emitted_object_count": 276,
+        "active_emitted_class_count": 22,
+        "source_form_inventory_count": 22,
+        "excluded_separator_count": 13,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 0,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "PROVISIONAL_GRAPHIC_FORM"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_A11",
+      "origin": "AUTHOR",
+      "case_name": "OPT_raised_wedge_role_ATTACH_FOLLOWING_RLIKE",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A11.json",
+        "bytes": 590877,
+        "sha256": "caa775287d2e440f63a4c885e16e9e34be8c51c1c6fbba211bfc53df1ec86a67"
+      },
+      "projection_canonical_sha256": "596f3de8a0d9af07dbebc83892732933e69025201ad4349a18aa3075f31e2677",
+      "profile_canonical_sha256": "df5ce5955f178101eaee6620f934444c890a0c760ec5b69f4d53f254c7e70950",
+      "scalar_profile": {
+        "emitted_object_count": 276,
+        "active_emitted_class_count": 22,
+        "source_form_inventory_count": 22,
+        "excluded_separator_count": 13,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 0,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "PROVISIONAL_GRAPHIC_FORM"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_A12",
+      "origin": "AUTHOR",
+      "case_name": "OPT_g_terminal_hook_PART_OF_GLIKE",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A12.json",
+        "bytes": 590657,
+        "sha256": "8902a4c5f4b335bf0dfebdb11b61f601dbf5b47f7370e253e8380998833929bf"
+      },
+      "projection_canonical_sha256": "08a881993f10aef2a597a0d5c4cce3f23970f4f8fc355ceb5f946ccc1a586a1c",
+      "profile_canonical_sha256": "967742f88f9ae1b1eb15d0e4895e141df1cdd86c990eb91acfaeb5ba7676ffef",
+      "scalar_profile": {
+        "emitted_object_count": 276,
+        "active_emitted_class_count": 22,
+        "source_form_inventory_count": 22,
+        "excluded_separator_count": 12,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 0,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "PROVISIONAL_GRAPHIC_FORM"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_A13",
+      "origin": "AUTHOR",
+      "case_name": "OPT_top_terminal_point_PART_OF_FLIKE",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A13.json",
+        "bytes": 590669,
+        "sha256": "377843414db667e829ff82580643c9ff470f5588c69bc6b0da8857e20f33880b"
+      },
+      "projection_canonical_sha256": "f96969b67213462e02a34151c3eee1caaec1a55cf2adbcd00651f19f22380f11",
+      "profile_canonical_sha256": "3246074bc39ea6166c3cd5f64297946cd8abafb4bdc04e44e22e4d84d36d4fba",
+      "scalar_profile": {
+        "emitted_object_count": 276,
+        "active_emitted_class_count": 22,
+        "source_form_inventory_count": 22,
+        "excluded_separator_count": 12,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 0,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "PROVISIONAL_GRAPHIC_FORM"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_A14",
+      "origin": "AUTHOR",
+      "case_name": "OPT_U_INITIAL_MAIN_R06_FORM_DARK_SMALL_UNRESOLVED",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A14.json",
+        "bytes": 591112,
+        "sha256": "d43a907ea524d36cbc5f5309c526e9f75d1c1bd376b576b3304d22a76f6a602d"
+      },
+      "projection_canonical_sha256": "cda2ebfbd9b8e693a896e47469aa010b663e425515824ca529b8661a5558bdea",
+      "profile_canonical_sha256": "0e48768bbf31c85f16d687f37a676dbd778a63ae29d46c5f32ddfb0a38fa362f",
+      "scalar_profile": {
+        "emitted_object_count": 276,
+        "active_emitted_class_count": 23,
+        "source_form_inventory_count": 23,
+        "excluded_separator_count": 13,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 0,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "PROVISIONAL_GRAPHIC_FORM"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_A15",
+      "origin": "AUTHOR",
+      "case_name": "OPT_U_ROUNDED_MAIN_R06_FORM_ROUND_ZERO_LIKE",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A15.json",
+        "bytes": 591076,
+        "sha256": "65990d8294d0169dc048e7de44ede8e0293fefe03df6e89755adc1eaf515c1a0"
+      },
+      "projection_canonical_sha256": "f16fc4316598f6ab1989f744e2a655c9ebb44fdbb3f66a7db21b29f2189b0af6",
+      "profile_canonical_sha256": "9f828ee18b310e7725875545e1cd98d1089b42ab565dc347f15a57fdb2ff346b",
+      "scalar_profile": {
+        "emitted_object_count": 276,
+        "active_emitted_class_count": 23,
+        "source_form_inventory_count": 23,
+        "excluded_separator_count": 13,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 0,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "PROVISIONAL_GRAPHIC_FORM"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_A16",
+      "origin": "AUTHOR",
+      "case_name": "OPT_U_ROUNDED_MAIN_R02_FORM_ROUND_ZERO_LIKE",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A16.json",
+        "bytes": 591076,
+        "sha256": "46f580f4b15edf7996c0355bde52b17d568f236c14503f8bd0548357adca579e"
+      },
+      "projection_canonical_sha256": "88e72061f9263a48b90b8b7edb8bf33a24bac4684bbe15a9f493fad8cb614361",
+      "profile_canonical_sha256": "bf79402f91c7577973530df8fecbb0ed57bc33e7d5a2fbb2fdef4e7db062ad88",
+      "scalar_profile": {
+        "emitted_object_count": 276,
+        "active_emitted_class_count": 23,
+        "source_form_inventory_count": 23,
+        "excluded_separator_count": 13,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 0,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "PROVISIONAL_GRAPHIC_FORM"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_A17",
+      "origin": "AUTHOR",
+      "case_name": "OPT_U_LAST_MAIN_R06_FORM_b",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A17.json",
+        "bytes": 590989,
+        "sha256": "0a2e8c2840ac784b803eb1d04cb352f4b781ce10341c2c387f98c09dc43b768d"
+      },
+      "projection_canonical_sha256": "4dcfbcdeced9565ae8488088c7bd3b201214d2e08de515653fa8702b4b71b9a7",
+      "profile_canonical_sha256": "ef6c45a8264caa428370056a712ad90534e55bb778c4bc67917f8018b994aaa7",
+      "scalar_profile": {
+        "emitted_object_count": 276,
+        "active_emitted_class_count": 22,
+        "source_form_inventory_count": 22,
+        "excluded_separator_count": 13,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 0,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "PROVISIONAL_GRAPHIC_FORM"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_A18",
+      "origin": "AUTHOR",
+      "case_name": "OPT_U_FIRST_MAIN_R02_G02_FORM_b",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A18.json",
+        "bytes": 590994,
+        "sha256": "6717306e7cd1e4fb2eeb5ce504f1277b29f474bd6c6921acd925812c710338e6"
+      },
+      "projection_canonical_sha256": "9328ed1396719987f0a5886fca46000c8c72643f89f0eaed284ae6abdbd1d2bb",
+      "profile_canonical_sha256": "00252ab865b1369df9fb43945ee964aec7f9813613d2d26516fea5c871727c01",
+      "scalar_profile": {
+        "emitted_object_count": 276,
+        "active_emitted_class_count": 22,
+        "source_form_inventory_count": 22,
+        "excluded_separator_count": 13,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 0,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "PROVISIONAL_GRAPHIC_FORM"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_A19",
+      "origin": "AUTHOR",
+      "case_name": "JOINT_COMPONENTS",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A19.json",
+        "bytes": 579374,
+        "sha256": "79ab6fe53009bd549be73d7ef682c350e2d7e16e7a76bde02a1adcfbd41fc5a6"
+      },
+      "projection_canonical_sha256": "89f7c99a2838fc871e97fd2f49c3d8d79bb4abe21087bafe21855a27a058f22f",
+      "profile_canonical_sha256": "0c3cfb769f3487518ab96eabd79563c51e3f491a78fa86c298825464f8674762",
+      "scalar_profile": {
+        "emitted_object_count": 277,
+        "active_emitted_class_count": 23,
+        "source_form_inventory_count": 23,
+        "excluded_separator_count": 11,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 0,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "PROVISIONAL_GRAPHIC_FORM"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_A20",
+      "origin": "AUTHOR",
+      "case_name": "JOINT_AGGREGATES",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A20.json",
+        "bytes": 446549,
+        "sha256": "df5f1c36630c102ace468c774887c2bcf54a2952fe3fa58a9b77abc327519259"
+      },
+      "projection_canonical_sha256": "f145569a12477631d2c87e4b11cfc97b41dfb676104f262d25a5ff685772d35b",
+      "profile_canonical_sha256": "80b808506f925f80b82a9fb41a9990f3b0530df3dcb15854d6e6764d35fac3ea",
+      "scalar_profile": {
+        "emitted_object_count": 0,
+        "active_emitted_class_count": 0,
+        "source_form_inventory_count": 0,
+        "excluded_separator_count": 0,
+        "unassigned_capture_packet_count": 54,
+        "unassigned_bounded_body_cluster_count": 0,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "PROVISIONAL_GRAPHIC_FORM"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_A21",
+      "origin": "AUTHOR",
+      "case_name": "JOINT_UNCERTAIN_FORMS",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_A21.json",
+        "bytes": 591163,
+        "sha256": "b39e301681ebd538db010aebc1fd6eadffa650822dc9c72bc2f878a69988b7ef"
+      },
+      "projection_canonical_sha256": "3abaaac5d02f8b4283ff29505673990582c1562ca8435c3443dbf809c8c102d6",
+      "profile_canonical_sha256": "fb2360056f1b5b1cf98cb2508af89c2b9951227ee70c8aedfb0463e14584b8d1",
+      "scalar_profile": {
+        "emitted_object_count": 277,
+        "active_emitted_class_count": 24,
+        "source_form_inventory_count": 24,
+        "excluded_separator_count": 12,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 0,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "PROVISIONAL_GRAPHIC_FORM"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_O00",
+      "origin": "OWN",
+      "case_name": "BASE",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_O00.json",
+        "bytes": 580590,
+        "sha256": "32fd12c7b3cf46c46e3906a39388d73e6330e095aa432b803db96fcecd6488a9"
+      },
+      "projection_canonical_sha256": "36cd18e9007de71e8472aff16d7d9ad019ae6949c467373a140b7172b47a8239",
+      "profile_canonical_sha256": "c0f7b0c07714bc1e525d6aa2d12f7dacb053762a33e018733af3bc8d86d54f29",
+      "scalar_profile": {
+        "emitted_object_count": 277,
+        "active_emitted_class_count": 21,
+        "source_form_inventory_count": 21,
+        "excluded_separator_count": 10,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 1,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "explicit_provisional_OWN_form_classes"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_O01",
+      "origin": "OWN",
+      "case_name": "CLASS_M1.P002",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_O01.json",
+        "bytes": 580661,
+        "sha256": "464b2b7f9163cc269120710c22e11847a0d2ffb84c23af73f584f6a3786f525e"
+      },
+      "projection_canonical_sha256": "a1cae8f0951faf3a35e299dfb93caa1284b1c2c25022c25e391ba3f806afecc5",
+      "profile_canonical_sha256": "f834275d3d5946ab1b956c8d64794d7be0734e80e42d32ea3eca069b24bfccd3",
+      "scalar_profile": {
+        "emitted_object_count": 277,
+        "active_emitted_class_count": 22,
+        "source_form_inventory_count": 22,
+        "excluded_separator_count": 10,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 1,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "explicit_provisional_OWN_form_classes"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_O02",
+      "origin": "OWN",
+      "case_name": "CLASS_M4.P029",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_O02.json",
+        "bytes": 580696,
+        "sha256": "27adb715ce296eeb4d8f999855eefdb92d81800f89a6b1889e254fc7f40b06e7"
+      },
+      "projection_canonical_sha256": "1222a35ce761947220243fbe5762ff1706a5a0ca69eefd5bdc93a851e6d080ae",
+      "profile_canonical_sha256": "b696a286349a03616a4086ab9265f2be2e2d05b093a241f8970c9eb0a689cab1",
+      "scalar_profile": {
+        "emitted_object_count": 277,
+        "active_emitted_class_count": 21,
+        "source_form_inventory_count": 21,
+        "excluded_separator_count": 10,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 1,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "explicit_provisional_OWN_form_classes"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_O03",
+      "origin": "OWN",
+      "case_name": "CLASS_M6.P001",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_O03.json",
+        "bytes": 580691,
+        "sha256": "6938a225ba1732b4f6fe9ec1e75e302337093f73e99dbedd6fd82edae5c7578b"
+      },
+      "projection_canonical_sha256": "6b8e997548737a14e25add159d4a8e7db36eebc8b73031b168c3a057ef4733fb",
+      "profile_canonical_sha256": "099f8ebfb443124f8e685d63fa05933db0e61989f3ffc79a5fc8352bbf03bb00",
+      "scalar_profile": {
+        "emitted_object_count": 277,
+        "active_emitted_class_count": 22,
+        "source_form_inventory_count": 22,
+        "excluded_separator_count": 10,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 1,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "explicit_provisional_OWN_form_classes"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_O04",
+      "origin": "OWN",
+      "case_name": "ROLE_DM01_M2_prefix_site",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_O04.json",
+        "bytes": 580698,
+        "sha256": "83898bf8765cfe2c517dffcdc711650df6dab1aa510d081a9153a7ed67a2771b"
+      },
+      "projection_canonical_sha256": "e977a4270d7baf6f81e6bbba8a3bf2cea99fa9bc8c9231e1c4a3c093d5cafb8d",
+      "profile_canonical_sha256": "96b07d6db988d30fa799ead941d469002af80ce194bd248512482605c0887a95",
+      "scalar_profile": {
+        "emitted_object_count": 278,
+        "active_emitted_class_count": 22,
+        "source_form_inventory_count": 22,
+        "excluded_separator_count": 10,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 1,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "explicit_provisional_OWN_form_classes"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_O05",
+      "origin": "OWN",
+      "case_name": "ROLE_DM01_M1_marginal_insert",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_O05.json",
+        "bytes": 580718,
+        "sha256": "fef024736fb84160a37ea0da0ff815ae7c4b48a401925b35078e4a501c8d5344"
+      },
+      "projection_canonical_sha256": "c8ace51fb857f3c6dc497bf559372872d740cc07fda1451f2345e071a9314a6f",
+      "profile_canonical_sha256": "1f0511b2a577062fef8a741308e4cc143f8338465eba1bb0a85e879831c13030",
+      "scalar_profile": {
+        "emitted_object_count": 278,
+        "active_emitted_class_count": 22,
+        "source_form_inventory_count": 22,
+        "excluded_separator_count": 10,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 1,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "explicit_provisional_OWN_form_classes"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_O06",
+      "origin": "OWN",
+      "case_name": "ROLE_DM02_unattached_diacritic_like_mark",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_O06.json",
+        "bytes": 580649,
+        "sha256": "4d5d10b0150d2dbb4c30c3dcf4aa00d62f9a738c449f4af7a23739b09c1e25b4"
+      },
+      "projection_canonical_sha256": "adeb24fa77adb136a042451753cedd620096eade42c1673360e837dadb702217",
+      "profile_canonical_sha256": "c0f7b0c07714bc1e525d6aa2d12f7dacb053762a33e018733af3bc8d86d54f29",
+      "scalar_profile": {
+        "emitted_object_count": 277,
+        "active_emitted_class_count": 21,
+        "source_form_inventory_count": 21,
+        "excluded_separator_count": 10,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 1,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "explicit_provisional_OWN_form_classes"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_O07",
+      "origin": "OWN",
+      "case_name": "ROLE_UM01_unattached_terminal_mark",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_O07.json",
+        "bytes": 580606,
+        "sha256": "bc398ed87019fbd36a59c0a91684d0589436ef14aea11fe1d57efda4158bd9b2"
+      },
+      "projection_canonical_sha256": "4fb6752594577b448fb68be2313ee6b8394f183d7a09f5693678a7f1033b3a26",
+      "profile_canonical_sha256": "fc5c3b4160dbc5df69e2dcf6be1105a22b0803c1af544e67452b3fd473eb0954",
+      "scalar_profile": {
+        "emitted_object_count": 277,
+        "active_emitted_class_count": 21,
+        "source_form_inventory_count": 21,
+        "excluded_separator_count": 10,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 1,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "explicit_provisional_OWN_form_classes"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_O08",
+      "origin": "OWN",
+      "case_name": "ORDER",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_O08.json",
+        "bytes": 580591,
+        "sha256": "4bf6dd585be623fa48da4c2268cb1b928333d2fe9dfd90a3df4caac07978cad2"
+      },
+      "projection_canonical_sha256": "7de23aabc9452920c2671135033267e22aa72f12f945e9fec550c21c839bb988",
+      "profile_canonical_sha256": "c0f7b0c07714bc1e525d6aa2d12f7dacb053762a33e018733af3bc8d86d54f29",
+      "scalar_profile": {
+        "emitted_object_count": 277,
+        "active_emitted_class_count": 21,
+        "source_form_inventory_count": 21,
+        "excluded_separator_count": 10,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 1,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "explicit_provisional_OWN_form_classes"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_O09",
+      "origin": "OWN",
+      "case_name": "TERMINAL",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_O09.json",
+        "bytes": 580594,
+        "sha256": "3fc3cdeda460594d7c089c6f8d801f3aa98e8b9e2b359b3363ed174684387d85"
+      },
+      "projection_canonical_sha256": "1dfe61473231bf0e8b4e3a193945fc8a696c53eb6858894ef7f934aa0fb322c5",
+      "profile_canonical_sha256": "af0fc20b5d747efbbd3c4093b3271d4580109d5a95c6441fc0bc6618eb1de970",
+      "scalar_profile": {
+        "emitted_object_count": 277,
+        "active_emitted_class_count": 21,
+        "source_form_inventory_count": 21,
+        "excluded_separator_count": 10,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 1,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "explicit_provisional_OWN_form_classes"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_O10",
+      "origin": "OWN",
+      "case_name": "BOUNDARIES",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_O10.json",
+        "bytes": 573742,
+        "sha256": "24e054040b2772c77414b1a45d51e2fcc63330a88d2a9514a41a8e6ccd4e021f"
+      },
+      "projection_canonical_sha256": "072292bf84109398b7b8dd34bede680d18c7048ac2c6727d3f91adb1a0f2fb89",
+      "profile_canonical_sha256": "c0f7b0c07714bc1e525d6aa2d12f7dacb053762a33e018733af3bc8d86d54f29",
+      "scalar_profile": {
+        "emitted_object_count": 277,
+        "active_emitted_class_count": 21,
+        "source_form_inventory_count": 21,
+        "excluded_separator_count": 10,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 1,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "explicit_provisional_OWN_form_classes"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_O11",
+      "origin": "OWN",
+      "case_name": "COMPOUNDS",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_O11.json",
+        "bytes": 536942,
+        "sha256": "75f82fc95b2fea3e7eee6f56b6240f2630eb836b2a10c6b533993ba519bef6f9"
+      },
+      "projection_canonical_sha256": "5431021d58f31319d46488fb9d3e48db1659688355538ece11f9bd33e669a69f",
+      "profile_canonical_sha256": "c0f7b0c07714bc1e525d6aa2d12f7dacb053762a33e018733af3bc8d86d54f29",
+      "scalar_profile": {
+        "emitted_object_count": 277,
+        "active_emitted_class_count": 21,
+        "source_form_inventory_count": 21,
+        "excluded_separator_count": 10,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 1,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "explicit_provisional_OWN_form_classes"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_O12",
+      "origin": "OWN",
+      "case_name": "CONTEXT",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_O12.json",
+        "bytes": 573712,
+        "sha256": "6c6b1651e60d02d518440052e813d28fb643c6e4eb72f7bece44ce3573b443e0"
+      },
+      "projection_canonical_sha256": "5ada5862e57e31020af160c9700a82c80988364f119595d47540194adeae35fe",
+      "profile_canonical_sha256": "c0f7b0c07714bc1e525d6aa2d12f7dacb053762a33e018733af3bc8d86d54f29",
+      "scalar_profile": {
+        "emitted_object_count": 277,
+        "active_emitted_class_count": 21,
+        "source_form_inventory_count": 21,
+        "excluded_separator_count": 10,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 1,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "explicit_provisional_OWN_form_classes"
+      },
+      "Source_only_original_inverse_exact": true
+    },
+    {
+      "branch_id": "SB_O13",
+      "origin": "OWN",
+      "case_name": "JOINT",
+      "packet_pin": {
+        "path": "/Users/zeng/Documents/解谜/historical_cipher_control_20/cases/hcportal_1679/independent_literal_source_QA_v1/stage2_frozen_source_bank/SB_O13.json",
+        "bytes": 580969,
+        "sha256": "8374adf6d8922b3b5d761e23ca30e5abec0a53ace3441f527265378fb393964f"
+      },
+      "projection_canonical_sha256": "13ecf7851c56abc5aa88098c95928c075bdebd519f2f1baa6c64b7d089c290b3",
+      "profile_canonical_sha256": "73b7e42cc57624dd5f5a9b16c6e8b539eb3a74ed675ec0bcf3988e33b3476d18",
+      "scalar_profile": {
+        "emitted_object_count": 278,
+        "active_emitted_class_count": 24,
+        "source_form_inventory_count": 24,
+        "excluded_separator_count": 10,
+        "unassigned_capture_packet_count": 0,
+        "unassigned_bounded_body_cluster_count": 1,
+        "terminal_or_component_uncertainty_retained": true,
+        "class_mode": "explicit_provisional_OWN_form_classes"
+      },
+      "Source_only_original_inverse_exact": true
+    }
+  ],
+  "source_origins_unmerged": true,
+  "all_author_named_options_represented": true,
+  "OWN_material_representatives_only": true,
+  "no_joint_exhaustion_or_arbitrary_cross_origin_mixing_claimed": true,
+  "branch_bank_scope": "Real finite callable branches of the two independently frozen Source operators. Whole Source-origin differences and local named graphic choices remain separate Source alternatives; no forced class equivalence or word repair. Every branch retains complete raw evidence/unknowns and exact source inverse. Mixed arbitrary author/OWN label repairs are not invented.",
+  "source_only_not_SOLVE": true,
+  "author_reference_integrity": {
+    "occurrences": 289,
+    "groups": 54,
+    "rows": 8,
+    "marks": 2,
+    "gaps": 46,
+    "dimensions": 15,
+    "options": 33
+  },
+  "author_rejections": [
+    {
+      "case": "unknown_dimension",
+      "rejected": true,
+      "reason": "unknown choice dimension"
+    },
+    {
+      "case": "unknown_option",
+      "rejected": true,
+      "reason": "unknown named option"
+    },
+    {
+      "case": "incompatible_component_run",
+      "rejected": true,
+      "reason": "C_SMALL_ROLE_LINK"
+    },
+    {
+      "case": "incompatible_leading_run",
+      "rejected": true,
+      "reason": "C_LEADING_ROLE"
+    }
+  ],
+  "own_lifetime_pure_cap800": true
+}
