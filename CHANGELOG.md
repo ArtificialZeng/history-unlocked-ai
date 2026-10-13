@@ -1,5 +1,11 @@
 # Changes
 
+## 14 October 2026 — code-core-v8
+
+- Updated all four READMEs with current source/status evidence and the 2,579-identity sanitized registry.
+- Recorded two official Decrypted exclusions and source/prior/method holds for 1646 British Library records.
+- Preserved all 11 research entries and 857 scientific files unchanged; no new complete reading or external verdict.
+
 ## 14 October 2026 — code-core-v7
 
 - Added a bounded public metadata report:846 catalogue articles/objects and ten

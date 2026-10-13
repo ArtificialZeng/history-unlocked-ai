@@ -1,11 +1,19 @@
 {
-  "snapshot_utc": "2026-10-13T18:21:53.378815+00:00",
+  "snapshot_utc": "2026-10-13T20:26:06.811291+00:00",
   "scope": "Completed static resource and metadata-field qualification plus three article-level discovery holds; no new historical decipherment.",
-  "new_registered_identity_count": 3,
+  "new_registered_identity_count": 11,
   "new_registered_ids": [
-    "catalogue-route:cryptiana-francis1530",
-    "catalogue-route:cryptiana-napoleon-elba1814",
-    "catalogue-route:cryptiana-orozco1604"
+    "decrypt:1185",
+    "decrypt:189",
+    "decrypt:2242",
+    "decrypt:2284",
+    "decrypt:2323",
+    "decrypt:2874",
+    "decrypt:8589",
+    "decrypt:8602",
+    "decrypt:8613",
+    "decrypt:8623",
+    "decrypt:8624"
   ],
   "list_page_checks": [
     {
@@ -270,6 +278,32 @@
       "level": "ARTICLE_DISCOVERY_PRIOR_AND_MODEL_HOLD",
       "observation": "Enciphered Proclamation to Army Attributed to Napoleon in Elba(1814) contains prior-reading claims and polyalphabetic context.",
       "remaining": "Exact subject, current open status, prior-reading scope and method suitability remain unqualified. Answer-bearing source-query exposure occurred locally; no blind target claim or target analysis."
+    },
+    {
+      "case_ids": [
+        "decrypt:1185",
+        "decrypt:2284"
+      ],
+      "level": "EXCLUDED_OFFICIAL_DECRYPTED",
+      "observation": "Both exact current primary displays say Decrypted despite secondary open tags.",
+      "remaining": "No new attack; no independent plaintext validation claimed.",
+      "public_record_urls": [
+        "https://de-crypt.org/decrypt-web/RecordsView/1185",
+        "https://de-crypt.org/decrypt-web/RecordsView/2284"
+      ]
+    },
+    {
+      "case_ids": [
+        "decrypt:8624",
+        "decrypt:8623"
+      ],
+      "level": "OFFICIAL_OPEN_METADATA_SOURCE_PRIOR_METHOD_HOLD",
+      "observation": "Two exact1646 records say Non-decrypted and Unknown cipher type. The 8624 gallery returned a login redirect.",
+      "remaining": "Exact prior queries unperformed; original source and matched method not qualified.",
+      "public_record_urls": [
+        "https://de-crypt.org/decrypt-web/RecordsView/8624",
+        "https://de-crypt.org/decrypt-web/RecordsView/8623"
+      ]
     }
   ],
   "identity_guard_correction": {
@@ -284,8 +318,8 @@
     "Administrative exclusions are not counts of attempted or solved ciphers.",
     "Missing source access is not evidence that a cipher is mathematically unsolvable."
   ],
-  "release": "code-core-v7",
-  "added_since_code_core_v3_count": 47,
+  "release": "code-core-v8",
+  "added_since_code_core_v3_count": 58,
   "added_since_code_core_v3_ids": [
     "archive-lead:bl-add-ms-32093-f423-monck-1659-1660",
     "archive-lead:bl-cotton-vitellius-b-xiii-ff15-25-ghinucci",
@@ -307,7 +341,11 @@
     "cyphersolver:262",
     "decrypt:1004",
     "decrypt:1005",
+    "decrypt:1185",
+    "decrypt:189",
     "decrypt:1894",
+    "decrypt:2242",
+    "decrypt:2284",
     "decrypt:2288",
     "decrypt:2289",
     "decrypt:2290",
@@ -316,7 +354,9 @@
     "decrypt:2293",
     "decrypt:2294",
     "decrypt:2295",
+    "decrypt:2323",
     "decrypt:2753",
+    "decrypt:2874",
     "decrypt:4223",
     "decrypt:4224",
     "decrypt:4230",
@@ -326,6 +366,11 @@
     "decrypt:4267",
     "decrypt:4269",
     "decrypt:4273",
+    "decrypt:8589",
+    "decrypt:8602",
+    "decrypt:8613",
+    "decrypt:8623",
+    "decrypt:8624",
     "decrypt:91",
     "decrypt:982",
     "decrypt:984",
@@ -366,5 +411,6 @@
     "no_page_javascript_execution": true,
     "actual_resource_derivation_scope": "Static literal address observed; runtime immutability not proved"
   },
-  "catalogue_mapping": "CATALOGUE_MAPPING.json"
+  "catalogue_mapping": "CATALOGUE_MAPPING.json",
+  "latest_source_checks": "SOURCE_CHECKS.json"
 }

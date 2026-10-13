@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-10-13T18:21:53.378815+00:00",
+  "generated_utc": "2026-10-13T20:26:06.811291+00:00",
   "records": [
     {
       "case_id": "alabama:u0003_0000535_1657004_0001",
@@ -967,6 +967,7 @@
         "https://cryptiana.web.fc2.com/code/francis2.htm"
       ],
       "flags": [
+        "prior_reading",
         "source_checked"
       ],
       "disposition": "skip",
@@ -979,6 +980,7 @@
         "https://cryptiana.web.fc2.com/code/napoleon3.htm"
       ],
       "flags": [
+        "prior_reading",
         "source_checked"
       ],
       "disposition": "skip",
@@ -991,6 +993,7 @@
         "https://cryptiana.web.fc2.com/code/orozco.htm"
       ],
       "flags": [
+        "prior_reading",
         "source_checked"
       ],
       "disposition": "skip",
@@ -1615,6 +1618,21 @@
       "sources": []
     },
     {
+      "case_id": "decrypt:1185",
+      "aliases": [
+        "NLS_MSS_7913_127",
+        "decode:1185",
+        "https://de-crypt.org/decrypt-web/RecordsView/1185"
+      ],
+      "flags": [
+        "catalog_solved",
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
       "case_id": "decrypt:1469",
       "aliases": [
         "https://de-crypt.org/decrypt-web/RecordsView/1469"
@@ -1633,6 +1651,20 @@
       ],
       "flags": [
         "prior_reading",
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "decrypt:189",
+      "aliases": [
+        "decode:189",
+        "https://de-crypt.org/decrypt-web/RecordsView/189"
+      ],
+      "flags": [
+        "catalog_solved",
         "source_checked"
       ],
       "disposition": "skip",
@@ -1866,6 +1898,34 @@
       "sources": []
     },
     {
+      "case_id": "decrypt:2242",
+      "aliases": [
+        "decode:2242",
+        "https://de-crypt.org/decrypt-web/RecordsView/2242"
+      ],
+      "flags": [
+        "prior_reading",
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "decrypt:2284",
+      "aliases": [
+        "decode:2284",
+        "https://de-crypt.org/decrypt-web/RecordsView/2284"
+      ],
+      "flags": [
+        "catalog_solved",
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
       "case_id": "decrypt:2288",
       "aliases": [
         "https://de-crypt.org/decrypt-web/RecordsView/2288"
@@ -1974,6 +2034,19 @@
       "sources": []
     },
     {
+      "case_id": "decrypt:2323",
+      "aliases": [
+        "decode:2323",
+        "https://de-crypt.org/decrypt-web/RecordsView/2323"
+      ],
+      "flags": [
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
       "case_id": "decrypt:2753",
       "aliases": [
         "https://de-crypt.org/decrypt-web/RecordsView/2753"
@@ -2040,6 +2113,21 @@
       ],
       "flags": [
         "attempted"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "decrypt:2874",
+      "aliases": [
+        "decode:2874",
+        "https://de-crypt.org/decrypt-web/RecordsView/2874"
+      ],
+      "flags": [
+        "catalog_solved",
+        "prior_reading",
+        "source_checked"
       ],
       "disposition": "skip",
       "source_fingerprints": [],
@@ -3727,6 +3815,76 @@
       ],
       "flags": [
         "attempted",
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "decrypt:8589",
+      "aliases": [
+        "BL_Cotton_MS_Vespanian_C_IV_313",
+        "decode:8589",
+        "https://de-crypt.org/decrypt-web/RecordsView/8589"
+      ],
+      "flags": [
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "decrypt:8602",
+      "aliases": [
+        "BL_Cotton_MS_Vespanian_C_IV_341",
+        "decode:8602",
+        "https://de-crypt.org/decrypt-web/RecordsView/8602"
+      ],
+      "flags": [
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "decrypt:8613",
+      "aliases": [
+        "BL_Cotton_MS_Vespanian_C_IV_363",
+        "decode:8613",
+        "https://de-crypt.org/decrypt-web/RecordsView/8613"
+      ],
+      "flags": [
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "decrypt:8623",
+      "aliases": [
+        "BL_Add_MS_72438_009",
+        "decode:8623",
+        "https://de-crypt.org/decrypt-web/RecordsView/8623"
+      ],
+      "flags": [
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "decrypt:8624",
+      "aliases": [
+        "BL_Add_MS_72438_010",
+        "decode:8624",
+        "https://de-crypt.org/decrypt-web/RecordsView/8624"
+      ],
+      "flags": [
         "source_checked"
       ],
       "disposition": "skip",

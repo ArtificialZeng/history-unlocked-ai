@@ -11,9 +11,9 @@ The second command deliberately returns `REJECT` (exit2), because the known conf
 
 Fresh primary status, exact-item prior review, source qualification, matched method controls and transparent feasibility strictly above 80/100 precede any historical solver assignment. Scores are judgments, not calibrated probabilities. Root coordinates; isolated workers solve only admitted cases. The local registry lock coordinates a single current directory, not disconnected machines.
 
-Snapshot display date: 14 October 2026. The snapshot contains **2,568 registered
-identities**, preserving all 2,565 previous records and adding three article-level
-discovery routes; 47 were added since code-core-v3. These are administrative
+Snapshot display date: 14 October 2026. The snapshot contains **2,579 registered
+identities**, preserving all 2,568 previous records and adding 11 screening
+identities; 58 were added since code-core-v3. These are administrative
 identities, not solved or attempted cipher counts. [PROGRESS.json](PROGRESS.json)
 tracks the 11-entry portfolio separately. Frozen attempts remain frozen.
 
@@ -57,3 +57,10 @@ articles/objects and ten interface-to-field bindings. The UI groups native
 qualified unsolved-message count. Initial parent/mixed-system prospects were
 withdrawn. No original response bodies, source scans or answer-bearing queries
 are distributed. Individual open/prior/source/method qualification remains required.
+
+## Latest exact status and access checks
+
+[SOURCE_CHECKS.json](SOURCE_CHECKS.json) records the bounded official search, two
+official Decrypted exclusions and held 1646 source prospects. Catalogue status,
+public original access, exact prior clearance and decipherment remain distinct.
+No new target trial or complete reading was added.

@@ -1,12 +1,12 @@
 {
-  "updated_utc": "2026-10-13T18:21:53.378815+00:00",
+  "updated_utc": "2026-10-13T20:26:06.811291+00:00",
   "portfolio_entries": 11,
   "new_complete_historical_solutions_since_previous_code_release": 0,
-  "registered_no_repeat_identities": 2568,
+  "registered_no_repeat_identities": 2579,
   "main_ledger_rows": 47,
-  "screening_ledger_rows": 1480,
+  "screening_ledger_rows": 1491,
   "counts_are_administrative_not_solved_counts": true,
-  "scope": "Existing audited cipher replays plus completed static-resource/metadata evidence and three new discovery-route holds",
+  "scope": "Eleven existing research entries plus current official-status exclusions and source-access metadata; no new complete reading",
   "officially_confirmed_case_ids": [
     "hcportal:615"
   ],
@@ -18,11 +18,11 @@
     "portable_fixture": "Synthetic cell values; actual observed ID/URL roles retained",
     "network_calls_required": false
   },
-  "newly_added_registry_identities": 3,
+  "newly_added_registry_identities": 11,
   "latest_screening_report": "SCREENING_UPDATE.json",
   "new_complete_historical_solutions_in_this_update": 0,
-  "added_registry_identities_since_code_core_v3": 47,
-  "release": "code-core-v7",
+  "added_registry_identities_since_code_core_v3": 58,
+  "release": "code-core-v8",
   "public_display_date": "2026-10-14",
   "current_primary_inventory": {
     "rows": 1875,
@@ -44,5 +44,6 @@
     "native_open_count": null,
     "qualified_new_targets": 0,
     "report": "CATALOGUE_MAPPING.json"
-  }
+  },
+  "latest_source_checks": "SOURCE_CHECKS.json"
 }

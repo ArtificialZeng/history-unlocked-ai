@@ -1,18 +1,26 @@
 {
-  "release": "code-core-v7",
-  "generated_utc": "2026-10-13T18:21:53.378815+00:00",
-  "previous_public_commit": "c7e59e157f6d147f32d9810f2882e4783aa2d39b",
-  "previous_public_registry_sha256": "249795ff20bc63800782946d6fccb4efb66d333e8796d4b551bf67e322517380",
-  "authoritative_full_registry_sha256": "541e24fb15445096c61af41f4a0ccbf92a4a6124f74067dea37ca4df83800737",
-  "authoritative_registry_updated_utc": "2026-10-13T17:52:35.746922Z",
-  "published_sanitized_registry_sha256": "2b41f1fd278367458bb98c4bcef86099521e01e79cd82cb26de37912cb9d0573",
-  "old_registry_ids_retained": 2565,
+  "release": "code-core-v8",
+  "generated_utc": "2026-10-13T20:26:06.811291+00:00",
+  "previous_public_commit": "d5aa1bc8f888c23f86c6613b6319f065d05f226e",
+  "previous_public_registry_sha256": "2b41f1fd278367458bb98c4bcef86099521e01e79cd82cb26de37912cb9d0573",
+  "authoritative_full_registry_sha256": "8ebf4719f97459a9b822e7c8b68e758223c13af5bf773acb653c3490c2d780e6",
+  "authoritative_registry_updated_utc": "2026-10-13T20:23:32.550798Z",
+  "published_sanitized_registry_sha256": "326d6f941c91bd1c2b9110c58ae589d9a73002420e589bed78a78adda7ec2ac9",
+  "old_registry_ids_retained": 2568,
   "new_registry_ids": [
-    "catalogue-route:cryptiana-francis1530",
-    "catalogue-route:cryptiana-napoleon-elba1814",
-    "catalogue-route:cryptiana-orozco1604"
+    "decrypt:1185",
+    "decrypt:189",
+    "decrypt:2242",
+    "decrypt:2284",
+    "decrypt:2323",
+    "decrypt:2874",
+    "decrypt:8589",
+    "decrypt:8602",
+    "decrypt:8613",
+    "decrypt:8623",
+    "decrypt:8624"
   ],
-  "public_registry_records": 2568,
+  "public_registry_records": 2579,
   "omitted_fields": [
     "narrative histories",
     "contacts",
@@ -68,6 +76,28 @@
     {
       "receipt": "ROOT_COMPLETED_UI_FIELD_BINDINGS_INTAKE.json",
       "sha256": "e89b4c488d05b8e8e35fcdffbbee2b69e13d2d61cbe2a8fb2401ff117f113438"
+    },
+    {
+      "receipt": "ROOT_1185_INTAKE.json",
+      "sha256": "f0cf69add06a69184de046192f27b1128daf34413f65830e5d2543c5f0acfde9",
+      "manifest_sha256": "67535639872bf11b4da63dbcf7e236c09c4805842f27c837fe14899e72419bcb",
+      "references_verified": 25
+    },
+    {
+      "receipt": "ROOT_2284_INTAKE.json",
+      "sha256": "2180296aabd99b6587df15fed8ef5904ebaf0f801d65c907d284889783890a3b",
+      "manifest_sha256": "4c69a33c668112195642d0b56f0d16551f5198aae4be651326f7db875913629d",
+      "references_verified": 12
+    },
+    {
+      "receipt": "ROOT_8624_INTAKE.json",
+      "sha256": "bfa989e84b0322c67d43907f1a56c53584470f5bd3120639779bf929c4a09b9f",
+      "manifest_sha256": "eab2d8af74d97571a21d5ac3a915fa605d62cb798b0d13c24a6d2f815cca2431",
+      "references_verified": 29
+    },
+    {
+      "receipt": "FINAL.json",
+      "sha256": "9c735dba93c6a2d47b73d37b6b8f0dc04302d754c65b194d3f044521e4a38621"
     }
   ],
   "local_receipts_not_distributed": true,

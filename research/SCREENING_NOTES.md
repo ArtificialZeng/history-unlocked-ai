@@ -1,6 +1,6 @@
 # Finding the next genuinely open cipher
 
-Snapshot: 14 October 2026, code-core-v7. Eleven research entries retain the
+Snapshot: 14 October 2026, code-core-v8. Eleven research entries retain the
 officially confirmed HC615 result and HC1679's audited conditional partial
 reading. This release adds selection evidence and portable code; no new complete
 historical reading or external verdict is asserted.
@@ -30,9 +30,9 @@ The first envelope-schema assertion failed; the corrected cached parse required
 no additional request. Failed observations remain recorded rather than becoming
 false empty results.
 
-The public registry now retains **2,568 identities**, including three additions in
-this release and 47 since code-core-v3. Access routes and collection leads count
-as identities, not independent messages. The 47 main rows and 1,480 screening rows
+The public registry now retains **2,579 identities**, including 11 additions in
+this release and 58 since code-core-v3. Access routes and collection leads count
+as identities, not independent messages. The 47 main rows and 1,491 screening rows
 are administrative totals.
 
 ## Portable code added
@@ -51,3 +51,11 @@ judgments, not calibrated success probabilities.
 
 [Structured evidence](SCREENING_UPDATE.json) · [Provenance](UPDATE_PROVENANCE.json)
 · [Progress counts](PROGRESS.json) · [Catalogue field evidence](CATALOGUE_MAPPING.json)
+
+## Latest official and source checks
+
+DECRYPT 1185 and 2284 are excluded because their current official records display
+Decrypted. Secondary open tags are retained as superseded discovery metadata.
+DECRYPT 8624 and 8623 are held 1646 prospects; English cleartext labels do not
+certify the plaintext language. The 8624 gallery request redirected to login.
+Exact prior searches remain unperformed. [Source checks](SOURCE_CHECKS.json).

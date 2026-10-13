@@ -1,0 +1,102 @@
+{
+  "snapshot_utc": "2026-10-13T20:26:06.811291+00:00",
+  "release": "code-core-v8",
+  "scope": "Completed catalogue and source-access metadata only; no historical decoding",
+  "official_filter": {
+    "source_page": "https://de-crypt.org/decrypt-web/RecordsSearch",
+    "observation_utc": "2026-10-13T19:56:23.834071+00:00",
+    "requested": {
+      "Record_Type": "Cipher",
+      "Status": "Non-decrypted",
+      "Cleartext_Language_contains": "English",
+      "Plaintext_Language_filter": false
+    },
+    "returned_rows": 20,
+    "result_page_count": 1,
+    "metadata_prospects": 5,
+    "public_plaintext_language_qualified": false,
+    "exact_prior_checks_completed": 0,
+    "no_global_completeness_or_novelty_claim": true
+  },
+  "catalogue_exclusions": [
+    {
+      "case_id": "decrypt:1185",
+      "public_record_url": "https://de-crypt.org/decrypt-web/RecordsView/1185",
+      "observed_primary_status": "Decrypted",
+      "decision": "Exclude from new-target queue",
+      "independently_deciphered_here": false
+    },
+    {
+      "case_id": "decrypt:2284",
+      "public_record_url": "https://de-crypt.org/decrypt-web/RecordsView/2284",
+      "observed_primary_status": "Decrypted",
+      "decision": "Exclude from new-target queue",
+      "independently_deciphered_here": false
+    }
+  ],
+  "open_metadata_holds": [
+    {
+      "case_id": "decrypt:8624",
+      "name": "BL_Add_MS_72438_010",
+      "shelfmark": "British Library, Add MS72438 f10",
+      "catalogue_date": "1646-05-13",
+      "public_record_url": "https://de-crypt.org/decrypt-web/RecordsView/8624",
+      "observed_primary_status": "Non-decrypted",
+      "cipher_type": "Unknown",
+      "cleartext_language_label": "English",
+      "plaintext_language_label": null,
+      "access_mode": "Authentication required",
+      "anonymous_gallery_HTTP_status": 302,
+      "redirect_path": "https://de-crypt.org/decrypt-web/login",
+      "exact_prior_queries": 0,
+      "original_image_qualified": false,
+      "decision": "Hold; public alternative, exact prior and method still unqualified"
+    },
+    {
+      "case_id": "decrypt:8623",
+      "name": "BL_Add_MS_72438_009",
+      "catalogue_date": "1646-05-21",
+      "observed_primary_status": "Non-decrypted",
+      "public_record_url": "https://de-crypt.org/decrypt-web/RecordsView/8623",
+      "cipher_type": "Unknown",
+      "cleartext_language_label": "English",
+      "plaintext_language_label": null,
+      "decision": "Hold; exact prior, original source and method unqualified"
+    }
+  ],
+  "other_registered_metadata_ids": [
+    "decrypt:2323",
+    "decrypt:8613",
+    "decrypt:8602",
+    "decrypt:8589"
+  ],
+  "source_bodies_and_credentials_distributed": false,
+  "new_solver_admissions": 0,
+  "new_complete_historical_solutions": 0,
+  "local_intake_pins": [
+    {
+      "receipt": "ROOT_1185_INTAKE.json",
+      "sha256": "f0cf69add06a69184de046192f27b1128daf34413f65830e5d2543c5f0acfde9",
+      "manifest_sha256": "67535639872bf11b4da63dbcf7e236c09c4805842f27c837fe14899e72419bcb",
+      "references_verified": 25
+    },
+    {
+      "receipt": "ROOT_2284_INTAKE.json",
+      "sha256": "2180296aabd99b6587df15fed8ef5904ebaf0f801d65c907d284889783890a3b",
+      "manifest_sha256": "4c69a33c668112195642d0b56f0d16551f5198aae4be651326f7db875913629d",
+      "references_verified": 12
+    },
+    {
+      "receipt": "ROOT_8624_INTAKE.json",
+      "sha256": "bfa989e84b0322c67d43907f1a56c53584470f5bd3120639779bf929c4a09b9f",
+      "manifest_sha256": "eab2d8af74d97571a21d5ac3a915fa605d62cb798b0d13c24a6d2f815cca2431",
+      "references_verified": 29
+    }
+  ],
+  "limits": [
+    "Cleartext Language is not proof of ciphertext plaintext language.",
+    "A login redirect for one gallery is not proof all archival sources are inaccessible.",
+    "Catalogue Decrypted is an exclusion basis, not our independent validation of its plaintext.",
+    "Exact prior queries were not performed; no negative prior-search conclusion is asserted."
+  ]
+}
