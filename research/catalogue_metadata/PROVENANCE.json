@@ -1,0 +1,36 @@
+{
+  "scope": "Code-only derivative of an audited metadata parser; no new historical solution.",
+  "original_parser_sha256": "d423904d670a3713ea8b4ce5892b052e29c8b7a38622bdff2a652b5d1e3fced6",
+  "original_parser_bytes": 4648,
+  "parser_copied_byte_identically": true,
+  "original_control_script_sha256": "92d08632e14506be018a9b1aee4adfc34fb7de6bcb1741662fb34347d78d7969",
+  "portable_changes": [
+    "Control fixture path made relative to this file.",
+    "Historical descriptive cell values replaced by synthetic values; public ID/URL roles retained.",
+    "All 14 original control assertions retained."
+  ],
+  "original_audit_scope": "PASS_V3_BOUNDED_METADATA_PARSER_SOFTWARE_SCOPE",
+  "original_audit_stop_utc": "2026-10-13T09:33:50.400599+00:00",
+  "original_independent_adversarial_probes": 6,
+  "historical_cipher_solutions_added": 0,
+  "new_registry_ids": [
+    "decrypt:1854",
+    "decrypt:3708",
+    "decrypt:3758",
+    "decrypt:3789",
+    "decrypt:4162",
+    "decrypt:4165",
+    "decrypt:4167",
+    "decrypt:4229",
+    "decrypt:4247",
+    "decrypt:4248",
+    "decrypt:4274",
+    "decrypt:4279",
+    "decrypt:4285",
+    "decrypt:8342"
+  ],
+  "public_snapshot_limit": "All registered identities block a new attack. Screening metadata does not mean a historical solver ran; no lease or ownership is transferred.",
+  "authoritative_full_registry_snapshot_sha256": "1601aa66afcfac01f99de312e82a94a3262b649263fe319b04c02a17876a743c",
+  "published_sanitized_registry_sha256": "ce722b99c90905350bd14c1a359786016cba30817730a8ae2984ebe567ce287c",
+  "registry_hash_scope": "The full authoritative registry and the sanitized public registry are different artifacts; no private narrative, leases or source history are distributed."
+}

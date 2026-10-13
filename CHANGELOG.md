@@ -1,5 +1,16 @@
 # Changes
 
+## 13 October 2026 — code-core-v3
+
+- Updated the sanitized no-repeat snapshot to 2,521 identities, adding 14
+  screening records without transferring reservations or claiming new solutions.
+- Added the independently audited v3 catalogue metadata parser byte-for-byte,
+  with a portable fixture retaining all 14 original regression assertions and
+  six additional adversarial regression tests. Incomplete parsing remains unknown.
+- Updated English, Chinese, Czech and Japanese homepages, research progress and
+  CI. The 11 portfolio entries and all frozen scientific case payloads remain
+  unchanged; HC1679 retains its partial-result status.
+
 ## 13 October 2026 — code-core-v2
 
 - Added HC1679's independently audited conditional partial result as a code-only

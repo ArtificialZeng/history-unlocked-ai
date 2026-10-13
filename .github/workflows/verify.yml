@@ -15,5 +15,7 @@ jobs:
         run: python -B scripts/verify_portfolio.py --replay
       - name: Check accidental-publication rejection
         run: python -B -m unittest discover -s tests
+      - name: Replay portable catalogue metadata controls
+        run: python -B research/catalogue_metadata/check_parser_controls.py
       - name: Replay target-independent indexed-cell controls
         run: node scripts/verify_methods.mjs

@@ -1,0 +1,225 @@
+{
+  "scope": "Synthetic table cells with 20 retained public catalogue IDs and observed URL roles; no historical ciphertext, source images, keys or readings.",
+  "rows": [
+    {
+      "id": "decrypt:10181",
+      "actual_detail_href": "https://de-crypt.org/decrypt-web/RecordsView/10181?showdetail=",
+      "metadata": {
+        "Current Location and Name": "Synthetic catalogue item 1",
+        "Dates": "",
+        "Languages": "Cleartext: Plaintext:",
+        "Record Type": "Cipher",
+        "Status": "Non-decrypted"
+      }
+    },
+    {
+      "id": "decrypt:10179",
+      "actual_detail_href": "https://de-crypt.org/decrypt-web/RecordsView/10179?showdetail=",
+      "metadata": {
+        "Current Location and Name": "Synthetic catalogue item 2",
+        "Dates": "",
+        "Languages": "Cleartext: Plaintext:",
+        "Record Type": "Cipher",
+        "Status": "Non-decrypted"
+      }
+    },
+    {
+      "id": "decrypt:10178",
+      "actual_detail_href": "https://de-crypt.org/decrypt-web/RecordsView/10178?showdetail=",
+      "metadata": {
+        "Current Location and Name": "Synthetic catalogue item 3",
+        "Dates": "",
+        "Languages": "Cleartext: Plaintext:",
+        "Record Type": "Cipher",
+        "Status": "Non-decrypted"
+      }
+    },
+    {
+      "id": "decrypt:10177",
+      "actual_detail_href": "https://de-crypt.org/decrypt-web/RecordsView/10177?showdetail=",
+      "metadata": {
+        "Current Location and Name": "Synthetic catalogue item 4",
+        "Dates": "",
+        "Languages": "Cleartext: Plaintext:",
+        "Record Type": "Cipher",
+        "Status": "Non-decrypted"
+      }
+    },
+    {
+      "id": "decrypt:10176",
+      "actual_detail_href": "https://de-crypt.org/decrypt-web/RecordsView/10176?showdetail=",
+      "metadata": {
+        "Current Location and Name": "Synthetic catalogue item 5",
+        "Dates": "",
+        "Languages": "Cleartext: Plaintext:",
+        "Record Type": "Cipher",
+        "Status": "Non-decrypted"
+      }
+    },
+    {
+      "id": "decrypt:10175",
+      "actual_detail_href": "https://de-crypt.org/decrypt-web/RecordsView/10175?showdetail=",
+      "metadata": {
+        "Current Location and Name": "Synthetic catalogue item 6",
+        "Dates": "",
+        "Languages": "Cleartext: Plaintext:",
+        "Record Type": "Cipher",
+        "Status": "Non-decrypted"
+      }
+    },
+    {
+      "id": "decrypt:10174",
+      "actual_detail_href": "https://de-crypt.org/decrypt-web/RecordsView/10174?showdetail=",
+      "metadata": {
+        "Current Location and Name": "Synthetic catalogue item 7",
+        "Dates": "",
+        "Languages": "Cleartext: Plaintext:",
+        "Record Type": "Cipher",
+        "Status": "Non-decrypted"
+      }
+    },
+    {
+      "id": "decrypt:10173",
+      "actual_detail_href": "https://de-crypt.org/decrypt-web/RecordsView/10173?showdetail=",
+      "metadata": {
+        "Current Location and Name": "Synthetic catalogue item 8",
+        "Dates": "",
+        "Languages": "Cleartext: Plaintext:",
+        "Record Type": "Cipher",
+        "Status": "Non-decrypted"
+      }
+    },
+    {
+      "id": "decrypt:10172",
+      "actual_detail_href": "https://de-crypt.org/decrypt-web/RecordsView/10172?showdetail=",
+      "metadata": {
+        "Current Location and Name": "Synthetic catalogue item 9",
+        "Dates": "",
+        "Languages": "Cleartext: Plaintext:",
+        "Record Type": "Cipher",
+        "Status": "Non-decrypted"
+      }
+    },
+    {
+      "id": "decrypt:10171",
+      "actual_detail_href": "https://de-crypt.org/decrypt-web/RecordsView/10171?showdetail=",
+      "metadata": {
+        "Current Location and Name": "Synthetic catalogue item 10",
+        "Dates": "",
+        "Languages": "Cleartext: Plaintext:",
+        "Record Type": "Cipher",
+        "Status": "Non-decrypted"
+      }
+    },
+    {
+      "id": "decrypt:10170",
+      "actual_detail_href": "https://de-crypt.org/decrypt-web/RecordsView/10170?showdetail=",
+      "metadata": {
+        "Current Location and Name": "Synthetic catalogue item 11",
+        "Dates": "",
+        "Languages": "Cleartext: Plaintext:",
+        "Record Type": "Cipher",
+        "Status": "Non-decrypted"
+      }
+    },
+    {
+      "id": "decrypt:9970",
+      "actual_detail_href": "https://de-crypt.org/decrypt-web/RecordsView/9970?showdetail=",
+      "metadata": {
+        "Current Location and Name": "Synthetic catalogue item 12",
+        "Dates": "",
+        "Languages": "Cleartext: Plaintext:",
+        "Record Type": "Cipher",
+        "Status": "Non-decrypted"
+      }
+    },
+    {
+      "id": "decrypt:9967",
+      "actual_detail_href": "https://de-crypt.org/decrypt-web/RecordsView/9967?showdetail=",
+      "metadata": {
+        "Current Location and Name": "Synthetic catalogue item 13",
+        "Dates": "",
+        "Languages": "Cleartext: Plaintext:",
+        "Record Type": "Cipher",
+        "Status": "Non-decrypted"
+      }
+    },
+    {
+      "id": "decrypt:9966",
+      "actual_detail_href": "https://de-crypt.org/decrypt-web/RecordsView/9966?showdetail=",
+      "metadata": {
+        "Current Location and Name": "Synthetic catalogue item 14",
+        "Dates": "",
+        "Languages": "Cleartext: Plaintext:",
+        "Record Type": "Cipher",
+        "Status": "Non-decrypted"
+      }
+    },
+    {
+      "id": "decrypt:9963",
+      "actual_detail_href": "https://de-crypt.org/decrypt-web/RecordsView/9963?showdetail=",
+      "metadata": {
+        "Current Location and Name": "Synthetic catalogue item 15",
+        "Dates": "",
+        "Languages": "Cleartext: Plaintext:",
+        "Record Type": "Cipher",
+        "Status": "Non-decrypted"
+      }
+    },
+    {
+      "id": "decrypt:9962",
+      "actual_detail_href": "https://de-crypt.org/decrypt-web/RecordsView/9962?showdetail=",
+      "metadata": {
+        "Current Location and Name": "Synthetic catalogue item 16",
+        "Dates": "",
+        "Languages": "Cleartext: Plaintext:",
+        "Record Type": "Cipher",
+        "Status": "Non-decrypted"
+      }
+    },
+    {
+      "id": "decrypt:9960",
+      "actual_detail_href": "https://de-crypt.org/decrypt-web/RecordsView/9960?showdetail=",
+      "metadata": {
+        "Current Location and Name": "Synthetic catalogue item 17",
+        "Dates": "",
+        "Languages": "Cleartext: Plaintext:",
+        "Record Type": "Cipher",
+        "Status": "Non-decrypted"
+      }
+    },
+    {
+      "id": "decrypt:9959",
+      "actual_detail_href": "https://de-crypt.org/decrypt-web/RecordsView/9959?showdetail=",
+      "metadata": {
+        "Current Location and Name": "Synthetic catalogue item 18",
+        "Dates": "",
+        "Languages": "Cleartext: Plaintext:",
+        "Record Type": "Cipher",
+        "Status": "Non-decrypted"
+      }
+    },
+    {
+      "id": "decrypt:9957",
+      "actual_detail_href": "https://de-crypt.org/decrypt-web/RecordsView/9957?showdetail=",
+      "metadata": {
+        "Current Location and Name": "Synthetic catalogue item 19",
+        "Dates": "",
+        "Languages": "Cleartext: Plaintext:",
+        "Record Type": "Cipher",
+        "Status": "Non-decrypted"
+      }
+    },
+    {
+      "id": "decrypt:9956",
+      "actual_detail_href": "https://de-crypt.org/decrypt-web/RecordsView/9956?showdetail=",
+      "metadata": {
+        "Current Location and Name": "Synthetic catalogue item 20",
+        "Dates": "",
+        "Languages": "Cleartext: Plaintext:",
+        "Record Type": "Cipher",
+        "Status": "Non-decrypted"
+      }
+    }
+  ]
+}

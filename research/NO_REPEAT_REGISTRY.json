@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-10-13T08:25:34.913070+00:00",
+  "generated_utc": "2026-10-13T10:02:30.326959+00:00",
   "records": [
     {
       "case_id": "alabama:u0003_0000535_1657004_0001",
@@ -1388,6 +1388,19 @@
       "sources": []
     },
     {
+      "case_id": "decrypt:1854",
+      "aliases": [
+        "https://de-crypt.org/decrypt-web/RecordsView/1854"
+      ],
+      "flags": [
+        "prior_reading",
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
       "case_id": "decrypt:1892",
       "aliases": [
         "https://de-crypt.org/decrypt-web/RecordsView/1892"
@@ -1755,6 +1768,44 @@
       "sources": []
     },
     {
+      "case_id": "decrypt:3708",
+      "aliases": [
+        "https://de-crypt.org/decrypt-web/RecordsView/3708"
+      ],
+      "flags": [
+        "attempted"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "decrypt:3758",
+      "aliases": [
+        "Dieci_di_Balia_Responsive_7_059",
+        "https://de-crypt.org/decrypt-web/RecordsView/3758"
+      ],
+      "flags": [
+        "attempted"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "decrypt:3789",
+      "aliases": [
+        "Dieci_di_Balia_Responsive_22_244",
+        "https://de-crypt.org/decrypt-web/RecordsView/3789"
+      ],
+      "flags": [
+        "attempted"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
       "case_id": "decrypt:3812",
       "aliases": [
         "IMG_R3812_I23106_P.jpg",
@@ -1883,6 +1934,42 @@
       "sources": []
     },
     {
+      "case_id": "decrypt:4162",
+      "aliases": [
+        "https://de-crypt.org/decrypt-web/RecordsView/4162"
+      ],
+      "flags": [
+        "attempted"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "decrypt:4165",
+      "aliases": [
+        "https://de-crypt.org/decrypt-web/RecordsView/4165"
+      ],
+      "flags": [
+        "attempted"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "decrypt:4167",
+      "aliases": [
+        "https://de-crypt.org/decrypt-web/RecordsView/4167"
+      ],
+      "flags": [
+        "attempted"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
       "case_id": "decrypt:4226",
       "aliases": [
         "decode:4226",
@@ -1911,6 +1998,18 @@
       "sources": []
     },
     {
+      "case_id": "decrypt:4229",
+      "aliases": [
+        "https://de-crypt.org/decrypt-web/RecordsView/4229"
+      ],
+      "flags": [
+        "attempted"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
       "case_id": "decrypt:4232",
       "aliases": [
         "https://de-crypt.org/decrypt-custom/filesrv/",
@@ -1931,6 +2030,30 @@
       "sources": []
     },
     {
+      "case_id": "decrypt:4247",
+      "aliases": [
+        "https://de-crypt.org/decrypt-web/RecordsView/4247"
+      ],
+      "flags": [
+        "attempted"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "decrypt:4248",
+      "aliases": [
+        "https://de-crypt.org/decrypt-web/RecordsView/4248"
+      ],
+      "flags": [
+        "attempted"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
       "case_id": "decrypt:4251",
       "aliases": [
         "decode:4251",
@@ -1948,6 +2071,30 @@
       "case_id": "decrypt:4254",
       "aliases": [
         "https://de-crypt.org/decrypt-web/RecordsView/4254"
+      ],
+      "flags": [
+        "attempted"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "decrypt:4274",
+      "aliases": [
+        "https://de-crypt.org/decrypt-web/RecordsView/4274"
+      ],
+      "flags": [
+        "attempted"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "decrypt:4279",
+      "aliases": [
+        "https://de-crypt.org/decrypt-web/RecordsView/4279"
       ],
       "flags": [
         "attempted"
@@ -1982,6 +2129,18 @@
       ],
       "flags": [
         "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "decrypt:4285",
+      "aliases": [
+        "https://de-crypt.org/decrypt-web/RecordsView/4285"
+      ],
+      "flags": [
+        "attempted"
       ],
       "disposition": "skip",
       "source_fingerprints": [],
@@ -2865,6 +3024,19 @@
         "attempted",
         "prior_reading",
         "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "decrypt:8342",
+      "aliases": [
+        "BL_Harley_MS_6988_208",
+        "https://de-crypt.org/decrypt-web/RecordsView/8342"
+      ],
+      "flags": [
+        "attempted"
       ],
       "disposition": "skip",
       "source_fingerprints": [],

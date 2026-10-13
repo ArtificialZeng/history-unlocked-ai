@@ -1,13 +1,13 @@
 {
-  "version": "code-core-v2",
-  "created_at_utc": "2026-10-13T08:30:13.183439+00:00",
+  "version": "code-core-v3",
+  "created_at_utc": "2026-10-13T10:09:05.385326+00:00",
   "scope": "Reproducible code, necessary evidence data, methods and brief promotion; no private correspondence or media submissions.",
   "manifest_self_excluded": true,
   "files": [
     {
       "path": ".github/workflows/verify.yml",
-      "bytes": 690,
-      "sha256": "8c54bbb90b27b0eaf1114fa0806ed6acd7da5867483e78ac2df08660d19cc590"
+      "bytes": 824,
+      "sha256": "6d59badcfab572f3a65640b417cd3d3bed00df162efe91c8c4e31e8238b5043a"
     },
     {
       "path": ".gitignore",
@@ -16,8 +16,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 1397,
-      "sha256": "f1f77276b34d0383ae13dbe8e4973ee1a9995245b5a47170fad66d0671d2a471"
+      "bytes": 2042,
+      "sha256": "1427515c1b875380c065bb43177fe7b2ef117022b5764a62b51f795fca9d25e1"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -36,23 +36,23 @@
     },
     {
       "path": "README.cs.md",
-      "bytes": 4818,
-      "sha256": "dc6ab6c3d27b0ba362a9593e7fdbbca266b94d9fc7e25c973ad12f0122b1d3c8"
+      "bytes": 5326,
+      "sha256": "7172d11c13332c61e4dcf9c61a61d5763de81fa0c9f215560b0bf3293fca6f8b"
     },
     {
       "path": "README.ja.md",
-      "bytes": 5142,
-      "sha256": "41249ddacdf98de14136e0fdc3b86b8cc1497a2be1ee618b7bc29e389bc7b139"
+      "bytes": 5696,
+      "sha256": "1ebe0e57a4e2a37f46bf4f7ca181845124f3761716ff8ec7372455271311ef82"
     },
     {
       "path": "README.md",
-      "bytes": 5715,
-      "sha256": "80a1941491f3e0af690bc237689f2fb48bc8dda34a93a038656fae0b77d93b56"
+      "bytes": 6175,
+      "sha256": "7857eb9109066936629b460848d02069bbb50cdd1997b24a742c4b5082517a3f"
     },
     {
       "path": "README.zh-CN.md",
-      "bytes": 5082,
-      "sha256": "fe362434b34543a5e48b567a51a62ee8c70c6143229914bdbb3a8657dff3cbee"
+      "bytes": 5504,
+      "sha256": "6322198eef018377796884ded73eeaf46a65b3032f978177fb9426e2aebd0a2a"
     },
     {
       "path": "cases/hc1098/PARTIAL_RESULT.json",
@@ -4436,18 +4436,43 @@
     },
     {
       "path": "research/NO_REPEAT_REGISTRY.json",
-      "bytes": 1267047,
-      "sha256": "689ed145ba622497632c71e6660926b1fc51603f38770dab7010e76cd4005303"
+      "bytes": 1270865,
+      "sha256": "ce722b99c90905350bd14c1a359786016cba30817730a8ae2984ebe567ce287c"
     },
     {
       "path": "research/PROGRESS.json",
-      "bytes": 644,
-      "sha256": "53a40c0c21cd52c9c1b90c31210da2519d7aa2c2e63dcb72f4558423ceb6dd4f"
+      "bytes": 961,
+      "sha256": "4e0d84a1dc984cc3eeb589e6893f72cbef71160a4703462a04f8528ea0c885f8"
     },
     {
       "path": "research/README.md",
-      "bytes": 1452,
-      "sha256": "c59d31df92fd5403e4e2fd2db19860ba2623fa49f1b90f6b48773429e09b761a"
+      "bytes": 2088,
+      "sha256": "977c61a1500278660e1f7ea637972e989aac6c6d9ce90bb1db9330d6329bc15b"
+    },
+    {
+      "path": "research/catalogue_metadata/PROVENANCE.json",
+      "bytes": 1730,
+      "sha256": "a8ae1f23d3bd4663f4fabeafb1f55e241491b521e8c2678bc4997305dcc63a28"
+    },
+    {
+      "path": "research/catalogue_metadata/README.md",
+      "bytes": 1640,
+      "sha256": "ff6f34657393beb539c34366f9ea1229ef3c8d2aa1515da078b81ac1e2f8f764"
+    },
+    {
+      "path": "research/catalogue_metadata/check_parser_controls.py",
+      "bytes": 3606,
+      "sha256": "88ebe22d35350ce2a639cfe79b87a0dc0d88c294ea105326acf3303669b69fe8"
+    },
+    {
+      "path": "research/catalogue_metadata/fixtures/observed_link_roles.json",
+      "bytes": 7469,
+      "sha256": "fd0f85a095c194df12effd81d9f115c7630bb880fc40a0283d0e86ecfacf07f3"
+    },
+    {
+      "path": "research/catalogue_metadata/parse_list_metadata.py",
+      "bytes": 4648,
+      "sha256": "d423904d670a3713ea8b4ce5892b052e29c8b7a38622bdff2a652b5d1e3fced6"
     },
     {
       "path": "scripts/case_registry.py",
@@ -4462,7 +4487,7 @@
     {
       "path": "scripts/update_manifest.py",
       "bytes": 1585,
-      "sha256": "f0722e89d2ec1b85245bf69c2dd209ca00968a4b80484ee85aaea218758d6d02"
+      "sha256": "81cf026861bc5db6bf524bb1a8d301698b9648e4c052172cb7c0999d653dd6c2"
     },
     {
       "path": "scripts/verify_methods.mjs",
@@ -4478,6 +4503,11 @@
       "path": "tests/test_case_registry.py",
       "bytes": 2231,
       "sha256": "6e566abd023d1f5f6a26a49aa8947ddaf410f43c74f2a67374e22d492267b4f0"
+    },
+    {
+      "path": "tests/test_catalogue_metadata.py",
+      "bytes": 2077,
+      "sha256": "df4baa6a11121741a15bbff3d4ab746fea444a6a6f0461a6d4c25ced381a7f13"
     },
     {
       "path": "tests/test_public_boundary.py",

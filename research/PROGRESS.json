@@ -1,15 +1,23 @@
 {
-  "updated_utc": "2026-10-13T08:25:34.936252+00:00",
+  "updated_utc": "2026-10-13T10:02:30.326959+00:00",
   "portfolio_entries": 11,
   "newly_published_partial_case": "hcportal:1679",
   "new_complete_historical_solutions_since_previous_code_release": 0,
-  "registered_no_repeat_identities": 2507,
+  "registered_no_repeat_identities": 2521,
   "main_ledger_rows": 47,
-  "screening_ledger_rows": 1418,
+  "screening_ledger_rows": 1433,
   "counts_are_administrative_not_solved_counts": true,
-  "scope": "Public release update: audited partial certificate replay and target-independent research tools",
+  "scope": "Audited partial certificate replay plus portable, independently audited catalogue parsing and no-repeat tools",
   "officially_confirmed_case_ids": [
     "hcportal:615"
   ],
-  "external_reviews_for_other_problem_results": "User-reported ongoing expert review; no new verdict asserted"
+  "external_reviews_for_other_problem_results": "User-reported ongoing expert review; no new verdict asserted",
+  "catalogue_parser": {
+    "version": "v3",
+    "original_regression_checks": 14,
+    "original_independent_adversarial_probes": 6,
+    "portable_fixture": "Synthetic cell values; actual observed ID/URL roles retained",
+    "network_calls_required": false
+  },
+  "newly_added_registry_identities": 14
 }

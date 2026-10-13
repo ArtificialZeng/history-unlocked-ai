@@ -44,7 +44,9 @@ Jedenáct výzkumných záznamů má jasně rozlišenou úroveň důkazů. Srovn
 
 **Nové důkazy k vlastnímu ověření:** HC1679 přidává nezávisle auditované podmíněné dílčí čtení. Ověřovač projde 2 633 kontrolami bez nového hledání klíče; 15 úseků zůstává nevyřešených.
 
-Zveřejňujeme také očištěný registr **2 507 známých identit**, který brání opakovaným útokům, a kód indexovaných buněk: 3 kontroly se známou odpovědí, 30 odmítacích kontrol a 4 368 konečných variant dekódování. Jde o softwarové kontroly, nikoli nová historická řešení.
+Zveřejňujeme také očištěný registr **2 521 známých identit**, který brání opakovaným útokům, a kód indexovaných buněk: 3 kontroly se známou odpovědí, 30 odmítacích kontrol a 4 368 konečných variant dekódování. Jde o softwarové kontroly, nikoli nová historická řešení.
+
+**Další šifra začíná spolehlivým výběrem:** nový, nezávisle auditovaný parser katalogu zachovává přesné odkazy na záznamy a nezaměňuje neúplné zpracování stránky za prázdný výsledek. Přenosná verze obsahuje 14 regresních kontrol a šest adversariálních případů. Nových 14 identit představuje evidenci předběžného posouzení; tato aktualizace nepřidává žádné úplné historické rozluštění. [Ověřit parser katalogu](research/catalogue_metadata/README.md).
 
 [Výzkumné nástroje](research/README.md) · [Kontroly metod](methods/README.md) · [Změny](CHANGELOG.md)
 
