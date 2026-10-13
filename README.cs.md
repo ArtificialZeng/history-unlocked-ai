@@ -40,15 +40,15 @@ Python 3.10 nebo novější. Ověření funguje offline se standardní knihovnou
 
 Jedenáct výzkumných záznamů má jasně rozlišenou úroveň důkazů. Srovnávací materiál HC1619 se počítá pouze jednou. [Strojově čitelný seznam](data/CASE_INDEX.json).
 
-### Novinky · 13. října 2026
+### Novinky · 14. října 2026
 
-**Nové důkazy k vlastnímu ověření:** HC1679 přidává nezávisle auditované podmíněné dílčí čtení. Ověřovač projde 2 633 kontrolami bez nového hledání klíče; 15 úseků zůstává nevyřešených.
+**Historická čtení s důkazy, které si můžete ověřit.** Jedenáct výzkumných záznamů zahrnuje oficiální potvrzení HC615 a nezávisle auditované dílčí čtení HC1679: 276 vybraných pozic, 2 633 kontrol a 15 výslovně nevyřešených úseků. Spustitelné případy zachovávají příkazy k reprodukci i hashe vědeckých vstupů.
 
-Zveřejňujeme také očištěný registr **2 554 známých identit**, který brání opakovaným útokům, a kód indexovaných buněk: 3 kontroly se známou odpovědí, 30 odmítacích kontrol a 4 368 konečných variant dekódování. Jde o softwarové kontroly, nikoli nová historická řešení.
+**Nový přenosný kód:** parser katalogu doplňuje statický nástroj pro sledování řetězce načítání v JavaScriptu. Čtyři syntetické kontroly pokrývají vnořená volání se stejnou počáteční pozicí, lokální funkce, datové kontejnery ve stránce a negativní příklad falešného zdroje. Kód stránky nespouští ani nestahuje data; dynamické a nepodporované výrazy zůstávají nevyřešené. [Spustit čtyři kontroly](research/catalogue_metadata/static_loader/README.md).
 
-**Další šifra začíná spolehlivým výběrem:** nezávisle auditovaný parser katalogu zachovává přesné odkazy a rozlišuje neúplné zpracování od prázdného výsledku. Přenosná verze obsahuje 14 regresních kontrol a šest adversariálních případů. Registr zachovává všechna dřívější vyloučení a od code-core-v3 přidal **33 identit z předběžného posouzení**, včetně italských a španělských archivních stop; čtyři jsou nové v tomto vydání. Počet zahrnuje i přístupové cesty a kandidátní prameny, nikoli pouze šifrované zprávy.
+**Registr nyní obsahuje 2 565 identit:** zachovává všechna dřívější vyloučení a přidává 11 archivních stop a přístupových cest. Od code-core-v3 přibylo celkem 44 identit z předběžného posouzení; počet zahrnuje i zdroje, nikoli jen šifrované zprávy. Datovaná kontrola HC Portal zahrnula 1 875 záznamů, z toho 1 047 označených Not solved; všechny tyto otevřené identifikátory již byly registrovány. HC615 zůstává Solved. [Rozsah kontroly](research/CATALOGUE_REFRESH.json).
 
-**Nové kontroly brání opakovaným objevům:** dvě stopy z BnF nebyly přijaty jako nové úlohy, protože byly nalezeny zmínky o historické odpovědi nebo zveřejněném dílčím čtení. První kontrola původního snímku pohlednice označené jako curyšská odhalila oříznuté písmo a neověřenou identitu; práce zůstává zmrazena. Kontrola uložených komentářů odlišila tvrzení o jiné vyřešené pohlednici od pouhé domněnky o těsnopisu v curyšském textu. Jde o doložené výsledky výběru, bez nového úplného rozluštění. [Poznámky k výběru](research/SCREENING_NOTES.md) · [Důkazy a zbývající překážky](research/SCREENING_UPDATE.json) · [Ověřit parser katalogu](research/catalogue_metadata/README.md).
+**Zveřejněné čtení má přednost před novým útokem.** Přesná tvrzení o dílčím čtení bruselských R982 a R984 je nyní vylučují z fronty nových úloh. Stopy z British Library a SP53/16 čekají na ověření pramene, identity, jazyka či metody. Toto vydání rozšiřuje reprodukovatelnost a výběr úloh; nepřidává úplné rozluštění. [Poznámky k výběru](research/SCREENING_NOTES.md) · [Důkazy a překážky](research/SCREENING_UPDATE.json).
 
 [Výzkumné nástroje](research/README.md) · [Kontroly metod](methods/README.md) · [Změny](CHANGELOG.md)
 

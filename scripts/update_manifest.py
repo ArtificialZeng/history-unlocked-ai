@@ -1,4 +1,5 @@
 """Refresh release hashes after deliberate edits; never changes scientific payloads."""
+import argparse
 import datetime
 import hashlib
 import json
@@ -10,6 +11,13 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--version', help='Set a new release version; otherwise retain the current version')
+    args = parser.parse_args()
+    current = json.loads((ROOT/'CODE_CORE_MANIFEST.json').read_text())
+    version = args.version or current['version']
+    if not isinstance(version, str) or not version.strip():
+        raise ValueError('A nonempty release version is required')
     check()
     scientific = json.loads((ROOT/'docs/CORE_PROVENANCE.json').read_text())
     for row in scientific['files']:
@@ -25,7 +33,7 @@ def main():
             continue
         raw = p.read_bytes()
         files.append({'path':str(rel),'bytes':len(raw),'sha256':hashlib.sha256(raw).hexdigest()})
-    result = {'version':'code-core-v4',
+    result = {'version':version,
               'created_at_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),
               'scope':'Reproducible code, necessary evidence data, methods and brief promotion; no private correspondence or media submissions.',
               'manifest_self_excluded':True,'files':files}

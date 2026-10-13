@@ -48,3 +48,13 @@ The [portable registry guide](../research/README.md) explains how to initialize
 a separate working state from the sanitized identity snapshot. A known ID is
 rejected; a shared page/image hash requests review. A clear registry result
 does not replace fresh primary status, prior-art, source and method qualification.
+
+The static-loader utility has four synthetic controls that run with the vendored
+MIT Acorn parser, without an npm installation or page execution:
+
+```sh
+node research/catalogue_metadata/static_loader/check_controls.mjs
+```
+
+See its [supported syntax and limits](../research/catalogue_metadata/static_loader/README.md).
+Passing these controls is software validation, not a historical cipher result.

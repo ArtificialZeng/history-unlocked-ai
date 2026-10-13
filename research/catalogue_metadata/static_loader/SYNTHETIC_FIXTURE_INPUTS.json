@@ -1,0 +1,32 @@
+[
+  {
+    "id": "two_then_shared_start",
+    "expected_resource": "fixture-direct.json",
+    "code": "fetch('fixture-direct.json').then(r=>r.json()).then(function(d){D=d;});",
+    "tags": {}
+  },
+  {
+    "id": "lexical_wrapper",
+    "expected_resource": "fixture-wrapper.json",
+    "code": "function loader(){return fetch('fixture-wrapper.json').then(r=>r.json());} loader().then(function(d){D=d;});",
+    "tags": {}
+  },
+  {
+    "id": "in_page_container",
+    "expected_container": "fixture-data",
+    "code": "const c=document.getElementById('fixture-data'); function loader(){return Promise.resolve(c.textContent);} loader().then(function(d){D=d;});",
+    "tags": {
+      "fixture-data": {
+        "tag": "script",
+        "type": "application/json",
+        "src": null
+      }
+    }
+  },
+  {
+    "id": "generic_get_negative",
+    "negative": true,
+    "code": "const lang=new URLSearchParams('x=y').get('lang'); Promise.resolve(lang).then(function(d){D=d;});",
+    "tags": {}
+  }
+]

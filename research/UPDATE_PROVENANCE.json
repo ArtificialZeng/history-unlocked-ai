@@ -1,19 +1,26 @@
 {
-  "release": "code-core-v5",
-  "generated_utc": "2026-10-13T12:14:55.453519+00:00",
-  "previous_public_commit": "3ce9102118872e794ad7af5ebb19049ad96dea80",
-  "previous_public_registry_sha256": "8864a208bfb31a6eb016ce865404a6127dfb59cc3dc615d6a83f57e54e28d536",
-  "authoritative_full_registry_sha256": "d2a10444c83f1701e48544981f5dfe9a9c98fcdddcb286342d7cfbbdbce69be5",
-  "authoritative_registry_updated_utc": "2026-10-13T12:05:26.967739Z",
-  "published_sanitized_registry_sha256": "db7cc45bb9bec552e00b492b9ee63e15b8997ac4312e71210488501fbea96bc2",
-  "old_registry_ids_retained": 2550,
+  "release": "code-core-v6",
+  "generated_utc": "2026-10-13T17:19:01.720178+00:00",
+  "previous_public_commit": "7d05b3a4ec95f2a42a3c62485c509e5ec1555558",
+  "previous_public_registry_sha256": "db7cc45bb9bec552e00b492b9ee63e15b8997ac4312e71210488501fbea96bc2",
+  "authoritative_full_registry_sha256": "03b930d3a88839e5a1b32f78a7fdb924809f9efb49f1640a235b39822f61bab7",
+  "authoritative_registry_updated_utc": "2026-10-13T16:16:11.724638Z",
+  "published_sanitized_registry_sha256": "249795ff20bc63800782946d6fccb4efb66d333e8796d4b551bf67e322517380",
+  "old_registry_ids_retained": 2554,
   "new_registry_ids": [
-    "blog-item:cipherbrain-albuquerque-2010",
-    "catalogue-route:agatha-be-a0510-000027-005873-ep4372",
-    "catalogue-route:arch-be-a0510-000027-002526-fre-findingaid",
-    "source-candidate:cipherbrain-postcard-baden-ch-tex"
+    "archive-lead:bl-add-ms-32093-f423-monck-1659-1660",
+    "archive-lead:bl-cotton-vitellius-b-xiii-ff15-25-ghinucci",
+    "archive-lead:bl-cotton-vitellius-b-xiii-ff33-37-ghinucci",
+    "archive-lead:tna-sp53-16-no78-tempest-c1585",
+    "archive-lead:tna-sp53-16-no79-barret-c1585",
+    "blog-item:cipherbrain-kaliningrad-bottle-post",
+    "blog-item:cipherbrain-postcard-17-letters-2018",
+    "catalogue-route:bl-arundel-ms151-cross-reference",
+    "catalogue-route:cryptoole-satoru-public-index",
+    "catalogue-route:satoru-cryptiana-static-index",
+    "catalogue-route:schellingaf-cipher-trial-1"
   ],
-  "public_registry_records": 2554,
+  "public_registry_records": 2565,
   "omitted_fields": [
     "narrative histories",
     "contacts",
@@ -23,30 +30,46 @@
   ],
   "local_evidence_pins": [
     {
-      "receipt": "ROOT_OFFICIAL_INVENTORY_FIRST_METADATA_INTAKE.json",
-      "sha256": "8f078f3d4e1fb6ea1df178a68172a5cff227bf134aca268b2946c209f8bcfb81"
+      "receipt": "ROOT_NESTED_SCHEMA_CURRENT_INVENTORY_INTAKE.json",
+      "sha256": "5332e6de808d97fd7953e7f278fbcff3a3d3a1fdf08d6c31332b45adfc5d215c"
     },
     {
-      "receipt": "ROOT_PRIOR_CHILD_AND_BOUND_INVENTORY_INTAKE.json",
-      "sha256": "0b4bd377f06557ae83f84e864e9008fb88f1d628016e1b2b373248cab5ec4289"
+      "receipt": "ROOT_EXISTING_MAIN_CASE_CURRENT_ENUMS.json",
+      "sha256": "3a74e623b973cdf0977df5426b60b6691979c02436d9f7f9464be48d1347c755"
     },
     {
-      "receipt": "ROOT_COMMONS_PRIOR_AND_CARD_METADATA_INTAKE.json",
-      "sha256": "332c51407b3a2159b9b6ced48b3fd6921317b0ee093565fbf149e7ef2d02c010"
+      "receipt": "ROOT_R982_R984_NEW_EXACT_PUBLISHED_PRIOR_CLAIM.json",
+      "sha256": "178c7da72f61e6f0809d010575c392ffe4eb5dcb7bf109195347e7113f1c1c4e"
     },
     {
-      "receipt": "ROOT_FIRST_ZURICH_CHEAP_SOURCE_HOLD_INTAKE.json",
-      "sha256": "7327c6aeaad701242ca565e17b38079c4dd4ad1fe30d59d8cbebd719601c38d1"
+      "receipt": "ROOT_SCHELLING_AND_BRITISH_METADATA_CLOSURE.json",
+      "sha256": "acc200cc2b5657423399fe1a964867c1fb525d0b2d4d6ad6643ad19a43f1b880"
     },
     {
-      "receipt": "ROOT_CACHED_PRIOR_CLOSURE.json",
-      "sha256": "aa797e6fa96d07367ef1673637c712f64d418615aa9f274a3e58d3a450afc8d1"
+      "receipt": "ROOT_PAIR_FEASIBILITY_FREEZE.json",
+      "sha256": "3219ccf6309306ef77b599ff8b15f9867eefef1d0ff98d909b1e9243bf806ab6"
+    },
+    {
+      "receipt": "ROOT_OLD_SIMPLE_FAMILY_LEADS_NO_REPEAT_AND_HOLDS.json",
+      "sha256": "0422860f6d93d765dd0a45328cc5d231322c8e37687f65f3c79cc52489b17eb1"
+    },
+    {
+      "receipt": "ROOT_STRUCTURED_ARTICLE_METADATA.json",
+      "sha256": "38371c8ac7fcf74dcb9f1c69552105f2edfe6124453051464c6fbc7e811c17a5"
+    },
+    {
+      "receipt": "ROOT_GENERIC_IDENTITY_FIXTURE_INTAKE.json",
+      "sha256": "d76910e05f591354eb666943a2fe0b84f10fe3397878ac20a40ca3eb8629b7c5"
+    },
+    {
+      "receipt": "ROOT_ACTUAL_FETCH_CHAIN_INTAKE.json",
+      "sha256": "179875a85441ef74e3fcab7f83e7f02bcd3ee782e43c5b544eb6331c2bf922b6"
     }
   ],
   "local_receipts_not_distributed": true,
   "scientific_case_payloads_changed": false,
   "new_complete_historical_solutions": 0,
-  "source_response_body_not_distributed": true,
+  "source_response_bodies_not_distributed": true,
   "historical_fingerprint_correction": {
     "case_id": "decrypt:1046",
     "removed_error_response_sha256": "1e47167c4db694fe06f61f4c5650ac54eff2ce3ee2eff9dea78c7f15aa55b606",
@@ -54,7 +77,7 @@
     "historical_flags_and_exclusions_preserved": true,
     "explanation": "A server error image cannot identify a historical ciphertext. The local before-snapshot and correction receipt are retained; the error body is not published."
   },
-  "cached_prior_manifest_replay_limit": {
+  "previous_cached_prior_manifest_replay_limit": {
     "immutable_references_verified": 23,
     "old_live_registry_input_pins_not_replayed": 1,
     "sealed_worker_manifest_preserved": true,

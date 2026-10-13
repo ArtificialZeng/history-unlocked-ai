@@ -17,5 +17,7 @@ jobs:
         run: python -B -m unittest discover -s tests
       - name: Replay portable catalogue metadata controls
         run: python -B research/catalogue_metadata/check_parser_controls.py
+      - name: Replay static-loader synthetic controls
+        run: node research/catalogue_metadata/static_loader/check_controls.mjs
       - name: Replay target-independent indexed-cell controls
         run: node scripts/verify_methods.mjs

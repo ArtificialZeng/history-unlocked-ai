@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-10-13T12:14:55.453519+00:00",
+  "generated_utc": "2026-10-13T17:19:01.720178+00:00",
   "records": [
     {
       "case_id": "alabama:u0003_0000535_1657004_0001",
@@ -453,6 +453,18 @@
       "sources": []
     },
     {
+      "case_id": "archive-lead:bl-add-ms-32093-f423-monck-1659-1660",
+      "aliases": [
+        "https://searcharchives.bl.uk/catalog/040-002025830"
+      ],
+      "flags": [
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
       "case_id": "archive-lead:bl-add-ms-32499-asfeld-ff73-74-1689-08-27-28",
       "aliases": [],
       "flags": [
@@ -477,6 +489,30 @@
       "aliases": [],
       "flags": [
         "attempted"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "archive-lead:bl-cotton-vitellius-b-xiii-ff15-25-ghinucci",
+      "aliases": [
+        "https://searcharchives.bl.uk/catalog/040-001102996"
+      ],
+      "flags": [
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "archive-lead:bl-cotton-vitellius-b-xiii-ff33-37-ghinucci",
+      "aliases": [
+        "https://searcharchives.bl.uk/catalog/040-001102996"
+      ],
+      "flags": [
+        "source_checked"
       ],
       "disposition": "skip",
       "source_fingerprints": [],
@@ -551,6 +587,32 @@
       "aliases": [],
       "flags": [
         "attempted"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "archive-lead:tna-sp53-16-no78-tempest-c1585",
+      "aliases": [
+        "SP53_16_78.txt",
+        "http://cryptiana.web.fc2.com/code/SP53_16_78.txt"
+      ],
+      "flags": [
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "archive-lead:tna-sp53-16-no79-barret-c1585",
+      "aliases": [
+        "SP53_16_79.txt",
+        "http://cryptiana.web.fc2.com/code/SP53_16_79.txt"
+      ],
+      "flags": [
+        "source_checked"
       ],
       "disposition": "skip",
       "source_fingerprints": [],
@@ -698,6 +760,30 @@
       ],
       "flags": [
         "attempted"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "blog-item:cipherbrain-kaliningrad-bottle-post",
+      "aliases": [
+        "https://scienceblogs.de/klausis-krypto-kolumne/2017/10/17/the-top-50-unsolved-encrypted-messages-19-the-kalinigrad-bottle-post/"
+      ],
+      "flags": [
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "blog-item:cipherbrain-postcard-17-letters-2018",
+      "aliases": [
+        "https://scienceblogs.de/klausis-krypto-kolumne/2018/05/11/an-encrypted-postcard-with-only-17-letters/"
+      ],
+      "flags": [
+        "source_checked"
       ],
       "disposition": "skip",
       "source_fingerprints": [],
@@ -855,6 +941,55 @@
       "case_id": "catalogue-route:arch-be-a0510-000027-002526-fre-findingaid",
       "aliases": [
         "https://search.arch.be/ead/pdf/BE-A0510_000027_002526_FRE.ead.pdf"
+      ],
+      "flags": [
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "catalogue-route:bl-arundel-ms151-cross-reference",
+      "aliases": [
+        "https://searcharchives.bl.uk/catalog/040-002039434"
+      ],
+      "flags": [
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "catalogue-route:cryptoole-satoru-public-index",
+      "aliases": [
+        "https://cryptoole.satoru.net/"
+      ],
+      "flags": [
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "catalogue-route:satoru-cryptiana-static-index",
+      "aliases": [
+        "https://satoru.net/crypt/tomokiyo/",
+        "https://satoru.net/crypt/tomokiyo/links.json"
+      ],
+      "flags": [
+        "source_checked"
+      ],
+      "disposition": "skip",
+      "source_fingerprints": [],
+      "sources": []
+    },
+    {
+      "case_id": "catalogue-route:schellingaf-cipher-trial-1",
+      "aliases": [
+        "https://schellingaf.com/spaces/cipher-trial-1"
       ],
       "flags": [
         "source_checked"
@@ -4276,10 +4411,13 @@
     {
       "case_id": "decrypt:982",
       "aliases": [
-        "https://de-crypt.org/decrypt-web/RecordsView/982"
+        "https://de-crypt.org/decrypt-web/RecordsView/982",
+        "https://github.com/dbourdeau/cyphersolver/blob/main/SOLVED_CATALOGUE.md"
       ],
       "flags": [
-        "attempted"
+        "attempted",
+        "prior_reading",
+        "source_checked"
       ],
       "disposition": "skip",
       "source_fingerprints": [],
@@ -4288,10 +4426,13 @@
     {
       "case_id": "decrypt:984",
       "aliases": [
-        "https://de-crypt.org/decrypt-web/RecordsView/984"
+        "https://de-crypt.org/decrypt-web/RecordsView/984",
+        "https://github.com/dbourdeau/cyphersolver/blob/main/SOLVED_CATALOGUE.md"
       ],
       "flags": [
-        "attempted"
+        "attempted",
+        "prior_reading",
+        "source_checked"
       ],
       "disposition": "skip",
       "source_fingerprints": [],
@@ -50101,7 +50242,8 @@
         "Cigaret-Case-400.png",
         "Cigaret-Inscription-500.png",
         "https://klausschmeh.net/portfolio/the-cigarette-case-cryptogram/",
-        "https://klausschmeh.net/wp-content/uploads/2026/05/Cigaret-Inscription-500.png"
+        "https://klausschmeh.net/wp-content/uploads/2026/05/Cigaret-Inscription-500.png",
+        "https://scienceblogs.de/klausis-krypto-kolumne/2018/07/05/the-top-50-unsolved-encrypted-messages-7-the-cigaret-case-cryptogram/"
       ],
       "flags": [
         "source_checked"

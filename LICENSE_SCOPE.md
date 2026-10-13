@@ -18,3 +18,8 @@ fonts and PDF; their rights are not changed. The indexed-cell original project
 code, synthetic controls and portable registry utility are covered by the
 top-level MIT grant. The public registry is identity metadata, not a licence
 grant over linked archival material.
+
+The static-loader tracer and synthetic fixture harness are original project code
+under the top-level MIT licence. Vendored Acorn 8.19.0 retains its own MIT
+copyright notice in `research/catalogue_metadata/static_loader/vendor/acorn/LICENSE`;
+see that tool's `THIRD_PARTY_LICENSES.md` for its source and pinned file hash.

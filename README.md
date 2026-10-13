@@ -40,17 +40,17 @@ Python 3.10+. Offline verification needs only the standard library. The runner c
 
 The portfolio contains eleven research entries, with explicit differences between confirmed readings, local exact readings, supplied-key replays and partial work. The HC1619 comparator is counted once. [Machine-readable index](data/CASE_INDEX.json).
 
-### Latest update · 13 October 2026
+### Latest update · 14 October 2026
 
-**More evidence, ready to replay:** HC1679 now adds an independently audited partial-reading checker with 2,633 passing checks and no new key search. The unchanged candidate still contains 15 unresolved spans; it is published as a partial result.
+**Unlock history — and make every claim checkable.** The 11-entry portfolio includes HC615's official confirmation and HC1679's independently audited partial reading: 276 selected positions, 2,633 checks and 15 explicitly unresolved spans. Every runnable case retains its reproduction command and scientific hashes.
 
-The research toolkit also includes a sanitized **2,554-identity no-repeat registry** and frozen indexed-cell code with 3 known-answer controls, 30 refusal controls and 4,368 finite decode variants. These tools help others extend the project without repeating known cases or treating plausible prose as proof.
+**New portable code:** a static JavaScript loader tracer now accompanies the catalogue parser. Four synthetic controls check nested calls that share the same start offset, lexical wrappers, in-page containers and a false-resource negative. It parses source without executing page JavaScript or fetching data. Dynamic or unsupported expressions stay unresolved. [Run the four controls](research/catalogue_metadata/static_loader/README.md).
 
-**Find the next cipher without losing the evidence:** the independently audited catalogue parser preserves exact item links and distinguishes incomplete parsing from an empty search. Its portable checks retain 14 regression assertions and six adversarial cases. The registry now retains all earlier exclusions and **33 additional screening identities since code-core-v3**, including Italian and Spanish archive leads; four are new in this release. Identity counts include access routes and source candidates, not just cipher messages.
+**A stronger no-repeat record:** the sanitized registry now holds **2,565 identities**, retaining every earlier exclusion and adding 11 archive leads and discovery routes. There are 44 additional screening identities since code-core-v3; these include sources and access routes, not just cipher messages. A dated HC Portal inventory check found 1,875 records, including 1,047 marked Not solved; all those open IDs were already registered. HC615 remained Solved. [Inventory scope](research/CATALOGUE_REFRESH.json).
 
-**New source checks prevent false discoveries:** two BnF leads were withheld after locating historical-answer or published partial-reading claims. A first native inspection of a Zurich-labelled postcard found clipped writing and unresolved identity; it remains frozen. Cached comment checks distinguish another card's solved claim from a Zurich shorthand guess. These are documented selection results, with no new complete decipherment in this update. [Readable screening notes](research/SCREENING_NOTES.md) · [Evidence and remaining barriers](research/SCREENING_UPDATE.json) · [Run the catalogue controls](research/catalogue_metadata/README.md).
+**Published readings come before new attacks.** Exact prior claims for Brussels R982 and R984 now exclude them from the new-target queue. New British Library and SP53/16 leads remain held for source, identity, language or method evidence. The latest work advances reproducibility and selection, with no additional complete decipherment in this release. [Screening notes](research/SCREENING_NOTES.md) · [Evidence and remaining barriers](research/SCREENING_UPDATE.json).
 
-[Latest research tools](research/README.md) · [Method controls](methods/README.md) · [Release changes](CHANGELOG.md)
+[Research tools](research/README.md) · [Method controls](methods/README.md) · [Release changes](CHANGELOG.md)
 
 ### Why it matters
 

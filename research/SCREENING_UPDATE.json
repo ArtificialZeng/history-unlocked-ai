@@ -1,12 +1,19 @@
 {
-  "snapshot_utc": "2026-10-13T12:14:55.453519+00:00",
-  "scope": "Completed metadata, exact prior-claim attribution and first source feasibility checks only; no new historical cipher attack or complete reading.",
-  "new_registered_identity_count": 4,
+  "snapshot_utc": "2026-10-13T17:19:01.720178+00:00",
+  "scope": "Completed catalogue metadata, exact prior-reading exclusions and target-independent tool controls; no new complete historical reading.",
+  "new_registered_identity_count": 11,
   "new_registered_ids": [
-    "blog-item:cipherbrain-albuquerque-2010",
-    "catalogue-route:agatha-be-a0510-000027-005873-ep4372",
-    "catalogue-route:arch-be-a0510-000027-002526-fre-findingaid",
-    "source-candidate:cipherbrain-postcard-baden-ch-tex"
+    "archive-lead:bl-add-ms-32093-f423-monck-1659-1660",
+    "archive-lead:bl-cotton-vitellius-b-xiii-ff15-25-ghinucci",
+    "archive-lead:bl-cotton-vitellius-b-xiii-ff33-37-ghinucci",
+    "archive-lead:tna-sp53-16-no78-tempest-c1585",
+    "archive-lead:tna-sp53-16-no79-barret-c1585",
+    "blog-item:cipherbrain-kaliningrad-bottle-post",
+    "blog-item:cipherbrain-postcard-17-letters-2018",
+    "catalogue-route:bl-arundel-ms151-cross-reference",
+    "catalogue-route:cryptoole-satoru-public-index",
+    "catalogue-route:satoru-cryptiana-static-index",
+    "catalogue-route:schellingaf-cipher-trial-1"
   ],
   "list_page_checks": [
     {
@@ -99,14 +106,16 @@
     },
     {
       "case_ids": [
+        "decrypt:982",
         "decrypt:984"
       ],
       "public_record_urls": [
-        "https://de-crypt.org/decrypt-web/RecordsView/984"
+        "https://github.com/dbourdeau/cyphersolver/blob/main/SOLVED_CATALOGUE.md"
       ],
-      "level": "METADATA_ONLY",
-      "observation": "Primary record lists Cipher / Non-decrypted / Nomenclatures and Spanish plaintext language; an advertised transcription attachment has not been inspected.",
-      "remaining": "A metadata pointer is not a readable source or a complete prior-art clearance."
+      "level": "EXACT_PUBLISHED_SUBSTANTIVE_PARTIAL_CLAIM_NO_NEW_ATTACK",
+      "observation": "The publisher catalogue explicitly includes R982 and R984 in the Salinas/Ronquillo R966–R984,R1001 series and claims partial readings/gist for the unmargined letters. This updates the earlier metadata-only assessment.",
+      "remaining": "Exclude both from the new-attack queue. This is an attributed prior claim, not an independently verified decryption or a new local result.",
+      "earlier_metadata_and_source_holds_preserved": true
     },
     {
       "case_ids": [
@@ -161,6 +170,79 @@
       ],
       "observation": "A cached comment claims the first/2010 postcard had a published solution and cites a 2010 LA Times article. The page recipient metadata supports that attribution; exact image correspondence is still unverified. A different solved-card sentence refers explicitly to another card.",
       "remaining": "Exclude from the new-solving queue. A 2016 article headline and neighbouring solved wording do not certify any particular card as currently open or solved."
+    },
+    {
+      "case_ids": [
+        "archive-lead:bl-cotton-vitellius-b-xiii-ff15-25-ghinucci",
+        "archive-lead:bl-cotton-vitellius-b-xiii-ff33-37-ghinucci",
+        "catalogue-route:bl-arundel-ms151-cross-reference"
+      ],
+      "public_record_urls": [
+        "https://searcharchives.bl.uk/catalog/040-001102996",
+        "https://searcharchives.bl.uk/catalog/040-002039434"
+      ],
+      "level": "PRIMARY_COLLECTION_METADATA_EXACT_SOURCE_AND_PRIOR_HOLD",
+      "observation": "The catalogue describes groups of five and three undeciphered cipher letters attributed or probably attributed to Ghinucci; Arundel MS151 provides related transcript/abstract references.",
+      "remaining": "Individual letter identities, original readable sources and exact modern prior-reading checks remain unqualified. Collection-level descriptions do not establish eight new open targets."
+    },
+    {
+      "case_ids": [
+        "archive-lead:bl-add-ms-32093-f423-monck-1659-1660"
+      ],
+      "public_record_urls": [
+        "https://searcharchives.bl.uk/catalog/040-002025830"
+      ],
+      "level": "IMPERFECT_SOURCE_AND_PRIOR_HOLD",
+      "observation": "Add MS32093 item113/f423 is catalogued as an imperfect partly enciphered letter apparently concerning Monck movements in 1659–1660.",
+      "remaining": "A complete readable source, secure individual dating, exact prior clearance and matched method are missing; no cipher attack."
+    },
+    {
+      "case_ids": [
+        "archive-lead:tna-sp53-16-no78-tempest-c1585",
+        "archive-lead:tna-sp53-16-no79-barret-c1585"
+      ],
+      "public_record_urls": [
+        "https://schellingaf.com/spaces/cipher-trial-1/4"
+      ],
+      "level": "FROZEN_PRE_ADMISSION_SOURCE_LANGUAGE_AND_METHOD_HOLD",
+      "observation": "The public problem post identifies SP53/16 no.78 to Tempest in Paris and no.79 to Doctor Barret in Rheims, circa1585, and links transcript filenames. A prior same-key hypothesis was withdrawn after an unsuccessful solver attempt.",
+      "remaining": "English/French is tentative, source-to-original correspondence and current exact prior clearance are unqualified, and earlier controls failed. No >80 admission and no target trial."
+    },
+    {
+      "case_ids": [
+        "blog-item:cipherbrain-kaliningrad-bottle-post",
+        "blog-item:cipherbrain-postcard-17-letters-2018"
+      ],
+      "public_record_urls": [
+        "https://scienceblogs.de/klausis-krypto-kolumne/2017/10/17/the-top-50-unsolved-encrypted-messages-19-the-kalinigrad-bottle-post/",
+        "https://scienceblogs.de/klausis-krypto-kolumne/2018/05/11/an-encrypted-postcard-with-only-17-letters/"
+      ],
+      "level": "LOW_FEASIBILITY_METADATA_HOLD",
+      "observation": "One lead has unknown language/purpose and an unqualified guessed family; the other advertises only17 letters without a strong independent anchor.",
+      "remaining": "Neither has source, exact current prior or matched-method evidence supporting >80 admission."
+    },
+    {
+      "case_ids": [
+        "catalogue-route:satoru-cryptiana-static-index"
+      ],
+      "public_record_urls": [
+        "https://satoru.net/crypt/tomokiyo/",
+        "https://satoru.net/crypt/tomokiyo/links.json"
+      ],
+      "level": "UNOFFICIAL_DISCOVERY_INDEX_ONLY",
+      "observation": "The first structured metadata check counted295 article records. The index is unofficial and has not been reviewed by Tomokiyo.",
+      "remaining": "Article count and294 unmatched article URLs are not new cipher-item counts; exact primary identities and open/prior/source checks are required."
+    },
+    {
+      "case_ids": [
+        "catalogue-route:cryptoole-satoru-public-index"
+      ],
+      "public_record_urls": [
+        "https://cryptoole.satoru.net/"
+      ],
+      "level": "LOADER_FLOW_CONFIRMED_RESOURCE_EXPRESSION_HOLD",
+      "observation": "Static parsing established the actual fetch→response.json→catalogue callback chain. Its first fetch argument is not a complete literal; the exact resource URL remains unknown.",
+      "remaining": "No guessed endpoint, dynamic page execution or cipher admission. The generic node-identity tracer passed four synthetic fixtures."
     }
   ],
   "identity_guard_correction": {
@@ -175,12 +257,23 @@
     "Administrative exclusions are not counts of attempted or solved ciphers.",
     "Missing source access is not evidence that a cipher is mathematically unsolvable."
   ],
-  "release": "code-core-v5",
-  "added_since_code_core_v3_count": 33,
+  "release": "code-core-v6",
+  "added_since_code_core_v3_count": 44,
   "added_since_code_core_v3_ids": [
+    "archive-lead:bl-add-ms-32093-f423-monck-1659-1660",
+    "archive-lead:bl-cotton-vitellius-b-xiii-ff15-25-ghinucci",
+    "archive-lead:bl-cotton-vitellius-b-xiii-ff33-37-ghinucci",
+    "archive-lead:tna-sp53-16-no78-tempest-c1585",
+    "archive-lead:tna-sp53-16-no79-barret-c1585",
     "blog-item:cipherbrain-albuquerque-2010",
+    "blog-item:cipherbrain-kaliningrad-bottle-post",
+    "blog-item:cipherbrain-postcard-17-letters-2018",
     "catalogue-route:agatha-be-a0510-000027-005873-ep4372",
     "catalogue-route:arch-be-a0510-000027-002526-fre-findingaid",
+    "catalogue-route:bl-arundel-ms151-cross-reference",
+    "catalogue-route:cryptoole-satoru-public-index",
+    "catalogue-route:satoru-cryptiana-static-index",
+    "catalogue-route:schellingaf-cipher-trial-1",
     "cyphersolver:262",
     "decrypt:1004",
     "decrypt:1005",
@@ -222,5 +315,14 @@
       "seal_timely": true
     },
     "interpretation": "These completed observations are retained with their scope and deadline exceptions; no timing compliance PASS or cryptanalytic failure is asserted."
+  },
+  "catalogue_refresh": "CATALOGUE_REFRESH.json",
+  "generic_ast_tool": {
+    "path": "catalogue_metadata/static_loader/README.md",
+    "fixture_total": 4,
+    "fixtures_passed": 4,
+    "scope": "Synthetic software controls only; no historical cipher solution",
+    "qualified_actual_resource_url": "UNKNOWN",
+    "no_page_javascript_execution": true
   }
 }

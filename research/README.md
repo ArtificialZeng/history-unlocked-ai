@@ -9,20 +9,19 @@ python3 scripts/case_registry.py --state-dir /tmp/history-unlocked-state check -
 
 The second command deliberately returns `REJECT` (exit2), because the known confirmed case must not be attacked again. Use a working state directory outside this repository. Re-running `init` merges without erasing exclusions.
 
-Fresh primary status, exact-item prior review, source qualification, matched method controls and transparent feasibility strictly above80/100 precede any historical solver assignment. Scores are judgments, not calibrated probabilities. Root coordinates; isolated workers solve only admitted cases. The local registry lock coordinates a single current directory, not disconnected machines.
+Fresh primary status, exact-item prior review, source qualification, matched method controls and transparent feasibility strictly above 80/100 precede any historical solver assignment. Scores are judgments, not calibrated probabilities. Root coordinates; isolated workers solve only admitted cases. The local registry lock coordinates a single current directory, not disconnected machines.
 
-Snapshot date:13October2026. The snapshot contains **2,554 registered identities**,
-including 33 additional screening records since code-core-v3, four of them added
-in code-core-v5. Identities also include access routes and source candidates.
-These are administrative exclusions, not counts of cryptanalytic attempts or
-solved ciphers. Case counts are in [PROGRESS.json](PROGRESS.json). Existing frozen
-attempts remain frozen; this file does not authorize their restart.
+Snapshot display date: 14 October 2026. The snapshot contains **2,565 registered
+identities**, preserving all 2,554 earlier exclusions and adding 11 archive leads
+and discovery routes; 44 were added since code-core-v3. These are administrative
+identities, not solved or attempted cipher counts. [PROGRESS.json](PROGRESS.json)
+tracks the 11-entry portfolio separately. Frozen attempts remain frozen.
 
-The [readable screening notes](SCREENING_NOTES.md) and
-[latest screening report](SCREENING_UPDATE.json) record the source and identity
-holds, published-reading claims and Italian and Spanish catalogue leads. None
-was admitted to historical key search. The [update provenance](UPDATE_PROVENANCE.json)
-pins the full local registry and its different sanitized public derivative.
+[Screening notes](SCREENING_NOTES.md), [current evidence](SCREENING_UPDATE.json)
+and the [dated HC inventory](CATALOGUE_REFRESH.json) record published-reading
+exclusions and incomplete source/method qualification. The
+[update provenance](UPDATE_PROVENANCE.json) pins the full local registry and its
+different sanitized public derivative; it does not transfer runtime ownership.
 
 Exact parent aliases must be checked as well as child IDs. The portable helper
 returns `REVIEW` for a shared non-HC alias, which blocks a new attack pending
@@ -37,3 +36,15 @@ item IDs and query-bearing links. It reports unknown when rows cannot be
 accounted for, instead of declaring that no open items exist. Run its 14
 regression checks and six adversarial tests offline; no source images, plaintext,
 keys or authentication are needed.
+
+## Static loader tracing without page execution
+
+Run the four synthetic checks offline with Node.js 22 or later:
+
+```sh
+node research/catalogue_metadata/static_loader/check_controls.mjs
+```
+
+The [tool guide](catalogue_metadata/static_loader/README.md) explains AST node
+identity, supported syntax and unresolved dynamic expressions. Acorn 8.19.0 is
+vendored with its MIT notice. This is a selection utility, not a cipher solver.

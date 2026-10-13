@@ -1,0 +1,23 @@
+{
+  "source_url": "https://api.hcportal.eu/api/cryptograms?detailed=1",
+  "metadata_parsed_at_utc": "2026-10-13T16:22:32.370618+00:00",
+  "status_projection_at_utc": "2026-10-13T16:23:24.972907+00:00",
+  "retained_response_sha256": "eadd8d28de864d6d920d8ae9f52f2eb91bb94fd0278543e25a3573f9f91a54ec",
+  "schema_path": "data.data",
+  "inventory_rows": 1875,
+  "not_solved_enum_rows": 1047,
+  "unregistered_not_solved_ids": 0,
+  "compared_registry_identities": 2565,
+  "existing_confirmed_case": {
+    "case_id": "hcportal:615",
+    "observed_enum": "Solved"
+  },
+  "limitations": [
+    "This dated inventory is not a worldwide novelty or source-exhaustion proof.",
+    "Registered means known to the controller, not solved, attempted or qualified.",
+    "The initial envelope-schema assertion failed; cached data.data parsing corrected it without another GET.",
+    "This refresh checks catalogue enums; the earlier public excerpt separately documents attribution."
+  ],
+  "historical_key_searches": 0,
+  "raw_catalogue_body_distributed": false
+}

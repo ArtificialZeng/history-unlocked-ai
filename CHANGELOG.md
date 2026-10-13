@@ -1,5 +1,19 @@
 # Changes
 
+## 14 October 2026 — code-core-v6
+
+- Added a portable static-loader tracer with four synthetic controls and a
+  pinned MIT Acorn dependency. No page JavaScript execution or data requests.
+- Refreshed the sanitized no-repeat snapshot to 2,565 identities, retaining all
+  2554 previous exclusions and adding 11 archive leads/discovery routes.
+- Corrected R982/R984 to an exact published partial-reading claim exclusion;
+  source and identity holds for other British and continental leads remain.
+- Added the dated 1,875-record HC Portal inventory check, including 1,047 Not solved
+  enums. Zero unregistered open IDs is a local registry comparison, not exhaustion.
+- Updated the English, Chinese, Czech and Japanese homepages and provenance.
+  The 11-case portfolio and 857 frozen scientific files are unchanged. There is
+  no new complete historical solution or additional external verdict.
+
 ## 13 October 2026 — code-core-v5
 
 - Refreshed the public no-repeat registry to 2,554 identities, preserving all

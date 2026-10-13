@@ -1,0 +1,128 @@
+{
+  "created_utc": "2026-10-13T17:17:56.090151+00:00",
+  "kind": "Portable static AST metadata tracer; synthetic fixture validation only",
+  "original_inputs": [
+    {
+      "input_name": "generic_identity_trace.mjs",
+      "input_bytes": 7167,
+      "input_sha256": "62b71d41586e1b8495e2baedf0e2ef91d322bab6462b177364120a00748c033b",
+      "release_path": "generic_identity_trace.mjs",
+      "release_bytes": 7111,
+      "release_sha256": "95041357e4c4f75cacfcb779dab2dcee3be5b56d82f174f56e01d05febe4757c",
+      "identical_bytes": false
+    },
+    {
+      "input_name": "fixture_harness.mjs",
+      "input_bytes": 1380,
+      "input_sha256": "43238d34c9d3d85b32b97606db6630276f94c09794d42fb2ec922ab35f998550",
+      "release_path": "fixture_harness.mjs",
+      "release_bytes": 1316,
+      "release_sha256": "6f58427b1c49ab94a7ef1aea715c0b956060a48e2e72d41e02043a3726f35362",
+      "identical_bytes": false
+    },
+    {
+      "input_name": "SYNTHETIC_FIXTURE_INPUTS.json",
+      "input_bytes": 987,
+      "input_sha256": "eb9fb8f75cae21c8c396fef7bef667f37a8d92a851aa2be33a563f7e2857a602",
+      "release_path": "SYNTHETIC_FIXTURE_INPUTS.json",
+      "release_bytes": 987,
+      "release_sha256": "eb9fb8f75cae21c8c396fef7bef667f37a8d92a851aa2be33a563f7e2857a602",
+      "identical_bytes": true
+    },
+    {
+      "input_name": "acorn.mjs",
+      "input_bytes": 234658,
+      "input_sha256": "76254fc76529713b4dfd2532972d17a991ffd9aafeebb1f977445b5506b9fb0b",
+      "release_path": "vendor/acorn/acorn.mjs",
+      "release_bytes": 234658,
+      "release_sha256": "76254fc76529713b4dfd2532972d17a991ffd9aafeebb1f977445b5506b9fb0b",
+      "identical_bytes": true
+    },
+    {
+      "input_name": "LICENSE",
+      "input_bytes": 1099,
+      "input_sha256": "76a876cf886ff9be2a8b5e2e86514fed06223c8c9f0c1e9ee9606e93841e00b7",
+      "release_path": "vendor/acorn/LICENSE",
+      "release_bytes": 1099,
+      "release_sha256": "76a876cf886ff9be2a8b5e2e86514fed06223c8c9f0c1e9ee9606e93841e00b7",
+      "identical_bytes": true
+    }
+  ],
+  "changes": [
+    {
+      "file": "generic_identity_trace.mjs",
+      "change": "Acorn import uses ./vendor/acorn/acorn.mjs",
+      "reason": "Portable ESM import; remove machine-specific absolute path"
+    },
+    {
+      "file": "fixture_harness.mjs",
+      "change": "Acorn import uses ./vendor/acorn/acorn.mjs",
+      "reason": "Same vendored dependency and portable ESM import"
+    },
+    {
+      "file": "generic_identity_trace.mjs",
+      "change": "Initial edge label becomes Receiver of selected .then call",
+      "reason": "Remove a real-source offset label; preserve traversal"
+    },
+    {
+      "file": "generic_identity_trace.mjs",
+      "change": "synthetic_only:true becomes validation_scope:four bundled synthetic fixtures only",
+      "reason": "API accepts caller-supplied JavaScript; input provenance is not classified"
+    },
+    {
+      "file": "fixture_harness.mjs",
+      "change": "Internal research counters replaced by validation_scope, page_JS_execution and network_requests",
+      "reason": "Report fixture scope and actual nonexecution behavior using portable names"
+    }
+  ],
+  "unchanged_behavior": [
+    "WeakSet identity for visited AST nodes",
+    "Selection by call and callback full ranges",
+    "30 traced-node bound",
+    "Nonliteral fetch arguments stay unresolved; no URL construction",
+    "Four original fixture definitions copied byte for byte",
+    "No code evaluation, fetch, installation or asset requests"
+  ],
+  "dependency": {
+    "name": "acorn",
+    "version": "8.19.0",
+    "license": "MIT",
+    "distribution_url": "https://registry.npmjs.org/acorn/-/acorn-8.19.0.tgz",
+    "prior_acquisition_receipt_reports_sha512_integrity_match": true,
+    "release_dependency_files_only": [
+      "vendor/acorn/acorn.mjs",
+      "vendor/acorn/LICENSE"
+    ]
+  },
+  "limits": [
+    "Validation consists only of the four bundled synthetic fixtures",
+    "No HTML extraction or browser execution",
+    "Conservative lexical resolver does not model general JavaScript semantics",
+    "Unsupported syntax, ambiguous bindings and dynamic arguments remain unresolved",
+    "30 bounds traced dependencies, not parsing/indexing of the entire input",
+    "Reported resources are static literal call arguments; no reachability or URL validation"
+  ],
+  "prior_dependency_receipt": {
+    "logical_name": "Acorn resource acquisition receipt",
+    "bytes": 2175,
+    "sha256": "0deefdff9b17f004ef6ace43c25081d9ec384179ca07d28929462f29545c7c35",
+    "public_copy_included": false,
+    "role": "Prior acquisition integrity attestation only"
+  },
+  "public_integration": {
+    "original_candidate_manifest_sha256": "c4772ed5472341ff76d2c50cc7242203d896bdcde2fd019d33c2448c52ffa143",
+    "manifest_references_verified": 14,
+    "candidate_audit_status": "PASS",
+    "changes": [
+      "Added check_controls.mjs as an offline runner with nonzero failure status",
+      "Adapted README command and release-manifest guidance; code and fixture bytes otherwise unchanged"
+    ],
+    "files_not_published": [
+      "internal audit receipts",
+      "syntax-check receipts",
+      "stdout/stderr and run-time paths",
+      "candidate manifest and SHA256SUMS"
+    ],
+    "release_manifest": "repository CODE_CORE_MANIFEST.json"
+  }
+}
