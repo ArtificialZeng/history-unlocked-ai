@@ -25,7 +25,7 @@ def main():
             continue
         raw = p.read_bytes()
         files.append({'path':str(rel),'bytes':len(raw),'sha256':hashlib.sha256(raw).hexdigest()})
-    result = {'version':'code-core-v3',
+    result = {'version':'code-core-v4',
               'created_at_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),
               'scope':'Reproducible code, necessary evidence data, methods and brief promotion; no private correspondence or media submissions.',
               'manifest_self_excluded':True,'files':files}

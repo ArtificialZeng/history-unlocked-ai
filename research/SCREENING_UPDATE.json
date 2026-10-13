@@ -1,0 +1,143 @@
+{
+  "snapshot_utc": "2026-10-13T11:13:34.225230+00:00",
+  "scope": "Metadata and source qualification only; no new historical cipher attack or reading.",
+  "new_registered_identity_count": 29,
+  "new_registered_ids": [
+    "cyphersolver:262",
+    "decrypt:1004",
+    "decrypt:1005",
+    "decrypt:1894",
+    "decrypt:2288",
+    "decrypt:2289",
+    "decrypt:2290",
+    "decrypt:2291",
+    "decrypt:2292",
+    "decrypt:2293",
+    "decrypt:2294",
+    "decrypt:2295",
+    "decrypt:2753",
+    "decrypt:4223",
+    "decrypt:4224",
+    "decrypt:4230",
+    "decrypt:4249",
+    "decrypt:4256",
+    "decrypt:4258",
+    "decrypt:4267",
+    "decrypt:4269",
+    "decrypt:4273",
+    "decrypt:91",
+    "decrypt:982",
+    "decrypt:984",
+    "decrypt:992",
+    "decrypt:996",
+    "decrypt:997",
+    "decrypt:998"
+  ],
+  "list_page_checks": [
+    {
+      "requested_plaintext_language": "Italian",
+      "one_page_rows_verified": 20,
+      "new_registered_ids": [
+        "decrypt:4273",
+        "decrypt:4269",
+        "decrypt:4267",
+        "decrypt:4258",
+        "decrypt:4256",
+        "decrypt:4249",
+        "decrypt:4230",
+        "decrypt:4224",
+        "decrypt:4223",
+        "decrypt:2753",
+        "decrypt:2295",
+        "decrypt:2294",
+        "decrypt:2293",
+        "decrypt:2292",
+        "decrypt:1894"
+      ],
+      "catalogue_fields": "Cipher / Non-decrypted",
+      "qualification": "Individual exact-prior, original-source and method checks remain incomplete."
+    },
+    {
+      "requested_plaintext_language": "Spanish",
+      "one_page_rows_verified": 12,
+      "new_registered_ids": [
+        "decrypt:2291",
+        "decrypt:2290",
+        "decrypt:2289",
+        "decrypt:2288",
+        "decrypt:1005",
+        "decrypt:1004",
+        "decrypt:998",
+        "decrypt:997",
+        "decrypt:996",
+        "decrypt:992",
+        "decrypt:984",
+        "decrypt:982"
+      ],
+      "catalogue_fields": "Cipher / Non-decrypted",
+      "qualification": "Language values include qualified wording in some rows; original fields are preserved in local records."
+    }
+  ],
+  "case_holds": [
+    {
+      "case_ids": [
+        "decrypt:4274",
+        "decrypt:4279"
+      ],
+      "public_record_urls": [
+        "https://de-crypt.org/decrypt-web/RecordsView/4274",
+        "https://de-crypt.org/decrypt-web/RecordsView/4279"
+      ],
+      "level": "SOURCE_HOLD",
+      "observation": "Retained 200x144 and 200x149 previews were insufficient to read reliably; original viewer and documented IIIF requests returned HTTP 403.",
+      "remaining": "Exact folio, complete readable source, exact prior clearance and matched method qualification."
+    },
+    {
+      "case_ids": [
+        "decrypt:91",
+        "cyphersolver:262"
+      ],
+      "public_record_urls": [
+        "https://de-crypt.org/decrypt-web/RecordsView/91"
+      ],
+      "level": "PRIOR_AND_IDENTITY_HOLD",
+      "observation": "A primary record dated 1538–1612 does not establish the inherited single-letter identity. Candidate prior-reading pointers require exact-item review.",
+      "remaining": "The two IDs remain separate; no alias merge, key transfer or novelty clearance."
+    },
+    {
+      "case_ids": [
+        "decrypt:1005"
+      ],
+      "public_record_urls": [
+        "https://de-crypt.org/decrypt-web/RecordsView/1005"
+      ],
+      "level": "SOURCE_HOLD",
+      "observation": "One ordinary GET to an advertised .txt attachment returned HTTP 200, Content-Type image/png and filename forbidden.png; strict UTF-8 decoding failed.",
+      "remaining": "Usable transcription, original-source correspondence, exact prior clearance and method qualification. Authentication requirements were not established.",
+      "response_excluded_from_cipher_fingerprints": true
+    },
+    {
+      "case_ids": [
+        "decrypt:984"
+      ],
+      "public_record_urls": [
+        "https://de-crypt.org/decrypt-web/RecordsView/984"
+      ],
+      "level": "METADATA_ONLY",
+      "observation": "Primary record lists Cipher / Non-decrypted / Nomenclatures and Spanish plaintext language; an advertised transcription attachment has not been inspected.",
+      "remaining": "A metadata pointer is not a readable source or a complete prior-art clearance."
+    }
+  ],
+  "identity_guard_correction": {
+    "observed_alias": "cyphersolver:342",
+    "registered_case_id": "archive-item:oesta-hhsta-tuerkei-i32-3-f199-203-1576-03-12",
+    "effect": "Exact parent aliases and related child IDs must also be screened. A shared alias is a review hold, never permission for a new attack or automatic same-message merging."
+  },
+  "historical_target_trials_in_this_update": 0,
+  "new_complete_solutions": 0,
+  "limits": [
+    "One-page catalogue checks do not certify global completeness or enforcement of server filters.",
+    "Administrative exclusions are not counts of attempted or solved ciphers.",
+    "Missing source access is not evidence that a cipher is mathematically unsolvable."
+  ]
+}

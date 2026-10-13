@@ -1,5 +1,18 @@
 # Changes
 
+## 13 October 2026 — code-core-v4
+
+- Refreshed the sanitized no-repeat registry to 2,550 identities, retaining all
+  2,521 earlier IDs and adding 29 screening records. No target was admitted or
+  newly solved in these metadata and source-qualification scopes.
+- Published a compact screening report for the Italian and Spanish catalogue
+  leads, BnF source-access holds, and unresolved Vatican and Brussels item checks.
+- Added regression checks for exact parent aliases and child IDs. Removed one
+  inherited server-error image hash from ciphertext fingerprints while retaining
+  the affected item's exclusion and historical flags.
+- Updated the English, Chinese, Czech and Japanese homepages and progress data.
+  All 857 frozen scientific files and the 11-entry portfolio remain unchanged.
+
 ## 13 October 2026 — code-core-v3
 
 - Updated the sanitized no-repeat snapshot to 2,521 identities, adding 14

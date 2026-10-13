@@ -32,5 +32,5 @@
   "public_snapshot_limit": "All registered identities block a new attack. Screening metadata does not mean a historical solver ran; no lease or ownership is transferred.",
   "authoritative_full_registry_snapshot_sha256": "1601aa66afcfac01f99de312e82a94a3262b649263fe319b04c02a17876a743c",
   "published_sanitized_registry_sha256": "ce722b99c90905350bd14c1a359786016cba30817730a8ae2984ebe567ce287c",
-  "registry_hash_scope": "The full authoritative registry and the sanitized public registry are different artifacts; no private narrative, leases or source history are distributed."
+  "registry_hash_scope": "These are the historical code-core-v3 registry hashes, not the current snapshot. The full authoritative registry and sanitized public registry are different artifacts; current hashes are in research/UPDATE_PROVENANCE.json. No private narrative, leases or source history are distributed."
 }

@@ -33,6 +33,34 @@ class CaseIdentity(unittest.TestCase):
     def test_hc_url_canonicalized(self):
         self.assertEqual(registry.canonical('https://api.hcportal.eu/api/cryptograms/615'), 'hcportal:615')
 
+    def test_parent_alias_blocks_new_attack_without_merging(self):
+        row = self.record('archive-item:synthetic-letter')
+        row['aliases'] = ['cyphersolver:342']
+        result = registry.check({'records':[row]}, 'cyphersolver:342')
+        self.assertEqual(result['status'], 'REVIEW')
+        self.assertEqual(result['resource_alias_matches'], [row['case_id']])
+        self.assertEqual(result['identity_matches'], [])
+
+    def test_parent_alias_numeric_prefix_does_not_collide(self):
+        row = self.record('archive-item:synthetic-letter')
+        row['aliases'] = ['cyphersolver:342']
+        self.assertEqual(registry.check({'records':[row]}, 'cyphersolver:34')['status'], 'CLEAR')
+
+    def test_related_child_id_is_checked_in_its_own_namespace(self):
+        row = self.record('decrypt:392')
+        value = {'records':[row]}
+        self.assertEqual(registry.check(value, 'decrypt:392')['status'], 'REJECT')
+        self.assertEqual(registry.check(value, 'cyphersolver:392')['status'], 'CLEAR')
+
+    def test_verified_server_error_is_not_a_cipher_fingerprint(self):
+        seed = json.loads((ROOT/'research/NO_REPEAT_REGISTRY.json').read_text())
+        error_hash = '1e47167c4db694fe06f61f4c5650ac54eff2ce3ee2eff9dea78c7f15aa55b606'
+        self.assertFalse(any(f['sha256'] == error_hash for r in seed['records']
+                             for f in r['source_fingerprints']))
+        record = next(r for r in seed['records'] if r['case_id'] == 'decrypt:1046')
+        self.assertEqual(record['disposition'], 'skip')
+        self.assertEqual(registry.check(seed, 'decrypt:1046')['status'], 'REJECT')
+
     def test_public_snapshot_contains_only_allowed_metadata(self):
         seed = json.loads((ROOT/'research/NO_REPEAT_REGISTRY.json').read_text())
         self.assertGreater(len(seed['records']), 0)

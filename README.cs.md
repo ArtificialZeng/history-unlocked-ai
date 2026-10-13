@@ -44,9 +44,9 @@ Jedenáct výzkumných záznamů má jasně rozlišenou úroveň důkazů. Srovn
 
 **Nové důkazy k vlastnímu ověření:** HC1679 přidává nezávisle auditované podmíněné dílčí čtení. Ověřovač projde 2 633 kontrolami bez nového hledání klíče; 15 úseků zůstává nevyřešených.
 
-Zveřejňujeme také očištěný registr **2 521 známých identit**, který brání opakovaným útokům, a kód indexovaných buněk: 3 kontroly se známou odpovědí, 30 odmítacích kontrol a 4 368 konečných variant dekódování. Jde o softwarové kontroly, nikoli nová historická řešení.
+Zveřejňujeme také očištěný registr **2 550 známých identit**, který brání opakovaným útokům, a kód indexovaných buněk: 3 kontroly se známou odpovědí, 30 odmítacích kontrol a 4 368 konečných variant dekódování. Jde o softwarové kontroly, nikoli nová historická řešení.
 
-**Další šifra začíná spolehlivým výběrem:** nový, nezávisle auditovaný parser katalogu zachovává přesné odkazy na záznamy a nezaměňuje neúplné zpracování stránky za prázdný výsledek. Přenosná verze obsahuje 14 regresních kontrol a šest adversariálních případů. Nových 14 identit představuje evidenci předběžného posouzení; tato aktualizace nepřidává žádné úplné historické rozluštění. [Ověřit parser katalogu](research/catalogue_metadata/README.md).
+**Další šifra začíná spolehlivým výběrem:** nezávisle auditovaný parser katalogu zachovává přesné odkazy a nezaměňuje neúplné zpracování stránky za prázdný výsledek. Přenosná verze obsahuje 14 regresních kontrol a šest adversariálních případů. Nejnovější aktualizace přidává **29 identit z předběžného posouzení**, včetně italských a španělských archivních stop, s výslovně zaznamenanými překážkami v přístupu k pramenům a v ověření předchozích čtení. Kontrola zahrnuje aliasy nadřazených záznamů i identifikátory jednotlivých dokumentů; hash chybového obrázku serveru byl odstraněn z otisků šifrových pramenů. Jde o výzkumnou infrastrukturu, bez nového úplného rozluštění. [Výsledky posouzení a zbývající překážky](research/SCREENING_UPDATE.json) · [Ověřit parser katalogu](research/catalogue_metadata/README.md).
 
 [Výzkumné nástroje](research/README.md) · [Kontroly metod](methods/README.md) · [Změny](CHANGELOG.md)
 

@@ -44,9 +44,9 @@ The portfolio contains eleven research entries, with explicit differences betwee
 
 **More evidence, ready to replay:** HC1679 now adds an independently audited partial-reading checker with 2,633 passing checks and no new key search. The unchanged candidate still contains 15 unresolved spans; it is published as a partial result.
 
-The research toolkit also includes a sanitized **2,521-identity no-repeat registry** and frozen indexed-cell code with 3 known-answer controls, 30 refusal controls and 4,368 finite decode variants. These tools help others extend the project without repeating known cases or treating plausible prose as proof.
+The research toolkit also includes a sanitized **2,550-identity no-repeat registry** and frozen indexed-cell code with 3 known-answer controls, 30 refusal controls and 4,368 finite decode variants. These tools help others extend the project without repeating known cases or treating plausible prose as proof.
 
-**Find the next cipher without losing the evidence:** a newly published, independently audited catalogue parser preserves exact item links and refuses to confuse incomplete parsing with an empty search. Its portable checks retain 14 regression assertions and six adversarial cases. The 14 newly registered identities are screening records; this update adds no complete historical solution. [Run the catalogue controls](research/catalogue_metadata/README.md).
+**Find the next cipher without losing the evidence:** the independently audited catalogue parser preserves exact item links and refuses to confuse incomplete parsing with an empty search. Its portable checks retain 14 regression assertions and six adversarial cases. The latest update adds **29 screening identities**, including Italian and Spanish archive leads, with explicit source and prior-reading holds. Parent aliases are checked alongside child IDs; a server error image has been removed from ciphertext fingerprints. These are research infrastructure results, with no new complete decipherment in this update. [Screening results and remaining barriers](research/SCREENING_UPDATE.json) · [Run the catalogue controls](research/catalogue_metadata/README.md).
 
 [Latest research tools](research/README.md) · [Method controls](methods/README.md) · [Release changes](CHANGELOG.md)
 

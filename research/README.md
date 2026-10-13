@@ -11,11 +11,22 @@ The second command deliberately returns `REJECT` (exit2), because the known conf
 
 Fresh primary status, exact-item prior review, source qualification, matched method controls and transparent feasibility strictly above80/100 precede any historical solver assignment. Scores are judgments, not calibrated probabilities. Root coordinates; isolated workers solve only admitted cases. The local registry lock coordinates a single current directory, not disconnected machines.
 
-Snapshot date:13October2026. The snapshot contains **2,521 registered identities**,
-including 14 additional screening records since the previous public release.
+Snapshot date:13October2026. The snapshot contains **2,550 registered identities**,
+including 29 additional screening records since code-core-v3.
 These are administrative exclusions, not counts of cryptanalytic attempts or
 solved ciphers. Case counts are in [PROGRESS.json](PROGRESS.json). Existing frozen
 attempts remain frozen; this file does not authorize their restart.
+
+The [latest screening report](SCREENING_UPDATE.json) records the source and
+identity holds alongside the new Italian and Spanish catalogue leads. None was
+admitted to historical key search. The [update provenance](UPDATE_PROVENANCE.json)
+pins the full local registry and its different sanitized public derivative.
+
+Exact parent aliases must be checked as well as child IDs. The portable helper
+returns `REVIEW` for a shared non-HC alias, which blocks a new attack pending
+identity review; it does not silently merge messages. An inherited hash of the
+server's `forbidden.png` response has been removed from ciphertext fingerprints.
+The affected case's no-repeat exclusion and all earlier flags remain.
 
 ## Catalogue selection without false empty results
 
