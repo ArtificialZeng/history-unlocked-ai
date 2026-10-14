@@ -1,6 +1,6 @@
 # Bounded Czech masked-substitution runtime
 
-This module packages the frozen numeric-only runtime and a public synthetic P05 replay. It qualifies code and its interface; it provides no historical solution, admission, segmentation evidence or historical success probability. The original resource record contains **234 fabricated interface checks with zero failures and one P05 replay**. Those are retained aggregate provenance, separate from the new public checks below. The original historical branch and its 99 negative solver calls were **prospective and unexecuted**.
+This module packages the frozen numeric-only runtime and a public synthetic P05 replay. It qualifies code and its interface; it provides no historical solution, admission, segmentation evidence or historical success probability. The original resource record contains **234 fabricated interface checks with zero failures and one P05 replay**. Those are retained aggregate provenance, separate from the new public checks below. At the code-core-v11 publication, the historical branch and its 99 negative solver calls were **prospective and unexecuted**. The subsequent HC1527 execution is documented separately below.
 
 From a clean clone, Python 3.10+ on a little-endian POSIX system is required. The replay additionally needs an existing `c++` compiler supporting C++17. No network, corpus download or Python package installation is required.
 
@@ -15,8 +15,18 @@ The second command requires a new output directory outside the checkout. It copi
 
 P05 deliberately retains the known failure: the frozen record recovered **537/538 known characters and 23/24 observed mappings**, with one error. The training-frequency baseline scored **149/538**. Candidate/key forward consistency is **538/538**, whereas the recovery forward check is **537/538**; consistency alone is not recovery. P05 has 30 gap markers representing 62 original unknown characters, which are neither reconstructed nor graded. A P05 replay does not re-test the full nine-control profile. Compiler/library differences can change stochastic trajectories, and byte identity across platforms is not promised. Timeouts mean incomplete computation, not unsolvability. Packaging results and output hashes are in [PACKAGING_CHECK_SUMMARY.json](provenance/PACKAGING_CHECK_SUMMARY.json).
 
-The unchanged runtime has SHA-256 `e8358e69f4301918c5d4541979b1fd140c7691482ea809aa77ee9bcab4e80e91`. Its internal opaque QA token and administrative lease digest are compatibility constants retained in the public synthetic branch. They authenticate no user and confer **no historical authorization**. The raw frozen runner also contains a prospective historical interface; valid-looking pins or self-supplied digests do not establish source qualification or permission. Do not interpret its unexecuted 99-shuffle plan, heuristic −4.70 gate, or conditional rank formula as a calibrated historical result.
+The unchanged runtime has SHA-256 `e8358e69f4301918c5d4541979b1fd140c7691482ea809aa77ee9bcab4e80e91`. Its internal opaque QA token and administrative lease digest are compatibility constants retained in the public synthetic branch. They authenticate no user and confer **no historical authorization**. The raw frozen runner also contains a prospective historical interface; valid-looking pins or self-supplied digests do not establish source qualification or permission. The heuristic −4.70 gate and conditional rank formula are not calibrated historical success probabilities.
 
 [DEPENDENCY_PINS.json](DEPENDENCY_PINS.json) pins the existing public resources without duplicating the model. [ADAPTATIONS.json](provenance/ADAPTATIONS.json) records unchanged files and new wrappers. [ORIGINAL_RESOURCE_SUMMARY.json](provenance/ORIGINAL_RESOURCE_SUMMARY.json) retains aggregate original checks, one synthetic replay, source hashes and the recorded late first status; original private registrations, source payloads, executables, absolute private paths and case identifiers are omitted. `MODULE_SHA256.json` covers every file here except itself. Keep generated output outside the checkout.
 
 Code and new documentation are [MIT](licenses/MIT.txt). The UD-derived model, frequencies, fixture, gold, results and corpus-derived aggregates remain [CC BY-NC-SA 4.0](licenses/CC-BY-NC-SA-4.0.txt), inherited from the parent module. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for attribution. The MIT code licence does not override the linguistic data licence.
+
+## Subsequent registered historical trial
+
+HC1527 completed one fixed masked-body call and all 99 matched shuffle calls,
+retaining 1,800 restarts. The real input exceeded all shuffled scores, but a
+blinded AI-assisted whole-content review did not establish a complete message.
+The model is stopped. [Inspect and verify the retained numerical evidence](../../research/trials/hc1527_fixed_model_v1/README.md);
+that derivative does not redistribute source glyphs, candidate text or keys,
+and does not re-run historical cryptanalysis. The original v11 synthetic
+resource and replay records retain their original scope. Runner bytes are unchanged.

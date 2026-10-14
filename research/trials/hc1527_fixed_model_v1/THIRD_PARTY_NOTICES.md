@@ -1,0 +1,7 @@
+# Licence and attribution
+
+New verifier code, schema and documentation: copyright Zijian Zeng, 2026, [MIT](licenses/MIT.txt).
+
+`calls.json`, `summary.json` and corpus-derived numeric aggregates/provenance conservatively retain [CC BY-NC-SA 4.0](licenses/CC-BY-NC-SA-4.0.txt). Their frozen scoring model and frequencies derive from **UD_Czech-PDTC / Prague Dependency Treebank – Consolidated 2.0**, Charles University, Prague, at Universal Dependencies commit `6d206ec7d337a7f76f34ddfc82893389cabbd76d`. See the [upstream README](https://github.com/UniversalDependencies/UD_Czech-PDTC/blob/6d206ec7d337a7f76f34ddfc82893389cabbd76d/README.md), the [retained upstream licence](licenses/UD_CZECH_PDTC_LICENSE.txt), and the existing [masked module attribution](../../../methods/czech_wordless_masked_masc/THIRD_PARTY_NOTICES.md) for contributor credits. The corpus conversion was designed by Daniel Zeman and implemented in Treex. Upstream authors and institutions do not endorse this work.
+
+Inherited transformations train smoothed quadgrams and frequencies from normalized wordless Czech data; this package extracts scalar scores and runtime receipts from the stopped fixed-model experiment without redistributing the corpus, model, historical source or candidate content. Noncommercial and share-alike conditions remain applicable to these data. The MIT grant does not override them or license unrelated archival sources. No new remote licence check is claimed.

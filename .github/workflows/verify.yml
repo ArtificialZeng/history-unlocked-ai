@@ -27,3 +27,7 @@ jobs:
         run: python -B methods/czech_wordless_masked_masc/verify_frozen.py
       - name: Check fixed-budget masked runtime interfaces
         run: python -B methods/czech_masked_bounded_runtime/verify_runtime.py
+      - name: Check completed historical-trial evidence and refusal fixtures
+        run: |
+          python -B research/trials/hc1527_fixed_model_v1/verify_retained_trial.py
+          python -B research/trials/hc1527_fixed_model_v1/test_verify.py

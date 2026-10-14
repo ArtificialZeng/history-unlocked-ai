@@ -1,0 +1,3678 @@
+{
+  "schema": "HC1527_NUMERIC_EXTRACTION_PROVENANCE_v1",
+  "source_case_id": "hcportal:1527",
+  "source_record_role": "local retained experiment; no source text or candidate data distributed",
+  "resource_pins": {
+    "core_sha256": "651b888047c939dd0ce6e0d84805b8a4beba45eb6b0d8ebfe3ab43eb60681276",
+    "model_sha256": "64f3e69c72e7e74f5c7fd3e41c90c42321ac46879d91f3b52d6f0182c4db8a64",
+    "frequency_sha256": "156c666c1f2c72247c67b6607a05a08b5c63e56908b4ba724e3183c3844122be",
+    "fixed_config_sha256": "53aea196171de16e01a5dc7037f0fe8c6f8b26bbb32825e09bfba1861d389432",
+    "runner_sha256": "e8358e69f4301918c5d4541979b1fd140c7691482ea809aa77ee9bcab4e80e91",
+    "binary_sha256": "96422e0d430d9ba296f62f5ba2e15afff8ea034ae5558a3de5cf2da960925ca8",
+    "input_sha256": "a329ea790c3b5f326f6721420d1ab43da3ed1be83f52b9da7cefc7f61f453001"
+  },
+  "source_input_hash_role": "opaque provenance only; hash is not a ciphertext representation",
+  "call_records": [
+    {
+      "source_record": "positive.sa",
+      "sha256": "3958cc8779e39815e4af572b46f2c31e38bcb3c7f1ef30e57d8496321f457b26",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "positive.receipt",
+      "sha256": "def947e6c9afb97d613a61adf9341d1a7de3b177085631737e4a4d0f737d7860",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101501.sa",
+      "sha256": "ff387790f67396680d32ddbf7d1cdb5cfdcfb975f59601d72825dadfdef4cf73",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101501.receipt",
+      "sha256": "38eb834fdf006197609b275c55cd8c023586b9b7f0f5cc75e0b8fa45d0c3d944",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101502.sa",
+      "sha256": "91b509653b4fec188b9928df4838d8f3ad6ccf7a12feeb449e908faf7c6a9c05",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101502.receipt",
+      "sha256": "90b53e6b6b57950e5a609da18cba7eec592aa03070cd6130ece714b83ab085e8",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101503.sa",
+      "sha256": "dcd3462e864876ff5ea7ba9fe91e94b421aaef0fed0986a010c4ba24897aa596",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101503.receipt",
+      "sha256": "a4e23566a1171ebb5169482cfa42f8e8dc49e8329db8ccb79f273bb2eb8ae1d1",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101504.sa",
+      "sha256": "f35e58651bf39ef6bc5582454691066f3fdafb2d14c7973a4f9c85c9f640a40b",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101504.receipt",
+      "sha256": "f872a3a935df021386ffa1d83e388c45f40a983597629c91e0e5ca7f6d9aa618",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101505.sa",
+      "sha256": "37526e82f4760bf0ffab7daf80e8068dc21af862dd0865b21006128c0327efee",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101505.receipt",
+      "sha256": "8fbe3a8b8eb8988031558609c039954a6406f9130e6d5455e3effe8d128cc0ed",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101506.sa",
+      "sha256": "ae225435a0f913b32eab0ee7eae86e48323ae20cdb27055971d55b76984fe033",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101506.receipt",
+      "sha256": "3f3f8627efd62cef21620b5a6b2e3679819d081135592d5daa7bfc26857b342f",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101507.sa",
+      "sha256": "6d368c2225b5efc94bf2bf91d6c1a61e56986ce7a27fec3c8704a7095b28693a",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101507.receipt",
+      "sha256": "90dd4dfce64f01c92622b3c105f5f5aff749314c6655bee33179455ea489a94d",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101508.sa",
+      "sha256": "57071903d66d97bdbf91507c0e7e28747c6565435da9b96bf3bf2664dad5e05f",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101508.receipt",
+      "sha256": "cb43c31c18ff5b06e13d318abedd27eb8292358ae1043a2179e95de9b8e5b66e",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101509.sa",
+      "sha256": "04ec672baa5d6f30f2b1d7e92f4277d43b7b5a22b5519a27905f8d4ac937f31b",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101509.receipt",
+      "sha256": "405d0b5c3a1b701d67cf5ba940566f8dd709a23c72313066787af5d06ceffa57",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101510.sa",
+      "sha256": "72895a6a88d0f06d3714f0a8387718ef6e4abab927ce5505353e86e1642151fc",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101510.receipt",
+      "sha256": "3c0789a6a50c94ce013dc326d3474506a7d55daebc232ab4ed7877211b8adafd",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101511.sa",
+      "sha256": "c15b91c0ec44cdb0547eb3749c8d328e9c310108fed351bb4cce8ff77e5faa81",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101511.receipt",
+      "sha256": "2acf8d409a3685a2a4fb3edf6f80a75b67220a9fb701e192293976775daa2cda",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101512.sa",
+      "sha256": "0525477a4fcfd3b0610e62cbf241821132f149201cbf48d6da6633acedd88ca2",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101512.receipt",
+      "sha256": "ddc2a10795316a0b7fcd759709abb896ed77101243fd94009bf26a8ac609b7c2",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101513.sa",
+      "sha256": "ad1b65f8cd9c3e19efdd11dd326bd015ee23fbc9db548ba1d5c18101fc647d16",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101513.receipt",
+      "sha256": "a6fcfbc7ffd0e679ea1effd4b2564cdd26b715b5af853b952aa07b0f45b18db1",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101514.sa",
+      "sha256": "0560bd80fe1c248b102ea5843f5fc3cd45592caef58e4769ba139987b51ae46c",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101514.receipt",
+      "sha256": "6ec0ef09f96cbb5d6b8672e25029253c5a9a99d4a2210deef93610fb51f8fc15",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101515.sa",
+      "sha256": "7b39085ad1b928afe2516dcdc5ba4df1347d421a0dbeaa89707bf85aa5639232",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101515.receipt",
+      "sha256": "ed4299d95e98e236137ca2ac7482cb5e9a2b5d56020260d1f50962a87a8fb4bc",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101516.sa",
+      "sha256": "a307329601023b3d2a9ca79f2e93347ce1d242c940a30dedffbe42979aeda3c4",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101516.receipt",
+      "sha256": "3db749a99d829201fc8e4da6197cd4638ac9ed9b87a933ab7e0a39a185eb5881",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101517.sa",
+      "sha256": "9f171ef9dd5fc5570c6f2718686ad6f1425adf03db9ef7f94270c60a558eac4c",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101517.receipt",
+      "sha256": "d4dd68387569c999c12a2db1ca1cfec4c4e86051468d0ede3ca9265d667f29ec",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101518.sa",
+      "sha256": "6284f266411eb25888c8780cfc5b5329d54dbef6450808978a59b9b403ee2c0b",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101518.receipt",
+      "sha256": "a27c19fd6a8dbab1748697a2dff07714f51eae4757cf7ad557d4cdf7054240f8",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101519.sa",
+      "sha256": "b150327606dca7deec97833ee3e235bde555cf9097044ab790d14d6247567589",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101519.receipt",
+      "sha256": "bc65869684fb1a8c3d15178a9db04bdb7e9c87df11657a2342bef6fe6c7718eb",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101520.sa",
+      "sha256": "92ed2f8fd5103d90d8ab1d137d93c87d7ef1fec2917b5232cece09eb43ca0277",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101520.receipt",
+      "sha256": "28bad581c344063e91f48f9c7ab8b4b0b8b0639800a9e51d4263a4026eac716f",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101521.sa",
+      "sha256": "816732f206a052adb4ceb92e30aea3209c2a932cd347c71da434eb572b5d1aee",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101521.receipt",
+      "sha256": "530d822e02923408774f67451cce23f1441d1bb6a6f32ab44912bce663f83d11",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101522.sa",
+      "sha256": "01ff55eb3cf1d982d532dae0fac16ad801f3733b8a5a3d202d4d5400330494fe",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101522.receipt",
+      "sha256": "3feb6f7bc857695d2fd01940a6a2fe2aa421810720734a5a8281bacd2d33e5c1",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101523.sa",
+      "sha256": "fcbfd245fb099b5a30dd5f40de4097803d2692556e9fa99c407f47095d2f44f4",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101523.receipt",
+      "sha256": "039f55f88105c6fd5dbe1680c6f03e7af133be9906e6ad79a996c5d0f39d5ca8",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101524.sa",
+      "sha256": "b0cf6a286284463cad2798940575183c6422c9a7f4a4a8cd21b48e49c3392b70",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101524.receipt",
+      "sha256": "8c0506bb6bebe01ffadafcd1e9fd5f812160764b4701ccfd1736f964580eca74",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101525.sa",
+      "sha256": "10a90db5d6b4520dda9a7fc0863ff5b8d5e04805f47cf0b81d03328f4203d188",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101525.receipt",
+      "sha256": "cc59f7ea1d155e0ed3c09d3761428443bbbe17fa1d2408f2a1b52d7a8760e827",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101526.sa",
+      "sha256": "150f992c2b0e11a36492ca7fff6ec6f8c7365953b4300932f433876af18899fd",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101526.receipt",
+      "sha256": "209db2dba2d338bb774d7f53daa198e2c975b495c96184781e9a2669a8922dd5",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101527.sa",
+      "sha256": "162e0bbb5530d80ab2bb69be2e509b0e42ba69f475ed3b59280711df882e6cfc",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101527.receipt",
+      "sha256": "ec6b9b37ec0108caa69167019e144b1664cc7e0e3278f8dd87b9ac2eff0b79c1",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101528.sa",
+      "sha256": "ed6b9d0832fa14947efb71be3bf1fb0debde33697d528055964f11cbee764b57",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101528.receipt",
+      "sha256": "7306a46c61309c12b591dec3038dcf247ca897d7f5623e3eac3ae12abe7e66a5",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101529.sa",
+      "sha256": "bff1d85a9c24ab399b188664d1fff6774cdd59f9e633f250adc83b27a9f4e72b",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101529.receipt",
+      "sha256": "2579a8e36a77754c8f70ae55ba1cfbf256045aecdaf34d89a1daf60429283e05",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101530.sa",
+      "sha256": "e8a38d22f64ad5b5d35b2c9a053774c85f6c57b8de761fcb200038aa4179e3e4",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101530.receipt",
+      "sha256": "8a6fb6852619a127c7159cd91f0aed81de86cf9dbf9b88ddfdd9cc615f63fd50",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101531.sa",
+      "sha256": "d85cc2e9306305ef75980ee5af8a0e0e61ad77bd29290056871717c21fca6d67",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101531.receipt",
+      "sha256": "068db2dad0438acbace661ffde281ca827083d168f3d8e25d0590cfeac9e3a5c",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101532.sa",
+      "sha256": "d6ca8161b56d9a0ab6b95a22bced03167a4a2b739fced0a57be62a72daa35de6",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101532.receipt",
+      "sha256": "bdc93a18fc196c48b7e932acc678bb1db78090fb8a85aa069cc2fbf923aa27ee",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101533.sa",
+      "sha256": "4084884575fcc2d7a819421a3b341fe1a289ee120ffd91a12e163f70cb01ca6c",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101533.receipt",
+      "sha256": "227bac9875f96715152414019720234e3b72e4c85c02c664f8d74eb2e035bd98",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101534.sa",
+      "sha256": "8e8da2efe49229fa98da34a6bde52ec4b8167676f78e1494850ecbd738f28e70",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101534.receipt",
+      "sha256": "070aa6680e4225e48e3b66f3a7475aee3193d438e3778b5218a77b43ce9f2fe0",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101535.sa",
+      "sha256": "dbab205fbe4650ad768e867891e2e67ec5c26412d59a8d2399fbeac7c00e85dc",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101535.receipt",
+      "sha256": "e3ef292a0c6cfe0d8c88e59d66bbbf2abfbeb5b22696b3e566d045fe858a68a9",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101536.sa",
+      "sha256": "e3c168f935a67e0bcb1af0774a433d578a2a448423d86035c63ec7b094b9c4e5",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101536.receipt",
+      "sha256": "be2cc7db795ac5940dd10e35b2948b29de05e9d94f199dd5cb7fba6c354e8403",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101537.sa",
+      "sha256": "c04e5d171acd361302bb1cc579bdce14d407ec819227fc37fad25c8ae3999572",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101537.receipt",
+      "sha256": "f5539af96241a005983366605c180eb0754b4fe0263aaefa9a89f9594a48cca0",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101538.sa",
+      "sha256": "3660cfe9d49183d1452c9981feb2ae1410a597721db52debeb3345b223205a10",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101538.receipt",
+      "sha256": "1aa10aed92f5ca8810fed9b0d2b0bdb0b71d6b4a0714a11fce53766cce47b412",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101539.sa",
+      "sha256": "ee6217dd3684f3a62fb75db4f6f46cf682a680f1440d30ac7f5ca7f02fa1adb6",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101539.receipt",
+      "sha256": "2ea6f0661014108bc636f4fed5fee697ef6370151586f4e5639179f05456b6b7",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101540.sa",
+      "sha256": "7821fccc6676ad4fb037c6e4eabeb3d11fc5ab018c46b794dbceab18cb0395a3",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101540.receipt",
+      "sha256": "847a48de43501febc9e66d650ecd81faea85580487717e0df4827f7a11deb8eb",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101541.sa",
+      "sha256": "72a21751858220090fc243bbe63039d4f1a3005c76318cfc2521281919b3ed9e",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101541.receipt",
+      "sha256": "93892cdb3aa581bc33eda28e73d577b327bf9e8d109346fd0b762a58b08e46ed",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101542.sa",
+      "sha256": "ee72f71b51e9d7299747d35664301fcb0e74b1425699c1a2a6a8cb0a7c18043a",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101542.receipt",
+      "sha256": "41657407d4942ac1435d70126b470f913a2c017ecb6eb4c7369a8cf14f8f2062",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101543.sa",
+      "sha256": "07c9b3de8ac7e8844ab6757b5552fd780db7edd27cb47cef2199a1fc08ff74a4",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101543.receipt",
+      "sha256": "f6dc4b51336cef960904f8f0c291bf29c05bc532c769524eb353ecfe71958b3a",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101544.sa",
+      "sha256": "a363fe0a9f3ab93d5b2119435e4e9e7a4e560253ee34190867c89a65e686a91c",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101544.receipt",
+      "sha256": "31a2bcd5019b3802a339b61203a89f202134f1b4baf3126abce15f75f98475fb",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101545.sa",
+      "sha256": "14413d3f33c7899f8e0d6f3b9c1b26a9cd994c8933803ff0b4937e4bec0bf7c8",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101545.receipt",
+      "sha256": "f8b2fe08f79415801cbc7c83fe93428939c2507e37f37f92f5c9e4b559992b4c",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101546.sa",
+      "sha256": "6b8620034a564d69f31367451c4c86475844636b09bf08e4d40b78d3670e8482",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101546.receipt",
+      "sha256": "f2ca54e64d6e26feeaeb40839695c0c9bf8b278672a4433544ce4caa59b54a71",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101547.sa",
+      "sha256": "94869a85d259d0286352481a13c437c669c9811d86e7a90f4902908c25011081",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101547.receipt",
+      "sha256": "26af357932462a3c3df9ccb324fccc689501e0e27791a095ba3fa8e80d36036d",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101548.sa",
+      "sha256": "ccd06a142d8bf09af3a9184b1e36c8c06b020195c36ae66969de91ad09174b25",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101548.receipt",
+      "sha256": "969fc2ef6c7da013d867e045a0234622a281478b5baca705f55dc1e454df548a",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101549.sa",
+      "sha256": "2a764fa2942c126e28af6f7f2cb2ff44ecc64bb87cfa858900278030522bfd5f",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101549.receipt",
+      "sha256": "6e6853110eb576a5142aa52dd8e53703f9e6bfae38bd0e08ca297785d8b47930",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101550.sa",
+      "sha256": "12092bd3362cb07e2d4ffa1e844c14c6281212cb7aa6c5b19983003bfe85713a",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101550.receipt",
+      "sha256": "639c1de91c2111123ac6e8fd3da733a87c16cadc389cbfa7e72bb746c32532c1",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101551.sa",
+      "sha256": "8e375970f1edf7413cad3fdab2ddb91a39f43597fb00dc6ec5b4fa1327a3a3ba",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101551.receipt",
+      "sha256": "ba0239978e59cd6dff25abac68475d23d7bfca80f497176474f1fb11c712ace2",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101552.sa",
+      "sha256": "b962998d1b70801668d8cba32aef92dd95a29d4a48d69672ef4e59ea6b486c69",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101552.receipt",
+      "sha256": "7d5a0af8e252d90c4bb6c77bf95810861987c7b8b7312ffaca204987a7642826",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101553.sa",
+      "sha256": "03679544f55ba9eb5f2fe716dbd5620a5a381904ce0708cc0612b40284a452a0",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101553.receipt",
+      "sha256": "5908da27b2debedf849e6df30930255e67a155d270d7731d30f9b1f1135e3b59",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101554.sa",
+      "sha256": "e8ab154234aec6edf8afab70eb892fa4d8f5a3c86800e53cfe70b7de15e17697",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101554.receipt",
+      "sha256": "4a7c029527963cc4d0d0360e5eca7cf71213e3fe61c7a52fa5948c7755177388",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101555.sa",
+      "sha256": "5c5a301def49207a868171ca98943305e979f3323fdfc24ba84b74a2d027951c",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101555.receipt",
+      "sha256": "4742acc877722ffb196799c09dd93b660f42014b1c03ff5a56a6e41f22842ef3",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101556.sa",
+      "sha256": "8b0cc6fe12cd6e973a0a800555d816e6c3af679a3c5b6cef60cc051492d1137b",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101556.receipt",
+      "sha256": "b023f60ed28ae38de26e0fa4a28f25b58f3598bd811b663f0173dd83633a5150",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101557.sa",
+      "sha256": "f36d8ca092d0de71ae6a508c08cc344af3631f4cbbc352a54f45bdef08695d64",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101557.receipt",
+      "sha256": "cd331242dfa3d73c631b1064aee1d69d0837eb6ebc5a40869815c89fb5ca156a",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101558.sa",
+      "sha256": "9525e494e9ea8e91c5542bf567d11906f0c65373996bfbd0a6baf334c574bd9d",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101558.receipt",
+      "sha256": "3f22c82072391265d2ed42ed697b856bbabd4126d9cdde5559a15fb26f788da5",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101559.sa",
+      "sha256": "7e90f1b650a821ddefbb21ad0db5c75d9de9d573b67087fc4fd8122f0ce008ad",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101559.receipt",
+      "sha256": "0df05c9cc956c45e7d8c910bd2083fd3427db15df873b9ced1aa63e5aaedb981",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101560.sa",
+      "sha256": "3918bb23153a5229676e5480e9ad9db9b908f835e14fd851774666400e381f0a",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101560.receipt",
+      "sha256": "f71b9c2f278e4b07e3e984f0af2a49e5381f4f0ebd519cf8512bc2cc26692af2",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101561.sa",
+      "sha256": "3c77b5b9e45e24c92bbf1d338c728237e10fc5b2ed80b012d3f9d24819e3bfe6",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101561.receipt",
+      "sha256": "8505b45d5a06c580c52810db4bc7cbdf76e750543b30072915a564e7c7bc1971",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101562.sa",
+      "sha256": "91b4e52b8f2453ba554bfb22821f8096d5b293363f7610eb80d76c3e7e72897e",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101562.receipt",
+      "sha256": "b0ff56974be0202fcd9a0843837336050d83c06d331a2bd7ed6461c026b03959",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101563.sa",
+      "sha256": "4b02f4f4089c66cb081cb9a5aec6e675caf306bd696c3372d8e8d1568ab9ef4e",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101563.receipt",
+      "sha256": "3dc799e7e60f425efa7e295d75123e40fc24b2ffdc2cc192df372b248c68d532",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101564.sa",
+      "sha256": "6818c0d692c2d8b343f63254ddd1ddd0605ac66057e14248d3b75e5f61425140",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101564.receipt",
+      "sha256": "60578361bb5a048e9d68ee194e9a40b512b3a210c545112654179c96ba1aeb48",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101565.sa",
+      "sha256": "7131ad9332b0b9f1d5c0ba192d662a4650131a1901191bbf7a2f1a6d3e050d52",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101565.receipt",
+      "sha256": "78ab784ccffaf6da8008608385b5859b15e9813bdeed3d3e11e4bb27223bf939",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101566.sa",
+      "sha256": "b5952589d6cb287e705def641c95b9e8cbcd9274647908bc97718148e3cf522a",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101566.receipt",
+      "sha256": "9ac7657faa8c40964b848aca195977c36c3203c681bb1e625e38e4baef1658ba",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101567.sa",
+      "sha256": "bcda14983a32c804759f3680f08fadb21ffba66112856600a7e0b0cfa96ceb2e",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101567.receipt",
+      "sha256": "1e2981c1db24acdd49864f479428b2a4c31a3bd74446ec2cf690e6dbe463db2c",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101568.sa",
+      "sha256": "c92852ec3f3a4afce1ed5d0c8b965e9946e4d2810c2ea9a2aab6bbbb949d1f3d",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101568.receipt",
+      "sha256": "479fda6dc403734537b93de5d78fe03112365bc458ca7cc7ddb3556300f82269",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101569.sa",
+      "sha256": "48ce2998b7eb525f4bba8ff089caa343e48d48770fa96b35901a433f9b2860c6",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101569.receipt",
+      "sha256": "3ba8bfd9922badf7c201ee7cfbd0234f07e1c0d1e5e6b11f5d25525bae5154fa",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101570.sa",
+      "sha256": "7852e61bcd97091a86eeb0e27ecc8b4e5d57905de4ea92d608232d0f4b87d284",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101570.receipt",
+      "sha256": "4698a111751fbd68c1c5dc50a6dd9eb732ee21be6a65d556ccc058dcc927b989",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101571.sa",
+      "sha256": "fa8272f8e9b244df8c94503cc4d09b3b9d3db4c63fbe850330cc9d45be9f0c86",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101571.receipt",
+      "sha256": "092d134ddbbadab30e35bca3d4c3adf516813cd639ce7b93a64eeabf7aa045e9",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101572.sa",
+      "sha256": "de4b20d5ce0575f19c83d4e192814baff6926e7e4bf42c6eaf0aa99d6edd8e5c",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101572.receipt",
+      "sha256": "e6258595cec6982e948ea3c70513e31c15948b90f2cc1bb360fe192bf9052d5f",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101573.sa",
+      "sha256": "0b29fd0718245d2e618f818fa63a3d0257cb7d927be64ddbe1c6c3450fac29e2",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101573.receipt",
+      "sha256": "27a7fb6451b3aeb3901b285ae09d7bc6bb259b3675bc6328f052e2494f0dbedb",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101574.sa",
+      "sha256": "1c9105152056a0adc81a3938315a0e0a4e822fbcbd57c4dd6b9638345cddc1a5",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101574.receipt",
+      "sha256": "0a69c7962afdbf07e366aaa0bc37ba94b0c0798a0561a8ad4f20b9560bb7b69a",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101575.sa",
+      "sha256": "0e62ca09ea9f6dc6e482347e2c91e88f44858b4054bf70b04665eda46804854e",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101575.receipt",
+      "sha256": "4115982cbd5051706d9bbbae29a8e4072ea3f3a5041a1e52f7522cc87c6416b4",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101576.sa",
+      "sha256": "3df170a8adb92d07d44e40e4bb0cb14d01957acdb5824745edce079adcbf9a8a",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101576.receipt",
+      "sha256": "90bd833450ac1dff526042dd6b81eefabf4bba272393fc107ae37775d28c67d7",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101577.sa",
+      "sha256": "3854f3e18960a885057571756dff2830dcb4d2dfe4026663f6dcc278eef7358d",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101577.receipt",
+      "sha256": "635ca58088bc2ba6bca19fdb1fee449eedebcb10b48aeb42511bbad2b8462896",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101578.sa",
+      "sha256": "c56998abc6414c7bdc3d4962971c306d32fb7920bdb2b890aead258513b1b76d",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101578.receipt",
+      "sha256": "b1e7b09121033e50e5b7975bcaecace754820921c74a9200a355b5f8442d93d9",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101579.sa",
+      "sha256": "a248d91d98d3e630a960ff8aa871b20c1421f735a923058c9d5507b6403cbb26",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101579.receipt",
+      "sha256": "97964388f142bee9c2dcf3300c2777b9396fb075c19380058edc40dc0e67df5d",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101580.sa",
+      "sha256": "686d6908da49ca6fe5206bf063340814928e97fd25e5a009b6b7b38d6f41a6e2",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101580.receipt",
+      "sha256": "0b7c333214d884cdaeaeb3778d76afefd0b23b73aa440e311083f1fbdcd1e726",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101581.sa",
+      "sha256": "586e204cb3df42bc20eb298db650c0cdda03ef7085f6505d17f7ab7a1cc403bb",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101581.receipt",
+      "sha256": "a8ab7416faf32569ab9bf9fc37657be483f7e2a1c576ffdaf0d4a381f6f3e8ed",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101582.sa",
+      "sha256": "172c074f0ed163d3c46862cd156c0d5e3cf139031ed8e0d92b40d0a9f3314182",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101582.receipt",
+      "sha256": "4df3b66149c14999e9da0efd88ef9503ebcbd586aab076b1790b72148b742689",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101583.sa",
+      "sha256": "abc4d1a2dfff78a03996ca28c95c3c19b929f924b3e60110b1d494170df6e954",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101583.receipt",
+      "sha256": "38aefeaf20dc8723e62d57aa8bc48a759de403b06ddfb1a1f2bffce6664fd360",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101584.sa",
+      "sha256": "1c12ffc499f2f074c706e6ad3da690c500ce04af82b317b994d81cff1a2b833f",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101584.receipt",
+      "sha256": "e9ca60085b53ebf4b5d329fbd6a4ad831e18500b3e0400d3b9ab7df88f6fe372",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101585.sa",
+      "sha256": "d7c3bc4b85308916a87f3785fdde12915852fdb5bb9ea82f212b7b490050e01b",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101585.receipt",
+      "sha256": "0a3b1078dd0f76ecf7242a7711a1137543662e3eac543a87dfee8f92751024eb",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101586.sa",
+      "sha256": "3e89a57836c2ccfd78aaa05aab2a6e4498fe890483ba03eb7f10452ab62aff08",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101586.receipt",
+      "sha256": "fedf9679c79f451d1c4cc41221cf7d1bc7091764d34cbcb3502873f6ac9ef841",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101587.sa",
+      "sha256": "c569f77398c21a265cf621bf58db5f384c1775d80b5ff4ec54dc8a34e3b35577",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101587.receipt",
+      "sha256": "27757b8aa743124a8d192ea17f2fd90c88e8a74d50d5427d932c9f29dcba6f4d",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101588.sa",
+      "sha256": "efd0a631db975050740c9b3b8a91ba18f312015337718cf4dab715398a6aa4d5",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101588.receipt",
+      "sha256": "54a246bc921cad187f54411049aa611c883785ffefeb54cb6ef4f8fb2a00410c",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101589.sa",
+      "sha256": "4070e95902793577d4e8519e4bd67c9c13cbad02373d6d3464bfdbea5dce6d99",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101589.receipt",
+      "sha256": "757edb78f709210701e77c39821130bd6e92c27c7643fa1afcd6048077a9f031",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101590.sa",
+      "sha256": "251db238f569cf6bd8c6c1c5795c383b6a9b80c0375b0229d64f1233a9e837f7",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101590.receipt",
+      "sha256": "dc02c62b364b6dc691084e0d95565d0cf486702d52adb1a1a0f32f1a2a5f5ff9",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101591.sa",
+      "sha256": "79ab4f9ebe8cf566f2bc215717c49ae0a28e36898f86c827e21af6a9bed86a28",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101591.receipt",
+      "sha256": "21ff688fbaf9353061cb0a10fdb8c7cdefd44c606179a48accfe5b1aa7992d55",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101592.sa",
+      "sha256": "d46490c9dd4c64616afc8893dd7b86ec33f7387fe6c651f2a2076d593c00d03e",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101592.receipt",
+      "sha256": "389168fca191858e8fb8dc2549413c34b81b23251d69249cb80c0c3c49a952f4",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101593.sa",
+      "sha256": "ebb22add06f799e4107c26966204b6165da9bd28bdce4f4004b35dc577e6a3ea",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101593.receipt",
+      "sha256": "08e57ec724801743bcfbcfd88d4001c781f6d11a7c607c2c53b8d5a52db287b7",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101594.sa",
+      "sha256": "5692460ce50d55d8b5685c413e97a9e41ac0b8279b3e33b7964ed59a284ddd2b",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101594.receipt",
+      "sha256": "f2aafcd85423c0efaa4f99f27482aeb0a4ff8dd5142b8981042049afceee0fb3",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101595.sa",
+      "sha256": "397de50b4ebfa673f5cbfe009889d8d7b0c4dda555dff38f0e9c13a5c7892e7f",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101595.receipt",
+      "sha256": "0ce77b2f13a3f85faad524d6b0d5e1ca877e7efdc9e056383a9ea04f51e2630a",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101596.sa",
+      "sha256": "f5cf85ae3e0e46d7767a87f2649e4a59b9440d960ea03a14f55578011cab1298",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101596.receipt",
+      "sha256": "9042dc46735b29c5be2ed0a0de80f0c7796604aafa77cc9f37a2601eb9efaffb",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101597.sa",
+      "sha256": "7677427751c770f99e62353ad99ba4d7de2764d44cec475ddde1ba050b1b8d1c",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101597.receipt",
+      "sha256": "a5e3aa9cc92c2c1a7f9059ed24d6773604c011624b729093f020d53e20b0b8b8",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101598.sa",
+      "sha256": "df80874739163d4b1839f18b4585437277526a55c6d2f29e722f76c9fcef5300",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101598.receipt",
+      "sha256": "8960dd50040dbe9d1583a510c4fe7143afffed621a1cd6aee404708ba905c7e2",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101599.sa",
+      "sha256": "fbcd2e5097f42f083134295d93ac995d4838b700ecdcb81a207b3a85d6101df7",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "score",
+        "trials[].restart",
+        "trials[].score"
+      ]
+    },
+    {
+      "source_record": "shuffle_2026101599.receipt",
+      "sha256": "dd98799bac25096f67a38da83553426ec21b470778e9b8eb0d4f33c5ef40eb38",
+      "extracted_fields": [
+        "seed",
+        "restarts",
+        "steps",
+        "core_wall_seconds",
+        "started_utc",
+        "completed_utc",
+        "exit_code",
+        "input_sha256",
+        "checks.all_quadgram_windows",
+        "checks.all_window_average",
+        "checks.constant_sentinel_score",
+        "checks.fully_observed_average",
+        "checks.fully_observed_quadgram_windows",
+        "checks.fully_observed_score",
+        "checks.known_character_count",
+        "checks.score",
+        "checks.sentinel_containing_quadgram_windows",
+        "checks.winner_restart"
+      ]
+    }
+  ],
+  "aggregate_records": [
+    {
+      "source_record": "ROOT_SAFE_MATH_RUNTIME_SUMMARY",
+      "sha256": "01c3f70d29d791a8969c81a8666898cf7163e98af198c00dbd498925910732f0",
+      "extraction_role": "numeric aggregate audit"
+    },
+    {
+      "source_record": "ROOT_SAFE_RUNTIME_SUMMARY",
+      "sha256": "30b9451f47884f232f4b606d1b866cff811c35a87fbca1aa2ad504a67fe184a3",
+      "extraction_role": "fixed runtime aggregate"
+    },
+    {
+      "source_record": "FIXED_CONFIG",
+      "sha256": "53aea196171de16e01a5dc7037f0fe8c6f8b26bbb32825e09bfba1861d389432",
+      "extraction_role": "prospective numeric runtime configuration"
+    },
+    {
+      "source_record": "HISTORICAL_TRIAL_REGISTRATION_v1",
+      "sha256": "17c9935a442946d881b0cfef4e6283e7cda46618d6084a3a83bdb748d7730c93",
+      "extraction_role": "numeric prospective budget and seed"
+    },
+    {
+      "source_record": "frequency_baseline",
+      "sha256": "b7f7d91d28e023996ecc7d48e182246a97aacf168945691081a0fee915f0ade2",
+      "extraction_role": "numeric score components only"
+    },
+    {
+      "source_record": "FINAL",
+      "sha256": "84647900ddd6f9dc7a475e96c8bdf4b5f3e98b2a701914b791df886f51683526",
+      "extraction_role": "AI-content verdict counts only"
+    },
+    {
+      "source_record": "OPAQUE_FORWARD_CHECK_ROOT_SAFE",
+      "sha256": "1e45a023ac1b09a982204d7c7e1a933d1d400b33296e0a1d2e6df0f8b967c62c",
+      "extraction_role": "identifiability aggregate counts only"
+    },
+    {
+      "source_record": "ROOT_HC1527_FINAL_REVIEW_STOP79",
+      "sha256": "6b308108b2fdb9e9ea88586b136caeffb4601578346c715466a736bb919f08c4",
+      "extraction_role": "final stopped-model judgment scalars"
+    },
+    {
+      "source_record": "ROOT_ACTUAL_CLI_CADENCE_CORRECTION",
+      "sha256": "88fd07e26ba767274cc3e1026cbdbbd2671ea3fd08cbbb350d98d367713d0ec6",
+      "extraction_role": "corrected actual CLI cadence scalars"
+    }
+  ],
+  "omitted_fields": [
+    "candidate text",
+    "substitution assignments",
+    "source arrays",
+    "original glyph mappings",
+    "authorization and lease digests",
+    "command arguments",
+    "absolute paths"
+  ],
+  "licensing": {
+    "original_code_and_new_documentation": "MIT",
+    "numeric_scores_and_corpus_derived_aggregates": "CC-BY-NC-SA-4.0"
+  },
+  "root_successor_scalars_source_verified": true
+}

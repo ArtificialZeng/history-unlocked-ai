@@ -1,5 +1,12 @@
 # Changes
 
+## 14 October 2026 — code-core-v12
+
+- Added retained numeric evidence and an offline arithmetic checker for HC1527's fixed masked-body trial: 100 calls and all 1,800 restart scores. The conditional 99-shuffle comparison is complete.
+- Preserved the failed whole-content verdict and stopped continuation at 79/100. High scores are not a historical solution; no new solved entry or expert verdict is asserted.
+- Updated English, Chinese, Czech and Japanese homepages, runtime scope and reproduction guide. Refreshed HC1527's attempted status and two HC1550 native image fingerprints without removing previous exclusions.
+- Preserved all eleven historical portfolio entries and 857 scientific files unchanged. No private correspondence, source scans or media submissions are added.
+
 ## 14 October 2026 — code-core-v11
 
 - Added a portable fixed-budget runner for the masked Czech solver: pinned numeric-only inputs, strict substitution keys, retained restarts, process-group STOP handling and prospective matched-shuffle comparison.

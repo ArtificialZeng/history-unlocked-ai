@@ -64,7 +64,8 @@ are distributed. Individual open/prior/source/method qualification remains requi
 [SOURCE_CHECKS.json](SOURCE_CHECKS.json) records the bounded official search, two
 official Decrypted exclusions and held 1646 source prospects. Catalogue status,
 public original access, exact prior clearance and decipherment remain distinct.
-No new target trial or complete reading was added.
+No target trial was run in those source-check scopes. The subsequent HC1527
+trial is documented separately below.
 
 ## Wordless Czech method qualification
 
@@ -80,3 +81,16 @@ adds six new known-answer controls, with 5/6 exact known-position streams and
 wrong known character and excludes 387 masked original characters from recovery
 claims. Code-core-v10 adds two observed image fingerprints to the registry
 without removing any previous exclusion or admitting a historical target.
+
+## Completed masked-body trial: HC1527
+
+The [retained numerical record](trials/hc1527_fixed_model_v1/README.md) includes
+one fixed real-input call, 99 matched shuffles and all 1,800 restart scores.
+Its conditional order signal exceeded the controls, but blinded AI-assisted
+whole-content review did not establish a complete Czech message. The model
+stopped at continuation feasibility 79/100; the earlier admission was 83/100.
+These judgments are not probabilities. The numerical checker does not replay
+target decipherment, re-read the source or substitute for expert review.
+
+This update also adds two native HC1550 image fingerprints and retains the
+source hold. All 2,579 registered identities and their prior exclusions remain.

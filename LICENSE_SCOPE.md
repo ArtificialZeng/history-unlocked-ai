@@ -41,3 +41,8 @@ The bounded masked runtime is MIT program code and documentation. It stages
 existing CC BY-NC-SA 4.0 linguistic resources from the masked module without
 relicensing them; generated corpus-derived outputs retain those conditions.
 See `methods/czech_masked_bounded_runtime/README.md` for exact reuse scope.
+
+The HC1527 stopped-trial arithmetic checker and new explanatory documents are
+MIT. Its corpus-derived score and timing records retain CC BY-NC-SA 4.0; the
+module does not redistribute archival scans or candidate plaintexts and keys.
+See `research/trials/hc1527_fixed_model_v1/README.md`.

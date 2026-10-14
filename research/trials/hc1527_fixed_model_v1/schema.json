@@ -1,0 +1,608 @@
+{
+  "schema": "HC1527_NUMERIC_RECORD_SCHEMA_v2",
+  "scope": "Scalar-only field inventory enforced by the portable verifier; strict additional-property checks for each call/restart record.",
+  "summary_fields": [
+    "schema",
+    "case_id",
+    "status",
+    "evidence_role",
+    "fixed_configuration",
+    "counts",
+    "scores",
+    "runtime",
+    "inherited_independent_math_audit",
+    "inherited_blind_ai_content_audit",
+    "decision",
+    "cadence",
+    "identifiability",
+    "limitations"
+  ],
+  "provenance_fields": [
+    "schema",
+    "source_case_id",
+    "source_record_role",
+    "resource_pins",
+    "source_input_hash_role",
+    "call_records",
+    "aggregate_records",
+    "omitted_fields",
+    "licensing",
+    "root_successor_scalars_source_verified"
+  ],
+  "call_fields": [
+    "seed",
+    "restarts",
+    "steps",
+    "core_wall_seconds",
+    "started_utc",
+    "completed_utc",
+    "exit_code",
+    "input_sha256",
+    "call_id",
+    "kind",
+    "shuffle_seed",
+    "score",
+    "winner_restart",
+    "restart_scores",
+    "score_components",
+    "maximum_score_ties"
+  ],
+  "score_component_fields": [
+    "all_quadgram_windows",
+    "all_window_average",
+    "constant_sentinel_score",
+    "fully_observed_average",
+    "fully_observed_quadgram_windows",
+    "fully_observed_score",
+    "known_character_count",
+    "sentinel_containing_quadgram_windows"
+  ],
+  "restart_fields": [
+    "restart",
+    "score"
+  ],
+  "hash_algorithm": "SHA-256",
+  "number_policy": "finite JSON numbers only",
+  "semantic_constraints": "Fixed 100-call sequence, 18 ordered restarts per call, first maximum, plus-one rank and prospective budgets enforced by verify_retained_trial.py.",
+  "json_layouts": {
+    "calls.json": {
+      "type": "object",
+      "fields": {
+        "schema": {
+          "type": "string"
+        },
+        "calls": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "fields": {
+              "seed": {
+                "type": "integer"
+              },
+              "restarts": {
+                "type": "integer"
+              },
+              "steps": {
+                "type": "integer"
+              },
+              "core_wall_seconds": {
+                "type": "float"
+              },
+              "started_utc": {
+                "type": "string"
+              },
+              "completed_utc": {
+                "type": "string"
+              },
+              "exit_code": {
+                "type": "integer"
+              },
+              "input_sha256": {
+                "type": "string"
+              },
+              "call_id": {
+                "type": "string"
+              },
+              "kind": {
+                "type": "string"
+              },
+              "shuffle_seed": {
+                "type": "oneof",
+                "options": [
+                  {
+                    "type": "null"
+                  },
+                  {
+                    "type": "integer"
+                  }
+                ]
+              },
+              "score": {
+                "type": "float"
+              },
+              "winner_restart": {
+                "type": "integer"
+              },
+              "restart_scores": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "fields": {
+                    "restart": {
+                      "type": "integer"
+                    },
+                    "score": {
+                      "type": "float"
+                    }
+                  }
+                }
+              },
+              "score_components": {
+                "type": "object",
+                "fields": {
+                  "all_quadgram_windows": {
+                    "type": "integer"
+                  },
+                  "all_window_average": {
+                    "type": "float"
+                  },
+                  "constant_sentinel_score": {
+                    "type": "float"
+                  },
+                  "fully_observed_average": {
+                    "type": "float"
+                  },
+                  "fully_observed_quadgram_windows": {
+                    "type": "integer"
+                  },
+                  "fully_observed_score": {
+                    "type": "float"
+                  },
+                  "known_character_count": {
+                    "type": "integer"
+                  },
+                  "sentinel_containing_quadgram_windows": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "maximum_score_ties": {
+                "type": "integer"
+              }
+            }
+          }
+        }
+      }
+    },
+    "summary.json": {
+      "type": "object",
+      "fields": {
+        "schema": {
+          "type": "string"
+        },
+        "case_id": {
+          "type": "string"
+        },
+        "status": {
+          "type": "string"
+        },
+        "evidence_role": {
+          "type": "string"
+        },
+        "fixed_configuration": {
+          "type": "object",
+          "fields": {
+            "solver_seed": {
+              "type": "integer"
+            },
+            "shuffle_seed_first": {
+              "type": "integer"
+            },
+            "shuffle_seed_last": {
+              "type": "integer"
+            },
+            "restarts": {
+              "type": "integer"
+            },
+            "steps": {
+              "type": "integer"
+            },
+            "positive_calls": {
+              "type": "integer"
+            },
+            "negative_calls": {
+              "type": "integer"
+            },
+            "max_parallel_core_processes": {
+              "type": "integer"
+            },
+            "per_core_timeout_seconds": {
+              "type": "integer"
+            },
+            "max_aggregate_core_wall_seconds": {
+              "type": "integer"
+            },
+            "whole_trial_seconds": {
+              "type": "integer"
+            },
+            "fully_observed_average_gate": {
+              "type": "float"
+            },
+            "tie_rule": {
+              "type": "string"
+            }
+          }
+        },
+        "counts": {
+          "type": "object",
+          "fields": {
+            "positive_calls": {
+              "type": "integer"
+            },
+            "shuffle_calls": {
+              "type": "integer"
+            },
+            "total_calls": {
+              "type": "integer"
+            },
+            "restarts": {
+              "type": "integer"
+            },
+            "nominal_iteration_budget_total": {
+              "type": "integer"
+            },
+            "calls_with_tied_maximum": {
+              "type": "integer"
+            }
+          }
+        },
+        "scores": {
+          "type": "object",
+          "fields": {
+            "positive": {
+              "type": "float"
+            },
+            "frequency_baseline": {
+              "type": "float"
+            },
+            "highest_shuffle": {
+              "type": "float"
+            },
+            "lowest_shuffle": {
+              "type": "float"
+            },
+            "positive_minus_baseline": {
+              "type": "float"
+            },
+            "positive_minus_highest_shuffle": {
+              "type": "float"
+            },
+            "null_ge_positive": {
+              "type": "integer"
+            },
+            "plus_one_p": {
+              "type": "float"
+            },
+            "denominator": {
+              "type": "integer"
+            },
+            "resolution": {
+              "type": "float"
+            },
+            "positive_components": {
+              "type": "object",
+              "fields": {
+                "all_quadgram_windows": {
+                  "type": "integer"
+                },
+                "all_window_average": {
+                  "type": "float"
+                },
+                "constant_sentinel_score": {
+                  "type": "float"
+                },
+                "fully_observed_average": {
+                  "type": "float"
+                },
+                "fully_observed_quadgram_windows": {
+                  "type": "integer"
+                },
+                "fully_observed_score": {
+                  "type": "float"
+                },
+                "maximum_score_ties": {
+                  "type": "integer"
+                },
+                "score": {
+                  "type": "float"
+                },
+                "sentinel_containing_quadgram_windows": {
+                  "type": "integer"
+                },
+                "winner_restart": {
+                  "type": "integer"
+                }
+              }
+            },
+            "baseline_components": {
+              "type": "object",
+              "fields": {
+                "all_quadgram_windows": {
+                  "type": "integer"
+                },
+                "all_window_average": {
+                  "type": "float"
+                },
+                "constant_sentinel_score": {
+                  "type": "float"
+                },
+                "fully_observed_average": {
+                  "type": "float"
+                },
+                "fully_observed_quadgram_windows": {
+                  "type": "integer"
+                },
+                "fully_observed_score": {
+                  "type": "float"
+                },
+                "score": {
+                  "type": "float"
+                },
+                "sentinel_containing_quadgram_windows": {
+                  "type": "integer"
+                }
+              }
+            }
+          }
+        },
+        "runtime": {
+          "type": "object",
+          "fields": {
+            "aggregate_core_wall_seconds": {
+              "type": "float"
+            },
+            "min_core_wall_seconds": {
+              "type": "float"
+            },
+            "max_core_wall_seconds": {
+              "type": "float"
+            },
+            "whole_trial_elapsed_seconds": {
+              "type": "float"
+            },
+            "actual_peak_core_process_overlap": {
+              "type": "integer"
+            }
+          }
+        },
+        "inherited_independent_math_audit": {
+          "type": "object",
+          "fields": {
+            "status": {
+              "type": "string"
+            },
+            "checks": {
+              "type": "integer"
+            },
+            "failures": {
+              "type": "integer"
+            },
+            "public_checker_reexecutes_original_audit": {
+              "type": "boolean"
+            }
+          }
+        },
+        "inherited_blind_ai_content_audit": {
+          "type": "object",
+          "fields": {
+            "unique_streams_reviewed": {
+              "type": "integer"
+            },
+            "coherent_streams": {
+              "type": "integer"
+            },
+            "partial_streams": {
+              "type": "integer"
+            },
+            "incoherent_streams": {
+              "type": "integer"
+            },
+            "complete_connected_message_established": {
+              "type": "boolean"
+            },
+            "whole_content_pass": {
+              "type": "boolean"
+            }
+          }
+        },
+        "decision": {
+          "type": "object",
+          "fields": {
+            "initial_feasibility_judgment": {
+              "type": "integer"
+            },
+            "post_review_continuation_judgment": {
+              "type": "integer"
+            },
+            "strict_continuation_threshold": {
+              "type": "integer"
+            },
+            "complete_reading_established": {
+              "type": "boolean"
+            },
+            "judgments_are_probabilities": {
+              "type": "boolean"
+            }
+          }
+        },
+        "cadence": {
+          "type": "object",
+          "fields": {
+            "actual_cli_to_first_safe_seconds": {
+              "type": "float"
+            },
+            "required_max_seconds": {
+              "type": "integer"
+            },
+            "cadence_pass": {
+              "type": "boolean"
+            },
+            "worker_internal_first_safe_claim_seconds": {
+              "type": "integer"
+            },
+            "worker_internal_claim_substitutes_for_cli_timing": {
+              "type": "boolean"
+            },
+            "numeric_artifact_validity_independent_of_cadence": {
+              "type": "boolean"
+            }
+          }
+        },
+        "identifiability": {
+          "type": "object",
+          "fields": {
+            "model_positions": {
+              "type": "integer"
+            },
+            "unknown_sentinel_positions_retained": {
+              "type": "integer"
+            },
+            "unobserved_numeric_types": {
+              "type": "integer"
+            },
+            "unobserved_letter_permutations_with_identical_body_output": {
+              "type": "integer"
+            },
+            "distinct_literal_outputs_among_target_restarts": {
+              "type": "integer"
+            },
+            "distinct_observed_key_assignments_among_target_restarts": {
+              "type": "integer"
+            },
+            "distinct_full_key_assignments_among_target_restarts": {
+              "type": "integer"
+            },
+            "top_two_restart_score_gap": {
+              "type": "float"
+            },
+            "body_marks_outside_hypothesis": {
+              "type": "integer"
+            },
+            "footer_inventory_items_outside_hypothesis": {
+              "type": "integer"
+            }
+          }
+        },
+        "limitations": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "provenance.json": {
+      "type": "object",
+      "fields": {
+        "schema": {
+          "type": "string"
+        },
+        "source_case_id": {
+          "type": "string"
+        },
+        "source_record_role": {
+          "type": "string"
+        },
+        "resource_pins": {
+          "type": "object",
+          "fields": {
+            "core_sha256": {
+              "type": "string"
+            },
+            "model_sha256": {
+              "type": "string"
+            },
+            "frequency_sha256": {
+              "type": "string"
+            },
+            "fixed_config_sha256": {
+              "type": "string"
+            },
+            "runner_sha256": {
+              "type": "string"
+            },
+            "binary_sha256": {
+              "type": "string"
+            },
+            "input_sha256": {
+              "type": "string"
+            }
+          }
+        },
+        "source_input_hash_role": {
+          "type": "string"
+        },
+        "call_records": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "fields": {
+              "source_record": {
+                "type": "string"
+              },
+              "sha256": {
+                "type": "string"
+              },
+              "extracted_fields": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        },
+        "aggregate_records": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "fields": {
+              "source_record": {
+                "type": "string"
+              },
+              "sha256": {
+                "type": "string"
+              },
+              "extraction_role": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "omitted_fields": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "licensing": {
+          "type": "object",
+          "fields": {
+            "original_code_and_new_documentation": {
+              "type": "string"
+            },
+            "numeric_scores_and_corpus_derived_aggregates": {
+              "type": "string"
+            }
+          }
+        },
+        "root_successor_scalars_source_verified": {
+          "type": "boolean"
+        }
+      }
+    }
+  },
+  "integer_policy": "JSON integers only: booleans and floating-point values rejected",
+  "float_policy": "Finite JSON floating-point values only: booleans and integers rejected",
+  "trust_policy": "This document must equal the immutable definition in verifier code; editing and rehashing it cannot expand allowed fields."
+}

@@ -1,11 +1,11 @@
 {
-  "release": "code-core-v10",
-  "generated_utc": "2026-10-14T00:38:21.300099Z",
-  "previous_public_commit": "00fee8f51e128a700b7906d4b4a38707578cc021",
-  "previous_public_registry_sha256": "1f728652e57bb1e26c3ea45e2304919d97db43ad2eadf560a5474acd4fbaaf47",
-  "authoritative_full_registry_sha256": "3d49b663b86668d2292f04585cfecfa4320a7fe09a424b2cca77087e3f45f2ec",
-  "authoritative_registry_updated_utc": "2026-10-13T23:50:47.837526Z",
-  "published_sanitized_registry_sha256": "564a254ff79ad124df3d68275367efda8bea531db73868aaaaa26459fa684c96",
+  "release": "code-core-v12",
+  "generated_utc": "2026-10-14T03:33:44.904517+00:00",
+  "previous_public_commit": "0c980df9839679f4ae846ad9e608bcd12acff960",
+  "previous_public_registry_sha256": "564a254ff79ad124df3d68275367efda8bea531db73868aaaaa26459fa684c96",
+  "authoritative_full_registry_sha256": "f2e1b2f86098adbd59c9f6fe8a02c59ce7880f5eda2bf19ba3b1542c9382c664",
+  "authoritative_registry_updated_utc": "2026-10-14T03:29:00.041036Z",
+  "published_sanitized_registry_sha256": "5404451086f158b8118c5cbfafc78bb36ba872b0ad76e6e859de87ae966e5fd1",
   "old_registry_ids_retained": 2579,
   "new_registry_ids": [],
   "public_registry_records": 2579,
@@ -124,6 +124,8 @@
     "reason": "The live controller registry changed during the worker scope; no whole-manifest scientific PASS is asserted."
   },
   "source_fingerprints_added": 2,
-  "new_method": "methods/czech_wordless_masked_masc",
-  "sanitization_method": "Retain every previous public identity, alias, flag and receipt; add the two newly observed HC1527 whole-image fingerprints only. Runtime and narrative fields stay local."
+  "new_method": "research/trials/hc1527_fixed_model_v1",
+  "sanitization_method": "Incremental union for HC1527 historical attempted/reserved flags and HC1550 two native image fingerprints only; all earlier public entries and exclusions remain. Administrative flags do not transfer reservation ownership.",
+  "historical_trials_added": 1,
+  "historical_trials_with_complete_reading": 0
 }

@@ -1,0 +1,16 @@
+{
+  "schema": "HC1527_MODULE_SHA256_v1",
+  "files": {
+    "README.md": "50d36f5bc98d0f24e9e14bf7791a2d454734c7a2be48e26b9f734327c1fabcd0",
+    "THIRD_PARTY_NOTICES.md": "0ff03808313e991c12ed2e4ec94689dca27dfa7d068982ae897e591b28623cdd",
+    "calls.json": "6aa89f12aeb0f07daa8b883d7f9d0ff42f4ce502ac50a252ff375ac1cb72d2ac",
+    "licenses/CC-BY-NC-SA-4.0.txt": "e66c269d4819aaab34b49ef5220c4ddab6756f21bb5180761a4eb8561f2b7bbd",
+    "licenses/MIT.txt": "fa9e8539a9046d070158a7cbb74c484704cbf2b162249e49210167277db5c678",
+    "licenses/UD_CZECH_PDTC_LICENSE.txt": "58000085e737c098085f7b4bc0db9b5ae280c84dc09d88f065ac960c7527d5e2",
+    "provenance.json": "d12d0e48c9945e4ac5a75e7a2e6e77b6e1f91652e4fa410a88e78348d647ce4b",
+    "schema.json": "9fa1f30a9092bd729305cb317572cc4d8a7e82720d9c08630eac48ac780fa7ae",
+    "summary.json": "405388cdd65e5af8b6fb0523cfed3d8231191fe6862b625621647a9a05d1f16c",
+    "test_verify.py": "7ef0f50074aa1b3ac588f8f65e737513e2098a428570aa124602e27d0e051630",
+    "verify_retained_trial.py": "0c88417613e601c5b50588360a43018503bb0ee7c3a0ab0204ccdf2c8154cbf9"
+  }
+}

@@ -98,5 +98,37 @@
     "A login redirect for one gallery is not proof all archival sources are inaccessible.",
     "Catalogue Decrypted is an exclusion basis, not our independent validation of its plaintext.",
     "Exact prior queries were not performed; no negative prior-search conclusion is asserted."
-  ]
+  ],
+  "latest_bounded_source_check": {
+    "case_id": "hcportal:1550",
+    "source_record_url": "https://crypto.hcportal.eu/dashboard/cryptograms/1550",
+    "observed_primary_status": "Not solved",
+    "primary_status_checked_utc": "2026-10-14T02:54:54.901309+00:00",
+    "exact_prior_queries_completed": 2,
+    "prior_check_scope": "No exact reading identified in the two checked queries; no worldwide novelty claim",
+    "native_images": [
+      {
+        "url": "https://api.hcportal.eu/media/4710/pc_hcp_231_pic.JPG",
+        "sha256": "22657246b7058ccb3b9d227859b48e7dde00e3af7d23b0b66f7fa2b7bb669349",
+        "width": 1785,
+        "height": 1175
+      },
+      {
+        "url": "https://api.hcportal.eu/media/4711/pc_hcp_231_adr.JPG",
+        "sha256": "3b6713e9bfbbdb7640d1bb6140e527ed579c6898d26c0934a0575abc5744eb90",
+        "width": 1785,
+        "height": 1175
+      }
+    ],
+    "images_not_redistributed": true,
+    "source_cheap_gate_pass": false,
+    "reason": "Lower writing overlaps decoration; connected forms, detached mark ownership and reading order remain uncertified",
+    "feasibility_cap": 79,
+    "cap_is_probability": false,
+    "target_solver_calls": 0,
+    "full_transcription_admitted": false,
+    "decision": "SOURCE_HOLD",
+    "image_views_before_stop": true,
+    "metadata_seal_completed_after_stop": true
+  }
 }

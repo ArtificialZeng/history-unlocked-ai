@@ -1,0 +1,118 @@
+{
+  "schema": "HC1527_RETAINED_NUMERIC_SUMMARY_v1",
+  "case_id": "hcportal:1527",
+  "status": "STOP_CONFIDENCE_BELOW_CONTINUATION_GATE",
+  "evidence_role": "retained numeric arithmetic and integrity replay",
+  "fixed_configuration": {
+    "solver_seed": 2026101457,
+    "shuffle_seed_first": 2026101501,
+    "shuffle_seed_last": 2026101599,
+    "restarts": 18,
+    "steps": 100000,
+    "positive_calls": 1,
+    "negative_calls": 99,
+    "max_parallel_core_processes": 2,
+    "per_core_timeout_seconds": 60,
+    "max_aggregate_core_wall_seconds": 6000,
+    "whole_trial_seconds": 2400,
+    "fully_observed_average_gate": -4.7,
+    "tie_rule": "original_core_max_score_first_tie"
+  },
+  "counts": {
+    "positive_calls": 1,
+    "shuffle_calls": 99,
+    "total_calls": 100,
+    "restarts": 1800,
+    "nominal_iteration_budget_total": 180000000,
+    "calls_with_tied_maximum": 61
+  },
+  "scores": {
+    "positive": -2138.6552350521088,
+    "frequency_baseline": -2825.1532039642334,
+    "highest_shuffle": -2539.0497913360596,
+    "lowest_shuffle": -2637.232095718384,
+    "positive_minus_baseline": 686.4979689121246,
+    "positive_minus_highest_shuffle": 400.3945562839508,
+    "null_ge_positive": 0,
+    "plus_one_p": 0.01,
+    "denominator": 100,
+    "resolution": 0.01,
+    "positive_components": {
+      "all_quadgram_windows": 412,
+      "all_window_average": -5.190910764689584,
+      "constant_sentinel_score": -544.5466194152832,
+      "fully_observed_average": -4.634036673362865,
+      "fully_observed_quadgram_windows": 344,
+      "fully_observed_score": -1594.1086156368256,
+      "maximum_score_ties": 15,
+      "score": -2138.6552350521088,
+      "sentinel_containing_quadgram_windows": 68,
+      "winner_restart": 0
+    },
+    "baseline_components": {
+      "all_quadgram_windows": 412,
+      "all_window_average": -6.857167970786974,
+      "constant_sentinel_score": -544.5466194152832,
+      "fully_observed_average": -6.629670303921367,
+      "fully_observed_quadgram_windows": 344,
+      "fully_observed_score": -2280.60658454895,
+      "score": -2825.1532039642334,
+      "sentinel_containing_quadgram_windows": 68
+    }
+  },
+  "runtime": {
+    "aggregate_core_wall_seconds": 69.96633508661762,
+    "min_core_wall_seconds": 0.6664181660162285,
+    "max_core_wall_seconds": 1.0941420419840142,
+    "whole_trial_elapsed_seconds": 36.6984683329938,
+    "actual_peak_core_process_overlap": 2
+  },
+  "inherited_independent_math_audit": {
+    "status": "PASS_RETAINED_RUNTIME_INTERNAL_VALIDITY",
+    "checks": 89640,
+    "failures": 0,
+    "public_checker_reexecutes_original_audit": false
+  },
+  "inherited_blind_ai_content_audit": {
+    "unique_streams_reviewed": 4,
+    "coherent_streams": 0,
+    "partial_streams": 1,
+    "incoherent_streams": 3,
+    "complete_connected_message_established": false,
+    "whole_content_pass": false
+  },
+  "decision": {
+    "initial_feasibility_judgment": 83,
+    "post_review_continuation_judgment": 79,
+    "strict_continuation_threshold": 80,
+    "complete_reading_established": false,
+    "judgments_are_probabilities": false
+  },
+  "cadence": {
+    "actual_cli_to_first_safe_seconds": 217.946343,
+    "required_max_seconds": 120,
+    "cadence_pass": false,
+    "worker_internal_first_safe_claim_seconds": 34,
+    "worker_internal_claim_substitutes_for_cli_timing": false,
+    "numeric_artifact_validity_independent_of_cadence": true
+  },
+  "identifiability": {
+    "model_positions": 415,
+    "unknown_sentinel_positions_retained": 17,
+    "unobserved_numeric_types": 6,
+    "unobserved_letter_permutations_with_identical_body_output": 720,
+    "distinct_literal_outputs_among_target_restarts": 4,
+    "distinct_observed_key_assignments_among_target_restarts": 4,
+    "distinct_full_key_assignments_among_target_restarts": 17,
+    "top_two_restart_score_gap": 0.0,
+    "body_marks_outside_hypothesis": 15,
+    "footer_inventory_items_outside_hypothesis": 14
+  },
+  "limitations": [
+    "Conditional order signal under one fixed modern-language scoring model; no historical accuracy probability.",
+    "Numeric forward consistency does not establish a source glyph certificate, gap readings or a complete connected message.",
+    "Positive maximum tied across 15 of 18 restarts; alternate literal outputs and 720 unused-class completions remain.",
+    "Receipts document retained execution; they do not include complete optimization trajectories or independent OS telemetry of every step.",
+    "Stopping this model does not prove the cipher impossible; no new target solver runs are performed."
+  ]
+}

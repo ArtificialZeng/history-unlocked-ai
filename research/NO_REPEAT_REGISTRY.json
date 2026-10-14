@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-10-14T00:38:21.300099Z",
+  "generated_utc": "2026-10-14T03:33:44.904517+00:00",
   "records": [
     {
       "case_id": "alabama:u0003_0000535_1657004_0001",
@@ -20312,6 +20312,8 @@
         "pc_hcp_208_pic.JPG"
       ],
       "flags": [
+        "attempted",
+        "reserved",
         "source_checked"
       ],
       "disposition": "skip",
@@ -20875,7 +20877,18 @@
         "source_checked"
       ],
       "disposition": "skip",
-      "source_fingerprints": [],
+      "source_fingerprints": [
+        {
+          "kind": "sha256_file",
+          "scope": "whole_source_image",
+          "sha256": "22657246b7058ccb3b9d227859b48e7dde00e3af7d23b0b66f7fa2b7bb669349"
+        },
+        {
+          "kind": "sha256_file",
+          "scope": "whole_source_image",
+          "sha256": "3b6713e9bfbbdb7640d1bb6140e527ed579c6898d26c0934a0575abc5744eb90"
+        }
+      ],
       "sources": []
     },
     {

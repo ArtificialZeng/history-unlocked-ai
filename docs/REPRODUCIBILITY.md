@@ -104,6 +104,18 @@ python3 -B methods/czech_masked_bounded_runtime/replay_p05.py --output ../histor
 
 The P05 replay is a regression check and retains the original one-character
 failure. It is not another complete benchmark or a historical decipherment.
-The implemented 99-shuffle plan remains prospective; no historical comparison
-result is claimed. A caller-supplied authorization digest is a local contract
+The fixed 99-shuffle plan was executed in HC1527's registered masked-body
+trial. Its [public numeric evidence](../research/trials/hc1527_fixed_model_v1/README.md)
+replays retained arithmetic and budgets, without re-running the target solver.
+The whole-content review did not establish a complete reading, so the model stopped. A caller-supplied authorization digest is a local contract
 assertion, not a credential or an independent admission decision.
+
+## Retained historical-trial arithmetic
+
+```sh
+python3 -B research/trials/hc1527_fixed_model_v1/verify_retained_trial.py
+```
+
+This checks the published 100-call, 1,800-restart numerical derivative. It is
+separate from source rereading, cryptanalytic replay and external expert review.
+See the trial guide for exact retained-evidence limits and failed timing cadence.

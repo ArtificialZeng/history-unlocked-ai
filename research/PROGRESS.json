@@ -1,12 +1,12 @@
 {
-  "updated_utc": "2026-10-14T00:38:21.300099Z",
+  "updated_utc": "2026-10-14T03:33:44.904517+00:00",
   "portfolio_entries": 11,
   "new_complete_historical_solutions_since_previous_code_release": 0,
   "registered_no_repeat_identities": 2579,
   "main_ledger_rows": 47,
   "screening_ledger_rows": 1495,
   "counts_are_administrative_not_solved_counts": true,
-  "scope": "Eleven existing research entries plus clean and masked wordless Czech synthetic methods; current no-repeat identity metadata; no new complete historical reading",
+  "scope": "Eleven existing research entries; reusable synthetic methods and one completed stopped historical model with retained numerical evidence; no new complete decipherment",
   "officially_confirmed_case_ids": [
     "hcportal:615"
   ],
@@ -22,7 +22,7 @@
   "latest_screening_report": "SCREENING_UPDATE.json",
   "new_complete_historical_solutions_in_this_update": 0,
   "added_registry_identities_since_code_core_v3": 58,
-  "release": "code-core-v10",
+  "release": "code-core-v12",
   "public_display_date": "2026-10-14",
   "current_primary_inventory": {
     "rows": 1875,
@@ -46,7 +46,7 @@
     "report": "CATALOGUE_MAPPING.json"
   },
   "latest_source_checks": "SOURCE_CHECKS.json",
-  "latest_method": "methods/czech_wordless_masked_masc/README.md",
+  "latest_method": "methods/czech_masked_bounded_runtime/README.md",
   "wordless_czech_synthetic_method": {
     "positive_controls": 6,
     "exact_messages": 6,
@@ -78,5 +78,26 @@
     "historical_target_trials": 0,
     "calibrated_historical_success_probability": null
   },
-  "source_fingerprints_added_in_this_update": 2
+  "source_fingerprints_added_in_this_update": 2,
+  "latest_completed_historical_trial": "trials/hc1527_fixed_model_v1/README.md",
+  "historical_fixed_model_trial": {
+    "case_id": "hcportal:1527",
+    "calls": 100,
+    "matched_shuffle_calls": 99,
+    "restarts": 1800,
+    "original_independent_arithmetic_checks": 89640,
+    "conditional_rank_p": 0.01,
+    "conditional_rank_resolution": 0.01,
+    "whole_content_pass": false,
+    "initial_feasibility_judgment": 83,
+    "continuation_feasibility_judgment": 79,
+    "judgment_is_probability": false,
+    "decision": "STOP_THIS_MODEL",
+    "externally_confirmed": false,
+    "complete_reading_established": false,
+    "published_replay_scope": "retained numerical evidence only",
+    "retained_numeric_checker_checks": 21755,
+    "refusal_fixtures_rejected": 53,
+    "new_checker_not_original_independent_audit": true
+  }
 }
