@@ -1,11 +1,11 @@
 {
-  "release": "code-core-v12",
-  "generated_utc": "2026-10-14T03:33:44.904517+00:00",
-  "previous_public_commit": "0c980df9839679f4ae846ad9e608bcd12acff960",
-  "previous_public_registry_sha256": "564a254ff79ad124df3d68275367efda8bea531db73868aaaaa26459fa684c96",
-  "authoritative_full_registry_sha256": "f2e1b2f86098adbd59c9f6fe8a02c59ce7880f5eda2bf19ba3b1542c9382c664",
-  "authoritative_registry_updated_utc": "2026-10-14T03:29:00.041036Z",
-  "published_sanitized_registry_sha256": "5404451086f158b8118c5cbfafc78bb36ba872b0ad76e6e859de87ae966e5fd1",
+  "release": "code-core-v13",
+  "generated_utc": "2026-10-14T05:05:22.637235+00:00",
+  "previous_public_commit": "6030e06acf899b06daaff73953fa099299808950",
+  "previous_public_registry_sha256": "5404451086f158b8118c5cbfafc78bb36ba872b0ad76e6e859de87ae966e5fd1",
+  "authoritative_full_registry_sha256": "c3f06389e92f3c35e0a0d9723f714b500bfa2abc475da36e654a1f00068852c2",
+  "authoritative_registry_updated_utc": "2026-10-14T05:01:50.660594Z",
+  "published_sanitized_registry_sha256": "e7684d2f34ba500ee9eb9692768d44fd54599c780f89c6cf73e07c4c92416fad",
   "old_registry_ids_retained": 2579,
   "new_registry_ids": [],
   "public_registry_records": 2579,
@@ -104,6 +104,18 @@
       "sha256": "82e8d189e4aa85eb3e244c0493e607f38d38921892bd35fc207191b201e8569e",
       "referee_output_references_verified": 13,
       "referee_actual_input_references_verified": 106
+    },
+    {
+      "receipt": "ROOT_HC1570_METADATA_FINGERPRINT_CORRECTION.json",
+      "sha256": "d12bfd225042218fa3f51a6a96d91026c0f947b70da2a797b40e93669c7c23ef"
+    },
+    {
+      "receipt": "ROOT_HC1641_HASH_INTAKE.json",
+      "sha256": "aec0507cc4210e44ebd62896464ff4aba5413b7641e9246e2da9e1750ab211f9"
+    },
+    {
+      "receipt": "ROOT_HC1641_REGISTRY_INTEGRATION.json",
+      "sha256": "aa1ef06a739c6707a0be27df1eeb77d439253b9d8cbca3161ed46ed51052e16c"
     }
   ],
   "local_receipts_not_distributed": true,
@@ -123,9 +135,19 @@
     "sealed_worker_manifest_preserved": true,
     "reason": "The live controller registry changed during the worker scope; no whole-manifest scientific PASS is asserted."
   },
-  "source_fingerprints_added": 2,
-  "new_method": "research/trials/hc1527_fixed_model_v1",
-  "sanitization_method": "Incremental union for HC1527 historical attempted/reserved flags and HC1550 two native image fingerprints only; all earlier public entries and exclusions remain. Administrative flags do not transfer reservation ownership.",
-  "historical_trials_added": 1,
-  "historical_trials_with_complete_reading": 0
+  "source_fingerprints_added": 4,
+  "new_method": null,
+  "sanitization_method": "Incremental union of verified HC1583 and HC1641 native image hashes. Preserve all existing IDs, aliases and flags. Reclassify exactly one HC1570 API metadata digest out of image-fingerprint scope and retain its typed metadata receipt in SOURCE_UPDATE.json. The sanitized registry retains its public identity locator only. Runtime ownership and narrative histories are not exported.",
+  "historical_trials_added": 0,
+  "historical_trials_with_complete_reading": 0,
+  "latest_source_report": "SOURCE_UPDATE.json",
+  "latest_fingerprint_correction": {
+    "case_id": "hcportal:1570",
+    "removed_image_fingerprint_sha256": "76958344b23fcdcb3f1c6858f990af5fcfc77721e6533d05ca1eaeab60df92a1",
+    "actual_evidence_type": "Primary catalogue API JSON metadata",
+    "digest_retained_as_metadata_provenance": true,
+    "native_image_fingerprints_retained": 2,
+    "case_exclusion_preserved": true,
+    "local_correction_receipt_sha256": "d12bfd225042218fa3f51a6a96d91026c0f947b70da2a797b40e93669c7c23ef"
+  }
 }

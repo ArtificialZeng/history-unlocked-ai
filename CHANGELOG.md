@@ -1,5 +1,12 @@
 # Changes
 
+## 14 October 2026 — code-core-v13
+
+- Added dated native-source progress for HC1641, HC1583 and HC1570, with a readable next-gate table and machine-readable URLs, hashes, scope and holds.
+- Added four HC1583/HC1641 native-image fingerprints. Reclassified one HC1570 API JSON digest out of image-fingerprint scope while preserving its metadata provenance, all 2,579 identities and previous exclusions.
+- Updated the English, Chinese, Czech and Japanese homepages. Existing source code, the retained HC1527 numerical trial, eleven portfolio entries and 857 frozen scientific files are unchanged.
+- No new complete historical decipherment, solver admission or external verdict is claimed. Original source images, private communications and news submissions are not added.
+
 ## 14 October 2026 — code-core-v12
 
 - Added retained numeric evidence and an offline arithmetic checker for HC1527's fixed masked-body trial: 100 calls and all 1,800 restart scores. The conditional 99-shuffle comparison is complete.

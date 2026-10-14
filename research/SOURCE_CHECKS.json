@@ -130,5 +130,6 @@
     "decision": "SOURCE_HOLD",
     "image_views_before_stop": true,
     "metadata_seal_completed_after_stop": true
-  }
+  },
+  "successor_native_source_report": "SOURCE_UPDATE.json"
 }

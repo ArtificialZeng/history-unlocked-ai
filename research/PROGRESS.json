@@ -1,12 +1,12 @@
 {
-  "updated_utc": "2026-10-14T03:33:44.904517+00:00",
+  "updated_utc": "2026-10-14T05:05:22.637235+00:00",
   "portfolio_entries": 11,
   "new_complete_historical_solutions_since_previous_code_release": 0,
   "registered_no_repeat_identities": 2579,
   "main_ledger_rows": 47,
   "screening_ledger_rows": 1495,
   "counts_are_administrative_not_solved_counts": true,
-  "scope": "Eleven existing research entries; reusable synthetic methods and one completed stopped historical model with retained numerical evidence; no new complete decipherment",
+  "scope": "Eleven existing research entries; four new native source fingerprints and a typed provenance correction; full source qualification still pending.",
   "officially_confirmed_case_ids": [
     "hcportal:615"
   ],
@@ -22,7 +22,7 @@
   "latest_screening_report": "SCREENING_UPDATE.json",
   "new_complete_historical_solutions_in_this_update": 0,
   "added_registry_identities_since_code_core_v3": 58,
-  "release": "code-core-v12",
+  "release": "code-core-v13",
   "public_display_date": "2026-10-14",
   "current_primary_inventory": {
     "rows": 1875,
@@ -45,7 +45,7 @@
     "qualified_new_targets": 0,
     "report": "CATALOGUE_MAPPING.json"
   },
-  "latest_source_checks": "SOURCE_CHECKS.json",
+  "latest_source_checks": "SOURCE_UPDATE.json",
   "latest_method": "methods/czech_masked_bounded_runtime/README.md",
   "wordless_czech_synthetic_method": {
     "positive_controls": 6,
@@ -78,7 +78,7 @@
     "historical_target_trials": 0,
     "calibrated_historical_success_probability": null
   },
-  "source_fingerprints_added_in_this_update": 2,
+  "source_fingerprints_added_in_this_update": 4,
   "latest_completed_historical_trial": "trials/hc1527_fixed_model_v1/README.md",
   "historical_fixed_model_trial": {
     "case_id": "hcportal:1527",
@@ -99,5 +99,16 @@
     "retained_numeric_checker_checks": 21755,
     "refusal_fixtures_rejected": 53,
     "new_checker_not_original_independent_audit": true
+  },
+  "new_historical_target_trials_in_this_update": 0,
+  "latest_source_progress": {
+    "cases_reviewed": 3,
+    "new_native_image_captures": 4,
+    "cheap_fitness_pass_case_ids": [
+      "hcportal:1641"
+    ],
+    "full_source_qualifications": 0,
+    "new_solver_admissions": 0,
+    "typed_metadata_fingerprint_corrections": 1
   }
 }

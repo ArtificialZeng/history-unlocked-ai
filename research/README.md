@@ -13,7 +13,7 @@ Fresh primary status, exact-item prior review, source qualification, matched met
 
 Snapshot display date: 14 October 2026. The snapshot contains **2,579 registered
 identities**, preserving all previous exclusions and refreshing observed source
-locators and image fingerprints. No new identity was added in code-core-v10;
+locators and image fingerprints. No new identity was added in code-core-v13;
 58 were added since code-core-v3. These are administrative
 identities, not solved or attempted cipher counts. [PROGRESS.json](PROGRESS.json)
 tracks the 11-entry portfolio separately. Frozen attempts remain frozen.
@@ -27,7 +27,7 @@ different sanitized public derivative; it does not transfer runtime ownership.
 Exact parent aliases must be checked as well as child IDs. The portable helper
 returns `REVIEW` for a shared non-HC alias, which blocks a new attack pending
 identity review; it does not silently merge messages. An inherited hash of the
-server's `forbidden.png` response has been removed from ciphertext fingerprints.
+server's `forbidden.png` response was removed from ciphertext fingerprints.
 The affected case's no-repeat exclusion and all earlier flags remain.
 
 ## Catalogue selection without false empty results
@@ -94,3 +94,12 @@ target decipherment, re-read the source or substitute for expert review.
 
 This update also adds two native HC1550 image fingerprints and retains the
 source hold. All 2,579 registered identities and their prior exclusions remain.
+
+## Native-source progress and typed fingerprint correction
+
+Four native HC1583/HC1641 image fingerprints were added without redistributing
+scans. A catalogue API JSON digest for HC1570 was moved out of image-fingerprint
+scope and retained as metadata provenance. All 2,579 identities, exclusions and
+legitimate image hashes remain. Read the [source progress table](SOURCE_PROGRESS.md)
+and [dated aggregate evidence](SOURCE_UPDATE.json) for cheap fitness, timing holds,
+remaining ledger requirements and zero target calls in these source checks.

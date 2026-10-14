@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-10-14T03:33:44.904517+00:00",
+  "generated_utc": "2026-10-14T05:05:22.637235+00:00",
   "records": [
     {
       "case_id": "alabama:u0003_0000535_1657004_0001",
@@ -21412,16 +21412,16 @@
         },
         {
           "kind": "sha256_file",
-          "sha256": "76958344b23fcdcb3f1c6858f990af5fcfc77721e6533d05ca1eaeab60df92a1",
-          "scope": "whole_source_image"
-        },
-        {
-          "kind": "sha256_file",
           "sha256": "adc0226ffc9eb7935a0d09599d28ed0cc36770ccb6fd59c4a1066cc8007c05d9",
           "scope": "whole_source_image"
         }
       ],
-      "sources": []
+      "sources": [
+        {
+          "url": "https://api.hcportal.eu/api/cryptograms/1570",
+          "evidence_type": "PUBLIC_IDENTITY_LOCATOR_ONLY_NOT_STATUS_PROOF"
+        }
+      ]
     },
     {
       "case_id": "hcportal:1571",
@@ -21785,7 +21785,18 @@
         "source_checked"
       ],
       "disposition": "skip",
-      "source_fingerprints": [],
+      "source_fingerprints": [
+        {
+          "kind": "sha256_file",
+          "scope": "whole_source_image",
+          "sha256": "8f8e17a5a78663bca524b616684cae227f4429b67f4d198052e15369af66677d"
+        },
+        {
+          "kind": "sha256_file",
+          "scope": "whole_source_image",
+          "sha256": "9b5ebfbbbfd2910f72cef725ac947ff8c9f33dd2ab1b7d78759d811d42c95bc0"
+        }
+      ],
       "sources": []
     },
     {
@@ -24061,7 +24072,18 @@
         "source_checked"
       ],
       "disposition": "skip",
-      "source_fingerprints": [],
+      "source_fingerprints": [
+        {
+          "kind": "sha256_file",
+          "scope": "whole_source_image",
+          "sha256": "a2efa4b1b4a1dd493c8d412ca1486f0061261d59f7ddcbe879773134715267ae"
+        },
+        {
+          "kind": "sha256_file",
+          "scope": "whole_source_image",
+          "sha256": "ae7216f35ae9fdd3910d76ffd5d2dde5afe050bbf975c53825f5f8a602700d24"
+        }
+      ],
       "sources": []
     },
     {
