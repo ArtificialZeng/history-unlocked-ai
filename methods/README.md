@@ -30,6 +30,17 @@ provides frozen checking, optional fresh compiled replay and a deterministic
 rebuild from pinned upstream corpus files. Its UD-derived data are
 CC BY-NC-SA 4.0; program code is MIT.
 
+## Fixed-budget masked runtime
+
+The [bounded runtime](czech_masked_bounded_runtime/README.md) makes the masked
+solver reusable through a pinned numeric-only interface, fixed seeds, retained
+restart outputs, input/key refusal checks and process-group time limits. A fresh
+P05 replay preserved the original 537/538 known-character result and its error.
+Unknown gaps are not filled in. The implemented 99-shuffle comparison is
+prospective: no historical target comparison has been executed in this release.
+The runner is a local execution contract, not an access-control or admission
+service. Its linguistic resources keep their existing CC BY-NC-SA 4.0 licence.
+
 ## Indexed cells
 
 The indexed-cell resource is a self-contained, target-independent codec and

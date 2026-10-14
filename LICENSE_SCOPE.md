@@ -36,3 +36,8 @@ and documentation are MIT; UD_Czech-PDTC-derived models, text fixtures, masked
 ciphertexts, gold and result data remain CC BY-NC-SA4.0. Its own
 `methods/czech_wordless_masked_masc/THIRD_PARTY_NOTICES.md` records the
 upstream revision, modifications and file-level licence scope.
+
+The bounded masked runtime is MIT program code and documentation. It stages
+existing CC BY-NC-SA 4.0 linguistic resources from the masked module without
+relicensing them; generated corpus-derived outputs retain those conditions.
+See `methods/czech_masked_bounded_runtime/README.md` for exact reuse scope.

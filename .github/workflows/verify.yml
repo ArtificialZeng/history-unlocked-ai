@@ -25,3 +25,5 @@ jobs:
         run: python -B methods/czech_wordless_masc/verify_frozen.py
       - name: Verify frozen masked wordless Czech controls
         run: python -B methods/czech_wordless_masked_masc/verify_frozen.py
+      - name: Check fixed-budget masked runtime interfaces
+        run: python -B methods/czech_masked_bounded_runtime/verify_runtime.py

@@ -1,5 +1,12 @@
 # Changes
 
+## 14 October 2026 — code-core-v11
+
+- Added a portable fixed-budget runner for the masked Czech solver: pinned numeric-only inputs, strict substitution keys, retained restarts, process-group STOP handling and prospective matched-shuffle comparison.
+- Preserved the one-character P05 failure in the fresh compiled regression replay. No historical target was searched by this tool in this release, and its 99-shuffle plan is an implementation rather than an observed result.
+- Updated the English, Chinese, Czech and Japanese homepages with the reusable execution tool. Existing historical evidence, benchmark modules and no-repeat registry remain unchanged.
+- Retained separate MIT code and CC BY-NC-SA 4.0 linguistic-data licences. No additional complete historical decipherment or external verdict is asserted.
+
 ## 14 October 2026 — code-core-v10
 
 - Added independently audited masked/gap Czech wordless substitution controls: 5/6 exact known-position streams, 2,612/2,613 known characters, 136/137 observed mappings; frequency baseline 575/2,613. All 387 masked original characters and the P05 one-character failure remain explicit.

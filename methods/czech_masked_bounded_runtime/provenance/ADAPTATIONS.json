@@ -1,0 +1,21 @@
+{
+  "executables_redistributed": false,
+  "fixed_config_byte_identical": true,
+  "frozen_runner_sha256": "e8358e69f4301918c5d4541979b1fd140c7691482ea809aa77ee9bcab4e80e91",
+  "inference_scope": "One public P05 synthetic fixture only; no user-selected input, historical registration or negative solver calls are exposed by replay_p05.py.",
+  "licenses": {
+    "UD_derived_model_frequency_fixtures_results_and_aggregates": "CC BY-NC-SA 4.0",
+    "code_and_new_documentation": "MIT"
+  },
+  "new_files": "Portable staging, P05 replay/grading helper, separately labelled fabricated interface QA, documentation, dependency pins and aggregate provenance summaries.",
+  "original_probe_payloads_redistributed": false,
+  "original_runtime_99_shuffle_branch": "Prospective unexecuted historical plan; no original historical calls or null significance results.",
+  "registration": "New synthetic-only registration created at replay time; original registration/admin payloads are not redistributed. Internal opaque QA token and lease digest remain in the byte-identical runner and are reused only for its public synthetic branch; neither grants historical admission.",
+  "runner_byte_identical": true,
+  "source_payloads_redistributed": false,
+  "unchanged_resources_reused_from_parent": [
+    "generic_solver.cpp",
+    "quadgram_model.bin",
+    "training_frequency_order.txt"
+  ]
+}

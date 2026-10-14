@@ -1,0 +1,22 @@
+{
+  "fully_observed_average_gate": -4.7,
+  "historical_admission_by_worker": false,
+  "hypothesis_id": "BODY_ONLY_IDENTITY_MASKED_V1",
+  "max_aggregate_core_wall_seconds": 6000,
+  "max_parallel_core_processes": 2,
+  "negative_calls": 99,
+  "null_role": "conditional known-position histogram/gap preserving shuffle comparison only",
+  "per_core_timeout_seconds": 60,
+  "positive_calls": 1,
+  "restarts": 18,
+  "schema": "DIRECT_RUNTIME_FIXED_CONFIG_v1",
+  "score_role": "fixed heuristic; not probability",
+  "sentinel": 26,
+  "shuffle_seed_first": 2026101501,
+  "shuffle_seed_last": 2026101599,
+  "solver_seed": 2026101457,
+  "steps": 100000,
+  "tie_rule": "original_core_max_score_first_tie",
+  "unknown_semantics": "unknown gap rendered as space; no word boundary or inferred length",
+  "whole_trial_seconds": 2400
+}

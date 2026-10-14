@@ -1,0 +1,114 @@
+{
+  "completed_utc": "2026-10-14T02:00:48.545189+00:00",
+  "fresh_P05_call_counts": {
+    "core_completed": 1,
+    "core_started": 1,
+    "historical_target_calls": 0,
+    "negative_solver_calls": 0
+  },
+  "fresh_P05_replay": {
+    "all_core_calls_within_60_seconds": true,
+    "all_nine_original_controls_retested": false,
+    "baseline_known_characters_correct": 149,
+    "bytes_identical_to_retained_P05": true,
+    "candidate_key_forward_correct": 538,
+    "gold_read_after_verified_inference_seal": true,
+    "gold_recovery_forward_correct": 537,
+    "known_characters": 538,
+    "known_characters_correct": 537,
+    "negative_solver_calls": 0,
+    "observed_mappings": 24,
+    "observed_mappings_correct": 23,
+    "restarts": 18,
+    "result_sha256": "859c9d13975c4fcd2572fa5ccc95c3381a13a5faa3aa64790cac13b37c59cb67",
+    "retained_trials": 18,
+    "sealed_inference_artifacts_checked": 13,
+    "steps_per_restart": 100000,
+    "unknown_characters_recovered_or_graded": false
+  },
+  "generated_artifact_hashes": [
+    {
+      "bytes": 19656,
+      "path": "runtime/registered_runner.py",
+      "sha256": "e8358e69f4301918c5d4541979b1fd140c7691482ea809aa77ee9bcab4e80e91"
+    },
+    {
+      "bytes": 818,
+      "path": "runtime/FIXED_CONFIG.json",
+      "sha256": "53aea196171de16e01a5dc7037f0fe8c6f8b26bbb32825e09bfba1861d389432"
+    },
+    {
+      "bytes": 3778,
+      "path": "runtime/generic_solver.cpp",
+      "sha256": "651b888047c939dd0ce6e0d84805b8a4beba45eb6b0d8ebfe3ab43eb60681276"
+    },
+    {
+      "bytes": 2125764,
+      "path": "runtime/quadgram_model.bin",
+      "sha256": "64f3e69c72e7e74f5c7fd3e41c90c42321ac46879d91f3b52d6f0182c4db8a64"
+    },
+    {
+      "bytes": 68,
+      "path": "runtime/training_frequency_order.txt",
+      "sha256": "156c666c1f2c72247c67b6607a05a08b5c63e56908b4ba724e3183c3844122be"
+    },
+    {
+      "bytes": 1503,
+      "path": "inputs/P05.cipher.txt",
+      "sha256": "ecab97eb59c4d79427f7d40eece61faa8c86d15529c2fc50585c648d7e8b6e95"
+    },
+    {
+      "bytes": 1301,
+      "path": "SYNTHETIC_REGISTRATION.json",
+      "sha256": "f421772f906bd8defe781468283f7f7804d795dd3e550c57f45e0d90977cae7d"
+    },
+    {
+      "bytes": 13318,
+      "path": "inference/private/positive.sa.json",
+      "sha256": "859c9d13975c4fcd2572fa5ccc95c3381a13a5faa3aa64790cac13b37c59cb67"
+    },
+    {
+      "bytes": 2274,
+      "path": "inference/private/OUTPUT_LOCK.json",
+      "sha256": "bd4c23386fb4a58ae0184787d8101173883873fc5930c9a06d3ff033f2e0ff99"
+    },
+    {
+      "bytes": 2458,
+      "path": "inference/ROOT_SAFE_RUNTIME_SUMMARY.json",
+      "sha256": "055bd97fd34011e4a70bc9d8c85fa6ce6a7c2142e0bff77ee44907846576240a"
+    },
+    {
+      "bytes": 1483,
+      "path": "REPLAY_METRICS.json",
+      "sha256": "f6ea27cdd007bec34998903390c991d90ead91a1a8843a5d022eb4e787f3e870"
+    }
+  ],
+  "licenses": {
+    "UD_derived_data_model_frequency_results_and_aggregates": "CC BY-NC-SA 4.0",
+    "code": "MIT"
+  },
+  "limits": "One synthetic P05 replay and fabricated interface probes only; neither an independent human audit nor historical applicability/success qualification. Original 99 historical negatives were unexecuted. Compiler/library trajectories may differ.",
+  "no_network_or_historical_experiment": true,
+  "no_retuning": true,
+  "offline_interface_QA": {
+    "actual_solver_calls": 0,
+    "checks_failed": 0,
+    "checks_passed": 366,
+    "compiler_invoked": false,
+    "dummy_process_group_STOP_controls": 1,
+    "fabricated_shuffle_seeds": 99,
+    "gold_read": false,
+    "module_files_hashed": 14,
+    "network_used": false,
+    "public_inference_dependencies_hashed": 4,
+    "sentinel_cells_checked": 74465
+  },
+  "packaging_environment": {
+    "POSIX_process_groups": true,
+    "compiler_exit_code": 0,
+    "little_endian": true,
+    "python": "3.13.5"
+  },
+  "record_type": "New public packaging verification; separate from original 234-probe resource record",
+  "runtime_runner_original_sha256": "e8358e69f4301918c5d4541979b1fd140c7691482ea809aa77ee9bcab4e80e91"
+}

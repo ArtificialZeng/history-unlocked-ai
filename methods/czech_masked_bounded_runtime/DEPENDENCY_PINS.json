@@ -1,0 +1,41 @@
+{
+  "artifacts": [
+    {
+      "bytes": 3778,
+      "path": "generic_solver.cpp",
+      "phase": "inference_or_interface_QA",
+      "sha256": "651b888047c939dd0ce6e0d84805b8a4beba45eb6b0d8ebfe3ab43eb60681276"
+    },
+    {
+      "bytes": 2125764,
+      "path": "frozen/inference_inputs/quadgram_model.bin",
+      "phase": "inference_or_interface_QA",
+      "sha256": "64f3e69c72e7e74f5c7fd3e41c90c42321ac46879d91f3b52d6f0182c4db8a64"
+    },
+    {
+      "bytes": 68,
+      "path": "frozen/inference_inputs/training_frequency_order.txt",
+      "phase": "inference_or_interface_QA",
+      "sha256": "156c666c1f2c72247c67b6607a05a08b5c63e56908b4ba724e3183c3844122be"
+    },
+    {
+      "bytes": 1503,
+      "path": "frozen/inference_inputs/P05.cipher.txt",
+      "phase": "inference_or_interface_QA",
+      "sha256": "ecab97eb59c4d79427f7d40eece61faa8c86d15529c2fc50585c648d7e8b6e95"
+    },
+    {
+      "bytes": 124737,
+      "path": "frozen/grading_gold/gold.json",
+      "phase": "grading_only",
+      "sha256": "52e9bd6bdc5fd0ab23a96630ebaa53c7fad53d7e5dd90d7e3ad219ae6f767d2f"
+    },
+    {
+      "bytes": 13318,
+      "path": "frozen/inference_outputs/P05.sa.json",
+      "phase": "grading_only",
+      "sha256": "859c9d13975c4fcd2572fa5ccc95c3381a13a5faa3aa64790cac13b37c59cb67"
+    }
+  ],
+  "parent_module": "../czech_wordless_masked_masc"
+}

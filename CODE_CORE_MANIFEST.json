@@ -1,13 +1,13 @@
 {
-  "version": "code-core-v10",
-  "created_at_utc": "2026-10-14T00:51:09.377552+00:00",
+  "version": "code-core-v11",
+  "created_at_utc": "2026-10-14T02:02:28.416775+00:00",
   "scope": "Reproducible code, necessary evidence data, methods and brief promotion; no private correspondence or media submissions.",
   "manifest_self_excluded": true,
   "files": [
     {
       "path": ".github/workflows/verify.yml",
-      "bytes": 1224,
-      "sha256": "eb3709b592aa4b0941929307b151b6bd4e170687180f91ceb30ba30695c8ca74"
+      "bytes": 1361,
+      "sha256": "fdb456ca8a8c10c0d431bdeefb4a1d43d0366bd7f64d6ff8ef4d599409b73208"
     },
     {
       "path": ".gitignore",
@@ -16,8 +16,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 7225,
-      "sha256": "629f31b6721a3480ab5e38e2a6b799411ba9d71669ed8d7806d9c74b79d05b34"
+      "bytes": 8040,
+      "sha256": "9366257a0ef3e0a0042d44f80e278767ab9b3a65d46bdd52c84e8894e2f7d7fc"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -31,28 +31,28 @@
     },
     {
       "path": "LICENSE_SCOPE.md",
-      "bytes": 2252,
-      "sha256": "35e44d7b7c5c8c67515b08e47717af192bb6bc639dca5beff7da927ac775fbbc"
+      "bytes": 2558,
+      "sha256": "463e03d1e7a63af383468b9ff77e0a2e5fe1a97aaff409ba153732ff01a2f256"
     },
     {
       "path": "README.cs.md",
-      "bytes": 8221,
-      "sha256": "e9ce1d25454ca2e4fe19bdc17b4fb89b240afb22d8dc38259c1e79b50a28a02c"
+      "bytes": 8877,
+      "sha256": "0faef7a75409c4250eddfeb52c233708274607f416b9a22bed251f66392eaa38"
     },
     {
       "path": "README.ja.md",
-      "bytes": 8896,
-      "sha256": "850dfb3d70af9120655c8f33169f7569816bc926eb24b816f28fbc99c92e5b21"
+      "bytes": 9651,
+      "sha256": "4a7d236eca2ad60f99cf8cc2e578c6ccda662772f44da1a1c796f7512a216ab9"
     },
     {
       "path": "README.md",
-      "bytes": 8790,
-      "sha256": "c49d543ce5fb0a334f29c7f3b7c493b2815ba4c65208f029c62ef8f6028be596"
+      "bytes": 9382,
+      "sha256": "1b8b103fa81f23c86c5d02b6a9eed32c98b3b5f6bc7e0a348e57bded56281f0c"
     },
     {
       "path": "README.zh-CN.md",
-      "bytes": 8029,
-      "sha256": "3518cc3462024e675306e2c289e8cab3ebc3a2a3854d9760bd13a1a54ea08edf"
+      "bytes": 8606,
+      "sha256": "558e91c6b80dbe5e515471b476c3acc491210c3a3ce4a83771e2016c6c3989fb"
     },
     {
       "path": "cases/hc1098/PARTIAL_RESULT.json",
@@ -4371,13 +4371,88 @@
     },
     {
       "path": "docs/REPRODUCIBILITY.md",
-      "bytes": 4666,
-      "sha256": "98a28b34cb2128516027145a46cf4a6e8250bf8c301410fc385a8db5f7499524"
+      "bytes": 5691,
+      "sha256": "83bc1077f2098c830c1f07b8b25a5251234069141e0bb099e3cb90db93f041bb"
     },
     {
       "path": "methods/README.md",
-      "bytes": 2964,
-      "sha256": "c38866fafab3c0f3b8f01dde77325737cb14bbd3bcd03734d0b6f92d4a1e724f"
+      "bytes": 3625,
+      "sha256": "a318f86e5c9cbe5afa9a87e00a7204917300ee641f141ae0afe574d14a3931b2"
+    },
+    {
+      "path": "methods/czech_masked_bounded_runtime/DEPENDENCY_PINS.json",
+      "bytes": 1343,
+      "sha256": "e721d40c58c708e1b718b2098da390ab3b052fe440c1f04c28da3e60d19f6543"
+    },
+    {
+      "path": "methods/czech_masked_bounded_runtime/MODULE_SHA256.json",
+      "bytes": 2330,
+      "sha256": "8e561b5e5160334ca16f96d78009703cc0d176a6d75a499d8f033277222d6ccc"
+    },
+    {
+      "path": "methods/czech_masked_bounded_runtime/README.md",
+      "bytes": 4637,
+      "sha256": "45d4b4a3c52c6361d504f1da6e0d48c6b6c3d7059a4147dc309ea176dd831427"
+    },
+    {
+      "path": "methods/czech_masked_bounded_runtime/THIRD_PARTY_NOTICES.md",
+      "bytes": 2242,
+      "sha256": "3a929368fe5119b16bc3ba675a8f6ffa1b06e62548b2a6f3a84716c43956362e"
+    },
+    {
+      "path": "methods/czech_masked_bounded_runtime/common.py",
+      "bytes": 5987,
+      "sha256": "6c17b6833bbc59519785831a9b86f11b887c0ea1dd2420689dc308403b8011f7"
+    },
+    {
+      "path": "methods/czech_masked_bounded_runtime/licenses/CC-BY-NC-SA-4.0.txt",
+      "bytes": 20850,
+      "sha256": "e66c269d4819aaab34b49ef5220c4ddab6756f21bb5180761a4eb8561f2b7bbd"
+    },
+    {
+      "path": "methods/czech_masked_bounded_runtime/licenses/MIT.txt",
+      "bytes": 1068,
+      "sha256": "fa9e8539a9046d070158a7cbb74c484704cbf2b162249e49210167277db5c678"
+    },
+    {
+      "path": "methods/czech_masked_bounded_runtime/licenses/UD_CZECH_PDTC_LICENSE.txt",
+      "bytes": 311,
+      "sha256": "58000085e737c098085f7b4bc0db9b5ae280c84dc09d88f065ac960c7527d5e2"
+    },
+    {
+      "path": "methods/czech_masked_bounded_runtime/provenance/ADAPTATIONS.json",
+      "bytes": 1371,
+      "sha256": "cc51afa8d4e5d2cf60516140f8e8aa727096564cd7b5cc9d76b7b682240a7190"
+    },
+    {
+      "path": "methods/czech_masked_bounded_runtime/provenance/ORIGINAL_RESOURCE_SUMMARY.json",
+      "bytes": 2608,
+      "sha256": "ece0689035c4afbfdfe4c3fd0090275d52d0a3a35ce63f28d3c079de75803606"
+    },
+    {
+      "path": "methods/czech_masked_bounded_runtime/provenance/PACKAGING_CHECK_SUMMARY.json",
+      "bytes": 4020,
+      "sha256": "7a6cbada45e288a6c0ae713701e47b92e923e76e956027a298938fff46f4a37f"
+    },
+    {
+      "path": "methods/czech_masked_bounded_runtime/replay_p05.py",
+      "bytes": 8028,
+      "sha256": "a1a974e8c692ca7905fce4f125a0ee7637b327f0477433dee3a7d20d3c0f78d0"
+    },
+    {
+      "path": "methods/czech_masked_bounded_runtime/runtime/FIXED_CONFIG.json",
+      "bytes": 818,
+      "sha256": "53aea196171de16e01a5dc7037f0fe8c6f8b26bbb32825e09bfba1861d389432"
+    },
+    {
+      "path": "methods/czech_masked_bounded_runtime/runtime/registered_runner.py",
+      "bytes": 19656,
+      "sha256": "e8358e69f4301918c5d4541979b1fd140c7691482ea809aa77ee9bcab4e80e91"
+    },
+    {
+      "path": "methods/czech_masked_bounded_runtime/verify_runtime.py",
+      "bytes": 10662,
+      "sha256": "6ef98df5afe28d4cbd6ca34ade5504c2c94f30f019ed7dcfa3d89524fe02ab85"
     },
     {
       "path": "methods/czech_wordless_masc/.gitignore",

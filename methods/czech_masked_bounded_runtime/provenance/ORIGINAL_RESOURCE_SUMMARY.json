@@ -1,0 +1,65 @@
+{
+  "code_license": "MIT",
+  "corpus_derived_data_license": "CC BY-NC-SA 4.0",
+  "fabricated_process_group_STOP_controls": 1,
+  "fabricated_shuffle_checks": 99,
+  "first_safe_lateness_seconds": 63.911745,
+  "first_safe_on_time": false,
+  "historical_negative_calls": 0,
+  "historical_registration_created": false,
+  "historical_target_calls": 0,
+  "limitations": "Original 234 probes are aggregate provenance only; the public interface QA is a separately labelled new check suite. Prospective historical 99-shuffle code was not executed. No historical source, transcription or result is bundled.",
+  "model_sentinel_cells_checked": 74465,
+  "original_P05": {
+    "qa_all_windows": 565,
+    "qa_baseline_known_characters_correct": 149,
+    "qa_byte_identical_original": true,
+    "qa_candidate_key_output_inverse_correct": 538,
+    "qa_full_nine_controls_retested": false,
+    "qa_fully_observed_windows": 451,
+    "qa_gold_read_after_output_lock": true,
+    "qa_gold_under_returned_key_forward_correct": 537,
+    "qa_known_characters": 538,
+    "qa_known_characters_correct": 537,
+    "qa_observed_key_types": 24,
+    "qa_observed_key_types_correct": 23,
+    "qa_restarts_retained": 18,
+    "qa_retained_failure_count": 1,
+    "qa_sentinel_windows": 114,
+    "qa_steps_per_restart": 100000
+  },
+  "original_P05_result_sha256": "859c9d13975c4fcd2572fa5ccc95c3381a13a5faa3aa64790cac13b37c59cb67",
+  "original_probe_checks": 234,
+  "original_probe_failed_checks": 0,
+  "original_public_P05_replays": 1,
+  "record_type": "Aggregate historical workflow record for target-free resource qualification; not rerun in this public package",
+  "source_runtime_files": [
+    {
+      "bytes": 19656,
+      "path": "registered_runner.py",
+      "sha256": "e8358e69f4301918c5d4541979b1fd140c7691482ea809aa77ee9bcab4e80e91"
+    },
+    {
+      "bytes": 818,
+      "path": "FIXED_CONFIG.json",
+      "sha256": "53aea196171de16e01a5dc7037f0fe8c6f8b26bbb32825e09bfba1861d389432"
+    },
+    {
+      "bytes": 3778,
+      "path": "generic_solver.cpp",
+      "sha256": "651b888047c939dd0ce6e0d84805b8a4beba45eb6b0d8ebfe3ab43eb60681276"
+    },
+    {
+      "bytes": 2125764,
+      "path": "quadgram_model.bin",
+      "sha256": "64f3e69c72e7e74f5c7fd3e41c90c42321ac46879d91f3b52d6f0182c4db8a64"
+    },
+    {
+      "bytes": 68,
+      "path": "training_frequency_order.txt",
+      "sha256": "156c666c1f2c72247c67b6607a05a08b5c63e56908b4ba724e3183c3844122be"
+    }
+  ],
+  "source_summary_schema": "ROOT_SAFE_FINAL_DIRECT_RUNTIME_RESOURCE_v1",
+  "source_summary_sha256": "dede0581ab80a225b4af881cd984a5bc9f2f43ab28dce64a5abf12e7ba6bd1eb"
+}

@@ -84,3 +84,26 @@ known-position streams. The 387 masked original characters are not reconstructed
 or graded. Returned-key/output forward consistency is 2,613/2,613; agreement
 with the known original is 2,612/2,613. Consult the module guide for fresh compiled
 replay, input rebuilding, the retained failure and profile/licence limits.
+## Fixed-budget masked runtime
+
+The [bounded runtime](../methods/czech_masked_bounded_runtime/README.md) exposes
+an explicitly registered numeric-only interface with fixed code/model/input
+pins, retained restarts, unknown-gap preservation and process limits. Run its
+target-free checks without a compiler or network:
+
+```sh
+python3 -B methods/czech_masked_bounded_runtime/verify_runtime.py
+```
+
+With an existing C++17 compiler on a little-endian system, replay the public
+synthetic P05 case into a new directory outside the repository:
+
+```sh
+python3 -B methods/czech_masked_bounded_runtime/replay_p05.py --output ../history-unlocked-bounded-p05
+```
+
+The P05 replay is a regression check and retains the original one-character
+failure. It is not another complete benchmark or a historical decipherment.
+The implemented 99-shuffle plan remains prospective; no historical comparison
+result is claimed. A caller-supplied authorization digest is a local contract
+assertion, not a credential or an independent admission decision.
