@@ -1,0 +1,8 @@
+{
+  "artifact": "producer/SHA256_MANIFEST.json",
+  "bytes": 12597,
+  "sha256": "837b25c52836a73d74ce76542bfda0b3f421333bb80ea046ac119e5267045127",
+  "files_verified": 80,
+  "mismatches": 0,
+  "scope": "Original private manifest hash/count only; original absolute paths and administrative payloads omitted"
+}

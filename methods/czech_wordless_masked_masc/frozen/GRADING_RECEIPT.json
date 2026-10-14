@@ -1,0 +1,9 @@
+{
+  "started_utc": "2026-10-13T23:48:36.588371+00:00",
+  "finished_utc": "2026-10-13T23:48:36.595158+00:00",
+  "inference_finished_utc": "2026-10-13T23:47:57.124826+00:00",
+  "all_nine_completed_before_grade": true,
+  "gold_first_read_by_grader_after_nine_complete": true,
+  "no_os_access_attestation": true,
+  "summary_sha256": "75d4e0d49b844921b82091f55f91e5079ba0c36d026995cd8f1a005e638eb1ba"
+}

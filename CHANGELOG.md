@@ -1,5 +1,12 @@
 # Changes
 
+## 14 October 2026 — code-core-v10
+
+- Added independently audited masked/gap Czech wordless substitution controls: 5/6 exact known-position streams, 2,612/2,613 known characters, 136/137 observed mappings; frequency baseline 575/2,613. All 387 masked original characters and the P05 one-character failure remain explicit.
+- Published portable source, frozen masks/seeds/configuration, all 162 restart outputs, offline checking, bounded fresh replay and pinned-corpus rebuilding. The original independent audit passed 3,156 checks; synthetic data retain CC BY-NC-SA 4.0.
+- Updated the English, Chinese, Czech and Japanese homepages and reproduction guide. Refreshed the 2,579-identity no-repeat snapshot with two new image fingerprints; all prior aliases and exclusions remain.
+- Preserved all 11 historical research entries and 857 scientific files; no new complete historical decipherment or external expert verdict is asserted.
+
 ## 14 October 2026 — code-core-v9
 
 - Added a portable Czech monoalphabetic-substitution solver and independently audited wordless synthetic controls:6/6 messages,2,400/2,400 characters,132/132 observed mappings; frequency-only baseline596/2,400.

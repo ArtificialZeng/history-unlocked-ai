@@ -1,0 +1,236 @@
+{
+  "started_utc": "2026-10-14T00:09:31.123211+00:00",
+  "completed_utc": "2026-10-14T00:09:33.178436+00:00",
+  "scope": "Frozen synthetic ASCII26 Czech wordless masked/gap-sentinel qualification only",
+  "status": "PASS_SYNTHETIC_ERROR_PROFILE_INDEPENDENT_DATA_MATH",
+  "aggregate": {
+    "original_characters": 3000,
+    "known_characters": 2613,
+    "known_characters_correct": 2612,
+    "exact_known_position_streams": 5,
+    "observed_key_types": 137,
+    "observed_key_types_correct": 136,
+    "candidate_forward_known_tokens_correct": 2613,
+    "candidate_forward_known_tokens_total": 2613,
+    "gold_forward_with_returned_key_correct": 2612,
+    "baseline_known_characters_correct": 575,
+    "baseline_exact_known_streams": 0,
+    "unknown_original_characters": 387,
+    "known_character_accuracy": 0.9996172981247609,
+    "baseline_known_character_accuracy": 0.2200535782625335
+  },
+  "positives": [
+    {
+      "id": "P01",
+      "original_length": 400,
+      "known_characters": 334,
+      "known_characters_correct": 334,
+      "exact_known_position_stream": true,
+      "observed_key_types": 22,
+      "observed_key_types_correct": 22,
+      "candidate_forward_known_tokens_correct": 334,
+      "gold_forward_with_returned_key_correct": 334,
+      "baseline_known_characters_correct": 20,
+      "score": -1913.1982035636902,
+      "score_per_quadgram": -5.299718015411885
+    },
+    {
+      "id": "P02",
+      "original_length": 400,
+      "known_characters": 332,
+      "known_characters_correct": 332,
+      "exact_known_position_stream": true,
+      "observed_key_types": 23,
+      "observed_key_types_correct": 23,
+      "candidate_forward_known_tokens_correct": 332,
+      "gold_forward_with_returned_key_correct": 332,
+      "baseline_known_characters_correct": 58,
+      "score": -1888.9792249202728,
+      "score_per_quadgram": -5.261780570808559
+    },
+    {
+      "id": "P03",
+      "original_length": 500,
+      "known_characters": 434,
+      "known_characters_correct": 434,
+      "exact_known_position_stream": true,
+      "observed_key_types": 23,
+      "observed_key_types_correct": 23,
+      "candidate_forward_known_tokens_correct": 434,
+      "gold_forward_with_returned_key_correct": 434,
+      "baseline_known_characters_correct": 136,
+      "score": -2458.852828502655,
+      "score_per_quadgram": -5.333737155103373
+    },
+    {
+      "id": "P04",
+      "original_length": 500,
+      "known_characters": 438,
+      "known_characters_correct": 438,
+      "exact_known_position_stream": true,
+      "observed_key_types": 21,
+      "observed_key_types_correct": 21,
+      "candidate_forward_known_tokens_correct": 438,
+      "gold_forward_with_returned_key_correct": 438,
+      "baseline_known_characters_correct": 146,
+      "score": -2453.4484524726868,
+      "score_per_quadgram": -5.276233231124057
+    },
+    {
+      "id": "P05",
+      "original_length": 600,
+      "known_characters": 538,
+      "known_characters_correct": 537,
+      "exact_known_position_stream": false,
+      "observed_key_types": 24,
+      "observed_key_types_correct": 23,
+      "candidate_forward_known_tokens_correct": 538,
+      "gold_forward_with_returned_key_correct": 537,
+      "baseline_known_characters_correct": 149,
+      "score": -2850.3000164031982,
+      "score_per_quadgram": -5.044778790094156
+    },
+    {
+      "id": "P06",
+      "original_length": 600,
+      "known_characters": 537,
+      "known_characters_correct": 537,
+      "exact_known_position_stream": true,
+      "observed_key_types": 24,
+      "observed_key_types_correct": 24,
+      "candidate_forward_known_tokens_correct": 537,
+      "gold_forward_with_returned_key_correct": 537,
+      "baseline_known_characters_correct": 66,
+      "score": -2797.95432138443,
+      "score_per_quadgram": -4.96091191734828
+    }
+  ],
+  "negatives": [
+    {
+      "id": "N01",
+      "observed_symbols": 334,
+      "candidate_forward_known_tokens_correct": 334,
+      "score": -2315.9413702487946,
+      "score_per_quadgram": -6.415350056090844,
+      "statistical_significance_estimate": null
+    },
+    {
+      "id": "N02",
+      "observed_symbols": 332,
+      "candidate_forward_known_tokens_correct": 332,
+      "score": -2345.3817553520203,
+      "score_per_quadgram": -6.533096811565516,
+      "statistical_significance_estimate": null
+    },
+    {
+      "id": "N03",
+      "observed_symbols": 434,
+      "candidate_forward_known_tokens_correct": 434,
+      "score": -2996.492000102997,
+      "score_per_quadgram": -6.499982646644245,
+      "statistical_significance_estimate": null
+    }
+  ],
+  "retained_failures": [
+    {
+      "id": "P05",
+      "incorrect_known_character_count": 1,
+      "incorrect_observed_mapping_count": 1,
+      "scope": "Known positions only; no example plaintext/key disclosed"
+    }
+  ],
+  "independent_trial_render_and_score_checks": 162,
+  "overall_outputs_checked": 9,
+  "producer_inventory_files_checked": 80,
+  "prospective_thresholds_pass": true,
+  "checks": 3156,
+  "failed_checks": [],
+  "producer_first_safe_lateness_seconds": 146.531442,
+  "referee_first_safe_lateness_seconds": 40.326905,
+  "no_new_solver_calls": true,
+  "no_solver_compilation": true,
+  "no_producer_self_checker_execution": true,
+  "no_historical_payload_input": true,
+  "no_OS_blindness_attestation": true,
+  "new_document_selection_scope": "Distinct explicit IDs plus exact full-sentence/whole-excerpt train exclusions; near duplicates, author, genre and collection independence unassessed",
+  "unknown_original_positions_recovered_or_graded": false,
+  "historical_exactness_claim": false,
+  "three_negative_significance_claim": false,
+  "historical_Source_or_SOLVE_admission": false,
+  "gap_scoring_denominators": [
+    {
+      "id": "P01",
+      "all_quadgram_windows": 361,
+      "sentinel_containing_windows": 106,
+      "fully_observed_windows": 255,
+      "constant_floor_penalty": -848.8520832061768
+    },
+    {
+      "id": "P02",
+      "all_quadgram_windows": 359,
+      "sentinel_containing_windows": 100,
+      "fully_observed_windows": 259,
+      "constant_floor_penalty": -800.8038520812988
+    },
+    {
+      "id": "P03",
+      "all_quadgram_windows": 461,
+      "sentinel_containing_windows": 112,
+      "fully_observed_windows": 349,
+      "constant_floor_penalty": -896.9003143310547
+    },
+    {
+      "id": "P04",
+      "all_quadgram_windows": 465,
+      "sentinel_containing_windows": 112,
+      "fully_observed_windows": 353,
+      "constant_floor_penalty": -896.9003143310547
+    },
+    {
+      "id": "P05",
+      "all_quadgram_windows": 565,
+      "sentinel_containing_windows": 114,
+      "fully_observed_windows": 451,
+      "constant_floor_penalty": -912.9163913726807
+    },
+    {
+      "id": "P06",
+      "all_quadgram_windows": 564,
+      "sentinel_containing_windows": 114,
+      "fully_observed_windows": 450,
+      "constant_floor_penalty": -912.9163913726807
+    },
+    {
+      "id": "N01",
+      "all_quadgram_windows": 361,
+      "sentinel_containing_windows": 106,
+      "fully_observed_windows": 255,
+      "constant_floor_penalty": -848.8520832061768
+    },
+    {
+      "id": "N02",
+      "all_quadgram_windows": 359,
+      "sentinel_containing_windows": 100,
+      "fully_observed_windows": 259,
+      "constant_floor_penalty": -800.8038520812988
+    },
+    {
+      "id": "N03",
+      "all_quadgram_windows": 461,
+      "sentinel_containing_windows": 112,
+      "fully_observed_windows": 349,
+      "constant_floor_penalty": -896.9003143310547
+    }
+  ],
+  "sentinel_model_cells_checked": 74465,
+  "record_type": "Summary of original independent within-project audit; no external human expert confirmation",
+  "checks_passed": 3156,
+  "checks_failed": 0,
+  "original_report_sha256": "d834103dbaa44ef090fbb1ca41713a626ea8c5e486b8363392186d509cc6281f",
+  "original_manifest_sha256": "f72bdf86360060d2a94278f2b8c294e85e5a9e2ac501039e5eeda74aa7517f33",
+  "producer_original_manifest_sha256": "837b25c52836a73d74ce76542bfda0b3f421333bb80ea046ac119e5267045127",
+  "producer_original_manifest_files": 80,
+  "referee_original_manifest_files": 13,
+  "independent_binary_replay_performed": false,
+  "packaging_replay_is_separate": true
+}

@@ -1,0 +1,59 @@
+{
+  "started_utc": "2026-10-13T23:45:53.375276+00:00",
+  "completed_utc": "2026-10-13T23:45:55.492378+00:00",
+  "normalization": "Pinned public builder parse: integer FORM rows; NFKD lowercase ASCII26; no word boundaries; train documents concatenated",
+  "train_stats": {
+    "newdoc_markers": 950,
+    "integer_FORM_rows": 218409,
+    "sentences": 12519,
+    "normalized_characters": 1016963,
+    "FORM_rows_yielding_no_letters": 35183,
+    "range_or_empty_node_rows_excluded": 655,
+    "documents": 950
+  },
+  "dev_stats": {
+    "newdoc_markers": 1006,
+    "integer_FORM_rows": 384431,
+    "FORM_rows_yielding_no_letters": 67228,
+    "sentences": 22666,
+    "normalized_characters": 1728830,
+    "range_or_empty_node_rows_excluded": 13396,
+    "documents": 1006
+  },
+  "train_dev_document_id_intersection_count": 0,
+  "model_4gram_occurrences": 1014113,
+  "model_4gram_types": 70119,
+  "model_smoothing": 0.01,
+  "model_byte_order": "little",
+  "model_sentinel_grams": "All quadgrams containing26 receive the same floor value; model trains on no gap markers",
+  "selected_document_count": 6,
+  "selected_documents_distinct": true,
+  "selected_documents_not_in_train": true,
+  "selected_documents_exclude_previous_six": true,
+  "selected_document_id_sha256": [
+    "fcd9efedfbcc616889bdce273def99229bcca5a039f7df86e1c68349fa2702e7",
+    "1310551d7b19ae6a2f06940516c6d0fe6c556ae836466363bd0e15ff84d9081c",
+    "95f69703104ef84d43f9836c2027f4375675aa139baccc0fcc756eb2c313e678",
+    "8769409f6f91170152c0e1b2bcadee047f93c19883cbf06d7e54d9be6a2918b3",
+    "f7cf8069b283a65a2a2ef8cd216a292da6e12690fdff5ea18769e1d20180d3ec",
+    "e937f2f3ec0f56af0a7837a97776a8166b567e24d8c2ee1bb268b52e068728ea"
+  ],
+  "old_document_ids_only_extracted": true,
+  "old_document_id_sha256": [
+    "57a0809cc846a48804176ca779515f3d2e12b5b8ada745bbbe399cd86ee13655",
+    "ef12cc8d9efcd9792d1b641bedb2bea5aeeea4e7dada07d3e7049113e5346c4e",
+    "fd1c07b3eb78a19822468049d0406650a5b660f6aa94da84e376598162dfaec1",
+    "902843ffba5119a44c07abb35ae30851b2846a63f434f972b7c6fc2eff5640da",
+    "15973713e1ce9becd6fcd0ae07ca6d0acb661c9298f3a9a8e254996b7943b3a8",
+    "551f93ac7a564f24cb57944593b750eff9e7b35c01f0d8ad918d39d8d6c1d5b8"
+  ],
+  "all_selected_full_normalized_sentences_absent_from_train": true,
+  "all_selected_whole_excerpts_absent_from_train_documents": true,
+  "rejections": {
+    "ineligible_document": 15
+  },
+  "limits": [
+    "Explicit document ID/full-sentence/whole-excerpt separation only; near duplicates, author and genre independence not established",
+    "Modern text has no evidence of historical domain or source error pattern equivalence"
+  ]
+}

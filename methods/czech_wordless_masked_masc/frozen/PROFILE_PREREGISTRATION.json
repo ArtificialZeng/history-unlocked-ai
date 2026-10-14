@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "created_utc": "2026-10-13T23:44:12.213098+00:00",
+  "scope": "Synthetic error-profile resource qualification only",
+  "root_lease_sha256": "2c63464c3d29376f4cb65b3b85cfa291cbe7ab078458eb343cd35af74e6cebb6",
+  "solver_cpp_sha256": "651b888047c939dd0ce6e0d84805b8a4beba45eb6b0d8ebfe3ab43eb60681276",
+  "training": "Pinned UD Czech train only, ASCII26 wordless quadgrams, same normalization and scoring as public builder; selected exact training sentences and train-document whole-excerpt matches excluded.",
+  "selection": "First six eligible dev document excerpts in corpus order, distinct document IDs, excluding prior six IDs; longest sentence-prefix concatenate until required length then truncate. Candidate documents rejected on exact selected sentence overlap or whole-excerpt occurrence in any train document. Selection and masks saved before any solver invocation.",
+  "lengths": [
+    400,
+    400,
+    500,
+    500,
+    600,
+    600
+  ],
+  "permutation_seeds": [
+    2026101421,
+    2026101422,
+    2026101423,
+    2026101424,
+    2026101425,
+    2026101426
+  ],
+  "mask_seeds": [
+    2026201421,
+    2026201422,
+    2026201423,
+    2026201424,
+    2026201425,
+    2026201426
+  ],
+  "mask_algorithm": "For each seeded RNG, choose 13 runs independently with randint(2,5); select from a shuffled list of valid starts such that runs neither overlap nor touch; choose 17 shuffled unused singleton positions disjoint from all runs. Each whole run collapses to one sentinel26; each singleton becomes sentinel26. Retain original coordinates and lengths in separate gold.",
+  "sentinel": 26,
+  "sentinel_semantics": "UNKNOWN gap marker, never a word-space or certified one-cipher-unit; core renders sentinel as space solely for scoring. Unknown run cardinalities withheld from inference.",
+  "no_wordboundaries": true,
+  "solver_budget": {
+    "restarts": 18,
+    "steps_per_restart": 100000,
+    "positive_count": 6,
+    "negative_count": 3
+  },
+  "negative_selection": "First three positive samples, fixed seed +200000; shuffle only observed cipher symbols while preserving all gap-marker locations and all observed symbol frequencies.",
+  "solver_seeds": "Per-sample permutation seed; negative seeds corresponding base seed+200000",
+  "baseline": "Train-only letter frequencies ranked against cipher observed counts, ignoring sentinel; grade only original known positions; ties numerical ascending.",
+  "grade_after_all_nine_finished": true,
+  "major_method_revision_or_rerun_authorized": false,
+  "pass_rule": {
+    "exact_known_position_streams_min": 5,
+    "positive_samples": 6,
+    "aggregate_known_position_accuracy_min": 0.99,
+    "selected_candidate_key_forward_known_positions_all_exact": true
+  },
+  "metrics": [
+    "exact known-position stream recovery",
+    "observed chars correct/total",
+    "observed key correct",
+    "returned-key forward known tokens",
+    "frequency baseline"
+  ],
+  "claim_limits": [
+    "Modern synthetic text only",
+    "No historical source/matched-case admission",
+    "Three negatives carry no historical probability/significance",
+    "Code input evidence only; no OS attestation or claim that agent never saw synthetic gold"
+  ],
+  "research_stop_utc": "2026-10-13T23:57:45.681656+00:00",
+  "seal_due_utc": "2026-10-13T23:59:45.681656+00:00"
+}

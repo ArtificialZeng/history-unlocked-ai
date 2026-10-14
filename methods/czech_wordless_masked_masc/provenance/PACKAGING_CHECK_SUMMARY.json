@@ -1,0 +1,36 @@
+{
+  "completed_utc": "2026-10-14T00:48:04.800208+00:00",
+  "checks_passed": 19,
+  "checks_failed": 0,
+  "deterministic_rebuild": {
+    "model_sha256": "64f3e69c72e7e74f5c7fd3e41c90c42321ac46879d91f3b52d6f0182c4db8a64",
+    "byte_identical_model_frequency_and_nine_cipher_streams": true,
+    "gold_controls_semantically_identical": true,
+    "only_timestamps_differ": true,
+    "raw_files_reused_from_exact_public_UD_pins": 2,
+    "network_used": false,
+    "new_inference_runs": 0
+  },
+  "fresh_P05_replay": {
+    "compile_exit_code": 0,
+    "source_sha256": "651b888047c939dd0ce6e0d84805b8a4beba45eb6b0d8ebfe3ab43eb60681276",
+    "restarts": 18,
+    "steps": 100000,
+    "retained_trials": 18,
+    "output_sha256": "859c9d13975c4fcd2572fa5ccc95c3381a13a5faa3aa64790cac13b37c59cb67",
+    "bytes_identical_to_original": true,
+    "known_characters_correct": 537,
+    "known_characters": 538,
+    "observed_mappings_correct": 23,
+    "observed_mappings": 24,
+    "candidate_key_forward_correct": 538,
+    "gold_recovery_forward_correct": 537,
+    "retained_known_errors": 1,
+    "whole_original_profile_retested": false,
+    "original_metrics_changed": false
+  },
+  "no_historical_payload_read_or_inference": true,
+  "no_tuning": true,
+  "one_fresh_solver_process_only": true,
+  "record_type": "Public path-free summary of separate packaging validation; no new historical result or new independent referee audit"
+}

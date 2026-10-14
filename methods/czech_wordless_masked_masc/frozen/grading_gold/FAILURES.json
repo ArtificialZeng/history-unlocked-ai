@@ -1,0 +1,15 @@
+{
+  "created_utc": "2026-10-13T23:50:34.848184+00:00",
+  "failure_count": 1,
+  "wrong_observed_positions": [
+    {
+      "id": "P05",
+      "cipher_token_index": 518,
+      "original_plain_index": 547,
+      "cipher_symbol": 4,
+      "expected_letter": "x",
+      "returned_letter": "w"
+    }
+  ],
+  "no_tuning_or_rerun_triggered": true
+}

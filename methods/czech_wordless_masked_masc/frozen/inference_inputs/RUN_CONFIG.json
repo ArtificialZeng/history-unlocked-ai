@@ -1,0 +1,102 @@
+{
+  "created_utc": "2026-10-13T23:45:55.492238+00:00",
+  "restarts": 18,
+  "steps_per_restart": 100000,
+  "model_path": "inference_inputs/quadgram_model.bin",
+  "frequency_path": "inference_inputs/training_frequency_order.txt",
+  "controls": [
+    {
+      "id": "P01",
+      "kind": "positive",
+      "solver_seed": 2026101421,
+      "cipher_path": "inference_inputs/P01.cipher.txt",
+      "cipher_sha256": "b5fadfff1c0f508f4cb7a82e0706ac11fa3a50687eee738dfcee818eeb66c9f6",
+      "tokens": 364,
+      "gap_marker_count": 30
+    },
+    {
+      "id": "P02",
+      "kind": "positive",
+      "solver_seed": 2026101422,
+      "cipher_path": "inference_inputs/P02.cipher.txt",
+      "cipher_sha256": "65804f34cf8e629a1dc13797b6f0bfea54b64b2e97474fa80ba9d3ae74931cb7",
+      "tokens": 362,
+      "gap_marker_count": 30
+    },
+    {
+      "id": "P03",
+      "kind": "positive",
+      "solver_seed": 2026101423,
+      "cipher_path": "inference_inputs/P03.cipher.txt",
+      "cipher_sha256": "80727af8ef618d4ea38f75c4a6e329af4736bfcd2b882047586ae01c01d451fb",
+      "tokens": 464,
+      "gap_marker_count": 30
+    },
+    {
+      "id": "P04",
+      "kind": "positive",
+      "solver_seed": 2026101424,
+      "cipher_path": "inference_inputs/P04.cipher.txt",
+      "cipher_sha256": "ff643b5f2095e32cd4b8bf606dcd5d3ba499483e6327fa51ae625b5640f1fac0",
+      "tokens": 468,
+      "gap_marker_count": 30
+    },
+    {
+      "id": "P05",
+      "kind": "positive",
+      "solver_seed": 2026101425,
+      "cipher_path": "inference_inputs/P05.cipher.txt",
+      "cipher_sha256": "ecab97eb59c4d79427f7d40eece61faa8c86d15529c2fc50585c648d7e8b6e95",
+      "tokens": 568,
+      "gap_marker_count": 30
+    },
+    {
+      "id": "P06",
+      "kind": "positive",
+      "solver_seed": 2026101426,
+      "cipher_path": "inference_inputs/P06.cipher.txt",
+      "cipher_sha256": "6e3077b6700d63bba5d02a23fba3a3f0a2c7257bfaf80a8c7e26fd117573e557",
+      "tokens": 567,
+      "gap_marker_count": 30
+    },
+    {
+      "id": "N01",
+      "kind": "frequency_preserving_observed_symbol_shuffle",
+      "solver_seed": 2026301421,
+      "matched_positive": "P01",
+      "cipher_path": "inference_inputs/N01.cipher.txt",
+      "cipher_sha256": "f9aecbfd1d8001ecd8b89978ec95c72788e495ba3a8883f6bc879a94f66ac16e",
+      "tokens": 364,
+      "gap_marker_count": 30,
+      "histogram_exactly_preserved": true,
+      "gap_locations_exactly_preserved": true
+    },
+    {
+      "id": "N02",
+      "kind": "frequency_preserving_observed_symbol_shuffle",
+      "solver_seed": 2026301422,
+      "matched_positive": "P02",
+      "cipher_path": "inference_inputs/N02.cipher.txt",
+      "cipher_sha256": "4038e208f5b1dff5eb7bee6d55993b6a1b1f8e68cf70742087fd6ea5f6653023",
+      "tokens": 362,
+      "gap_marker_count": 30,
+      "histogram_exactly_preserved": true,
+      "gap_locations_exactly_preserved": true
+    },
+    {
+      "id": "N03",
+      "kind": "frequency_preserving_observed_symbol_shuffle",
+      "solver_seed": 2026301423,
+      "matched_positive": "P03",
+      "cipher_path": "inference_inputs/N03.cipher.txt",
+      "cipher_sha256": "e1c91a0f9dd1a8b540a837a704bdcbfb2089d5e78213382562e501bbba9a8e67",
+      "tokens": 464,
+      "gap_marker_count": 30,
+      "histogram_exactly_preserved": true,
+      "gap_locations_exactly_preserved": true
+    }
+  ],
+  "unknown_sentinel": 26,
+  "sentinel_semantics": "UNKNOWN gap marker, not a wordspace; variable-length original gaps are not certified cipher units",
+  "historical_inputs": 0
+}

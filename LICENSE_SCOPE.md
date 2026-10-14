@@ -30,3 +30,9 @@ CC BY-NC-SA 4.0, including its noncommercial and share-alike conditions. Raw
 corpus files are omitted. See
 `methods/czech_wordless_masc/THIRD_PARTY_NOTICES.md` for exact upstream attribution,
 source revisions, modifications and the individual file licence scope.
+
+The masked/gap Czech wordless module has the same split: original program code
+and documentation are MIT; UD_Czech-PDTC-derived models, text fixtures, masked
+ciphertexts, gold and result data remain CC BY-NC-SA4.0. Its own
+`methods/czech_wordless_masked_masc/THIRD_PARTY_NOTICES.md` records the
+upstream revision, modifications and file-level licence scope.

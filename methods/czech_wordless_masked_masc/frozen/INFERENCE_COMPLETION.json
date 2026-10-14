@@ -1,0 +1,9 @@
+{
+  "created_utc": "2026-10-13T23:47:57.125062+00:00",
+  "all_nine_finished_successfully": true,
+  "processes_finished": 9,
+  "run_receipts_sha256": "a4890c51b2c185cc9e87ab2fef9f0d9217b9007c31ac3c70e553f6f86b18c762",
+  "core_sha256": "651b888047c939dd0ce6e0d84805b8a4beba45eb6b0d8ebfe3ab43eb60681276",
+  "binary_sha256": "c0e3178b32afc26847c89be5947319c96c4165b80984472aa3473e5e22dd097f",
+  "status": "READY_FOR_GRADING"
+}

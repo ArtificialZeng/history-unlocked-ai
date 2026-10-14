@@ -13,7 +13,7 @@ Fresh primary status, exact-item prior review, source qualification, matched met
 
 Snapshot display date: 14 October 2026. The snapshot contains **2,579 registered
 identities**, preserving all previous exclusions and refreshing observed source
-locators and image fingerprints. No new identity was added in code-core-v9;
+locators and image fingerprints. No new identity was added in code-core-v10;
 58 were added since code-core-v3. These are administrative
 identities, not solved or attempted cipher counts. [PROGRESS.json](PROGRESS.json)
 tracks the 11-entry portfolio separately. Frozen attempts remain frozen.
@@ -73,3 +73,10 @@ known-answer controls without word boundaries and an independently reviewed
 6/6 exact result. This qualifies only its documented clean modern-Czech
 synthetic profile; it does not admit a historical target or clear its source
 ambiguities.
+
+The [masked/gap wordless module](../methods/czech_wordless_masked_masc/README.md)
+adds six new known-answer controls, with 5/6 exact known-position streams and
+2,612/2,613 known characters. Its independent 3,156-check audit preserves one
+wrong known character and excludes 387 masked original characters from recovery
+claims. Code-core-v10 adds two observed image fingerprints to the registry
+without removing any previous exclusion or admitting a historical target.

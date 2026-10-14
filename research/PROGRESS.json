@@ -1,12 +1,12 @@
 {
-  "updated_utc": "2026-10-13T23:15:30.216087+00:00",
+  "updated_utc": "2026-10-14T00:38:21.300099Z",
   "portfolio_entries": 11,
   "new_complete_historical_solutions_since_previous_code_release": 0,
   "registered_no_repeat_identities": 2579,
   "main_ledger_rows": 47,
   "screening_ledger_rows": 1495,
   "counts_are_administrative_not_solved_counts": true,
-  "scope": "Eleven existing research entries plus independently audited wordless Czech synthetic method and refreshed source-identity fingerprints; no new complete historical reading",
+  "scope": "Eleven existing research entries plus clean and masked wordless Czech synthetic methods; current no-repeat identity metadata; no new complete historical reading",
   "officially_confirmed_case_ids": [
     "hcportal:615"
   ],
@@ -22,7 +22,7 @@
   "latest_screening_report": "SCREENING_UPDATE.json",
   "new_complete_historical_solutions_in_this_update": 0,
   "added_registry_identities_since_code_core_v3": 58,
-  "release": "code-core-v9",
+  "release": "code-core-v10",
   "public_display_date": "2026-10-14",
   "current_primary_inventory": {
     "rows": 1875,
@@ -46,7 +46,7 @@
     "report": "CATALOGUE_MAPPING.json"
   },
   "latest_source_checks": "SOURCE_CHECKS.json",
-  "latest_method": "methods/czech_wordless_masc/README.md",
+  "latest_method": "methods/czech_wordless_masked_masc/README.md",
   "wordless_czech_synthetic_method": {
     "positive_controls": 6,
     "exact_messages": 6,
@@ -59,5 +59,24 @@
     "profile": "Clean modern Czech, accent-folded ASCII26, no word spaces, message lengths200/400/600",
     "historical_target_trials": 0,
     "calibrated_historical_success_probability": null
-  }
+  },
+  "masked_wordless_czech_synthetic_method": {
+    "positive_controls": 6,
+    "exact_known_position_streams": 5,
+    "original_characters": 3000,
+    "known_characters_correct": 2612,
+    "known_characters_total": 2613,
+    "unknown_original_characters_not_graded": 387,
+    "observed_mappings_correct": 136,
+    "observed_mappings_total": 137,
+    "frequency_only_known_characters_correct": 575,
+    "candidate_key_output_forward_consistency": 2613,
+    "gold_recovery_forward_consistency": 2612,
+    "independent_checks": 3156,
+    "retained_failure": "P05: one known character, one observed mapping",
+    "profile": "Modern Czech ASCII26, no word spaces, explicit collapsed unknown-gap sentinel, original lengths400/500/600",
+    "historical_target_trials": 0,
+    "calibrated_historical_success_probability": null
+  },
+  "source_fingerprints_added_in_this_update": 2
 }

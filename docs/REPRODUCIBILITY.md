@@ -67,3 +67,20 @@ portable source code and frozen known-answer evidence for six messages of
 replay are separate from the nine historical-case verification commands above.
 Consult the module guide for exact commands, corpus attribution and profile
 limits. Synthetic recovery does not add a solved historical case to the portfolio.
+
+## Czech controls with masks and unknown spans
+
+The [masked wordless module](../methods/czech_wordless_masked_masc/README.md)
+contains six new synthetic messages, fixed source-position masks and three
+histogram/gap-preserving shuffled controls. From the repository root:
+
+```sh
+python3 -B methods/czech_wordless_masked_masc/verify_frozen.py
+```
+
+This offline artifact check is separate from historical-case replay. Reported
+recovery concerns known positions only: 2,612/2,613 characters and 5/6 exact
+known-position streams. The 387 masked original characters are not reconstructed
+or graded. Returned-key/output forward consistency is 2,613/2,613; agreement
+with the known original is 2,612/2,613. Consult the module guide for fresh compiled
+replay, input rebuilding, the retained failure and profile/licence limits.

@@ -1,0 +1,35 @@
+{
+  "upstream_repository": "https://github.com/UniversalDependencies/UD_Czech-PDTC",
+  "commit": "6d206ec7d337a7f76f34ddfc82893389cabbd76d",
+  "license": "CC-BY-NC-SA-4.0",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_Czech-PDTC/6d206ec7d337a7f76f34ddfc82893389cabbd76d/cs_pdtc-ud-train-la.conllu",
+      "bytes": 24175776,
+      "sha256": "b2683cba24c059d30505dc5678d20581ff0bf1d4b73508b1b33e163c6812a2f7",
+      "access_utc": "2026-10-05T00:59:40.293251+00:00",
+      "filename": "cs_pdtc-ud-train-la.conllu"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_Czech-PDTC/6d206ec7d337a7f76f34ddfc82893389cabbd76d/cs_pdtc-ud-dev.conllu",
+      "bytes": 50117913,
+      "sha256": "73a19117ff39411b1134840c3a0383a37f5dd89a2e07b3f8c0a8821d8d37d4bc",
+      "access_utc": "2026-10-05T00:59:49.717420+00:00",
+      "filename": "cs_pdtc-ud-dev.conllu"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_Czech-PDTC/6d206ec7d337a7f76f34ddfc82893389cabbd76d/LICENSE.txt",
+      "bytes": 311,
+      "sha256": "58000085e737c098085f7b4bc0db9b5ae280c84dc09d88f065ac960c7527d5e2",
+      "access_utc": "2026-10-05T00:59:32.942503+00:00",
+      "filename": "LICENSE.txt"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_Czech-PDTC/6d206ec7d337a7f76f34ddfc82893389cabbd76d/README.md",
+      "bytes": 16309,
+      "sha256": "a028b84ef29bb06e67faa6406603bf59595c50305a1cde08b8e37b7e108fdeb5",
+      "access_utc": "2026-10-05T00:59:32.991910+00:00",
+      "filename": "README.md"
+    }
+  ]
+}

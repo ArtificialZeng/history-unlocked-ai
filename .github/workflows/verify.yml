@@ -23,3 +23,5 @@ jobs:
         run: node scripts/verify_methods.mjs
       - name: Verify frozen wordless Czech substitution controls
         run: python -B methods/czech_wordless_masc/verify_frozen.py
+      - name: Verify frozen masked wordless Czech controls
+        run: python -B methods/czech_wordless_masked_masc/verify_frozen.py

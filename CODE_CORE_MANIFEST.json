@@ -1,13 +1,13 @@
 {
-  "version": "code-core-v9",
-  "created_at_utc": "2026-10-13T23:27:10.900477+00:00",
+  "version": "code-core-v10",
+  "created_at_utc": "2026-10-14T00:51:09.377552+00:00",
   "scope": "Reproducible code, necessary evidence data, methods and brief promotion; no private correspondence or media submissions.",
   "manifest_self_excluded": true,
   "files": [
     {
       "path": ".github/workflows/verify.yml",
-      "bytes": 1090,
-      "sha256": "8c057d56b25ef4eb44c850451d16846e84e3bcd7de670af47fb6b0f400f75a3b"
+      "bytes": 1224,
+      "sha256": "eb3709b592aa4b0941929307b151b6bd4e170687180f91ceb30ba30695c8ca74"
     },
     {
       "path": ".gitignore",
@@ -16,8 +16,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 6292,
-      "sha256": "b1ab2ecd440de2efae5a757e171c4750599405978a86485594d2790ce1acacab"
+      "bytes": 7225,
+      "sha256": "629f31b6721a3480ab5e38e2a6b799411ba9d71669ed8d7806d9c74b79d05b34"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -31,28 +31,28 @@
     },
     {
       "path": "LICENSE_SCOPE.md",
-      "bytes": 1893,
-      "sha256": "23500f92cd875fced32e9541742651ef72e341ebfcbe8244227fd8548d237669"
+      "bytes": 2252,
+      "sha256": "35e44d7b7c5c8c67515b08e47717af192bb6bc639dca5beff7da927ac775fbbc"
     },
     {
       "path": "README.cs.md",
-      "bytes": 7349,
-      "sha256": "71a5e2ecac45e91352283cd93f78a86311d290d078a254d04b99e49f3b607d8f"
+      "bytes": 8221,
+      "sha256": "e9ce1d25454ca2e4fe19bdc17b4fb89b240afb22d8dc38259c1e79b50a28a02c"
     },
     {
       "path": "README.ja.md",
-      "bytes": 7962,
-      "sha256": "be9ffe580e8dfdb0917b53de2eb22e3cfeb1c2c56df30a1c6ef698ffbd947cda"
+      "bytes": 8896,
+      "sha256": "850dfb3d70af9120655c8f33169f7569816bc926eb24b816f28fbc99c92e5b21"
     },
     {
       "path": "README.md",
-      "bytes": 7972,
-      "sha256": "e6227d447bb645ea08bea1c04239e2f1cb5eb27cb2d5412faf883dd99de483a6"
+      "bytes": 8790,
+      "sha256": "c49d543ce5fb0a334f29c7f3b7c493b2815ba4c65208f029c62ef8f6028be596"
     },
     {
       "path": "README.zh-CN.md",
-      "bytes": 7265,
-      "sha256": "67f4e9defd563875e35941b6d870e21e66acf2379645b6964643076ef9d618bd"
+      "bytes": 8029,
+      "sha256": "3518cc3462024e675306e2c289e8cab3ebc3a2a3854d9760bd13a1a54ea08edf"
     },
     {
       "path": "cases/hc1098/PARTIAL_RESULT.json",
@@ -4371,13 +4371,13 @@
     },
     {
       "path": "docs/REPRODUCIBILITY.md",
-      "bytes": 3847,
-      "sha256": "b9dfa1e13efb6dabbd3d6e591ddb50bafb71b1f119716d7e9b4c1138f7409615"
+      "bytes": 4666,
+      "sha256": "98a28b34cb2128516027145a46cf4a6e8250bf8c301410fc385a8db5f7499524"
     },
     {
       "path": "methods/README.md",
-      "bytes": 2034,
-      "sha256": "1bca38f2bd2676f0bb3200be51b31e130837e78353afb38386c36c98cd8a5e7b"
+      "bytes": 2964,
+      "sha256": "c38866fafab3c0f3b8f01dde77325737cb14bbd3bcd03734d0b6f92d4a1e724f"
     },
     {
       "path": "methods/czech_wordless_masc/.gitignore",
@@ -4660,6 +4660,311 @@
       "sha256": "4edd7edd4bd089625e732c35ff08a41cf72166371c93a5cf424548ff4297758b"
     },
     {
+      "path": "methods/czech_wordless_masked_masc/MODULE_SHA256.json",
+      "bytes": 10277,
+      "sha256": "2a6f7b46cfb6105197111d93260d4345eca8fd509ac3f5959386183f95a84b5d"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/README.md",
+      "bytes": 8216,
+      "sha256": "313b7fc54cf265eb130d07f5055219093cce106139926796ed8839c699c48182"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/REBUILD_EXCLUSIONS.json",
+      "bytes": 913,
+      "sha256": "a4418e55d183d6f5e49c1a8d47887823e23afa5c77811230369abac70610f24e"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/THIRD_PARTY_NOTICES.md",
+      "bytes": 3446,
+      "sha256": "75e60794e8711a2ff2888da58f485c4a23056ee2276fbc3ed492218d8d6c6554"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/build_synthetic.py",
+      "bytes": 11976,
+      "sha256": "d8d27c53a4479bfe6a2d7294736248d6188a841828e0d2090c04d9a67fd198f1"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/common.py",
+      "bytes": 1191,
+      "sha256": "03d1c6be2091b0704a06500a744f3f6ed4d49cee4f5135277903272b14619fe5"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/fetch_corpus.py",
+      "bytes": 1420,
+      "sha256": "a1167c5189d5e3adb337732646697a0179300bdcf2e1a5879d74f8977dcc9deb"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/BUILD_METADATA.json",
+      "bytes": 2642,
+      "sha256": "420c645744070b48deb9b9e453991c85514d97afc95ccb788cdbb249e429b258"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/GRADING_RECEIPT.json",
+      "bytes": 398,
+      "sha256": "01b2ad0f294b9ff4c5cd65c65f2835de19227b3ba8fe5bbf57d3dd819c40e5b0"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/INFERENCE_COMPLETION.json",
+      "bytes": 423,
+      "sha256": "af37ab5c40f57f5b7364220e698d179f603e4d16c529b36ae99ea5152a3d4c7b"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/INFERENCE_PINS.json",
+      "bytes": 2175,
+      "sha256": "f7fedad84815466869e705d51b5f54e9ab7ac3b7e52b684e6c59eddef50a9790"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/METRICS.json",
+      "bytes": 9568,
+      "sha256": "75d4e0d49b844921b82091f55f91e5079ba0c36d026995cd8f1a005e638eb1ba"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/PROFILE_PREREGISTRATION.json",
+      "bytes": 3321,
+      "sha256": "54c1c0017e4490a5b29b23ccc45222ae556d2ffeb385c37aeb7a640f53ed5ffc"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/grading_gold/FAILURES.json",
+      "bytes": 339,
+      "sha256": "a6255a61d93ea6f468c38a880808ef2b6ad1c3425c06c1dcfc7e15d406f7349d"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/grading_gold/gold.json",
+      "bytes": 124737,
+      "sha256": "52e9bd6bdc5fd0ab23a96630ebaa53c7fad53d7e5dd90d7e3ad219ae6f767d2f"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_inputs/N01.cipher.txt",
+      "bytes": 925,
+      "sha256": "f9aecbfd1d8001ecd8b89978ec95c72788e495ba3a8883f6bc879a94f66ac16e"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_inputs/N02.cipher.txt",
+      "bytes": 941,
+      "sha256": "4038e208f5b1dff5eb7bee6d55993b6a1b1f8e68cf70742087fd6ea5f6653023"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_inputs/N03.cipher.txt",
+      "bytes": 1257,
+      "sha256": "e1c91a0f9dd1a8b540a837a704bdcbfb2089d5e78213382562e501bbba9a8e67"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_inputs/P01.cipher.txt",
+      "bytes": 925,
+      "sha256": "b5fadfff1c0f508f4cb7a82e0706ac11fa3a50687eee738dfcee818eeb66c9f6"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_inputs/P02.cipher.txt",
+      "bytes": 941,
+      "sha256": "65804f34cf8e629a1dc13797b6f0bfea54b64b2e97474fa80ba9d3ae74931cb7"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_inputs/P03.cipher.txt",
+      "bytes": 1257,
+      "sha256": "80727af8ef618d4ea38f75c4a6e329af4736bfcd2b882047586ae01c01d451fb"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_inputs/P04.cipher.txt",
+      "bytes": 1250,
+      "sha256": "ff643b5f2095e32cd4b8bf606dcd5d3ba499483e6327fa51ae625b5640f1fac0"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_inputs/P05.cipher.txt",
+      "bytes": 1503,
+      "sha256": "ecab97eb59c4d79427f7d40eece61faa8c86d15529c2fc50585c648d7e8b6e95"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_inputs/P06.cipher.txt",
+      "bytes": 1485,
+      "sha256": "6e3077b6700d63bba5d02a23fba3a3f0a2c7257bfaf80a8c7e26fd117573e557"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_inputs/RUN_CONFIG.json",
+      "bytes": 3495,
+      "sha256": "b18fc8f0db450e05523b1d3bc3ed70972ff79e8bcc4a59dc2bcebe34c97eb4e6"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_inputs/quadgram_model.bin",
+      "bytes": 2125764,
+      "sha256": "64f3e69c72e7e74f5c7fd3e41c90c42321ac46879d91f3b52d6f0182c4db8a64"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_inputs/training_frequency_order.txt",
+      "bytes": 68,
+      "sha256": "156c666c1f2c72247c67b6607a05a08b5c63e56908b4ba724e3183c3844122be"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_outputs/N01.frequency_baseline.json",
+      "bytes": 676,
+      "sha256": "f80c79005317c4f33c99ba88d10c7a955d95a893c9d2ca6a41525ccdc8b54cd2"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_outputs/N01.sa.json",
+      "bytes": 9443,
+      "sha256": "d4488d9759a8d30df17b34d7fbe255395b0b1ac142a57be77b32d38ec6811a11"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_outputs/N02.frequency_baseline.json",
+      "bytes": 674,
+      "sha256": "664220524b450ad3bdd2e79c718a38f2b969e5fe0596ea4569e53ac90425d25f"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_outputs/N02.sa.json",
+      "bytes": 9405,
+      "sha256": "c923bd22da2ca0b3fbd0b22e0bd2c4589d8e834191f9e3a5efe49295ab055211"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_outputs/N03.frequency_baseline.json",
+      "bytes": 776,
+      "sha256": "534d11dc09f2ae683dbc20519924e3f0c5b109444c6bd659b6f91c24bee7b010"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_outputs/N03.sa.json",
+      "bytes": 11342,
+      "sha256": "dc3fbf33a8e30341d001d31aa57ad54dec6dd19bcfc32107e5d899763349e557"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_outputs/P01.frequency_baseline.json",
+      "bytes": 676,
+      "sha256": "3abcf2820d4961aa86fba7d37bebb3070a2b8f63f350aed943d14225b825e411"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_outputs/P01.sa.json",
+      "bytes": 9443,
+      "sha256": "4620ccc37a595f5efaf5a547850210234de0c82aa1e763d5ee5ad87e99658440"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_outputs/P02.frequency_baseline.json",
+      "bytes": 674,
+      "sha256": "6771fccfdb25cbce0fb2731cda7cf3203c75c2f0acf8a05480e7e874cd2d9048"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_outputs/P02.sa.json",
+      "bytes": 9405,
+      "sha256": "971f547cdf9cbd20ce63897e1010aa2fed13424213bac25331cb579e2a1b59c2"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_outputs/P03.frequency_baseline.json",
+      "bytes": 776,
+      "sha256": "6185b8200724ca83c1c7158c1a011792eae22932c33d6d18b337c374c6f5eef8"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_outputs/P03.sa.json",
+      "bytes": 11325,
+      "sha256": "db31fa72b81c320d8dfccfa4d8d089c0f8083223d9c2455ac3d932695d78462f"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_outputs/P04.frequency_baseline.json",
+      "bytes": 780,
+      "sha256": "e29fdb97bc40c66583aa01c3a9017a4b41792be8a7ba3c4506a2f5edea59c15b"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_outputs/P04.sa.json",
+      "bytes": 11418,
+      "sha256": "3d1a9c39ead8a94e455fa67f4a00a5b79d5c723e5dbd643c4a41613f1badae15"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_outputs/P05.frequency_baseline.json",
+      "bytes": 880,
+      "sha256": "159b6a1f181038fac0847eb84f09a9ae70a71e55d25d6daa10d3fedeff324d0b"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_outputs/P05.sa.json",
+      "bytes": 13318,
+      "sha256": "859c9d13975c4fcd2572fa5ccc95c3381a13a5faa3aa64790cac13b37c59cb67"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_outputs/P06.frequency_baseline.json",
+      "bytes": 879,
+      "sha256": "d0204a977b88fc4623b8b50e8378b5bbc2debd32e6f6c463ef16084685d1bea9"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/frozen/inference_outputs/P06.sa.json",
+      "bytes": 13300,
+      "sha256": "96f980cc5539289a632f2b319b759a18636a4d12f5abd07bb4b17e924aefe913"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/generic_solver.cpp",
+      "bytes": 3778,
+      "sha256": "651b888047c939dd0ce6e0d84805b8a4beba45eb6b0d8ebfe3ab43eb60681276"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/grade_controls.py",
+      "bytes": 9376,
+      "sha256": "ff2517f9685a3b69eeee39c23225a9407300b14ba5f02095294e7a293d4cf7c3"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/licenses/CC-BY-NC-SA-4.0.txt",
+      "bytes": 20850,
+      "sha256": "e66c269d4819aaab34b49ef5220c4ddab6756f21bb5180761a4eb8561f2b7bbd"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/licenses/MIT.txt",
+      "bytes": 1068,
+      "sha256": "fa9e8539a9046d070158a7cbb74c484704cbf2b162249e49210167277db5c678"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/licenses/UD_CZECH_PDTC_LICENSE.txt",
+      "bytes": 311,
+      "sha256": "58000085e737c098085f7b4bc0db9b5ae280c84dc09d88f065ac960c7527d5e2"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/masked_profile.py",
+      "bytes": 3593,
+      "sha256": "23fb90f5075a44af2139a8205786ab6a7b20424dbe8d991b7e0e09900783619c"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/provenance/INDEPENDENT_AUDIT_SUMMARY.json",
+      "bytes": 8160,
+      "sha256": "7d6852a68e5ae48d8ae944763ebaca341c494cdb33f934c112c3a01d55515bce"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/provenance/LICENSE_ACCESS_RECEIPT.json",
+      "bytes": 380,
+      "sha256": "afd12cecbb59f0dfa9fcb23bcc2d747e7a27073fc437488bf97bc519002487fc"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/provenance/ORIGINAL_ARTIFACT_HASHES.json",
+      "bytes": 26206,
+      "sha256": "9eeb49b3fe02678389c2f5e8ceef99a1a9144659a3307cfa979af451632cd5c1"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/provenance/ORIGINAL_EXECUTION_SUMMARY.json",
+      "bytes": 5534,
+      "sha256": "303d377ea5f85fb09f8700a83d517ffc840c6f671f6530ba1f74f842139da22d"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/provenance/ORIGINAL_PRODUCER_MANIFEST_PIN.json",
+      "bytes": 308,
+      "sha256": "416d27e7769ee9c2066782a11e1121e6de178ca57df37c07b16503372146541d"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/provenance/ORIGINAL_REFEREE_MANIFEST_PIN.json",
+      "bytes": 306,
+      "sha256": "cc97317d62cde2f5f805721f9c930fbb545f46e91617cdc6c7ff924403a1c87f"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/provenance/PACKAGING_CHECK_SUMMARY.json",
+      "bytes": 1413,
+      "sha256": "96eff97a3b657a8c60c0f580c876ce49bb33014e4cc8972cf2e5b8252fcd2dd1"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/run_inference.py",
+      "bytes": 5640,
+      "sha256": "094c5564431d8619316409e0531d72ef82f425268c2e6febcdc430039ace08b9"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/sources.json",
+      "bytes": 1625,
+      "sha256": "b74dd136a4c007aff369a99922fcc144ca635f545ec95b934009bb55d434090c"
+    },
+    {
+      "path": "methods/czech_wordless_masked_masc/verify_frozen.py",
+      "bytes": 11005,
+      "sha256": "48ad3f6e0c72e54f74c7424a13fa6b118e7d7d5578d893c4117969d5161ecb6b"
+    },
+    {
       "path": "methods/indexed_cells/MATHEMATICAL_SPEC.md",
       "bytes": 3931,
       "sha256": "95c1b11aa4bf0017ccfc410576bfd4fe5ee09875e9106468a7d754e7463f5a16"
@@ -4726,18 +5031,18 @@
     },
     {
       "path": "research/NO_REPEAT_REGISTRY.json",
-      "bytes": 1482812,
-      "sha256": "1f728652e57bb1e26c3ea45e2304919d97db43ad2eadf560a5474acd4fbaaf47"
+      "bytes": 1483177,
+      "sha256": "564a254ff79ad124df3d68275367efda8bea531db73868aaaaa26459fa684c96"
     },
     {
       "path": "research/PROGRESS.json",
-      "bytes": 2411,
-      "sha256": "ce9e6eccec40998b0e89d0a3816acd69e4ac28b5d1c728ed46f23ac6eb728be6"
+      "bytes": 3276,
+      "sha256": "d7663563ba5cf41f1b3d529b3454b6479d5cae550ae7c9e7b89f9d0acf0f3ede"
     },
     {
       "path": "research/README.md",
-      "bytes": 4582,
-      "sha256": "d904bef38e1cb6340907cf500345e3430f28f5055a69d925df5ab9c83e563ba0"
+      "bytes": 5051,
+      "sha256": "83b9d9664c0e586c43be4ff6648866b73bd2f7e24b659e784858491d61232bf0"
     },
     {
       "path": "research/SCREENING_NOTES.md",
@@ -4756,8 +5061,8 @@
     },
     {
       "path": "research/UPDATE_PROVENANCE.json",
-      "bytes": 5224,
-      "sha256": "47b6e42abd8d84c835c3bfe1411b9ffdb22b2cf4c6f4def22cd003d4196839a0"
+      "bytes": 5689,
+      "sha256": "ebf8cded11262a79a5e7642979aec3ae48412f6f5757499845d119eb5e1c2809"
     },
     {
       "path": "research/catalogue_metadata/PROVENANCE.json",

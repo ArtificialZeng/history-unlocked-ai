@@ -1,0 +1,21 @@
+{
+  "scope": "Only six prior public control document IDs are reused for exclusion; no prior plaintext/key is needed for rebuild",
+  "document_ids": [
+    "ln94209-67",
+    "ln94205-102",
+    "ln95044-015",
+    "wsj0036-001",
+    "wsj2430-001",
+    "wsj0071-001"
+  ],
+  "document_id_sha256": [
+    "57a0809cc846a48804176ca779515f3d2e12b5b8ada745bbbe399cd86ee13655",
+    "ef12cc8d9efcd9792d1b641bedb2bea5aeeea4e7dada07d3e7049113e5346c4e",
+    "fd1c07b3eb78a19822468049d0406650a5b660f6aa94da84e376598162dfaec1",
+    "902843ffba5119a44c07abb35ae30851b2846a63f434f972b7c6fc2eff5640da",
+    "15973713e1ce9becd6fcd0ae07ca6d0acb661c9298f3a9a8e254996b7943b3a8",
+    "551f93ac7a564f24cb57944593b750eff9e7b35c01f0d8ad918d39d8d6c1d5b8"
+  ],
+  "source_artifact_sha256": "6c159592d192b91e99eeda92ed26fb0804beefcc321bdfc349f29f6d62a32b10",
+  "source_public_module": "methods/czech_wordless_masc/frozen/grading_gold/gold.json"
+}

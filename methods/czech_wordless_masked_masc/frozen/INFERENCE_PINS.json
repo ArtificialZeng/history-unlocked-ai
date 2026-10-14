@@ -1,0 +1,66 @@
+{
+  "artifacts": [
+    {
+      "path": "inference_inputs/N01.cipher.txt",
+      "bytes": 925,
+      "sha256": "f9aecbfd1d8001ecd8b89978ec95c72788e495ba3a8883f6bc879a94f66ac16e"
+    },
+    {
+      "path": "inference_inputs/N02.cipher.txt",
+      "bytes": 941,
+      "sha256": "4038e208f5b1dff5eb7bee6d55993b6a1b1f8e68cf70742087fd6ea5f6653023"
+    },
+    {
+      "path": "inference_inputs/N03.cipher.txt",
+      "bytes": 1257,
+      "sha256": "e1c91a0f9dd1a8b540a837a704bdcbfb2089d5e78213382562e501bbba9a8e67"
+    },
+    {
+      "path": "inference_inputs/P01.cipher.txt",
+      "bytes": 925,
+      "sha256": "b5fadfff1c0f508f4cb7a82e0706ac11fa3a50687eee738dfcee818eeb66c9f6"
+    },
+    {
+      "path": "inference_inputs/P02.cipher.txt",
+      "bytes": 941,
+      "sha256": "65804f34cf8e629a1dc13797b6f0bfea54b64b2e97474fa80ba9d3ae74931cb7"
+    },
+    {
+      "path": "inference_inputs/P03.cipher.txt",
+      "bytes": 1257,
+      "sha256": "80727af8ef618d4ea38f75c4a6e329af4736bfcd2b882047586ae01c01d451fb"
+    },
+    {
+      "path": "inference_inputs/P04.cipher.txt",
+      "bytes": 1250,
+      "sha256": "ff643b5f2095e32cd4b8bf606dcd5d3ba499483e6327fa51ae625b5640f1fac0"
+    },
+    {
+      "path": "inference_inputs/P05.cipher.txt",
+      "bytes": 1503,
+      "sha256": "ecab97eb59c4d79427f7d40eece61faa8c86d15529c2fc50585c648d7e8b6e95"
+    },
+    {
+      "path": "inference_inputs/P06.cipher.txt",
+      "bytes": 1485,
+      "sha256": "6e3077b6700d63bba5d02a23fba3a3f0a2c7257bfaf80a8c7e26fd117573e557"
+    },
+    {
+      "path": "inference_inputs/RUN_CONFIG.json",
+      "bytes": 3495,
+      "sha256": "b18fc8f0db450e05523b1d3bc3ed70972ff79e8bcc4a59dc2bcebe34c97eb4e6"
+    },
+    {
+      "path": "inference_inputs/quadgram_model.bin",
+      "bytes": 2125764,
+      "sha256": "64f3e69c72e7e74f5c7fd3e41c90c42321ac46879d91f3b52d6f0182c4db8a64"
+    },
+    {
+      "path": "inference_inputs/training_frequency_order.txt",
+      "bytes": 68,
+      "sha256": "156c666c1f2c72247c67b6607a05a08b5c63e56908b4ba724e3183c3844122be"
+    }
+  ],
+  "byte_order": "little",
+  "scope": "Original inference inputs only; no corpus or gold payload path/value is supplied to the replay wrapper"
+}
